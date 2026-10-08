@@ -1,0 +1,88 @@
+Author: FDA/CDER
+
+DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+
+Food and Drug Administration Silver Spring, MD 20993
+
+Donna Boyce, M.S. 
+Head, Global Regulatory Sciences 
+Pfizer, Inc. 
+66 Hudson Boulevard East 
+New York, NY 10001 
+RE: BLA 125388 
+ADCETRIS® (brentuximab vedotin) for injection, for intravenous use 
+MA 919 
+Dear Donna Boyce: 
+The Office of Prescription Drug Promotion (OPDP) of the U.S. Food and Drug Administration 
+(FDA) has reviewed the promotional communications, social media posts, “ADCETRIS PTCL 
+Facebook Ads Set” (PP-A1T-USA-1124) (Facebook ads) for ADCETRIS® (brentuximab 
+vedotin) for injection, for intravenous use (Adcetris) submitted by Pfizer, Inc. (Pfizer) under 
+cover of Form FDA 2253. FDA has determined that the Facebook ads are false or 
+misleading. Thus, the Facebook ads misbrand Adcetris and make the distribution of the drug 
+in violation of the Federal Food, Drug, and Cosmetic Act (FD&C Act). 
+The Facebook ads include the following claims (emphasis original): 
+• “Recently diagnosed with T-cell lymphoma?” (Video ad 1) 
+• “ADCETRIS plus CHP is an FDA-approved option for adults with certain CD30expressing T-cell lymphomas” (Video ad 1) 
+• “ADCETRIS plus CHP (cyclophosphamide, doxorubicin, and prednisone) is approved for adults with certain previously untreated CD30-expressing peripheral T-cell lymphomas.” (Video ads 1-3) 
+• “Making a treatment decision for T-cell lymphoma?” (Video ad 2) 
+• “A new T-cell lymphoma diagnosis brings many questions.” (Video ad 3) The Facebook ads are misleading because they fail to provide material information regarding Adcetris’s full FDA-approved indication. Specifically, the INDICATIONS AND USAGE section of the FDA-approved Prescribing Information (PI) states (in pertinent part, emphasis added): ADCETRIS is indicated for the treatment of adult patients with previously untreated systemic anaplastic large cell lymphoma (sALCL) or other CD30-expressing PTCL, including angioimmunoblastic T-cell lymphoma and PTCL not otherwise specified (NOS), in combination with cyclophosphamide, doxorubicin, and prednisone. 
+
+Donna Boyce, M.S. Page 2 
+Pfizer Inc. 
+BLA 125388/MA 919 
+
+These claims suggest the use of Adcetris for the general treatment of T-cell lymphoma or “certain” previously untreated CD30-expressing peripheral T-cell, but they do not specify the subtypes noted above. By failing to adequately communicate the indication for Adcetris, the Facebook ads create a misleading impression about the drug’s FDA-approved indication. We acknowledge that the full FDA-approved indication is presented at the bottom of the ads after the Important Safety Information (ISI). However, the presentation of this information is not sufficient to correct the overall misleading impression created by these claims. The Facebook ads are misleading because they include claims and presentations about the use and benefits of Adcetris but omits material risk information pertaining to the contraindication. Specifically, the Facebook ads do not communicate the following from the CONTRAINDICATIONS section of the PI (in pertinent part; underlined emphasis added):
+
+• “ADCETRIS is contraindicated with concomitant bleomycin due to pulmonary toxicity…” Additionally, the Facebook ads are misleading because they omit material risk information pertaining to fatal outcomes from the warning and precautions for serious infections and opportunistic infections, serious dermatologic reactions, and hyperglycemia associated with Adcetris. Specifically, the Facebook ads do not communicate the following from the WARNINGS AND PRECAUTIONS section of the PI (in pertinent part; underlined emphasis added): 
+• “Serious infections and opportunistic infections such as pneumonia, bacteremia, and sepsis or septic shock (including fatal outcomes) have been reported in patients treated with ADCETRIS…” 
+• “Fatal and serious cases of Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) have been reported with ADCETRIS. If SJS or TEN occurs, discontinue ADCETRIS and administer appropriate medical therapy.” 
+• “Serious events of hyperglycemia, such as new-onset hyperglycemia, exacerbation of preexisting diabetes mellitus, and ketoacidosis (including fatal outcomes) have been reported in ADCETRIS-treated patients…” By omitting this material risk information, the Facebook ads minimize Adcetris’s risks and create a misleading impression of the drug’s safety. Conclusion and Requested Action For the reasons described above, the Facebook ads misbrand Adcetris and makes the distribution of the drug in violation of the FD&C Act. This letter notifies you of our concerns and provides you with an opportunity to address them. FDA requests that Pfizer take immediate action to address any violations (including, for example, ceasing and desisting promotional communications that are misleading as described above). 
+
+Donna Boyce, M.S. Page 3 
+Pfizer Inc. 
+BLA 125388/MA 919 
+Please submit a written response to this letter within 15 working days from the date of receipt, 
+addressing the concerns described in this letter, listing all promotional communications (with 
+the 2253 submission date) for Adcetris that contain representations like those described 
+above, and explaining your plan for the discontinuation of such communications, or for 
+ceasing distribution of Adcetris. 
+If you believe that your products are not in violation of the FD&C Act, please include in your 
+submission to us your reasoning and any supporting information for our consideration within 
+15 working days from the date of receipt of this letter. 
+The concerns discussed in this letter do not necessarily constitute an exhaustive list of 
+potential violations. It is your responsibility to ensure compliance with each applicable 
+requirement of the FD&C Act and FDA implementing regulations. 
+Please direct your response to the undersigned at the Food and Drug Administration, 
+Center for Drug Evaluation and Research, Office of Prescription Drug Promotion, 5901- 
+B Ammendale Road, Beltsville, Maryland 20705-1266. A courtesy copy can be sent by 
+facsimile to (301) 847-8444. Please refer to MA 919 in addition to the BLA number in all 
+future correspondence relating to this particular matter. All correspondence should include a 
+subject line that clearly identifies the submission as a Response to Untitled Letter. You are 
+encouraged, but not required, to submit your response in eCTD format. All correspondence 
+submitted in response to this letter should be placed under eCTD Heading 1.15.1.6. 
+Additionally, the response submission should be coded as an Amendment to eCTD 
+Sequence 588 under BLA 125388. Questions related to the submission of your response 
+letter should be emailed to CDER-OPDP-RPM@fda.hhs.gov. 
+Sincerely, 
+{See appended electronic signature page} 
+Louiza Bako, PharmD 
+Regulatory Review Officer 
+Division of Advertising & Promotion Review 2 
+Office of Prescription Drug Promotion 
+{See appended electronic signature page} 
+Jina Kwak, PharmD, RAC 
+Team Leader 
+Division of Advertising & Promotion Review 2 
+Office of Prescription Drug Promotion 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Signature Page 1 of 1
+
+This is a representation of an electronic record that was signed electronically. Following this are manifestations of any and all electronic signatures for this electronic record.
+
+LOUIZA N BAKO 04/08/2026 10:02:17 AM
+
+JINA KWAK 04/08/2026 10:07:52 AM
+
+

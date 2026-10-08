@@ -1,0 +1,28 @@
+{
+"id": "UL-20250909-188751",
+"piece_type": "DTC TV ad “KISQALI_mBC_OKE_Jordan 60 Second Major Statement Update_US_2.25”",
+"audience": "DTC",
+"company": "Novartis Pharmaceuticals Corporation",
+"regs_in_letter": "FD&C Act (no CFR section cited in letter text)",
+"status": "processed",
+"cases": [
+{
+"cat": "Misleading presentation of study data (exploratory endpoint)",
+"claim": "SUPER: “Premenopausal women taking KISQALI with an NSAI and goserelin lived for 58.7 months vs 47.7 months on an NSAI and goserelin alone.” | VO: “. . .Then I learned about KISQALI. . .a pill that stops cancer from growing. . .and can help me live longer.”",
+"context": "PI final OS (MONALEESA-7): median not reached vs 40.7 months, HR 0.699. SUPER uses 54-month extended exploratory, non-prespecified analysis.",
+"rationale": "Exploratory OS medians without context/limitations or full KM curve are misleading.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "deterministic",
+"check": "Rule: survival numbers in promo must match PI-reported final analysis; flag medians from extended/exploratory follow-up."
+},
+{
+"cat": "Distracting presentation of material efficacy qualifier (SUPER)",
+"claim": "SUPER (frame 13): “Postmenopausal women taking KISQALI plus an NSAI lived for 63.9 months vs 51.4 months on an NSAI alone. Premenopausal women ...” — 40 words in ~6 seconds",
+"context": "400 wpm vs average 238 wpm; competing VO indication and music with lyrics.",
+"rationale": "SUPER cannot be read/comprehended; undermines material efficacy information.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "deterministic",
+"check": "Rule: compute SUPER words-per-minute; flag > ~238 wpm, and flag concurrent different-content VO/lyrics."
+}
+]
+}

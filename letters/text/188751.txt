@@ -1,0 +1,162 @@
+                  DEPARTMENT OF HEALTH & HUMAN SERVICES                                       Public Health Service
+
+
+
+                                                                                              Food and Drug Administration
+                                                                                              Silver Spring, MD 20993
+
+            Bob Bedolla
+            Director, Regulatory Affairs, Advertising and Promotion Review
+            Novartis Pharmaceuticals Corporation
+            One Health Plaza
+            East Hanover, NJ 07936-1080
+
+            RE:         NDA 209092
+                        KISQALI® (ribociclib) tablets, for oral use
+                        MA 1975
+
+            Dear Bob Bedolla:
+
+            The U.S. Food and Drug Administration (FDA) has reviewed the promotional
+            communication(s), DTC broadcast advertisement (TV ad) “KISQALI_mBC_OKE_Jordan 60
+            Second Major Statement Update_US_2.25” for KISQALI® (ribociclib) tablets, for oral use
+            (Kisqali) submitted by Novartis Pharmaceuticals Corporation (Novartis) under cover of Form
+            FDA 2253. FDA has determined that the TV ad is false or misleading. Thus, the TV ad
+            misbrands Kisqali and makes the distribution of the drug in violation of the Federal Food,
+            Drug, and Cosmetic Act (FD&C Act).
+
+            The TV ad includes the following claims:
+
+                •       Voice over (VO) frames 7-9: “. . .Then I learned about KISQALI. . .a pill that stops
+                        cancer from growing. . .and can help me live longer.”
+
+                •       Voice over (VO) frame 13: “KISQALI with an aromatase inhibitor is for adults with HR-
+                        positive, HER2-negative metastatic breast cancer.”
+
+                •       Superimposed text (SUPER) frame 13: “Postmenopausal women taking KISQALI plus
+                        an NSAI lived for 63.9 months vs 51.4 months on an NSAI alone. Premenopausal
+                        women taking KISQALI with an NSAI and goserelin lived for 58.7 months vs 47.7
+                        months on an NSAI and goserelin alone.”
+
+            The claim, “Premenopausal women taking KISQALI with an NSAI and goserelin lived for 58.7
+            months vs 47.7 months on an NSAI and goserelin alone” presented in the SUPER on frame
+            13 reflects overall survival (OS) data from an extended exploratory analysis. 1 This claim
+            creates a misleading impression about the efficacy of the drug. According to the CLINICAL
+            STUDIES section of the Kisqali PI, a statistically significant OS benefit was demonstrated in
+            premenopausal women with Kisqali with an NSAI and goserelin compared to an NSAI and
+            1 Lu YS, Im SA, Colleoni M, et al; 2022. Updated Overall Survival of Ribociclib plus Endocrine Therapy versus
+            Endocrine Therapy Alone in Pre- and Perimenopausal Patients with HR+/HER2- Advanced Breast Cancer in
+            MONALEESA-7: A Phase III Randomized Clinical Trial. Clin Cancer Res; 28(5):851-859.
+
+
+
+
+Reference ID: 5655836
+            Bob Bedolla                                                                          Page 2
+            Novartis Pharmaceuticals Corporation
+            NDA 209092/MA 1975
+
+            goserelin alone, with a median OS that was not reached in the Kisqali arm versus 40.7
+            months in the comparator arm (HR=0.699 [95% CI: 0.501, 0.976]). These results were
+            considered final per the study protocol. However, the OS results for premenopausal women
+            presented on frame 13 are from a 54-month extended exploratory analysis, which was not
+            pre-specified and is observational in nature. As such, there was no pre-specified statistical
+            procedure controlling for type 1 error; therefore, it is not possible to exclude that the results
+            are skewed given the lack of pre-specified alpha allocation. An unplanned, exploratory
+            collection of overall survival data can lead to imbalanced censoring or early censoring
+            between arms, causing the resulting estimates to be unreliable. Additionally, the exploratory
+            analysis of OS for Kisqali is based on a collection of datapoints across the entire Kaplan-
+            Meier (KM) curve, rather than a specific time point, and it is necessary to consider the entirety
+            of the KM curve in order to accurately interpret this claim. The context regarding the
+            limitations of the exploratory analysis and the full KM curve are necessary to accurately
+            interpret the above cited claim.
+
+            Additionally, the SUPER on frame 13 that includes the material information for the claim
+            “KISQALI . . . can help me live longer” presents 40 words in approximately 6 seconds, which
+            translates to a reading speed of 400 words per minute (wpm). A review and meta-analysis
+            found that the average silent reading rate for adults in English is 238 wpm for uninterrupted
+            non-fiction reading, with most adults falling in a range of 175 to 300 wpm. 2 Moreover, during
+            the 6-second period that the SUPER appears, there are multiple competing audio
+            presentations. The audio states, “KISQALI with an aromatase inhibitor is for adults with HR-
+            positive, HER2-negative metastatic breast cancer” while music with lyrics plays in the
+            background. Overall, by presenting competing modalities during the presentation of the
+            SUPER, which itself is presented in a manner that would not allow most viewers to read,
+            process, and comprehend the material information it presents, the TV ad misleadingly
+            undermines the communication of material information about the drug’s efficacy.
+
+            Conclusion and Requested Action
+
+            For the reasons described above, the TV ad misbrands Kisqali and makes the distribution of
+            the drug in violation of the Federal Food, Drug, and Cosmetic Act (FD&C Act).
+
+            This letter notifies you of our concerns and provides you with an opportunity to address them.
+            FDA requests that Novartis take immediate action to address any violations (including, for
+            example, ceasing and desisting promotional communications that are misleading as
+            described above). Please submit a written response to this letter within 15 working days from
+            the date of receipt, addressing the concerns described in this letter, listing all promotional
+            communications (with the 2253 submission date) for Kisqali that contain representations like
+            those described above, and explaining your plan for the discontinuation of such
+            communications, or for ceasing distribution of Kisqali.
+
+            If you believe that your products are not in violation of the FD&C Act, please include in your
+            submission to us your reasoning and any supporting information for our consideration within
+            15 working days from the date of receipt of this letter.
+
+
+            2 Brysbaert, Marc. (2019). How many words do we read per minute? A review and meta-analysis of reading
+
+            rate. 10.31234/osf.io/xynwg.
+
+Reference ID: 5655836
+            Bob Bedolla                                                                 Page 3
+            Novartis Pharmaceuticals Corporation
+            NDA 209092/MA 1975
+
+            The concerns discussed in this letter do not necessarily constitute an exhaustive list of
+            potential violations. It is your responsibility to ensure compliance with each applicable
+            requirement of the FD&C Act and FDA implementing regulations.
+
+            Please direct your response to the Food and Drug Administration, Center for Drug
+            Evaluation and Research, Office of Prescription Drug Promotion, 5901-B Ammendale
+            Road, Beltsville, Maryland 20705-1266. A courtesy copy can be sent by facsimile to (301)
+            847-8444. Please refer to MA 1975 in addition to the NDA number in all future
+            correspondence relating to this particular matter. All correspondence should include a
+            subject line that clearly identifies the submission as a Response to Untitled Letter. You are
+            encouraged, but not required, to submit your response in eCTD format. All correspondence
+            submitted in response to this letter should be placed under eCTD Heading 1.15.1.6.
+            Additionally, the response submission should be coded as an Amendment to eCTD
+            Sequence 7496 under NDA 209092. Questions related to the submission of your response
+            letter should be emailed to CDER-OPDP-RPM@fda.hhs.gov.
+
+
+                                                            Sincerely,
+
+                                                            {See appended electronic signature page}
+
+                                                            George Tidmarsh, M.D., Ph.D.
+                                                            Director
+                                                            Center for Drug Evaluation and Research
+
+
+
+
+Reference ID: 5655836
+                                                                                                    Signature Page 1 of 1
+
+          --------------------------------------------------------------------------------------------
+          This is a representation of an electronic record that was signed
+          electronically. Following this are manifestations of any and all
+          electronic signatures for this electronic record.
+          --------------------------------------------------------------------------------------------
+          /s/
+          ------------------------------------------------------------
+
+          CARTER M BEACH
+          09/09/2025 05:15:15 PM
+          On behalf of George Tidmarsh, M.D., Ph.D
+
+
+
+
+Reference ID: 5655836
+

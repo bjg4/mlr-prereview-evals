@@ -1,0 +1,19 @@
+{
+"id": "UL-20250909-188687",
+"piece_type": "DTC TV ad (MAT-US-ACO-0617)",
+"audience": "DTC",
+"company": "BridgeBio Pharma, Inc.",
+"regs_in_letter": "FD&C Act (no CFR section cited in letter text)",
+"status": "processed",
+"cases": [
+{
+"cat": "Unsupported PRO / quality-of-life claims",
+"claim": "“A diagnosis doesn’t define you. Even ATTR-cardiac amyloidosis. ... You have the power of choice.” | “People taking Attruby saw an impact on health-related quality of life…giving you more chances to do what you love with who you love.” | SUPER: “IMPACT ON HEALTH-RELATED QUALITY OF LIFE” | “It’s time to get busy livin’”",
+"context": "Morgan Freeman VO; older man at retirement party and national park with family; upbeat song. Disclaimer: both arms experienced a decline in KCCQ-OS at 30 months.",
+"rationale": "Suggests carefree life/return to pre-diagnosis and broad QoL improvement; KCCQ-OS and 6MWD declined in both arms; disclaimer does not mitigate.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Judge: lifestyle/'carefree'/return-to-normal imagery in progressive disease where PI functional/QoL measures (e.g., 6MWT, KCCQ) still declined (slower decline ≠ improvement)."
+}
+]
+}

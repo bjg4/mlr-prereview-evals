@@ -1,0 +1,55 @@
+{
+"id": "WL-20250909-lilly-716485",
+"piece_type": "DTC video “An Oprah Special: Shame, Blame, and the Weight Loss Revolution” (ABC primetime 3/18/2024; Hulu) featuring paid consultants and a Lilly executive",
+"audience": "DTC",
+"company": "Eli Lilly and Company",
+"regs_in_letter": "21 U.S.C. 352(a), (n); 321(n); 331(a); 21 CFR 202.1(e)(5); (e)(7)(viii); 314.81(b)(3)(i)",
+"status": "processed",
+"cases": [
+{
+"cat": "Omission of risk information",
+"claim": "[Omission] Boxed-warning contraindication for MEN 2 (only “anybody [who] has a history specifically of medullary thyroid cancer” discussed); W&Ps omitted: severe GI disease, acute kidney injury, hypersensitivity, hypoglycemia, diabetic retinopathy complications, suicidal behavior and ideation",
+"context": "Benefit claims by paid consultants (e.g., GLP-1 drugs are “essentially copying what our normal GLP-1 hormone does in our body, but doing it a little bit better”; “double the amount of weight loss”) attributed to Lilly.",
+"rationale": "Omits boxed-warning element and multiple W&Ps.",
+"reg": "21 U.S.C. 352(n); 21 CFR 202.1(e)(5)",
+"ct": "deterministic",
+"check": "Rule: diff risk content vs boxed warning (incl. every contraindicated population) and MG side-effect list; applies to paid consultant/KOL statements."
+},
+{
+"cat": "Minimization of risk",
+"claim": "“There’s been a lot of hype around like pancreatitis, gallbladder complications, concerns for thyroid cancer. This has really not been shown in human studies that this is a downstream complication, and that really the risk is less than 1%.” | “If anybody has a history specifically of MTC... is very, very rare. ... recognizing that it’s rare, but it’s there and we have to always screen.”",
+"context": "W&P acute pancreatitis (incl. fatal hemorrhagic/necrotizing); gallbladder disease class W&P; class boxed warning for thyroid C-cell tumors; 15-yr MTC registry required.",
+"rationale": "Minimizes boxed warning and W&Ps by calling them 'hype' and 'rare'.",
+"reg": "21 U.S.C. 352(a), (n); 21 CFR 202.1(e)(5)",
+"ct": "deterministic",
+"check": "Rule: lexicon flag — 'hype', 'overhyped', 'very rare', 'not been shown' adjacent to boxed-warning or W&P terms."
+},
+{
+"cat": "Minimization of risk",
+"claim": "“I think that they’ve gotten overhyped. Medicines have side effects, but the important part is that they’re mild to moderate in the research studies.” | Dr. Butsch: “Yeah.”",
+"context": "Response to patient who discontinued due to nausea and vomiting blood. PI: GI ARs 56% vs 30% placebo (Zepbound); GI-related discontinuations up to 4.3%/6.6%; 'sometimes severe'.",
+"rationale": "Characterizes ARs as overhyped and mild-to-moderate when not demonstrated; normalizes risk ('medicines have side effects').",
+"reg": "21 U.S.C. 352(a), (n); 21 CFR 202.1(e)(5)",
+"ct": "deterministic",
+"check": "Rule: flag 'mild to moderate' / 'all drugs have side effects' framings; verify against PI severity and discontinuation data."
+},
+{
+"cat": "Lack of fair balance / risk prominence",
+"claim": "[Format] of a 42-minute video, only about four minutes devoted to shared GLP-1 risks, relegated to the end; no signal where to find more risk information",
+"context": "Benefit discussion throughout.",
+"rationale": "Risk not presented with prominence and readability reasonably comparable to benefits.",
+"reg": "21 CFR 202.1(e)(5); (e)(7)(viii)",
+"ct": "deterministic",
+"check": "Rule: compute risk vs benefit airtime ratio and placement; flag risk-at-end and absence of risk-source referral."
+},
+{
+"cat": "Failure to submit at first use (Form FDA 2253)",
+"claim": "[Process] video not submitted under Form FDA 2253 at initial publication",
+"context": "Third-party program; FDA attributed paid consultants' statements to the company.",
+"rationale": "Violates 2253 requirement.",
+"reg": "21 CFR 314.81(b)(3)(i)",
+"ct": "deterministic",
+"check": "Process rule: inventory paid-consultant/executive media appearances for 2253 submission."
+}
+]
+}

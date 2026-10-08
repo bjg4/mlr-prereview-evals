@@ -1,0 +1,157 @@
+DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Food and Drug Administration 
+Silver Spring, MD 20993 
+Kimmy Dovan 
+Regulatory Ad Promo Manager 
+Neurocrine Biosciences, Inc 
+6027 Edgewood Bend Court 
+San Diego, CA 92130 
+RE: NDA 209241 
+INGREZZA® (valbenazine) capsules, for oral use 
+MA 1086 
+Dear Kimmy Dovan: 
+The U.S. Food and Drug Administration (FDA) has reviewed the promotional communication, 
+a direct-to-consumer broadcast advertisement (TV ad), titled “TakING on TD Pool Out 1” 
+(CP-VBZ-US-3838) for INGREZZA® (valbenazine) capsules, for oral use (Ingrezza) submitted 
+by Neurocrine Biosciences, Inc. (Neurocrine) under cover of Form FDA 2253. FDA has 
+determined that the TV ad is false or misleading. Thus, the TV ad misbrands Ingrezza and 
+makes the distribution of the drug in violation of the Federal Food, Drug, and Cosmetic Act 
+(FD&C Act). 
+The TV ad begins with the protagonists at their respective workplaces showing obvious 
+uncontrollable movements, indicative of tardive dyskinesia (TD). These movements affected 
+their work. The TV ad then has a lengthy post-treatment segment in which the protagonists 
+continue their work without showing involuntary movements that are easily noticed by the 
+viewer. These presentations misleadingly suggest that Ingrezza provides a greater 
+magnitude of benefit in the treatment of TD than has been demonstrated. According to the 
+CLINICAL STUDIES section of the FDA-approved prescribing information (PI), the primary 
+endpoint of the clinical study was the mean change from baseline in the Abnormal Involuntary 
+Movement Scale (AIMS)1 total score at week 6. The mean AIMS total score in all treatment 
+and placebo groups ranged from 9.8 to 10.4 at baseline. Table 4 in the PI shows that the 
+change from baseline to week 6 in the study was -1.8 relative to placebo for Ingrezza 40 mg 
+and -3.1 for Ingrezza 80 mg (i.e., -1.9 and -3.2 units for the Ingrezza 40 mg and 80 mg arms, 
+respectively, compared with -0.1 units for placebo). Of note, the Ingrezza 40 mg dose was 
+not statistically significantly different from placebo after adjusting for multiplicity. These results 
+do not correlate with the near-complete resolution of symptoms portrayed in the posttreatment portion of the TV ad. 
+1 The AIMS is a 12-item clinician-rated scale; items 1 to 7 assess the severity of involuntary movements across 
+body regions, and these items were used in the studies. The AIMS total score (sum of items 1 to 7) can range 
+from 0 to 28, with a score of 0 representing no involuntary movements and 28 representing severe involuntary 
+movements in all body regions assessed. 
+Reference ID: 5655557 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Kimmy Dovan Page 2 
+Neurocrine Biosciences, Inc 
+NDA 209241 / MA 1086 
+The TV ad includes the following claims: 
+• Narrator: “…quickly reducing TD movements by greater than 5 times at 2 weeks.” 
+• Text-graphic: “ReducING TD Movements >5X at 2 WEEKS vs placebo.” 
+• SUPER: “In a 6-week clinical trial, reductions based on average change from baseline 
+to Week 2 on an uncontrollable movement severity scale for INGREZZA (40 mg and 
+80 mg combined) -1.7 vs placebo -0.3.” 
+These claims misleadingly suggest that patients will experience improvement in TD 
+symptoms earlier than was demonstrated in the clinical trial. As stated previously, the primary 
+endpoint was measured at six weeks. The change from baseline to week 2 was included in 
+the trial as an exploratory endpoint (i.e., hypothesis-generating), therefore, it is not known 
+whether this result represents a false positive finding that occurred by chance alone. Claims 
+that draw conclusions from exploratory endpoints are misleading. 
+The TV ad includes the following claims: 
+• Narrator: “98% of people were still satisfied with INGREZZA after 2 years.” 
+• Text-graphic: “Long-LastING Satisfaction >98% still satisfied after 2 YEARS.” 
+• SUPER: “55 of 56 patients in a rollover study of patients taking INGREZZA for 48 
+weeks after completing long-term KINECT 3 & KINECT 4 studies. Based on Patient 
+Satisfaction Questionnaire [(PSQ)] given to patients at beginning and end of 
+treatment.” 
+This claims misleadingly suggest that almost all patients who take Ingrezza are satisfied with 
+their treatment. However, this does not account for the potential that patients from the longterm KINECT 3 or KINECT 4 study may not enroll in the rollover study if they had an 
+unfavorable response to treatment with Ingrezza. Also, patients who are not satisfied with 
+their treatment during the rollover study may stop taking the drug before the end of the study. 
+Such patients would not complete the PSQ.
+2 Therefore, it is misleading to suggest that the 
+PSQ results from this enriched patient population represent the general experience expected 
+in patients who take Ingrezza. 
+Conclusion and Requested Action 
+For the reasons described above, the TV ad misbrands Ingrezza and makes the distribution 
+of the drug in violation of the FD&C Act. 
+This letter notifies you of our concerns and provides you with an opportunity to address them. 
+FDA requests that Neurocrine take immediate action to address any violations (including, for 
+example, ceasing and desisting promotional communications that are misleading as 
+2 Lindenmayer J-P, Verghese C, Marder SR, Burke J, Jimenez R, Siegert S, Liang GS, and O’Brien CF (2021). 
+A long-term, open-label study of valbenazine for tardive dyskinesia. CNS Spectrums 26(4), 345–353. 
+https://doi.org/10.1017/S109285292000108X 
+Reference ID: 5655557 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Kimmy Dovan Page 3 
+Neurocrine Biosciences, Inc 
+NDA 209241 / MA 1086 
+described above). Please submit a written response to this letter within 15 working days from 
+the date of receipt, addressing the concerns described in this letter, listing all promotional 
+communications (with the 2253 submission date) for Ingrezza that contain representations 
+like those described above, and explaining your plan for the discontinuation of such 
+communications, or for ceasing distribution of Ingrezza. 
+If you believe that your products are not in violation of the FD&C Act, please include in your 
+submission to us your reasoning and any supporting information for our consideration within 
+15 working days from the date of receipt of this letter. 
+The concerns discussed in this letter do not necessarily constitute an exhaustive list of 
+potential violations. It is your responsibility to ensure compliance with each applicable 
+requirement of the FD&C Act and FDA implementing regulations. 
+Please direct your response to the Food and Drug Administration, Center for Drug 
+Evaluation and Research, Office of Prescription Drug Promotion, 5901-B Ammendale 
+Road, Beltsville, Maryland 20705-1266. A courtesy copy can be sent by facsimile to (301) 
+847-8444. Please refer to MA 1086 in addition to the NDA number in all future 
+correspondence relating to this particular matter. All correspondence should include a subject 
+line that clearly identifies the submission as a Response to Untitled Letter. You are 
+encouraged, but not required, to submit your response in eCTD format. All correspondence 
+submitted in response to this letter should be placed under eCTD Heading 1.15.1.6. 
+Additionally, the response submission should be coded as an Amendment to eCTD 
+Sequence 5337 under NDA 209241. Questions related to the submission of your response 
+letter should be emailed to CDER-OPDP-RPM@fda.hhs.gov. 
+Sincerely, 
+{See appended electronic signature page} 
+George Tidmarsh, M.D., Ph.D. 
+Director 
+Center for Drug Evaluation and Research 
+Reference ID: 5655557 
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+------------------------------------------------------------
+Signature Page 1 of 1 
+This is a representation of an electronic record that was signed 
+electronically. Following this are manifestations of any and all 
+electronic signatures for this electronic record. 
+/s/ 
+CARTER M BEACH 
+09/09/2025 05:08:55 PM 
+On behalf of George Tidmarsh, M.D., Ph.D 
+Reference ID: 5655557

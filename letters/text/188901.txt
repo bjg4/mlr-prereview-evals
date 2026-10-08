@@ -1,0 +1,123 @@
+Author: FDA/CDER
+
+DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+
+Food and Drug Administration Silver Spring, MD 20993
+
+Malyha Mannan, Director, Regulatory Affairs 
+Amgen Inc. 
+One Amgen Center Drive 
+Thousand Oaks, CA 91320-1799 
+RE: BLA 761344 
+IMDELLTRA™ (tarlatamab-dlle) for injection, for intravenous use 
+MA 54 
+Dear Malyha Mannan: 
+The U.S. Food and Drug Administration (FDA) has reviewed the promotional communication, 
+the “ORR” webpage (webpage) on the IMDELLTRA Healthcare Provider Branded Website 
+(USA-757-80287) (website) for IMDELLTRA™ (tarlatamab-dlle) for injection, for intravenous 
+use (Imdelltra), submitted by Amgen Inc., (Amgen) under cover of Form FDA 2253. FDA has 
+determined that the webpage is false or misleading. Thus, the webpage misbrands Imdelltra 
+and makes the distribution of the drug in violation of the Federal Food, Drug, and Cosmetic 
+Act (FD&C Act). 
+The “ORR” webpage, under the “Clinical Results” sub-navigation menu of the website for 
+Imdelltra, includes a section titled “Efficacy, Depth of response” under which a waterfall plot 
+titled, “Tumor change from baseline with IMDELLTRA®” is presented. The waterfall plot 
+includes different colored bars to illustrate “CR” (complete response), “PR” (partial response), 
+“SD” (stable disease), “PD” (progressive disease), and “NE” (not evaluable). This 
+presentation makes the promotional communication misleading by suggesting that Imdelltra 
+improves “depth of response” in patients with extensive stage small cell lung cancer (ES 
+SCLC) with disease progression on or after platinum-based chemotherapy for all response 
+types included in the waterfall plot, including SD, when the study from which the presentation 
+is drawn could not demonstrate this. Imdelltra was approved based on an effect shown on 
+overall response rate (ORR) and duration of response endpoints in DeLLphi-301, a single 
+arm trial. In DeLLphi-301, the endpoint of ORR was comprised of PR + CR, as defined by 
+Response Evaluation Criteria in Solid Tumors (RECIST) v 1.1.1 Because DeLLphi-301 was 
+designed as a single arm trial, the study did not establish that the SD result was attributable 
+to the effect of the drug; for example, the result may instead reflect the natural history of the 
+1 Response was measured using the Response Evaluation Criteria in Solid Tumors (RECIST) v 1.1., which 
+defines the evaluation of target lesions as the following: Complete Response (CR): Disappearance of all target 
+lesions. Partial Response (PR): At least a 30% decrease in the sum of diameters of target lesions, taking as 
+reference the baseline sum diameters. Progressive Disease (PD): At least a 20% increase in the sum of 
+diameters of target lesions, taking as reference the smallest sum on study. In addition to the relative increase of 
+20%, the sum must also demonstrate an absolute increase of at least 5 mm. Stable Disease (SD): Neither 
+sufficient shrinkage to qualify for PR nor sufficient increase to qualify for PD, taking as reference the smallest 
+sum diameters while on study. See: https://ctep.cancer.gov/protocoldevelopment/docs/recist guideline.pdf. 
+
+Malyha Mannan Page 2 
+Amgen Inc. 
+BLA 761344/MA 54 
+disease. An assessment of delay in time to disease progression in patients treated with 
+Imdelltra (i.e., an assessment of SD) would need to be based on the results of a randomized 
+controlled trial. 
+In support of these representations, you cite a publication and its supplement by Ahn, M-J et 
+al. (2023), which include results from DeLLphi-301.2,3 However, it is misleading to include in 
+promotional materials representations or suggestions that rely on a study or studies whose 
+design is not capable of supporting such representations or suggestions. Here, as already 
+noted, since DeLLphi-301 was a single-arm trial, it is not known whether the data on SD are 
+attributable to treatment with Imdelltra. Consequently, the presentation of the “depth of 
+response” achieved by patients treated with Imdelltra, which includes SD data, is not 
+supported by the data cited. Your presentation of the SD data as part of the “depth of 
+response” conveys to the audience of the website that the data are relevant to their 
+understanding of the efficacy of Imdelltra notwithstanding the limitations in the study. 
+We acknowledge the following text appears below the waterfall plot: “Tarlatamab-dlle was 
+studied in a single-arm trial, which did not establish that SD was attributable to the effect of 
+the drug. The results may instead reflect the natural history of the disease. An assessment 
+of delay in time to disease progression in patients treated with tarlatamab-dlle (ie, an 
+assessment of SD) would need to be based on the results of a randomized controlled trial.” 
+However, for the reasons discussed above, this promotional communication makes 
+misleading representations or suggestions about the efficacy of Imdelltra through the 
+presentation of SD data that are based on DeLLphi-301, which, as a single-arm trial, is not 
+capable of supporting such representations or suggestions. The disclosures of the study’s 
+limitations (noted above) in this promotional communication do not correct or mitigate the 
+misleading representations or suggestions of the presentation. 
+Conclusion and Requested Action 
+For the reasons discussed above, the website misbrands Imdelltra within the meaning of the 
+FD&C Act and makes its distribution violative. 21 U.S.C. 352(a), (n); 321(n); 331(a). See 21 
+CFR 202.1(e)(5). 
+This letter notifies you of our concerns and provides you with an opportunity to address them. 
+FDA requests that Amgen take immediate action to address any violations (including, for 
+example, ceasing and desisting promotional communications that are misleading as 
+described above). Please submit a written response to this letter within 15 working days from 
+the date of receipt, addressing the concerns described in this letter, listing all promotional 
+communications (with the 2253 submission date) for Imdelltra that contain representations 
+like those described above, and explaining your plan for the discontinuation of such 
+communications, or for ceasing distribution of Imdelltra. 
+2 Ahn M-J, et al., 2023, Tarlatamab for Patients with Previously Treated Small-Cell Lung Cancer, New England 
+Journal of Medicine, 389:2063-2075. 
+3 Ahn M-J, et al., Tarlatamab for Patients with Previously Treated Small-Cell Lung Cancer, New England Journal 
+of Medicine, 389(suppl):2063-2075. 
+
+Malyha Mannan Page 3 
+Amgen Inc. 
+BLA 761344/MA 54 
+The concerns discussed in this letter do not necessarily constitute an exhaustive list of 
+potential violations. It is your responsibility to ensure compliance with each applicable 
+requirement of the FD&C Act and FDA implementing regulations. 
+Please direct your response to the Food and Drug Administration, Center for Drug 
+Evaluation and Research, Office of Prescription Drug Promotion, 5901-B Ammendale 
+Road, Beltsville, Maryland 20705-1266. A courtesy copy can be sent by facsimile to (301) 
+847-8444. Please refer to MA 54 in addition to the BLA number in all future correspondence 
+relating to this particular matter. All correspondence should include a subject line that clearly 
+identifies the submission as a Response to Untitled Letter. You are encouraged, but not 
+required, to submit your response in eCTD format. All correspondence submitted in 
+response to this letter should be placed under eCTD Heading 1.15.1.6. Additionally, the 
+response submission should be coded as an Amendment to eCTD Sequence 6054 under 
+BLA 761344. Questions related to the submission of your response letter should be emailed 
+to CDER-OPDP-RPM@fda.hhs.gov. 
+Sincerely, 
+{See appended electronic signature page} 
+George Tidmarsh, M.D., Ph.D. 
+Director 
+Center for Drug Evaluation and Research 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Signature Page 1 of 1
+
+This is a representation of an electronic record that was signed electronically. Following this are manifestations of any and all electronic signatures for this electronic record.
+
+CARTER M BEACH 
+09/09/2025 05:13:38 PM 
+On behalf of George Tidmarsh, M.D., Ph.D 
+
+

@@ -1,0 +1,100 @@
+Author: FDA/CDER
+
+DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+
+Food and Drug Administration Silver Spring, MD 20993
+
+Ravi Harapanhalli 
+Senior Vice President, Regulatory Affairs 
+Amneal Pharmaceuticals LLC 
+21 Colonial Drive 
+Piscataway, NJ 08854 
+RE: BLA 761231 
+ALYMSYS® (bevacizumab-maly) injection, for intravenous use 
+MA 65 
+Dear Ravi Harapanhalli: 
+The Office of Prescription Drug Promotion (OPDP) of the U.S. Food and Drug Administration 
+(FDA) has reviewed the promotional communication, a direct-to-consumer (DTC) patient 
+brochure (PP-PAT-ALYMS-US-0003) (patient brochure) for ALYMSYS® (bevacizumab-maly) 
+injection, for intravenous use (Alymsys) submitted by Amneal Pharmaceuticals LLC (Amneal) 
+under cover of Form FDA 2253. FDA has determined that the patient brochure is false or 
+misleading. Thus, the patient brochure misbrands Alymsys and makes the distribution of the 
+drug in violation of the Federal Food, Drug, and Cosmetic Act (FD&C Act). 
+The patient brochure is misleading because it fails to provide material information regarding 
+Alymsys’s full FDA-approved indications from the INDICATIONS AND USAGE section of the 
+Alymsys Prescribing Information (PI). Specifically, throughout the patient brochure, the 
+presentations of the indications for Alymsys omit specific patient populations as well as its 
+specific administration in combination with other chemotherapies, as is consistent with its PI. 
+This misleadingly suggests that Alymsys can be used generally in different cancer types or as 
+a single agent, when this is not the case. This misleading impression is further compounded 
+by the presentation on page one, and under the bolded header “What Is ALYMSYS® 
+
+(bevacizumab-maly)?” on page two, which suggest that Alymsys can be used as monotherapy in all indications and lists broad types of cancer for which Alymsys is indicated along with associated imagery. In addition, the limitations of use is not presented until page four, separate from the initial presentations of metastatic colorectal cancer. By failing to adequately disclose the full indications associated with Alymsys, the patient brochure creates a misleading impression about the drug’s FDA-approved indications. We acknowledge that the indications for metastatic colorectal cancer, recurrent glioblastoma, metastatic renal cell carcinoma, and persistent, recurrent, or metastatic cervical cancer are presented in the “IMPORTANT SAFETY INFORMATION” section; however, they are presented in small, plain font, after intervening text and eye-catching graphics. Therefore, this is not sufficient to mitigate the misleading impression.
+
+The patient brochure is misleading because it fails to disclose material risk information regarding the serious risks associated with Alymsys. For example, page four of the patient brochure includes a presentation regarding the administration of Alymsys by intravenous infusion, but fails to disclose any material information that bevacizumab products, including Alymsys, can cause infusion-related reactions (IRR), including hypertension, hypertensive crises associated with neurologic signs and symptoms, wheezing, oxygen desaturation, Grade 3 hypersensitivity, chest pain, headaches, rigors, and diaphoresis. In addition, the claims on page four misleadingly suggest that Alymsys “will be administered” regardless of adverse reactions from IRR. However, the DOSAGE AND ADMINISTRATION section of the PI provides specific recommendations for discontinuation of treatment for severe IRR, interruption and a decreased rate of infusion after symptoms resolve for clinically significant IRR, or a decreased rate of infusion for mild, clinically insignificant IRR. In addition, page five of the patient brochure includes the following claims (in pertinent part, emphasis original, footnote omitted):
+
+• “Before receiving your ALYMSYS® treatment, tell your doctor if you: o Are pregnant, plan to become pregnant, or plan to start a family in the future o Are breastfeeding or plan to breastfeed …” However, these claims fail to disclose that bevacizumab products, including Alymsys, may cause fetal harm when administered to pregnant women, that females of reproductive potential should use effective contraception during treatment with Alymsys and for 6 months after the last dose, and that women should not breastfeed during treatment with Alymsys and for 6 months after the last dose because of the potential for serious adverse reactions in breastfed infants. These claims also fail to disclose warnings regarding the increased risk of ovarian failure and that bevacizumab products may impair fertility. Furthermore, while page five of the patient brochure presents some risk information from the Warnings and Precautions such as gastrointestinal perforations and fistulae, surgery and wound healing complications, and hemorrhage, it omits material information pertaining to these risks and regarding other serious risks associated with Alymsys. For example, according to the WARNINGS AND PRECAUTIONS section of the PI (in pertinent part), “Withhold for at least 28 days prior to elective surgery” and “arterial thromboembolic events (ATE) including cerebral infarction, transient ischemic attacks, myocardial infarction, and angina, occurred.” By omitting risks associated with Alymsys, the patient brochure fails to provide material information about the consequences that may result from the use of the drug and creates a misleading impression about the drug’s safety. We acknowledge the statement throughout the patient brochure to “[p]lease see page 7 for Important Safety Information and Alymsys.us for full Prescribing Information” (emphasis original). However, the Important Safety Information (ISI) presents only the headings of the warnings and precautions associated with Alymsys, without any additional material risk information, and therefore neither this statement nor the ISI mitigates the misleading omission of risks associated with the use of Alymsys. 
+
+Moreover, the patient brochure is misleading because it minimizes the risk information that is presented. For example, page five of the patient brochure includes the following claim (emphasis added; footnote omitted):
+
+• “It’s likely that you will experience side effects from your ALYMSYS® treatment. This is normal, and most side effects will resolve over time.” in conjunction with a presentation of the most common and serious side effects of Alymsys. This presentation misleadingly minimizes the risks associated with Alymsys by suggesting that all patients can expect that their side effects will resolve over time, when this is not the case. As noted above, Alymsys is associated with several serious, and sometimes fatal, risks (e.g., gastrointestinal perforations, necrotizing fasciitis, hemorrhage, and arterial thromboembolic events). In addition, according to the ADVERSE REACTIONS section of the PI, “Across clinical studies, bevacizumab was discontinued in 8% to 22% of patients because of adverse reactions.” While a reference1 was cited for this claim, it is not specific to Alymsys treatment and broadly reviews possible side effects and general expectations for cancer patients when taking a “targeted therapy.” Therefore, this reference does not support the claim that “most side effects will resolve over time” for patients treated with Alymsys. The patient brochure further minimizes the risks associated with Alymsys by not presenting risk information in a sequence that discloses risk information in the order of severity and failing to disclose much of the information relating to warnings, precautions, and adverse reactions for Alymsys with a prominence and readability reasonably comparable with the presentation of information relating to the effectiveness of Alymsys. In addition, in contrast to the consumer-friendly language used to disclose some of the most common adverse reactions, several risk disclosures on pages one and seven are presented using complex medical terminology that is not likely to be understood by consumers. The totality of the omission of material information regarding approved indications and the serious risks of Alymsys, in addition to the minimization of risk information that is presented, is concerning from a public health perspective because they serve to misleadingly represent Alymsys as safer and more effective than has been demonstrated, as well as safer and more effective than the bevacizumab reference listed drug (AVASTIN® (bevacizumab)), when this has not been demonstrated. FDA granted approval of Alymsys as a biosimilar to Avastin based on the data showing no clinically meaningful differences between the compounds and the same mechanism of action. This approval means that the Agency considers the biosimilar product, Alymsys, to be highly similar to Avastin, the reference product, (notwithstanding minor differences in clinically inactive components), and that there are no clinically meaningful differences in terms of safety, purity, and potency (safety and effectiveness). As such, one can expect that there will be no clinically meaningful differences between taking Alymsys and Avastin, when these products are used as intended. Therefore, representations or suggestions that Alymsys is safer or more effective than Avastin are misleading. 
+
+1 American Cancer Society. “Targeted Therapy Side Effects.” (https://www.cancer.org/treatment/treatments and-side-effects/treatment-types/targeted-therapy/side-effects.html, last accessed 03/31/26).
+
+Ravi Harapanhalli Page 4 
+Amneal Pharmaceuticals LLC 
+BLA 761231/MA 65 
+Conclusion and Requested Action 
+For the reasons described above, the patient brochure misbrands Alymsys and makes the 
+distribution of the drug in violation of the FD&C Act. 
+This letter notifies you of our concerns and provides you with an opportunity to address them. 
+FDA requests that Amneal take immediate action to address any violations (including, for 
+example, ceasing and desisting promotional communications that are misleading as 
+described above). 
+Please submit a written response to this letter within 15 working days from the date of receipt, 
+addressing the concerns described in this letter, listing all promotional communications (with 
+the 2253 submission date) for Alymsys that contain representations like those described 
+above, and explaining your plan for the discontinuation of such communications, or for 
+ceasing distribution of Alymsys. 
+If you believe that your product is not in violation of the FD&C Act, please include in your 
+submission to us your reasoning and any supporting information for our consideration within 
+15 working days from the date of receipt of this letter. 
+The concerns discussed in this letter do not necessarily constitute an exhaustive list of 
+potential violations. It is your responsibility to ensure compliance with each applicable 
+requirement of the FD&C Act and FDA implementing regulations. 
+Please direct your response to the undersigned at the Food and Drug Administration, 
+Center for Drug Evaluation and Research, Office of Prescription Drug Promotion, 5901- 
+B Ammendale Road, Beltsville, Maryland 20705-1266. A courtesy copy can be sent by 
+facsimile to (301) 847-8444. Please refer to MA 65 in addition to the BLA number in all future 
+correspondence relating to this particular matter. All correspondence should include a 
+subject line that clearly identifies the submission as a Response to Untitled Letter. You are 
+encouraged, but not required, to submit your response in eCTD format. All correspondence 
+submitted in response to this letter should be placed under eCTD Heading 1.15.1.6. 
+Additionally, the response submission should be coded as an Amendment to eCTD 
+Sequence 0197 under BLA 761231. 
+
+Questions related to the submission of your response letter should be emailed to CDER OPDP-RPM@fda.hhs.gov.
+
+Sincerely, 
+{See appended electronic signature page} 
+Rebecca Falter, PharmD, BCACP 
+Regulatory Review Officer 
+Division of Advertising & Promotion Review 1 
+Office of Prescription Drug Promotion 
+{See appended electronic signature page} 
+Emily Dvorsky, PharmD, RAC 
+Team Leader 
+Division of Advertising & Promotion Review 1 
+Office of Prescription Drug Promotion 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Signature Page 1 of 1
+
+This is a representation of an electronic record that was signed electronically. Following this are manifestations of any and all electronic signatures for this electronic record.
+
+EMILY M DVORSKY on behalf of REBECCA A FALTER 03/31/2026 08:52:31 AM
+
+EMILY M DVORSKY 03/31/2026 08:53:38 AM
+
+

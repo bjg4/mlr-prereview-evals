@@ -1,0 +1,203 @@
+                  DEPARTMENT OF HEALTH & HUMAN SERVICES                                        Public Health Service
+
+
+
+                                                                                               Food and Drug Administration
+                                                                                               Silver Spring, MD 20993
+
+             Charles Garlisi, PhD
+             Senior Vice President, Regulatory Affairs
+             Altor BioScience, LLC, (an indirect wholly-owned subsidiary of ImmunityBio, Inc.)
+             25 DeForest Avenue, Suite 201
+             Summit, NJ 07901
+
+            RE:         BLA 761336
+                        ANKTIVA® (nogapendekin alfa inbakicept-pmln) solution, for intravesical use
+                        MA 51
+
+            Dear Dr. Garlisi:
+
+            The Office of Prescription Drug Promotion (OPDP) of the U.S. Food and Drug Administration
+            (FDA) has reviewed the promotional communications, the “Efficacy and Safety” webpage1
+            (US-ANK-250071-v1.0) (webpage) on the ANKTIVA Healthcare Provider Branded Website
+            (ANK-00079-US)2 and the “Why ANKTIVA®” webpage3 (US-ANK-250072-v1.0 ) (consumer
+            webpage) on the ANKTIVA Consumer Website (ANK-00079-US)2 for ANKTIVA®
+            (nogapendekin alfa inbakicept-pmln) solution, for intravesical use (Anktiva) submitted by Altor
+            BioScience LLC, an indirect wholly-owned subsidiary of ImmunityBio, Inc. (Altor) under cover
+            of Form FDA 2253. FDA has determined that the webpage and consumer webpage are false
+            or misleading. Thus, the webpage and consumer webpage misbrand Anktiva and make the
+            distribution of the drug in violation of the Federal Food, Drug, and Cosmetic Act (FD&C Act).
+
+            Prior Communications
+
+            OPDP notes that the Untitled Letter dated September 9, 2025, to Altor addressed similar
+            claims and representations for Anktiva on the webpage addressed in this letter. In the
+            correspondence, FDA requested that Altor take immediate action to address any violations
+            (including, for example, ceasing and desisting promotional communications that were
+            misleading as described). OPDP is concerned that Altor appears to be promoting Anktiva
+            using similar claims and representations in a misleading manner.
+
+
+
+
+            1 The “Efficacy & Safety” webpage is accessed from the “Efficacy & Safety” sub-navigation menu of the website.
+
+            See: https://anktiva.com/hcp/efficacy-safety. (last accessed January 7, 2026).
+            2 The material ID referenced on the “Efficacy & Safety” webpage includes “v11.”
+
+            3 The “Why ANKTIVA®” webpage is accessed from the “Why ANKTIVA®” sub-navigation menu of the website.
+
+            See: https://anktiva.com/why-anktiva. (last accessed January 7, 2026).
+
+
+
+
+Reference ID: 5723956
+            Charles Garlisi, PhD                                                                    Page 2
+            Altor BioScience, LLC
+            BLA 761336/MA 51
+
+            The “Efficacy and Safety” webpage includes the following efficacy representations regarding
+            cystectomy avoidance and disease-specific survival (DSS) (in pertinent part, emphasis
+            original, footnotes omitted):
+
+                •       “% Of Responders Who Were Cystectomy Free At 36 Months
+                           o 84%”
+
+                •       “Disease-Specific Overall Survival at 36 Months
+                           o 99%”
+
+            The “Why ANKTIVA®” consumer webpage includes the following efficacy representations
+            regarding cystectomy avoidance and DSS (in pertinent part, emphasis original, footnotes
+            omitted):
+
+                •       “84% of patients who responded to ANKTIVA were able to keep their bladders at
+                        36 months (n=100)”
+
+                •       “99% Disease-Specific Overall Survival at 36 Months”
+
+            These representations on the webpage and consumer webpage misbrand Anktiva by
+            misleadingly suggesting that QUILT-3.032 provided interpretable results regarding the effects
+            of Anktiva on cystectomy avoidance and DSS, even though the design of the QUILT-3.032
+            study was not capable of establishing improvement on these time-to-event efficacy
+            endpoints. Anktiva was approved based on an effect shown on complete response and
+            duration of response in QUILT-3.032, a single-arm study. As a reference for these
+            representations, you cite a presentation4 by Chang S, which includes updated results from
+            the QUILT-3.032 study. However, as QUILT-3.032 was designed as a single-arm study (i.e.,
+            with no comparator arm) and cystectomy avoidance and DSS are time-to-event efficacy
+            endpoints, the reported cystectomy avoidance and DSS results are uninterpretable; absent
+            an appropriate comparator, it is not possible to determine if the observed effect is attributable
+            to Anktiva or to other factor(s), such as the natural history of the disease.
+
+            We acknowledge that the following text appears as a footnote on the webpage and
+            consumer webpage (in pertinent part):
+
+                •       “These data on time to cystectomy and disease specific survival represent
+                        prespecified secondary endpoints in QUILT-3.032. These results should be interpreted
+                        with caution and in the context of the study’s limitations of a single-arm study.”
+
+            However, including these statements in Anktiva’s promotional communications, along with
+            misleading representations about Anktiva’s efficacy (i.e., cystectomy avoidance and DSS
+            results from QUILT-3.032), does not render the promotional communication nonmisleading in
+            light of the issues with QUILT-3.032 (explained above) that make the study incapable of
+            supporting representations or suggestions that these results are attributable to the effect of
+            Anktiva.
+            4 Chang S. An update on QUILT-3.032: durable complete responses to NAI (ANKTIVA) plus BCG therapy in
+
+            BCG-unresponsive CIS with or without Ta/T1 papillary disease and in papillary disease without CIS.
+            Presentation at: AUA2025; April 26-29, 2025; Las Vegas, NV.
+
+Reference ID: 5723956
+            Charles Garlisi, PhD                                                         Page 3
+            Altor BioScience, LLC
+            BLA 761336/MA 51
+
+            Conclusion and Requested Action
+
+            For the reasons described above, the webpage and consumer webpage misbrand Anktiva
+            and make the distribution of the drug in violation of the FD&C Act.
+
+            This letter notifies you of our concerns and provides you with an opportunity to address them.
+            FDA requests that Altor take immediate action to address any violations (including, for
+            example, ceasing and desisting promotional communications that are misleading as
+            described above).
+
+            Please submit a written response to this letter within 15 working days from the date of receipt,
+            addressing the concerns described in this letter, listing all promotional communications (with
+            the 2253 submission date) for Anktiva that contain representations like those described
+            above, and explaining your plan for the discontinuation of such communications, or for
+            ceasing distribution of Anktiva.
+
+            If you believe that your products are not in violation of the FD&C Act, please include in your
+            submission to us your reasoning and any supporting information for our consideration within
+            15 working days from the date of receipt of this letter.
+
+            The concerns discussed in this letter do not necessarily constitute an exhaustive list of
+            potential violations. It is your responsibility to ensure compliance with each applicable
+            requirement of the FD&C Act and FDA implementing regulations.
+
+            Please direct your response to the undersigned at the Food and Drug Administration,
+            Center for Drug Evaluation and Research, Office of Prescription Drug Promotion, 5901-
+            B Ammendale Road, Beltsville, Maryland 20705-1266. A courtesy copy can be sent by
+            facsimile to (301) 847-8444. Please refer to MA 51 in addition to the BLA number in all future
+            correspondence relating to this particular matter. All correspondence should include a subject
+            line that clearly identifies the submission as a Response to Untitled Letter. You are
+            encouraged, but not required, to submit your response in eCTD format. All correspondence
+            submitted in response to this letter should be placed under eCTD Heading 1.15.1.6.
+            Additionally, the response submission should be coded as an Amendment to eCTD
+            Sequence 0214 under BLA 761336.
+
+
+
+
+Reference ID: 5723956
+            Charles Garlisi, PhD                                                    Page 4
+            Altor BioScience, LLC
+            BLA 761336/MA 51
+
+            Questions related to the submission of your response letter should be emailed to CDER-
+            OPDP-RPM@fda.hhs.gov.
+
+
+                                                          Sincerely,
+
+                                                          {See appended electronic signature page}
+
+                                                          Jeena Sun, PharmD, MBA
+                                                          Regulatory Review Officer
+                                                          Division of Advertising & Promotion Review 1
+                                                          Office of Prescription Drug Promotion
+
+
+                                                          {See appended electronic signature page}
+
+                                                          Emily Dvorsky, PharmD, RAC
+                                                          Team Leader
+                                                          Division of Advertising & Promotion Review 1
+                                                          Office of Prescription Drug Promotion
+
+
+
+
+Reference ID: 5723956
+                                                                                                    Signature Page 1 of 1
+
+          --------------------------------------------------------------------------------------------
+          This is a representation of an electronic record that was signed
+          electronically. Following this are manifestations of any and all
+          electronic signatures for this electronic record.
+          --------------------------------------------------------------------------------------------
+          /s/
+          ------------------------------------------------------------
+
+          JEENA L SUN
+          01/07/2026 02:19:38 PM
+
+          EMILY M DVORSKY
+          01/07/2026 02:36:25 PM
+
+
+
+
+Reference ID: 5723956
+

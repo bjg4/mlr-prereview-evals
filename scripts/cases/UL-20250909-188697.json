@@ -1,0 +1,28 @@
+{
+"id": "UL-20250909-188697",
+"piece_type": "DTC TV ad “2025 CALQUENCE DTC Commercial - Major Statement Update” (US-99628)",
+"audience": "DTC",
+"company": "AstraZeneca Pharmaceuticals LP",
+"regs_in_letter": "FD&C Act (no CFR section cited in letter text)",
+"status": "processed",
+"cases": [
+{
+"cat": "Minimization of risk",
+"claim": "“When you’re ready to begin treatment… for chronic lymphocytic leukemia, CALQUENCE helps you do the fighting.” | “And you can do the exploring.” | “You can do the splashing…” | “…the sightseeing…” | “…and the playing.”",
+"context": "Images: man on cliff, woman splashing with grandson, couple sightseeing, man playing with dog. Patients require regular HCP monitoring.",
+"rationale": "Suggests patients can maintain a normal, active lifestyle on treatment, downplaying serious side effects and monitoring requirements.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Judge: 'you do the living' lifestyle framing for oncology drugs with significant AEs/monitoring; pairwise vs. version acknowledging monitoring."
+},
+{
+"cat": "Distracting presentation during risk/major statement (TV)",
+"claim": "[Visual] a man playing with a dog, a woman splashing in the swimming pool, and multiple background scene changes while a couple goes sightseeing — during the major statement",
+"context": "DTC TV major statement.",
+"rationale": "Interferes with comprehension of the major statement.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Storyboard check: flag attention-grabbing visuals and frequent scene changes during major statement audio."
+}
+]
+}

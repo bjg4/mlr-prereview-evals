@@ -1,0 +1,19 @@
+{
+"id": "UL-20250909-188754",
+"piece_type": "DTC celebrity spokesperson interview video (Kenan Thompson) on The Dan Le Batard Show with Stugotz (Mar 31, 2025; YouTube)",
+"audience": "DTC",
+"company": "Phathom Pharmaceuticals, Inc.",
+"regs_in_letter": "FD&C Act (no CFR section cited in letter text)",
+"status": "processed",
+"cases": [
+{
+"cat": "Omission of risk information",
+"claim": "“Kenan’s here because he’s teamed up with Phathom Pharmaceuticals to raise awareness about GERD…” | “…it stands for gastroesophageal reflux disease…but I personally was suffering with acid reflux and was prescribed Voquezna…”",
+"context": "Paid spokesperson interview on third-party media; no risk information.",
+"rationale": "Presents efficacy claims but entirely omits risk information.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "deterministic",
+"check": "Rule: any spokesperson/influencer/earned-media content where the sponsor's product is named with a benefit or experience ('it worked for me') must include risk information."
+}
+]
+}

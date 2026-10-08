@@ -1,0 +1,19 @@
+{
+"id": "UL-20250909-188719",
+"piece_type": "Two DTC TV ads “Daughter Knows Best” (AUS-47657) and “Spouse Knows Best” (AUS-47658)",
+"audience": "DTC",
+"company": "Teva Neuroscience Inc.",
+"regs_in_letter": "FD&C Act (no CFR section cited in letter text)",
+"status": "processed",
+"cases": [
+{
+"cat": "Overstatement of efficacy",
+"claim": "[Visual] post-treatment segments: mother pouring coffee, zipping a purse, putting on an earring; spouse pouring hot tea, zipping a vest, unclipping a grill cover, hanging string lights — with no noticeable involuntary movements, carrying a bright orange travel mug in a perfectly steady manner",
+"context": "PI: AIMS change vs placebo approx. -1.9 (Study 1) and -1.4 (Study 2) from baseline ~9.4–10.1. SUPERs: “Individual results may vary.” and “In one study, patients taking AUSTEDO 36 mg saw a 33% movement improvement vs 14% for placebo at 12 weeks.”",
+"rationale": "Suggests near-complete resolution of TD symptoms and constant hand steadiness; greater benefit than demonstrated.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Judge: post-treatment imagery showing near-complete symptom resolution vs. modest PI effect size (e.g., AIMS -1.4 to -1.9 vs placebo); 'Individual results may vary' and % SUPERs don't cure."
+}
+]
+}

@@ -1,0 +1,98 @@
+
+Published: 2025-09-09
+Author: Center
+
+Eli Lilly and Company - 716475 - 09/09/2025 | FDA
+
+# Eli Lilly and Company MARCS-CMS 716475 — September 09, 2025 
+
+Product:
+: Drugs 
+
+Recipient:
+: Recipient Name David A. Ricks
+: Recipient Title Chief Executive Officer 
+: Eli Lilly and Company
+: Lilly Corporate Center Indianapolis, IN 46285 United States
+
+Issuing Office:
+: Center for Drug Evaluation and Research (CDER)
+: United States
+
+RE: NDA 217806 ZEPBOUND® (tirzepatide) injection, for subcutaneous use MA 831
+
+WARNING LETTER
+
+Dear David A. Ricks:
+
+The U.S. Food and Drug Administration (FDA) has reviewed the promotional communication, a direct-to-consumer online video (video) of an interview featuring representatives from Eli Lilly and Company (Eli Lilly) and a corresponding reporter asking questions regarding ZEPBOUND® (tirzepatide) injection, for subcutaneous use (Zepbound) posted on the website dayton247now.com. 1 The video features Dr. Clare Lee 2, Associate Vice President of Medical Affairs for Eli Lilly and Company (Eli Lilly) and Rhonda Pacheco 3, Group Vice President of Diabetes and Obesity for Eli Lilly. The video originally appeared on Dayton247 Now’s “Your Day” website on July 9, 2025. FDA has determined that the video is false or misleading. Thus, the video misbrands Zepbound and makes the distribution of the drug in violation of the Federal Food, Drug, and Cosmetic Act (FD&C Act). 21 U.S.C. 352(a), (n); 321(n); 331(a). See 21 CFR 202.1 (e)(3)(i); (e)(5). In addition, these materials were not submitted at the time of initial dissemination or publication as required by 21 CFR 314.81(b)(3)(i). These violations are concerning from a public health perspective because the promotional communication creates a misleading impression regarding the safety and effectiveness of Zepbound, which is a drug with multiple serious, potentially life-threatening risks, including a boxed warning for the risk of thyroid C-cell tumors.
+
+Background
+
+Below are the indication and summary of the most serious and most common risks associated with the use of Zepbound4. According to the INDICATIONS AND USAGE section of the Zepbound FDA-approved prescribing information (PI) (in pertinent part):
+
+ZEPBOUND® is indicated in combination with a reduced-calorie diet and increased physical activity:
+
+- to reduce excess body weight and maintain weight reduction long term in adults with obesity or adults with overweight in the presence of at least one weight-related comorbid condition.
+
+Limitations of Use:
+
+- ZEPBOUND contains tirzepatide. Coadministration with other tirzepatide containing products or with any glucagon-like peptide-1 (GLP-1) receptor agonist is not recommended.
+
+The PI for Zepbound contains a boxed warning regarding the risk of thyroid C-cell tumors. Zepbound is contraindicated in patients with a personal or family history of medullary thyroid carcinoma (MTC) or in patients with Multiple Endocrine Neoplasia syndrome type 2 (MEN 2). Zepbound is also contraindicated in patients with a known serious hypersensitivity to tirzepatide or any of the excipients in Zepbound. Serious hypersensitivity reactions, including anaphylaxis and angioedema, have been reported with tirzepatide. In addition, the PI for Zepbound includes warnings and precautions regarding severe gastrointestinal adverse reactions, acute kidney injury, acute gallbladder disease, acute pancreatitis, hypersensitivity reactions, hypoglycemia, diabetic retinopathy complications in patients with type 2 diabetes mellitus, suicidal behavior and ideation, and pulmonary aspiration during general anesthesia or deep sedation. The most common adverse reactions observed with Zepbound were nausea, diarrhea, vomiting, constipation, abdominal pain, dyspepsia, injection site reactions, fatigue, hypersensitivity reactions, eructation, hair loss, and gastroesophageal reflux disease.
+
+Prior Communications
+
+FDA notes that advisory comments dated May 3, 2024, to Eli Lilly addressed draft promotional communications for Zepbound with certain similarities to the video addressed in this letter. In these advisory comments, FDA recommended revising draft promotional communications regarding gastrointestinal adverse reactions associated with Zepbound, or otherwise misrepresenting important risk information. Additionally, FDA notes that our advisory comments dated November 6, 2024, included recommendations to revise draft promotional communications to avoid omitting information regarding the limitations of use of Zepbound. FDA also recommended revising draft promotional communications to avoid omitting information regarding the risks of hypoglycemia and depression associated with Zepbound, thus creating a misleading impression about the safety and approved use of the drug.
+
+False or Misleading Risk Presentation
+
+Prescription drug advertisements and labeling (promotional communications) misbrand a drug if they are false or misleading with respect to risk. The determination of whether a promotional communication is misleading includes, among other things, not only representations made or suggested in the promotional communication, but also the extent to which the promotional communication fails to reveal facts material in light of the representations made or with respect to consequences that may result from the use of the drug as recommended or suggested in the promotional communication.
+
+The video, which features a reporter introducing Dr. Lee and Ms. Pacheco as representatives from Eli Lilly, contains claims and representations about obesity and the benefits of Zepbound but fails to communicate any risk information. For example, Dr. Lee talks about obesity and how “if pharmacotherapy is indicated, . . . make sure they have access to the FDA-approved, authentic and safe medicines . . . . ” The reporter then asks Ms. Pacheco (in pertinent part), “what are the options for people who want to access the safe and effective obesity medicines?” Ms. Pacheco responds making claims such as (in pertinent part), “We at Lilly are providing options. We know different patients have different needs and we have access to Zepbound on Lilly Direct. You can go to Lilly Direct, it’s our self-pay option. . . . This is the option for patients living with obesity that have a way to get that access to that safe and authentic medication . . . . ” The video, however, entirely omits risk information. By omitting the risks associated with Zepbound, the video fails to provide material information about the consequences that may result from the use of Zepbound and creates a misleading impression about the drug’s safety. This omission is especially concerning from a public health perspective given the boxed warning and serious risks associated with Zepbound.
+
+Omission of Material Facts
+
+The video is misleading because it fails to provide material information regarding Zepbound’s limitations of use. Specifically, the INDICATIONS AND USAGE section of the PI states the following (underlined emphasis added):
+
+ZEPBOUND® is indicated in combination with a reduced-calorie diet and increased physical activity:
+
+- to reduce excess body weight and maintain weight reduction long term in adults with obesity or adults with overweight in the presence of at least one weight-related comorbid condition.
+
+Limitations of Use:
+
+- ZEPBOUND contains tirzepatide. Coadministration with other tirzepatide containing products or with any glucagon-like peptide-1 (GLP-1) receptor agonist is not recommended.
+
+By failing to disclose the limitations of use associated with Zepbound, the video creates a misleading suggestion about the FDA-approved indication and use for Zepbound.
+
+Failure to Submit Under Form FDA-2253
+
+FDA regulations require any labeling or advertising devised for promotion of the drug product to be submitted at the time of initial dissemination of the labeling and at the time of initial publication of the advertisement for a prescription drug product. Each submission is required to be accompanied by a completed transmittal Form FDA-2253 (Transmittal of Advertisements and Promotional Labeling for Drugs for Human Use) and is required to include a copy of the product’s current professional labeling. A copy of the video was not submitted to FDA under cover of Form FDA-2253 at the time of initial publication as required by 21 CFR 314.81(b)(3)(i).
+
+Conclusion and Requested Action
+
+For the reasons discussed above, the video misbrands Zepbound and makes the distribution of the drug in violation of the Federal Food, Drug, and Cosmetic Act (FD&C Act). 21 U.S.C. 352(a), (n); 321(n); 331(a). See 21 CFR 202.1 (e)(5). In addition, these materials were not submitted at the time of initial dissemination or publication as required by 21 CFR 314.81(b)(3)(i).
+
+This letter notifies you of our concerns and provides you with an opportunity to address them. You should take immediate action to address any violations (including, for example, ceasing and desisting promotional communications that are misleading as described above). Failure to adequately address any violations may result in legal action without further notice, including, without limitation, seizure and injunction. Please submit a written response to this letter within 15 working days from the date of receipt, addressing the concerns described in this letter, listing all other promotional communications (with the 2253 submission date) for Zepbound that contain representations such as those described above, and explaining your plan for discontinuation of such communications, or for ceasing distribution of Zepbound.
+
+If you believe that your products are not in violation of the FD&C Act, please include in your submission to us your reasoning and any supporting information for our consideration within 15 working days from the date of receipt of this letter.
+
+Additionally, we request that your submission include a comprehensive plan of action to disseminate truthful, non-misleading, and complete corrective communication(s) about the concern(s) discussed in this letter. The corrective communication(s) should be disseminated to the audience(s) that received the promotional communication(s) identified in the opening paragraph of this letter. We recommend that corrective communication(s) include a description of the promotional communication(s) identified in this letter, which misbrand Zepbound; include a summary of the concern(s) described in this letter; and provide information to correct each of these concern(s). Corrective communication(s) should be free of promotional claims and presentations. To the extent possible, corrective communication(s) should be distributed using the same media, and generally for the same duration of time and with the same frequency as the promotional communication(s) identified in the opening paragraph of this letter.
+
+The concerns discussed in this letter do not necessarily constitute an exhaustive list of potential violations. It is your responsibility to ensure compliance with each applicable requirement of the FD&C Act and FDA implementing regulations.
+
+Please direct your response to the Food and Drug Administration, Center for Drug Evaluation and Research, Office of Prescription Drug Promotion, 5901-B Ammendale Road, Beltsville, Maryland 20705-1266. A courtesy copy can be sent by facsimile to (301) 847-8444. Please refer to MA 831 in addition to the NDA number in all future correspondence relating to this particular matter. All correspondence should include a subject line that clearly identifies the submission as a Response to Warning Letter. You are encouraged, but not required, to submit your response in eCTD format. All correspondence submitted in response to this letter should be placed under eCTD Heading 1.15.1.6. Questions related to the submission of your response letter should be emailed to CDER-OPDP-RPM@fda.hhs.gov.
+
+Sincerely, {See appended electronic signature page} George Tidmarsh, M.D., Ph.D. Director Center for Drug Evaluation and Research -------------------------------------------------------------------------------------------- This is a representation of an electronic record that was signed electronically. Following this are manifestations of any and all electronic signatures for this electronic record. -------------------------------------------------------------------------------------------- /s/ ------------------------------------------------------------ CARTER M BEACH 09/09/2025 05:09:35 PM On behalf of George Tidmarsh, M.D., Ph.D
+
+1 This video is available on the internet at https://dayton247now.com/news/local/experts-discuss-obesitymedications-and-warn-against-online-scams# (last accessed September 8, 2025).
+
+2 Dr. Clare Lee is Associate Vice President of Global Medical Affairs for Eli Lilly and Company (LLY). https://www.linkedin.com/in/clarejlee/.
+
+3 Rhonda Pacheco is Group Vice President of US Cardiometabolic Health for Eli Lilly and Company. https://www.linkedin.com/in/rhonda-janice-pacheco-1176666/.
+
+4 This information is for background purposes only and does not necessarily represent the risk information that should be included in the promotional communication cited in this letter.
+
+ Contact Number 1-888-INFO-FDA (1-888-463-6332)
+
+# Eli Lilly and Company - 716485 - 09/09/2025 | FDA

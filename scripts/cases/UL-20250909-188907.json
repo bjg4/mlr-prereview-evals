@@ -1,0 +1,19 @@
+{
+"id": "UL-20250909-188907",
+"piece_type": "HCP website “Clinical Trial Results” webpage, “Additional Data” tab (TAZ-US-000086)",
+"audience": "HCP",
+"company": "Ipsen Biopharmaceuticals, Inc.",
+"regs_in_letter": "FD&C Act (no CFR section cited in letter text)",
+"status": "processed",
+"cases": [
+{
+"cat": "Misleading presentation of study data (single-arm/uncontrolled)",
+"claim": "“Exploratory subanalysis of the primary endpoint: Changes in tumor volume for patients in the WT Cohort” | “71% (n=34/48) of EZH2 WT patients had a reduction in tumor volume” | “98% (n=41/42) of the EZH2 MT patients had a reduction in tumor volume”",
+"context": "Tumor-volume-reduction percentages are effectively DCR (CR+PR+SD); approval on ORR/DOR in single-arm Study E7438-G000-101; LIMITATIONS disclaimers present; complaint received.",
+"rationale": "SD-inclusive composites unsupported in single-arm trial.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "deterministic",
+"check": "Rule: in single-arm-trial products, flag stable disease / DCR / waterfall plots including SD; disclaimers do not count as a fix. Also flag 'any reduction in tumor volume' percentages, which embed SD."
+}
+]
+}

@@ -1,0 +1,269 @@
+DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+
+Food and Drug Administration Silver Spring, MD 20993
+
+Mandy Edwards, Manager, Regulatory Affairs and Operations 
+Mayne Pharma LLC 
+3301 Benson Drive, Suite 401 
+Raleigh, NC 27609 
+RE: NDA 214154 
+NEXTSTELLIS (drospirenone and estetrol tablets), for oral use 
+MA 107 
+Dear Mandy Edwards: 
+The Office of Prescription Drug Promotion (OPDP) of the U.S. Food and Drug Administration 
+(FDA) has reviewed a promotional communication, a professional “presentation for 
+NEXTSTELLIS promotional programs with speaker notes” (PM-US-NEX-0360) (speaker 
+deck) for NEXTSTELLIS (drospirenone and estetrol tablets), for oral use (Nextstellis) 
+submitted by Mayne Pharma LLC (Mayne) under cover of Form FDA 2253. This speaker 
+deck makes false or misleading claims and presentations about the risks of Nextstellis. Thus, 
+the speaker deck misbrands Nextstellis within the meaning of the Federal Food, Drug and 
+Cosmetic Act (FD&C Act) and makes its distribution violative. 21 U.S.C. 352(a); 321(n); 
+331(a). C.f. 21 CFR 202.1(e)(3)(i); (e)(5). These violations are concerning from a public 
+health perspective because this speaker deck creates a misleading impression about the 
+risks a patient may experience as a result of using Nextstellis in comparison to other 
+estrogen-containing combined hormonal contraceptives (CHCs), and minimizes the risks 
+associated with Nextstellis. The speaker deck is particularly concerning given that Nextstellis 
+is associated with a number of serious and potentially life-threatening risks, including a boxed 
+warning regarding increased risk of serious cardiovascular events from cigarette smoking and 
+CHC use. 
+Background 
+Below are the indication and summary of the most serious and most common risks 
+associated with the use of Nextstellis.1 
+According to the INDICATIONS AND USAGE section of the FDA-approved prescribing 
+information (PI): 
+NEXTSTELLIS is indicated for use by females of reproductive potential to prevent 
+pregnancy. 
+
+1 This information is for background purposes only and does not necessarily represent the risk information that should be included in the promotional piece cited in this letter.
+
+Mandy Edwards Page 3 
+Mayne Pharma LLC 
+NDA 214154/ MA 107 
+
+The speaker deck includes numerous claims and presentations comparing the pharmacologic properties and purported benefits of estetrol (e.g., claims of “low impact” and “minimal effect on the liver”) to those of other estrogens. These claims and presentations misleadingly suggest that Nextstellis is “unique” and intrinsically different from other estrogens, making Nextstellis a safer form of estrogen-containing oral contraception due to its “low-impact” properties. The following claims and presentations in the speaker deck create this misleading impression (footnotes omitted, underlined emphasis added):
+
+• “NEXTSTELLIS is an FDA-approved, combined oral contraceptive (COC) containing drospirenone (DRSP) and estetrol (E4)—a novel, selective action, low-impact estrogen” (slide 3) 
+• “The native characteristics of estetrol have not required any modification for its use in a contraceptive” (slide 8) 
+• “Estetrol (E4) Has a Unique Pharmacologic Profile.” This headline claim is followed by a chart comparing numerous pharmacologic parameters of estetrol (highlighted in shades of pink) and ethinyl estradiol (presented in gray, black and white). The chart includes “Hepatic metabolism” and “Impact on CYP450.” Beside the comparison of hepatic metabolism, the slide notes in pink that Estetrol has “Minimal hepatic metabolism[.]” Beside the comparison of the impact on CYP450, the slide notes in pink that estetrol has “Minimal drug interaction.” (slide 8) 
+• “The Unique Dual Role of Estetrol (E4) Results in Tissue Selective Actions” (slide 10) 
+• “Unlike other estrogens, E4 has a minimal effect on the liver.” (slide 10; bolded emphasis original) 
+• “Estetrol, a selective action, low-impact, native estrogen” and “Estetrol is a low-impact estrogen…” (slide 40) 
+• “NEXTSTELLIS is the ideal pairing of estetrol and drospirenone, delivering an effective and safe combined oral contraceptive with a unique pharmacologic profile” (slide 41; bolded emphasis original) These claims and presentations, which appear throughout the speaker deck, suggest that estetrol is different from—and lower risk than—other estrogens because of purported native characteristics and a “unique pharmacologic profile” that “results in tissue selective actions” and a “low impact.” Moreover, these claims and presentations misleadingly suggest that estetrol has differential selectivity in tissues that distinguishes it functionally from other estrogens, when this has not been demonstrated. For example, according to the Nextstellis PI, estetrol is “a synthetic analogue of a native estrogen present during pregnancy, that is selective for nuclear estrogen receptor-α (ER-α) and ER-β”; however, this is true of all estrogens. Estrogens, including estetrol, act through ER-α and ER-β and have a multiplicity of end organ effects. The effects in any given tissue depend on a variety of factors beyond the action of the estrogen itself, such as the mix of co-activators and co-repressors that determine gene activation, and the presence or absence of alternative signaling pathways. We are unaware of any data to support the suggestion that estetrol has intrinsic properties that result in unique pharmacological impacts on tissues that subsequently confer greater safety for Nextstellis compared to other estrogen products. If you have information or data to support these suggestions, please submit to FDA for review. In addition to the overall misleading impression described above, certain individual claims and presentations elsewhere within the speaker deck are also misleading. 
+
+Mandy Edwards Page 4 
+Mayne Pharma LLC 
+NDA 214154/ MA 107 
+Slide 8 of the speaker deck includes a comparison of pharmacologic profile parameters for 
+“Ethinyl estradiol” and “Estetrol” that misleadingly suggests that estetrol has safety 
+advantages over ethinyl estradiol as a component of a CHC because of parameters like 
+hepatic metabolism and drug interactions, when this has not been demonstrated. For 
+example, the presentation that estetrol has “minimal” (UGT2B7 pathway) hepatic metabolism 
+compared to the “slow, extensive (CYP450 pathway)” hepatic metabolism for ethinyl estradiol 
+misleadingly suggests that estetrol, and therefore Nextstellis, is safer for the liver than CHCs 
+that with ethinyl estradiol. The contribution of hepatic UGT2B7 metabolism to the overall 
+metabolism of estetrol is unknown. Thus, the suggestion that Nextstellis is safer for the liver 
+than other CHCs because a component of Nextstellis uses the UGT2B7 pathway while CHCs 
+exclusively use the CYP450 pathway is misleading. Similarly, using the parameter of “Impact 
+on CYP450” to claim that estetrol has “minimal drug interaction” while “Ethinyl estradiol” has 
+“extensive” impact misleadingly suggests that estetrol, and therefore Nextstellis, has fewer 
+drug interactions compared to CHCs that use ethinyl estradiol. In general, the drug interaction 
+potential of a CHC cannot be assessed based only on the estrogenic component. Rather, 
+both the combined estrogenic and progestin components must be assessed to determine 
+drug interaction potential. Even though the estetrol component of Nextstellis shows no 
+potential for CYP450 related drug interaction, the drospirenone component (i.e., the progestin 
+component) of Nextstellis does have CYP450-related drug interaction potential. While two 
+references2 are cited on slide 8 for these claims, neither support conclusions about the 
+differential impact of estetrol and ethinyl estradiol on drug interactions or hepatic metabolism. 
+In fact, neither reference directly compared estetrol to ethinyl estradiol on any pharmacologic 
+parameter in this slide. If you have information or data to support these suggestions, please 
+submit to FDA for review. 
+The misleading suggestion that Nextstellis is safer than other CHCs is further amplified by 
+the presentation on slides 17 and 18, which claims to show the differential impact of the 
+active ingredients in Nextstellis (“DRSP 3mg/E4 15 mg”) and two other CHCs (“LNG 
+150mcg/EE 30mcg” and “DRSP 3mg/EE 20mcg”) on endocrine and hemostatic parameters. 
+The presentation includes the following claims (bolded emphasis original; underlined 
+emphasis added): 
+• “Endocrine Effects at Cycle 6 vs Baseline” “Study Reference: Es0001-C201” o Graphical presentation of the “% Change From Baseline at Cycle 6” depicting the following measures (in pertinent part): Cortisola, Aldosteroneb, CBGa, SHBGb, TBGa and Angiotensinogena.  “ap <0.05 DRSP/E4 vs LNG/EE and DRSP/EE b p <0.05 DRSP/E4 vs LNG/EE or DRSP/EE” 
+
+2 Stanczyk FZ, Archer DF, Bhavnani BR. Ethinyl estradiol and 17β-estradiol in combined oral contraceptives: pharmacokinetics, pharmacodynamics and risk assessment. Contraception. 2013;87(6):706-727; Coelingh Bennink HJT, Verhoeven C, et al. Pharmacodynamic effects of the fetal estrogen estetrol in post menopausal women: results from a multiple-rising-dose study. Menopause. 2017;24(6):677-685.
+
+Mandy Edwards Page 5 
+Mayne Pharma LLC 
+NDA 214154/ MA 107 
+• “Impact on Hemostatic Parameters at Cycle 6” “Study Reference: MIT-Es0001-C201” o Graphical presentation of the “% Change from baseline at Cycle 6” depicting the following measures (in pertinent part): Factor VIIb, Protein Cb, Protein S activityb, Protein S freeb, APCr-(ETP) a, Plasminogena, t-PAa, Prothrom Frag 1+2a, Soluble E-selectina and SHBG*.  “a p <0.05 DRSP/E4 vs LNG/EE and DRSP/EE b p <0.05 DRSP/E4 vs DRSP/EE” o “Significant differences observed at Cycle 6” These claims, with the associated p-values, misleadingly suggest that Nextstellis demonstrated a statistically significant difference in several observed endocrine and hemostatic parameters as compared to the two reference CHCs. This suggestion is not supported by the safety study, MIT-Es0001-C201, cited in these presentations because the study did not prespecify the thresholds for clinically relevant differences in effects of the studied products on the various endocrine and hemostatic parameters. As a result, data derived from the study are considered descriptive, and do not support the conclusions referenced above. Moreover, a p-value is generally understood to indicate statistical significance if it is less than 0.05. The inclusion of a p-value of “<0.05” in conjunction with these claims creates the misleading suggestion that there were statistically significant differences in the described endocrine and hemostatic parameters when that has not been demonstrated. These comparative claims, which suggest a statistically significant difference between impact of Nextstellis and other CHCs on endocrine and hemostatic parameters, add to the misleading suggestion that Nextstellis is safer than other CHCs.3 We acknowledge the statement, “No clinical inferences should be made from the results shown” on slide 16 directly preceding these claims and presentations; however, this statement does not mitigate the misleading impression. The speaker deck claims that E4 (estetrol), the estrogen component of Nextstellis, has “a low impact on breast tissue” (slide 10, bolded emphasis original) and “[d]oes not stimulate breast tissue” (slide 40). This adds to the misleading suggestion that the estrogen contained in Nextstellis is safer compared to other CHCs, and misleadingly minimizes the risk of breast related effects posed by Nextstellis. These claims suggest that Nextstellis is a safer option for patients who have or have had breast cancer when, in fact, Nextstellis is contraindicated in patients with a current diagnosis or history of breast cancer, which may be sensitive to female hormones. The PI for Nextstellis also contains a warning and precaution regarding the potential risk of hormonally-sensitive malignancies, like breast cancer. Furthermore, slides 9 and 10 suggest that because Nextstellis is an antagonist at the membrane ERα, the drug has a lower impact on breast tissue than ethinyl estradiol, noting that “[e]thinyl estradiol activates both the nuclear and membrane receptor[.]” However, nuclear and membrane ERαs are the same receptor, which can move between different locations in the cell. All estrogens, including estetrol, act through both nuclear and membrane-associated receptors. 
+
+3 Although no clinical effect has been confirmed with these parameters, they are reasonably predictive of downstream effects which are closely tied to established endocrine risks (i.e., glucose intolerance and hypertriglyceridemia, effect on binding globulins) and hemostatic risks (i.e., thromboembolic disorders and other vascular problems, hypertension) associated with all CHCs, including Nextstellis.
+
+Mandy Edwards Page 6 
+Mayne Pharma LLC 
+NDA 214154/ MA 107 
+While references4 are cited for these claims, none support conclusions about the comparative 
+safety and impact on breast tissue of Nextstellis relative to other CHCs. With the exception of 
+Singer, et al., the references describe preclinical studies that are based on in vitro and in vivo 
+animal data, which do not support clinical conclusions in humans regarding Nextstellis’ effect 
+on breast tissue, including impacts on the drug’s safety profile. The Singer, et al. reference 
+investigated estetrol as a hormone replacement in pre- and post-menopausal women with 
+estrogen-receptor positive early-stage breast cancer and did not study the impacts of estetrol 
+on breast tissue when used as an oral contraceptive in women of reproductive potential. 
+These references do not support the presentations and suggestions that, in contrast to ethinyl 
+estradiol, Nextstellis has a “low impact on” or “does not stimulate” breast tissue. Thus, 
+implications that estetrol is safer than ethinyl estradiol due to differences in effect on breast 
+tissue are misleading. 
+Furthermore, the speaker deck includes several claims that minimize serious risks associated 
+with the use of Nextstellis. For example, the speaker deck includes the following claims and 
+presentations regarding parameters grouped as liver effects (bolded emphasis original, 
+underlined emphasis added, footnotes omitted): 
+• “Unlike other estrogens, E4 has a minimal effect on the liver.” (slide 10) 
+• “Estetrol (E4) Is an Estrogen With Selective Action in Tissues . . . o Minimal to no impact on [parameters associated with the liver]: Cholesterol … Triglycerides… Glucose… Clotting factors…” (slide 11) 
+• “Women experienced minimal changes in cholesterol, triglycerides, glucose, and glycated hemoglobin” (slide 41) First, these claims misleadingly represent that Nextstellis has “minimal” or “no” impact on liver parameters, even though the PI for Nextstellis states that the product has several known risks associated with the liver and liver parameters. The claim that estetrol has “minimal effect on the liver” misleadingly minimizes the risk to the liver associated with use of Nextstellis, including patients with liver disease. This is especially concerning because, according to the CONTRAINDICATIONS section of the PI, Nextstellis is contraindicated in patients with hepatic adenoma, hepatocellular carcinoma, acute hepatitis, or severe (decompensated) cirrhosis. The PI for Nextstellis also includes a warning and precaution for liver disease (elevated liver enzymes and liver tumors). Specifically, according to the WARNINGS AND PRECAUTIONS section of the PI, Section 5.6, Nextstellis should be withheld or discontinued if persistent or significant elevation of liver enzymes occurs in patients. CHCs are known to increase the risk of hepatic tumors, in particular, hepatic adenomas. The rupture of hepatic adenomas may cause death from abdominal hemorrhage. 
+
+4 Giretti, MS, Guevara, MMM, Cecchi, E, et al. Effects of estetrol on migration and invasion in T47-D breast cancer cells through the actin cytoskeleton. Frontiers in Endocrinology. 2014;5(80):1-8; Gerard, C, Blacher, S, Communal, L, et al. Estetrol is a weak estrogen antagonizing estradiol-dependent mammary gland proliferation. J Endocrinol. 2015(a); 224:85-95; Singer CF, Bennink HJ, Natter C, et al. Antiestrogenic effects of the fetal estrogen estetrol in women with estrogen-receptor positive early breast cancer. Carcinogenesis. 2014;35(11):2447-51; Visser M, Kloosterboer HJ, Bennink HJ. Estetrol prevents and suppresses mammary tumors induced by DMBA in a rat model. Horm Mol Biol Clin Invest. 2012;9(1):95-103.
+
+Mandy Edwards Page 7 
+Mayne Pharma LLC 
+NDA 214154/ MA 107 
+Second, the speaker deck claims that estetrol has “minimal to no impact on…Cholesterol… 
+Triglycerides…Glucose." This claim misleadingly minimizes the risks associated with 
+Nextstellis regarding reduced glucose tolerance and hypertriglyceridemia (high triglycerides), 
+including patients with prediabetes, diabetes, hypertriglyceridemia or family history of 
+hypertriglyceridemia. This is especially concerning because, according to the WARNINGS 
+AND PRECAUTIONS section of the PI, Section 5.8, patients using Nextstellis should be 
+carefully monitored for prediabetes and diabetes as Nextstellis may decrease glucose 
+tolerance. This can lead to an increase of glucose (sugar) in the body and may result in 
+additional comorbidities if not appropriately treated. Furthermore, Section 5.8 also states that 
+patients with, or who have a family history of, hypertriglyceridemia may have an increase in 
+serum triglyceride concentrations when using Nextstellis, which may increase the risk of 
+pancreatitis. In addition, the PI states that females with hypertriglyceridemia are advised to 
+consider alternative contraception. 
+Third, the speaker deck claims that estetrol has “minimal to no impact on . . . clotting factors.” 
+This misleadingly minimizes the risk of thromboembolic disorders and other vascular 
+problems. According to the CONTRAINDICATIONS section of the PI, Nextstellis is 
+contraindicated in patients with a history of, increased risk for, or current arterial or venous 
+thrombotic/thromboembolic diseases. In addition, according to the WARNINGS AND 
+PRECAUTIONS section of the PI, Section 5.1, Nextstellis is associated with an increased 
+risk for cardiovascular, cerebrovascular, and venous thromboembolic events and should be 
+discontinued if such arterial or venous thrombotic/thromboembolic events occur.5 Moreover, 
+certain precautions must be taken when using Nextstellis to help prevent these disorders, 
+such as discontinuing use during prolonged immobilization. 
+While references6 are cited for these claims on slides 10, 11 and 41, none of these 
+references support clinical conclusions about the effect of Nextstellis on the liver. These 
+references include preclinical studies that are based on in vitro and in vivo animal data, a 
+review of in vitro studies for ERα, an educational review of estetrol and a review of the 
+mechanisms regulating ER-mediated responses, none of which support clinical conclusions 
+in humans regarding Nextstellis’ safety profile associated with the liver. Furthermore, the 
+phase 3 studies conducted in support of the approval of Nextstellis (C301 and C302) were 
+not designed to support conclusions regarding Nextstellis’ impact on specific tissues/organs. 
+Therefore, these references do not support the claims that Nextstellis has a “minimal effect 
+on the liver” or a “minimal downstream impact on liver parameters.” 
+Slide 27 of the slide deck includes a presentation of adverse reactions, along with the claim, 
+“Adverse Reactions (ARs) include all Adverse Events (AEs) reported…whether drug related 
+
+5 Changes in hemostatic parameters are consistent with the known prothrombotic effects of estrogens, and clinically significant venous thromboemboli were observed in the clinical development program for Nextstellis. 6 Abot A, Fontaine C, Buscato M, et al. The uterine and vascular actions of estetrol delineate a distinctive profile of estrogen receptor α modulation, uncoupling nuclear and membrane activation. EMBO Mol Med. 2014 Oct; 6(10):1328-46; Arnal JF, Lenfant F, Metivier R, et al. Membrane and Nuclear Estrogen Receptor Alpha Actions: From Tissue Specificity to Medical Implications. Physiol Rev. 2017 Jul 1;97(3):1045-1087; Foidart JM, Gaspard U, Pequeux C, et al. Sex Steroids’ Effects on Brain, Heart and Vessels: Volume 6: Frontiers in Gynecological Endocrinology: Unique Vascular Benefits of Estetrol, A Native Fetal Estrogen with Specific Actions in Tissues (NEST). International Society of Gynecological Endocrinology 2019: 169-195; Moggs JG, Orphanides G. Estrogen receptors: orchestrators of pleiotropic cellular responses. EMBO Rep. 2001 Sep;2(9):775-81; Clinical study report MITEs0001-C302.
+
+Mandy Edwards Page 8 
+Mayne Pharma LLC 
+NDA 214154/ MA 107 
+or not” (underlined emphasis original, bold emphasis added). This claim creates a 
+misleading impression that not all of the ARs included in the presentation were related to 
+Nextstellis treatment and suggests that the true AR rates attributable to use of Nextstellis 
+were lower, when this is not the case. The Nextstellis PI is cited to for this claim. However, 
+the adverse reactions included in Table 4 of the PI, and included on slide 27, are adverse 
+reactions for which a causal relationship is plausible. Thus, the claim that the adverse 
+reactions described in the PI are reported “whether drug related or not” misleadingly 
+minimizes the risks associated with Nextstellis by downplaying and dissociating the adverse 
+reactions reported by patients using Nextstellis in the Phase 3 studies. 
+Furthermore, the risk presentation on slides 34-38 omits material facts regarding the risks of 
+hyperkalemia, migraine, and bleeding irregularities and amenorrhea associated with 
+Nextstellis. Specifically, the following material information from the PI is omitted (in pertinent 
+part, bolded emphasis original, underlined emphasis added): 
+4 CONTRAINDICATIONS 
+NEXTSTELLIS is contraindicated in females who are known to have or develop the 
+following conditions: 
+… 
+Have migraine headaches with aura 
+. . . 
+WARNINGS AND PRECAUTIONS 
+. . . 
+5.2 Hyperkalemia 
+NEXTSTELLIS is contraindicated in females with conditions that predispose to 
+hyperkalemia (e.g., renal impairment, hepatic impairment, and adrenal insufficiency). 
+. . . 
+Monitor females taking NEXTSTELLIS who later develop medical conditions and/or 
+begin medication that put them at an increased risk for hyperkalemia. 
+. . . 
+5.4 Migraine 
+. . . 
+Migraines with aura increase the risk for stroke. This stroke risk is further increased in 
+females who have migraines with aura with use of CHCs. 
+. . . 
+5.11 Bleeding Irregularities and Amenorrhea 
+. . . 
+If bleeding persists or occurs after previously regular cycles, evaluate for causes such 
+as pregnancy or malignancy. 
+We acknowledge the statements on slide 34 that “[t]he following ISI is based on the highlights 
+section of the US Prescribing Information for NEXTSTELLIS” and to “[p]lease consult the full 
+Prescribing Information for all labelled safety information for NEXTSTELLIS”, as well as the 
+hyperlink to Nextstellis’ full PI throughout the speaker deck. However, these statements do 
+not mitigate the misleading minimization of risks associated with use of Nextstellis. 
+
+Mandy Edwards Page 9 
+Mayne Pharma LLC 
+NDA 214154/ MA 107 
+
+The speaker deck includes the following claims and graphical presentations on slides 23-25 regarding the bleeding profile observed with Nextstellis:
+
+• Graphical presentation titled “Pooled Analysis of Two Phase 3 Trials (N= 3,409) Demonstrates consistency of cycle patterns and the withdrawal bleed” o Groups defined as: “Bleeding”, “Spotting” and “No Bleeding or Spotting” o “*Spotting is defined as minimal bleeding that did not require use of any sanitary protection (including panty liners)” (slide 23) 
+• Graphical presentation of the “% of Participants with Unscheduled Bleeding/Spotting N=1,864)” o Groups defined as: “Unscheduled bleeding/spotting” and “Unscheduled bleeding (only)” (slide 24) 
+• Graphical presentation of the “Mean Number of Bleeding/Spotting Days per Treatment Cycle (ITT Population) (N= 1,756)” o Groups defined as: “Mean number of unscheduled spotting days” and “Mean number of unscheduled bleeding days” (slide 25) These claims and graphical presentations misleadingly minimize bleeding irregularities associated with Nextstellis. Specifically, these graphical presentations misrepresent the frequency of unscheduled bleeding associated with Nextstellis by using a definition of “unscheduled bleeding” that excludes unscheduled bleeding events that occurred immediately before (“early bleeding”) or immediately after (“continued bleeding”) the scheduled bleeding days (day 25 through day 3 of the cycle). Unscheduled bleeding is defined in the WARNINGS AND PRECAUTIONS section of the PI, Section 5.11, as bleeding or spotting that occurs on Day 4 through Day 24 of a 28-day cycle. The presentation on these slides, which excludes “early bleeding” and “continued bleeding” from the definition of “unscheduled bleeding,” is misleading because it gives the appearance that individuals had much lower “unscheduled bleeding/spotting” rates over time (~8% at Cycle 1 versus ~6% at Cycle 12), when the rates of unscheduled bleeding or spotting were actually higher per cycle. Specifically, as stated in the WARNINGS AND PRECAUTIONS section of the PI, Section 5.11, the proportion of subjects reporting unscheduled bleeding or spotting per 28-day cycle was actually 30.3% at Cycle 1 versus 17.4% at Cycle 12. Furthermore, the presentation on slide 23 includes the claim (emphasis added), “Demonstrates consistency of cycle patterns and the withdrawal bleed.” This claim is misleading because it is based on data that are inadequate to support such conclusions. The claim “demonstrates consistency” is based on pooled data from phase III studies C301 and C302. However, studies C301 and C302 were not designed to assess the difference between bleeding and spotting, as these were secondary endpoints with no prespecified statistical procedure controlling for Type 1 error rate (false positive rate); therefore, it is not possible to ascertain whether the findings were attributable to treatment with Nextstellis or merely due to chance. As a result, these findings are exploratory (hypothesis-generating). Therefore, claims and presentations that draw conclusions (e.g., “demonstrates consistency”) are misleading. 
+
+Mandy Edwards Page 10 
+Mayne Pharma LLC 
+NDA 214154/ MA 107 
+Conclusion and Requested Action 
+For the reasons discussed above, the speaker deck misbrands Nextstellis within the meaning 
+of the FD&C Act and makes its distribution violative. 21 U.S.C. 352(a); 321(n); 331 (a). C.f. 
+21 CFR 202.1 (e)(3)(i); (e)(5). 
+This letter notifies you of our concerns and provides you with an opportunity to address them. 
+OPDP requests that Mayne cease any violations of the FD&C Act. Please submit a written 
+response to this letter within 15 working days from the date of receipt, addressing the 
+concerns described in this letter, listing all promotional communications (with the 2253 
+submission date) for Nextstellis that contain presentations like those described above, and 
+explaining your plan for the timely discontinuation of such communications, or for ceasing 
+distribution of Nextstellis. 
+If you believe that your products are not in violation of the FD&C Act, please include in your 
+submission to us your reasoning and any supporting information for our consideration within 
+15 working days from the date of receipt of this letter. 
+The concerns discussed in this letter do not necessarily constitute an exhaustive list of 
+potential violations. It is your responsibility to ensure compliance with each applicable 
+requirement of the FD&C Act and FDA implementing regulations. 
+Please direct your response to the undersigned at the Food and Drug Administration, 
+Center for Drug Evaluation and Research, Office of Prescription Drug Promotion, 5901- 
+B Ammendale Road, Beltsville, Maryland 20705-1266. A courtesy copy can be sent by 
+facsimile to (301) 847-8444. Please refer to MA 107 in addition to the NDA number in all 
+future correspondence relating to this particular matter. All correspondence should include a 
+subject line that clearly identifies the submission as a Response to Untitled Letter. You are 
+encouraged, but not required, to submit your response in eCTD format. All correspondence 
+submitted in response to this letter should be placed under eCTD Heading 1.15.1.6. 
+Additionally, the response submission should be coded as an Amendment to eCTD 
+Sequence 0186 under NDA 214154. Questions related to the submission of your response 
+letter should be emailed to the OPDP RPM at CDER-OPDP-RPM@fda.hhs.gov. 
+Sincerely, 
+{See appended electronic signature page} 
+James Dvorsky, PharmD, MPH 
+Team Leader 
+Division of Advertising & Promotion Review 2 
+Office of Prescription Drug Promotion 
+
+--------------------------------------------------------------------------------------------
+
+## This is a representation of an electronic record that was signed electronically. Following this are manifestations of any and all electronic signatures for this electronic record.
+
+-------------------------------------------------------------------------------------------- 
+/s/ 
+------------------------------------------------------------ 
+
+JAMES S DVORSKY 04/28/2025 11:20:08 AM
+
+Signature Page 1 of 1
+
+

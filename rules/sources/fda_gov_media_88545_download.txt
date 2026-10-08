@@ -1,0 +1,471 @@
+SOURCE_URL: https://www.fda.gov/media/88545/download
+
+Author: FDA
+
+## Guidance for Industry
+
+#### Internet/Social Media Platforms:
+
+#### Correcting Independent Third-Party
+
+#### Misinformation About Prescription
+
+#### Drugs and Medical Devices
+
+##### DRAFT GUIDANCE
+
+This guidance document is being distributed for comment purposes only. Comments and suggestions regarding this draft document should be submitted within 90 days of publication in the Federal Register of the notice announcing the availability of the draft guidance. Submit electronic comments to http://www.regulations.gov. Submit written comments to the Division of Dockets Management (HFA-305), Food and Drug Administration, 5630 Fishers Lane, rm. 1061, Rockville, MD 20852. All comments should be identified with the docket number listed in the notice of availability that publishes in the Federal Register. For questions regarding this draft document, contact (CDER) Julie Chronis at 301-796-1200; (CBER) Office of Communication, Outreach and Development at 800-835-4709 or 240-402-7800; (CVM) Thomas Moskal at 240-276-9300; or (CDRH) Deborah Wolf at 301-796-5732.
+
+U.S. Department of Health and Human Services 
+Food and Drug Administration 
+Center for Drug Evaluation and Research (CDER) 
+Center for Biologics Evaluation and Research (CBER) 
+Center for Veterinary Medicine (CVM) 
+Center for Devices and Radiological Health (CDRH) 
+June 2014 
+Advertising 
+
+### Guidance for Industry
+
+##### Internet/Social Media Platforms: Correcting
+
+##### Independent Third-Party Misinformation
+
+##### About Prescription Drugs and Medical
+
+Devices Additional copies are available from:
+
+Office of Communications, Division of Drug 
+Information 
+Center for Drug Evaluation and Research 
+Food and Drug Administration 
+10903 New Hampshire Ave., Bldg. 51, rm. 2201 
+Silver Spring, MD 20993-0002 
+Tel: 301-796-3400; Fax: 301-847-8714; 
+E-mail: druginfo@fda.hhs.gov 
+http://www.fda.gov/Drugs/GuidanceComplianceRegula 
+toryInformation/Guidances/default.htm 
+Communications Staff (CVM) 
+Center for Veterinary Medicine 
+Food and Drug Administration 
+7519 Standish Place, HFV-12 
+Rockville, MD 20855 
+Tel: 240-276-9300; 
+E-mail: AskCVM@fda.hhs.gov 
+http://www.fda.gov/AnimalVeterinary/GuidanceComplian 
+ceEnforcement/GuidanceforIndustry/default.htm 
+Office of Communication, Outreach and Development 
+Center for Biologics Evaluation and Research 
+Food and Drug Administration 
+10903 New Hampshire Ave., WO71, Room 3128 
+Silver Spring, MD 20993 
+Tel: 800-835-4709 or 240-402-7800; 
+E-mail: ocod@fda.hhs.gov 
+http://www.fda.gov/BiologicsBloodVaccines/Guidance 
+ComplianceRegulatoryInformation/default.htm 
+Office of the Center Director 
+Guidance and Policy Development 
+Center for Devices and Radiological Health 
+Food and Drug Administration 
+10903 New Hampshire Ave., Bldg. 66, rm. 5431 
+Silver Spring, MD 20993-0002 
+Tel: 301-796-5900; 
+E-mail: CDRH-Guidance@fda.hhs.gov 
+http://www.fda.gov/MedicalDevices/DeviceRegulationand 
+Guidance/GuidanceDocuments/default.htm 
+U.S. Department of Health and Human Services 
+Food and Drug Administration 
+Center for Drug Evaluation and Research (CDER) 
+Center for Biologics Evaluation and Research (CBER) 
+Center for Veterinary Medicine (CVM) 
+Center for Devices and Radiological Health (CDRH) 
+
+June 2014 Advertising
+
+Contains Nonbinding Recommendations Draft — Not for Implementation
+
+TABLE OF CONTENTS
+
+I. INTRODUCTION ... 1 
+II. BACKGROUND ... 2 
+III. DETERMINING WHETHER THIS DRAFT GUIDANCE APPLIES ... 3 
+IV. RECOMMENDATIONS FOR THE CORRECTION OF MISINFORMATION ABOUT 
+PRESCRIPTION DRUGS AND MEDICAL DEVICES ... 5 
+A. Appropriate Corrective Information ... 5 
+B. Correcting a Clearly Defined Portion of a Forum ... 6 
+C. Approaches to Correcting Misinformation ... 7 
+D. Communications That Fall Outside the Scope of This Guidance ... 8 
+E. The Consequences of Correcting Misinformation ... 9 
+
+Guidance for Industry 1 2
+
+3 
+4 Internet/Social Media Platforms: Correcting Independent 
+5 Third-Party Misinformation About 
+6 Prescription Drugs and Medical Devices 
+7 
+8 
+9 This draft guidance, when finalized, will represent the Food and Drug Administration’s (FDA’s 
+10 or Agency’s) current thinking on this topic. It does not create or confer any rights for or on any 
+11 person and does not operate to bind FDA or the public. You can use an alternative approach if 
+12 the approach satisfies the requirements of the applicable statutes and regulations. If you want to 
+13 discuss an alternative approach, contact the FDA staff responsible for implementing this 
+14 guidance. If you cannot identify the appropriate FDA staff, call the appropriate number listed on 
+15 the title page of this guidance. 
+16 
+17 I. INTRODUCTION 
+18 
+19 This draft guidance is intended to describe FDA’s current thinking about how manufacturers, 
+20 packers, and distributors (firms) of prescription human and animal drugs (drugs) and medical 
+devices for human use (devices) 2 21 should respond, if they choose to respond, to misinformation 
+22 related to a firm’s own FDA-approved or -cleared products when that information is created or 
+23 disseminated by independent third parties on the Internet or through social media or other 
+24 technological venues (Internet/social media), regardless of whether that misinformation appears 
+25 on a firm’s own forum or an independent third-party forum or website. This draft guidance 
+26 responds to (among other things) stakeholder requests for specific guidance regarding a firm’s 
+27 voluntary correction of misinformation when that misinformation is created or disseminated by 
+28 an independent third party. 
+29 
+
+1 This draft guidance has been prepared by the Office of Prescription Drug Promotion (OPDP) in the Center for Drug Evaluation and Research (CDER) in consultation with the Center for Biologics Evaluation and Research (CBER), the Center for Veterinary Medicine (CVM), and the Center for Devices and Radiological Health (CDRH). 2 The recommendations in this draft guidance also apply to biological products that are approved for marketing under section 351 of the Public Health Service Act (PHS Act). Because each biological product also meets the definition of “drug” or “device” under the Federal Food, Drug, and Cosmetic Act (FD&C Act), it is also subject to regulation under provisions of the FD&C Act applicable to drugs or devices, as well as the regulations implementing these provisions, except that a biological product licensed under section 351 of the PHS Act is not required to have an approved new drug application under section 505 of the FD&C Act (21 U.S.C. 355). See PHS Act section 351(j) (42 U.S.C. 262(j)). References to “drugs” and “devices” in this guidance therefore also include biological products that fall within each of those definitions. The recommendations in this draft guidance do not apply to veterinary biological products regulated under the Virus-Serum-Toxin Act (21 U.S.C. 151, et seq.) by the U.S. Department of Agriculture. This draft guidance does not address devices solely intended for use in animals.
+
+2 
+30 FDA’s guidance documents, including this draft guidance, do not establish legally enforceable 
+31 rights or responsibilities. Instead, guidances describe the Agency’s current thinking on a topic 
+32 and should be viewed only as recommendations, unless specific regulatory or statutory 
+33 requirements are cited. The use of the word should in Agency guidances means that something 
+34 is suggested or recommended, but not required. 
+35 
+36 II. BACKGROUND 
+37 
+38 Under the Federal Food, Drug, and Cosmetic Act (FD&C Act), the Agency has responsibility for 
+39 regulating the manufacture, sale, and distribution of drugs and medical devices in the United 
+40 States. This authority includes oversight of the labeling of drugs and medical devices (21 U.S.C. 
+41 352(a)) and the advertising of prescription drugs and restricted medical devices (21 U.S.C. 
+352(n), (q), and (r)). 3 42 
+43 
+44 Section 201(m) of the FD&C Act defines labeling as “all labels and other written, printed, or 
+45 graphic matter (1) upon any article or any of its containers or wrappers, or (2) accompanying 
+such article” (21 U.S.C. 321(m)). 4 46 The U.S. Supreme Court has explained that the language 
+47 “accompanying such article” in the “labeling” definition is interpreted broadly, to include 
+48 materials that supplement or explain an article. No physical attachment between the materials 
+49 and the article is necessary; rather, it is the textual relationship between the items that is 
+50 significant (Kordel v. United States, 335 U.S. 345, 350 (1948)). FDA generally recognizes two 
+types of labeling: (1) FDA-required labeling 5 51 and (2) promotional labeling. Promotional 
+52 labeling is generally any labeling, other than the FDA-required labeling, that is devised for 
+53 promotion of the product. Examples of materials that may be considered promotional labeling 
+54 pieces for prescription drugs are described in 21 CFR 202.1(l)(2). The scope of labeling 
+55 requirements for prescription medical devices is described in 21 CFR 801.109. 
+56 
+57 The FD&C Act does not define what constitutes an “advertisement,” but FDA regulations 
+58 provide several examples, including “advertisements in published journals, magazines, other 
+
+3 Devices may become restricted by regulation issued under section 520(e) of the FD&C Act (21 U.S.C. 360j(e)), by performance standard issued pursuant to section 514(a)(2)(B)(v) (21 U.S.C. 360d(a)(2)(B)(v)), or by order approving an application for premarket approval (i.e., a PMA) pursuant to section 515(d)(1)(B)(ii) (21 U.S.C.
+
+360e(d)(1)(B)(ii)). 4 See also 21 CFR 1.3(a). 5 Much FDA-required labeling is subject to FDA review and approval. For example, after drafting by the manufacturer, labeling is reviewed and approved by FDA as part of the new drug application (NDA), new animal drug application (NADA), biologics license application (BLA) or premarket approval application (PMA) review (see 21 CFR 314.50(c)(2), 514.1(b)(3), 601.2(a), 814.20(b)(10), and 814.44(d)). For devices that are subject to premarket notification (510(k)) requirements, the 510(k) must contain the proposed labeling sufficient to describe the device, its intended use, and the directions for its use (21 CFR 807.87(e)). All devices, including those exempt from premarket review, are subject to the requirements of applicable labeling regulations, including requirements for adequate directions for use (see 21 CFR Part 801). For a prescription drug or prescription device to be exempted from the FD&C Act’s requirement of adequate directions for use (21 U.S.C. 352(f)(1)), its FDA-required labeling must contain, among other information, information addressing product hazards and other risk information, as specified in FDA regulations (21 CFR 201.100(d)(1), (3), 201.105(c)(1), and 801.109).
+
+3 
+59 periodicals, and newspapers, and advertisements broadcast through media such as radio, 
+60 television, and telephone communication systems” (21 CFR 202.1(l)(1)). 
+61 
+62 The Internet and Internet-based technologies have made it easier for third parties who are 
+63 independent of firms to disseminate information about drugs and devices. Information created 
+64 by third parties (which for purposes of this guidance is user-generated content (UGC)) might 
+65 appear on an interactive portion of a firm-controlled website or other interactive Internet/social 
+66 media platform, or information might appear on a website or other Internet/social media platform 
+67 that is independent of, or not under the control or influence of, a firm. Many Internet/social 
+68 media platforms allow for real-time and continuous communications and interactions (e.g., 
+69 blogs, microblogs, social networks, online communities, and live podcasts) while other platforms 
+70 do not provide a means for interactive content to be posted. Whether a forum is interactive may 
+71 affect the means by which a firm is able to respond to information. 
+72 
+73 Although the Internet has facilitated the transmission of information, allowing patients and other 
+74 interested parties the opportunity to share experiences as well as to communicate with others 
+75 about drugs and devices, UGC might not always be accurate and may be dangerous or harmful to 
+76 the public health. For the purposes of this draft guidance, misinformation is defined as positive 
+77 or negative incorrect representations or implications about a firm’s product created or 
+78 disseminated by independent third parties who are not under the firm’s control or influence and 
+79 that is not produced by, or on behalf of, or prompted by the firm in any particular. FDA has 
+80 determined it may benefit the public health for firms to correct misinformation about their 
+81 products (including, for example, situations in which a firm is aware of misinformation that may 
+82 be dangerous or harmful to the public health). 
+83 
+84 If a firm voluntarily corrects misinformation in a truthful and non-misleading manner and as 
+85 described in this draft guidance, FDA does not intend to object if the corrective information 
+86 voluntarily provided by the firm does not satisfy otherwise applicable regulatory requirements 
+87 regarding labeling or advertising, if any. If a firm chooses to respond to misinformation about its 
+88 products using non-truthful or misleading information or in a manner other than that 
+89 recommended in this draft guidance, however, FDA may object if the information provided by 
+90 the firm does not comply with applicable regulatory requirements related to labeling or 
+91 advertising, if any. 
+92 
+93 III. DETERMINING WHETHER THIS DRAFT GUIDANCE APPLIES 
+94 
+95 This draft guidance does not apply when a firm is responsible for the product communication 
+96 that contains misinformation. A firm is responsible for communications that are owned, 
+97 controlled, created, or influenced, or affirmatively adopted or endorsed, by, or on behalf of, the 
+98 firm. A firm is thus responsible for communications on the Internet and Internet-based 
+99 platforms, such as social media, made by its employees or any agents acting on behalf of the firm 
+
+4 
+100 to promote the firm’s product, and these communications must comply with any applicable 
+regulatory requirements. 6 101 Firms should not use this guidance in these situations. 
+102 
+103 Example 1: As part of a marketing campaign, a member of a firm’s marketing 
+104 department posts incorrect statements about a product’s safety or efficacy compared to 
+105 the efficacy of a competitor’s product on a discussion board hosted by an independent 
+106 third party. The firm is responsible for the content of the communication because the 
+107 member of the firm’s marketing department is acting on behalf of the firm. Thus, this 
+108 draft guidance would not apply. 
+109 
+110 Additionally, if a firm writes, collaborates on, or exerts control or influence on product-specific 
+111 content provided by a third party, to the extent that responsibility for the development of the 
+112 content is imputable to the firm, the recommendations set forth in this guidance do not apply. 
+113 Accordingly, as a general matter, the firm must comply with all applicable regulatory 
+114 requirements related to labeling or advertising for that content. 
+115 
+116 Example 2: A firm hosts a discussion group on its own website, monitors the discussion 
+117 for content that does not speak positively about its product, then removes or edits 
+118 postings that portray its product in a negative light, and adds positive postings about the 
+119 product. This firm is exerting control over the UGC and is responsible for the resulting 
+120 content. Thus, the firm’s actions would not fall under the scope of this guidance. 
+121 
+122 In contrast, this draft guidance applies when a firm is not responsible for a product-related 
+123 communication that appears on the firm’s own forum, an independent third-party website, or 
+124 through social media, and the firm chooses to correct misinformation about its own product 
+125 contained in that communication. In such cases, we recommend that the firm do so as described 
+126 in this draft guidance. 
+127 
+128 Firms are generally not responsible for third-party UGC about their products when the UGC is 
+129 truly independent of the firm (e.g., is not produced by, or on behalf of, or prompted by the firm 
+130 in any particular) regardless of whether the firm owns or operates the platform on which the 
+communication appears. 7 131 If the firm owns or operates the platform or created or initiated the 
+
+6 For example, with respect to prescription drugs and biologics, firms should consult the draft guidance for industry Fulfilling Regulatory Requirements for Postmarketing Submissions of Interactive Promotional Media for Prescription Human and Animal Drugs and Biologics for recommendations regarding how firms can fulfill regulatory requirements for postmarketing submissions of interactive promotional media (e.g., blog, message board, or chat room) for their FDA-approved products. When final, this guidance will represent the FDA’s current thinking on this topic. For the most recent version of a guidance, check the FDA Drugs guidance webpage at http://www.fda.gov/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/default.htm. 7 Cf. 47 U.S.C. 230(c)(1) (“no provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider”). The Communications Decency Act further defines “information content provider” as someone “responsible, in whole or in part, for the creation or development of information provided through the Internet or any other interactive computer service” (47 U.S.C. 230(f)(3)).
+
+5 
+132 forum on which such UGC appears, the firm should include an overarching clear and 
+133 conspicuous statement that the firm did not create or control the UGC. 
+134 
+135 Example 3: A firm becomes aware of a blogger who is posting inaccurate information 
+136 about the firm’s product. The blogger does not have a relationship with the firm and the 
+137 firm does not compensate the blogger for the blog or for any other activity. The firm is 
+138 not responsible for the content of the blog. The firm may decide to attempt to correct the 
+139 misinformation, but it is not obligated to attempt to correct it. 
+140 
+141 Example 4: A firm hosts a discussion forum about its drug’s or device’s FDA-approved 
+142 use on its corporate website and does not participate in the discussion, but it does monitor 
+143 the forum for profanity and obscenity. The forum includes an overarching clear and 
+144 conspicuous statement that the firm did not create the content of the forum. The firm is 
+145 not responsible for the information that is posted by independent third parties and can, if 
+146 it so chooses, correct misinformation according to this guidance. 
+147 
+148 However, a firm’s control over, involvement with, or influence over a product-related 
+149 communication, even when generated by a third party, may result in the firm being responsible 
+150 for the information as a promotional communication. Thus, firms might be responsible for UGC 
+151 that they solicit or influence, regardless of the forum. 
+152 
+153 IV. RECOMMENDATIONS FOR THE CORRECTION OF MISINFORMATION 
+154 ABOUT PRESCRIPTION DRUGS AND MEDICAL DEVICES 
+155 
+156 A. Appropriate Corrective Information 
+157 
+158 This draft guidance sets forth approaches a firm may use once it decides to voluntarily correct 
+159 misinformation about its own product that is created or disseminated by an independent third 
+160 party who is not under the firm’s control or influence. In accordance with the approaches 
+161 discussed below, a firm may choose to provide appropriate truthful and non-misleading 
+162 corrective information or, alternatively, it may provide a reputable source from which to obtain 
+the correct information, such as the firm’s contact information. 8 163 For purposes of this draft 
+164 guidance, to be considered “appropriate corrective information,” a firm’s communication should: 
+165 
+166 • Be relevant and responsive to the misinformation; 
+167 
+168 • Be limited and tailored to the misinformation; 
+169 
+170 • Be non-promotional in nature, tone, and presentation; 
+171 
+172 • Be accurate; 
+173 
+
+8 For example, a firm may choose to provide contact information for the firm’s Medical Affairs Department.
+
+6 
+174 • Be consistent with the FDA-required labeling for the product; 
+175 
+176 • Be supported by sufficient evidence, including substantial evidence, when appropriate, 
+177 for prescription drugs; 
+178 
+179 • Either be posted in conjunction with the misinformation in the same area or forum (if 
+180 posted directly to the forum by the firm), or should reference the misinformation and be 
+181 intended to be posted in conjunction with the misinformation (if provided to the forum 
+182 operator or author) (see section IV.B); and 
+183 
+184 • Disclose that the person providing the corrective information is affiliated with the firm 
+185 that manufactures, packs, or distributes the product. 
+186 
+187 Because risk and other information about the product are not necessarily part of corrective 
+188 information, the FDA-required labeling should be included or provided in a readily accessible 
+189 format. As two examples, a firm may provide a link that goes directly to the FDA-required 
+190 labeling or may provide a link that opens a new window to a portable document format (PDF) 
+191 file. The information should not be provided by including a link to a promotional website even if 
+192 the information is available on the promotional website. Please note that if the uniform resource 
+193 locator (URL), web address, or link where viewers are directed to obtain the respective FDA 
+194 required labeling is promotional in content or tone, FDA would not consider the corrective 
+195 information to fall within the scope of this draft guidance. 
+196 
+197 Example 5: A firm discovers a chat room where participants are discussing the firm’s 
+198 product for one of its approved indications—diabetes. The firm finds misinformation 
+199 posted by an independent third party about the diabetes indication that the firm would 
+200 like to correct according to this draft guidance. Although the product has multiple 
+201 approved indications, the firm should limit its corrective information to the relevant 
+202 diabetes indication being discussed. 
+203 
+204 Example 6: An independent third party writes an online post stating that one reason he 
+205 likes taking a prescription drug (or using a device) is that it has no food restrictions, 
+206 which is inconsistent with information from the required labeling regarding the need to 
+207 avoid taking the drug with fatty foods (or to avoid using the device in a certain way). 
+208 The firm decides to correct the misinformation according to this draft guidance. The 
+209 firm’s representative identifies herself as being affiliated with the firm and posts the 
+210 corrective information from the required labeling. She also includes a direct link to the 
+211 FDA-required labeling. 
+212 
+213 B. Correcting a Clearly Defined Portion of a Forum 
+214 
+215 FDA recognizes that the Internet, social media, and other technological venues contain a vast 
+216 amount of information and even one particular forum might have a large quantity of information. 
+217 It may be difficult for a firm to correct all misinformation about its products in one forum 
+218 depending on the nature of the forum, the quantity of information, and the length of time the 
+219 forum encompasses. Furthermore, technologies or platforms that may be used to view the forum 
+
+7 
+220 affect what information will simultaneously be displayed to users. In light of these 
+221 considerations, if a firm corrects one or more occurrences of misinformation, it is not expected to 
+222 correct each piece of misinformation in an entire forum. However, a firm should clearly identify 
+223 the misinformation it is correcting, define the portion of the forum it is correcting, and should 
+224 correct all the misinformation that appears in that clearly defined portion. A firm should 
+225 describe the location or the nature of the misinformation that was corrected and should provide a 
+226 date the correction is made to ensure that parties reading the information do not assume the firm 
+227 has responded to the entire forum. 
+228 
+229 Example 7: A firm decides to correct misinformation posted by an independent third 
+230 party on one page of an interactive website. The misinformation consists of three 
+231 consecutive sentences about the firm’s product. The firm should correct all three 
+232 sentences. It should provide a statement that the firm is responding only to the specified 
+233 information on that one page and provide the date the change was made. The firm is not 
+234 expected to correct misinformation that appears on other webpages of the website. 
+235 
+236 Example 8: A firm decides to correct misinformation posted by an independent third 
+237 party who has commented on a blog that allows comments. The firm should correct each 
+238 piece of misinformation in the particular comment to which it is responding. The firm 
+239 should provide a statement that it is responding only to one particular comment along 
+240 with the date the correction is provided. The firm is not expected to correct 
+241 misinformation that appears in other comments. 
+242 
+243 A firm should correct all misinformation in the clearly defined portion of the forum it identifies. 
+244 For example, if a firm chooses to correct only misinformation that portrays its product in a 
+245 negative light in a third-party communication but does not address misinformation that overstates 
+246 the benefits of its product in that same clearly defined portion of the communication, the firm’s 
+247 actions do not meet the recommendations in this draft guidance. Additionally, if a firm chooses 
+248 to correct more than one piece of misinformation in a forum, the portion of the forum that the 
+249 firm is expected to correct may be defined, in part, by the locations of the pieces of 
+250 misinformation the firm corrects and the location of additional pieces of misinformation. 
+251 
+252 Example 9: A firm decides to correct misinformation posted on a blog that allows 
+253 comments. The firm corrects misinformation in several blog postings that provide 
+254 incorrect risk information associated with the product and makes clear it is only 
+255 correcting those pieces of misinformation, but the firm does not address exaggerated 
+256 efficacy claims in favor of the firm’s product in other postings that appear to readers 
+257 between the postings it is correcting. Even if the firm corrects the misinformation in the 
+258 limited posts it chose, the firm’s actions are not in accord with this guidance because it 
+259 has intentionally selected only negative information about its product to correct while 
+260 readily accessible and visible positive misinformation was not corrected. 
+261 
+262 C. Approaches to Correcting Misinformation 
+263 
+264 If a firm chooses to correct misinformation, it may do so by correcting misinformation directly 
+265 on the forum. Alternatively, the firm may provide the corrective information to the independent 
+
+8 
+266 author for the author to incorporate; the firm may request that the author remove the 
+267 misinformation or allow comments to be posted; or the firm may request that the site 
+268 administrator remove the misinformation or allow comments to be posted. The following are 
+269 examples of approaches that FDA considers to be within the scope of this draft guidance and that 
+270 firms may take to correct misinformation. 
+271 
+272 Example 10: A firm encounters misinformation posted by an independent third party 
+273 about its product on a website sponsored by a patient group. The website allows 
+274 comments to be posted by viewers. The firm may post corrective information directly on 
+275 the website. 
+276 
+277 Example 11: A firm finds a webpage about its product that was written by an 
+278 independent third party on an Internet-based, interactive, collaboratively edited 
+279 encyclopedia. The firm may choose to contact the author of the webpage and provide 
+280 corrective information to the author. 
+281 
+282 Example 12: An independent third party posts a video on a video hosting website about a 
+283 firm’s product. It is not possible for viewers, such as a firm, to post comments about the 
+284 video. The firm may contact the entity that administers the website and ask that entity to 
+285 allow comments about the video to be posted so that the firm may post corrective 
+286 information. 
+287 
+288 FDA recognizes that a firm cannot control whether an independent third party refuses to correct 
+289 the misinformation, or corrects only a portion of the misinformation even though the firm 
+290 provided complete corrective information, or declines to include the respective required labeling, 
+291 or declines to remove misinformation, or does not correct all the misinformation in one clearly 
+292 defined part (if the firm sought to correct more than one piece of misinformation). Accordingly, 
+293 FDA will not hold a firm accountable for an independent third party’s subsequent actions or lack 
+294 thereof. 
+295 
+296 Example 13: A firm finds a webpage about its product that was written by an 
+297 independent third party on an interactive reference website. The firm contacts the author 
+298 of the webpage and provides corrective information to the author. The firm is not 
+299 accountable for the author’s subsequent actions or lack thereof. 
+300 
+301 D. Communications That Fall Outside the Scope of This Guidance 
+302 
+303 Once a firm undertakes the correction of misinformation, FDA does not expect the firm to 
+304 continue to monitor the website or communication that previously included UGC containing 
+305 misinformation. However, when a communication by or on behalf of the firm to the UGC 
+306 author, site administrator, or the forum goes beyond the correction of misinformation, the 
+307 communication falls outside the scope of this draft guidance. 
+308 
+309 Example 14: A firm decides to correct misinformation found in a blog entry where the 
+310 blogger is not affiliated with the firm. The firm is not obligated to continue to monitor 
+311 the blog although it may choose to do so. The blogger responds to the firm’s correction, 
+
+9 
+312 disputes the corrective information, and also brings up another facet of the product’s 
+313 adverse event profile. The firm replies with additional corrective information that is 
+314 consistent with the original corrective information and that corrects the new 
+315 misinformation about the product’s adverse event profile. The blogger replies again and 
+316 now disputes the effectiveness of the product. The firm responds again with slogans and 
+317 examples of patient profiles from its marketing campaign. The slogans and patient 
+318 profiles go beyond providing corrective information. The firm’s communications now 
+319 must comply with any applicable regulatory requirements related to labeling or 
+320 advertising. 
+321 
+322 Example 15: An independent third party downplays a labeled contraindication on an 
+323 email distribution list. A firm provides, to the distribution list recipients, the corrective 
+324 information regarding the contraindication, and additionally provides information 
+325 unrelated to the contraindication comparing the safety profile of its product to a 
+326 competitor’s product. The firm’s communication goes beyond providing corrective 
+327 information with respect to the third party’s statements about the product’s 
+328 contraindication and, therefore, is not considered to be a correction of misinformation 
+329 within the scope of this draft guidance. 
+330 
+331 E. The Consequences of Correcting Misinformation 
+332 
+333 When a firm voluntarily undertakes the correction of misinformation in a truthful and non 
+334 misleading manner pursuant to the recommendations in this draft guidance, FDA does not intend 
+335 to object if these voluntary corrections do not satisfy otherwise applicable regulatory 
+336 requirements, if any. If a firm chooses to provide information outside the scope of this draft 
+337 guidance, the firm should ensure the information it provides complies with any applicable 
+338 requirements related to labeling or advertising. Information considered to be outside the scope 
+339 of this guidance includes information that does not meet criteria listed above. 
+340 
+341 FDA does not expect firms to submit corrections to the Agency when correcting misinformation 
+342 pursuant to this draft guidance; however, FDA recommends that firms keep records to assist in 
+343 responding to questions that may come from the Agency. The records should include, for 
+344 example, the content of the misinformation, where it appeared, the date it appeared or was 
+345 located, the corrective information that was provided, and the date the corrective information 
+346 was provided.

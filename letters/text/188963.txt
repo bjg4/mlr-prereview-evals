@@ -1,0 +1,88 @@
+Author: FDA/CDER
+
+DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+
+Food and Drug Administration Silver Spring, MD 20993
+
+(b) (4)
+
+Regulatory Consultant Aadi Bioscience 17383 Sunset Blvd, Suite A250 Pacific Palisades, CA 90272
+
+RE: NDA 213312 FYARRO™ (sirolimus protein-bound particles for injectable suspension) (albumin bound), for intravenous use MA 48
+
+Dear (b) (4)
+
+The U.S. Food and Drug Administration (FDA) has reviewed the promotional communication, the “Efficacy Data” webpage 1 (webpage) on the FYARRO Branded Healthcare Provider Website (US-FYA-2300007) 2 for FYARRO™ (sirolimus protein-bound particles for injectable suspension) (albumin-bound), for intravenous use (Fyarro) submitted by Aadi Bioscience (Aadi) under cover of Form FDA 2253. FDA has determined that the webpage is false or misleading. Thus, the webpage misbrands Fyarro and makes the distribution of the drug in violation of the Federal Food, Drug, and Cosmetic Act (FD&C Act).
+
+The “Efficacy Data” webpage, under the “Efficacy” sub-navigation menu of the website for Fyarro, includes the following representations regarding stable disease (SD) and disease control rate (DCR) (in pertinent part, bold emphasis original, underline emphasis added, footnotes omitted):
+
+• Presentation of a bar that visually represents the breakdown of responses as 7% complete response (CR), 32% partial response (PR), 52% stable disease (SD), and 10% progressive disease (PD) 
+• “DISEASE CONTROL RATE 71% of patients with a confirmed response or with SD of ≥12 weeks’ duration (95% Cl: 52%, 85.8%)” 
+
+Following these representations is a presentation of a waterfall plot titled “TARGET LESION CHANGES AT STUDY-END ANALYSIS (N=31)” (emphasis original, footnotes omitted). This visual depiction illustrates the maximum target tumor reduction percentage according to responses and is accompanied by a legend that includes CR, PR, SD, and PD under the heading, “BEST OVERALL RESPONSE.” These representations of SD and DCR make this promotional communication misleading by suggesting that Fyarro improves SD and DCR in patients with locally advanced or metastatic malignant perivascular epithelioid cell tumor
+
+1 The “Efficacy Data” webpage is accessed from the “Efficacy” sub-navigation menu of the website: https://www.fyarrohcp.com/efficacy-data (last accessed September 8, 2025). 2 The material ID referenced on the “Efficacy Data” webpage is US-FYA-2300127.
+
+(PEComa), when the study from which the representations were drawn could not demonstrate these results. Fyarro was approved based on an effect shown on overall response rate (ORR) and duration of response endpoints in AMPECT, a single-arm clinical trial. As support for these representations, you cite an abstract presentation by Wagner et al and data on file. 3,4 In AMPECT, the endpoint of ORR was comprised only of PR + CR, as defined by RECIST v 1.1. 5 Because AMPECT was designed as a single-arm trial, the study did not establish that the SD result, whether considered alone or as a component of DCR, was attributable to the effect of the drug; for example, the result may instead reflect the natural history of the disease. Consequently, the DCR calculations, which are based on a composite that includes SD data, are not supported by the data cited. An assessment of delay in time to disease progression in patients treated with Fyarro (i.e., an assessment of SD) would need to be based on the results of a randomized controlled trial.
+
+We acknowledge the following text appears on the webpage (in pertinent part):
+
+• “Disease control rate was a post hoc exploratory endpoint and was not prespecified. Therefore, it should be interpreted with caution,” which is in conjunction with the DCR presentation 
+• “…SD and PD could be due to the natural course of the disease and not due to treatment,” which is in conjunction with the waterfall plot 
+
+However, these disclosures of the study’s limitations in this promotional communication do not correct or mitigate the misleading representations or suggestions of the presentation. As discussed above, these promotional communications make misleading representations and suggestions about the efficacy of Fyarro through the presentation of SD and DCR calculations that include SD, that are based on the AMPECT study, which, as a single-arm trial, is not capable of supporting such representations or suggestions.
+
+The “Efficacy Data” webpage also includes the following efficacy representations regarding progression-free survival (PFS) and overall survival (OS) (in pertinent part, emphasis original, footnotes omitted):
+
+• “FYARRO goes the distance for patients with PEComa”
+
+3 Wagner AJ, Ravi V, Riedel RF, et al. Study-end analysis from AMPECT, an open-label, phase 2 registration 
+trial of patients with advanced malignant PEComa treated with nab-sirolimus, showing durability of response 
+and long-term safety. Poster presented at: Connective Tissue Oncology Society Meeting; Vancouver, BC, 
+Canada; November 16-19, 2022 
+4 Data on file. Aadi Bioscience; 2021 
+5 Response was measured using the Response Evaluation Criteria in Solid Tumors (RECIST) v 1.1., which 
+defines the evaluation of target lesions as the following: Complete Response (CR): Disappearance of all target 
+lesions. Partial Response (PR): At least a 30% decrease in the sum of diameters of target lesions, taking as 
+reference the baseline sum diameters. Progressive Disease (PD): At least a 20% increase in the sum of 
+diameters of target lesions, taking as reference the smallest sum on study. In addition to the relative increase of 
+20%, the sum must also demonstrate an absolute increase of at least 5 mm. Stable Disease (SD): Neither 
+sufficient shrinkage to qualify for PR nor sufficient increase to qualify for PD, taking as reference the smallest 
+sum diameters while on study. See: https://ctep.cancer.gov/protocoldevelopment/docs/recist guideline.pdf. 
+
+• Presentation of a Kaplan-Meier estimate graph of PFS titled, “MEDIAN PFS” showing “PROBABILITY OF PROGRESSION-FREE SURVIVAL” on the y-axis and “Months since first nab-sirolimus dose to progressive disease” on the x-axis o “~1 YEAR (10.6 months; 95% CI: 5.5, 41.2 months)” 
+• Presentation of a Kaplan-Meier estimate graph of OS titled, “MEDIAN OS” showing “PROBABILITY OF OVERALL SURVIVAL” on the y-axis and “Months since first nab sirolimus dose to death” on the x-axis o “>4 YEARS (53.1 months; 95% CI: 22.2 months to not reached)” 
+
+You cite the same abstract presentation by Wagner et al. that is referenced above in support of these representations, which includes results from AMPECT. 9 These parts of the webpage misbrand Fyarro by misleadingly suggesting that AMPECT provided interpretable results regarding the effects of Fyarro on PFS and OS endpoints, even though the design of the AMPECT study was not capable of establishing improvement on time-to-event efficacy endpoints such as PFS or OS. The claim that, “FYARRO goes the distance for patients with PEComa” presented in conjunction with these endpoints furthers the misleading suggestion that a survival benefit (i.e., improvement in PFS and OS) has been established with Fyarro treatment. However, because AMPECT was designed as a single-arm trial (i.e., with no comparator arm), and PFS and OS are time-to-event efficacy endpoints, the reported PFS and OS results are uninterpretable; absent an appropriate comparator, it is not possible to determine if the observed effect is attributable to Fyarro or to other factor(s), such as the natural history of the disease.
+
+We acknowledge the following text appears as a footnote to the Kaplan-Meier estimate graphs, “Survival data should be interpreted with caution given the single-arm study design.” However, including these statements in Fyarro promotional communications, along with misleading representations about Fyarro’s efficacy (i.e., PFS and OS results from AMPECT), does not render the promotional communication nonmisleading in light of the issues with AMPECT (explained above) that make the study incapable of supporting representations or suggestions that these results are attributable to the effect of Fyarro.
+
+### Conclusion and Requested Action
+
+For the reasons described above, the webpage misbrands Fyarro and makes the distribution of the drug in violation of the FD&C Act.
+
+This letter notifies you of our concerns and provides you with an opportunity to address them. FDA requests that Aadi take immediate action to address any violations (including, for example, ceasing and desisting promotional communications that are misleading as described above). Please submit a written response to this letter within 15 working days from the date of receipt, addressing the concerns described in this letter, listing all promotional communications (with the 2253 submission date) for Fyarro that contain representations like those described above, and explaining your plan for the discontinuation of such communications, or for ceasing distribution of Fyarro.
+
+If you believe that your product is not in violation of the FD&C Act, please include in your submission to us your reasoning and any supporting information for our consideration within 15 working days from the date of receipt of this letter.
+
+The concerns discussed in this letter do not necessarily constitute an exhaustive list of potential violations. It is your responsibility to ensure compliance with each applicable requirement of the FD&C Act and FDA implementing regulations.
+
+Please direct your response to the Food and Drug Administration, Center for Drug Evaluation and Research, Office of Prescription Drug Promotion, 5901-B Ammendale Road, Beltsville, Maryland 20705-1266. A courtesy copy can be sent by facsimile to (301) 847-8444. Please refer to MA 48 in addition to the NDA number in all future correspondence relating to this particular matter. All correspondence should include a subject line that clearly identifies the submission as a Response to Untitled Letter. You are encouraged, but not required, to submit your response in eCTD format. All correspondence submitted in response to this letter should be placed under eCTD Heading 1.15.1.6. Additionally, the response submission should be coded as an Amendment to eCTD Sequence 0121 under NDA 213312. Questions related to the submission of your response letter should be emailed to CDER-OPDP-RPM@fda.hhs.gov.
+
+Sincerely,
+
+{See appended electronic signature page}
+
+George Tidmarsh, M.D., Ph.D. Director Center for Drug Evaluation and Research
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Signature Page 1 of 1
+
+## This is a representation of an electronic record that was signed electronically. Following this are manifestations of any and all electronic signatures for this electronic record.
+
+CARTER M BEACH 
+09/09/2025 05:11:23 PM 
+On behalf of George Tidmarsh, M.D., Ph.D 
+
+

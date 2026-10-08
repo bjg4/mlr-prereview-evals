@@ -1,0 +1,826 @@
+{
+ "family": "FDA guidances & DTC TV/radio final rule",
+ "rules": [
+  {
+   "id": "B-CFL-03D",
+   "source": {
+    "document": "FDA Guidance: Medical Product Communications That Are Consistent With the FDA-Required Labeling - Questions and Answers (final, Jun 2018)",
+    "section": "Q.6/A.6 (evidentiary support) - deterministic trigger for PRO/QoL",
+    "url": "https://www.fda.gov/media/133619/download",
+    "status": "final guidance",
+    "archived_text": "rules/sources/fda_gov_media_133619_download.txt"
+   },
+   "rule_text": "Quality-of-life / PRO / functioning claims require a PRO endpoint that was prespecified and multiplicity-controlled (fail-pending-substantiation).",
+   "verbatim_quote": "Any data, studies, or analyses relied on should be scientifically appropriate and statistically sound to support the representations",
+   "quote_check": "verified",
+   "applies_to": "all",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "qol_claim",
+    "logic": "Flag quality of life|QoL|living well|live well|feel (better|like (yourself|myself))|get back to|productivity|energy|daily activities|well-being; pass if meta.substantiated_claims contains the span.",
+    "inputs": [
+     "text",
+     "meta.substantiated_claims?"
+    ]
+   },
+   "severity": "medium",
+   "opdp_case_ids": [
+    "UL-20250909-188744-v1",
+    "UL-20240118-175584-v1"
+   ],
+   "note": null
+  },
+  {
+   "id": "B-PN-01",
+   "source": {
+    "document": "FDA Guidance: Product Name Placement, Size, and Prominence in Promotional Labeling and Advertisements (final, Dec 2017)",
+    "section": "III.A (placement/juxtaposition)",
+    "url": "https://www.fda.gov/media/87202/download",
+    "status": "final guidance",
+    "archived_text": "rules/sources/fda_gov_media_87202_download.txt"
+   },
+   "rule_text": "Established name should be placed directly to the right of or below the proprietary name, with no intervening matter (logos, taglines, graphics).",
+   "verbatim_quote": "FDA recommends that the established name be placed either directly to the right of or directly below the proprietary name.",
+   "quote_check": "verified",
+   "applies_to": "all promotional labeling and ads",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "established_name",
+    "logic": "Proximity: established name within 60 chars after brand (®/™/CII ignored), no sentence break between them.",
+    "inputs": [
+     "text",
+     "brand",
+     "established_name"
+    ]
+   },
+   "severity": "high",
+   "opdp_case_ids": [
+    "WL-20250909-aytu-716599-v2"
+   ],
+   "note": null
+  },
+  {
+   "id": "B-PN-02",
+   "source": {
+    "document": "FDA Guidance: Product Name Placement, Size, and Prominence in Promotional Labeling and Advertisements (final, Dec 2017)",
+    "section": "III.B (size)",
+    "url": "https://www.fda.gov/media/87202/download",
+    "status": "final guidance",
+    "archived_text": "rules/sources/fda_gov_media_87202_download.txt"
+   },
+   "rule_text": "Established name at least half the size of the proprietary name wherever required (actual letter size, smallest established-name letter vs largest brand letter).",
+   "verbatim_quote": "be printed in letters at least one half the actual size of the largest letter of the proprietary name",
+   "quote_check": "verified",
+   "applies_to": "print, digital, video SUPERs",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "established_name_size",
+    "logic": "Requires meta.name_sizes={brand_px, established_px}; fail if established_px < 0.5*brand_px.",
+    "inputs": [
+     "meta.name_sizes"
+    ]
+   },
+   "severity": "medium",
+   "opdp_case_ids": [],
+   "note": null
+  },
+  {
+   "id": "B-PN-03",
+   "source": {
+    "document": "FDA Guidance: Product Name Placement, Size, and Prominence in Promotional Labeling and Advertisements (final, Dec 2017)",
+    "section": "III.D.3 (electronic and computer-based promotion)",
+    "url": "https://www.fda.gov/media/87202/download",
+    "status": "final guidance",
+    "archived_text": "rules/sources/fda_gov_media_87202_download.txt"
+   },
+   "rule_text": "Online, the established name must accompany the proprietary name at least once per web page, generally where the brand most prominently appears.",
+   "verbatim_quote": "the established name accompanies the proprietary name at least once per web page where the proprietary name most prominently appears on the web page",
+   "quote_check": "verified",
+   "applies_to": "websites, email, social, paid search",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "established_name",
+    "logic": "Run per page/segment (meta.pages); each page with the brand must have >=1 brand+established-name pairing.",
+    "inputs": [
+     "pages|text",
+     "brand",
+     "established_name"
+    ]
+   },
+   "severity": "high",
+   "opdp_case_ids": [
+    "WL-20250909-aytu-716599-v2"
+   ],
+   "note": null
+  },
+  {
+   "id": "B-QE-01",
+   "source": {
+    "document": "FDA Guidance: Presenting Quantitative Efficacy and Risk Information in DTC Promotional Labeling and Advertisements (final; FR notice 88 FR 41966, Jun 28 2023)",
+    "section": "III.A (control group)",
+    "url": "https://www.fda.gov/media/169803/download",
+    "status": "final guidance",
+    "archived_text": "rules/sources/fda_gov_media_169803_download.txt"
+   },
+   "rule_text": "When a study has a control group, DTC quantitative efficacy/risk claims should give the control-group figure alongside the treatment figure.",
+   "verbatim_quote": "firms that provide quantitative efficacy or risk information about a drug in DTC promotional communications should provide quantitative information from both the treatment group and the relevant control group",
+   "quote_check": "verified",
+   "applies_to": "DTC",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "control_group_data",
+    "logic": "DTC only: sentence with a treatment-arm percentage/fraction (\\d+%|\\d+ (in|out of) \\d+) and no comparator token (placebo|compared|vs|versus|control|without <brand>|those taking) within the same or adjacent sentence -> fail.",
+    "inputs": [
+     "text",
+     "audience"
+    ]
+   },
+   "severity": "medium",
+   "opdp_case_ids": [
+    "UL-20260728-194718-v2",
+    "UL-20260130-191010-v2",
+    "UL-20250909-188963-v1",
+    "UL-20250909-188689-v1",
+    "UL-20250909-188721-v2",
+    "UL-20250321-185959-v2",
+    "UL-20240829-181754-v1",
+    "UL-20240801-180633-v1",
+    "UL-20231031-173730-v1",
+    "UL-20231031-173696-v1"
+   ],
+   "note": null
+  },
+  {
+   "id": "B-QE-02",
+   "source": {
+    "document": "FDA Guidance: Presenting Quantitative Efficacy and Risk Information in DTC Promotional Labeling and Advertisements (final; FR notice 88 FR 41966, Jun 28 2023)",
+    "section": "III.B.2 (relative frequencies)",
+    "url": "https://www.fda.gov/media/169803/download",
+    "status": "final guidance",
+    "archived_text": "rules/sources/fda_gov_media_169803_download.txt"
+   },
+   "rule_text": "Relative frequencies (e.g., '33% reduction', '3 times as likely', '62% more') should be accompanied by the corresponding absolute measures.",
+   "verbatim_quote": "firms should include the corresponding absolute probability measures in presentations of relative frequency measures",
+   "quote_check": "verified",
+   "applies_to": "DTC (good practice for HCP)",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "relative_without_absolute",
+    "logic": "Flag \\d+(\\.\\d+)?\\s*(x|times)\\b|\\d+%\\s*(more|less|lower|greater|higher|reduction|reduced|fewer) unless the same/adjacent sentence also has an absolute pair (two arm percentages, or 'N of M' / 'N in M').",
+    "inputs": [
+     "text"
+    ]
+   },
+   "severity": "medium",
+   "opdp_case_ids": [
+    "UL-20260728-194718-v2",
+    "UL-20260624-193472-v3",
+    "UL-20260423-192265-v1",
+    "UL-20260130-191010-v2",
+    "UL-20250909-188908-v1",
+    "UL-20250909-188721-v2",
+    "UL-20250909-188731-v1",
+    "UL-20231031-173730-v1",
+    "WL-20200922-nalpropion-v1",
+    "WL-20200922-nalpropion-v2",
+    "WL-20200922-nalpropion-v3"
+   ],
+   "note": null
+  },
+  {
+   "id": "B-QE-03",
+   "source": {
+    "document": "FDA Guidance: Presenting Quantitative Efficacy and Risk Information in DTC Promotional Labeling and Advertisements (final; FR notice 88 FR 41966, Jun 28 2023)",
+    "section": "III.C-D (formatting; visual aids)",
+    "url": "https://www.fda.gov/media/169803/download",
+    "status": "final guidance",
+    "archived_text": "rules/sources/fda_gov_media_169803_download.txt"
+   },
+   "rule_text": "Use consistent denominators/formats and visual aids that accurately reflect the numbers.",
+   "verbatim_quote": null,
+   "quote_check": "no_quote",
+   "applies_to": "DTC",
+   "check_type": "judgment",
+   "detection": {
+    "question": "Are numbers presented in a consumer-understandable, consistent format (same denominator, absolute numbers, accurate visual proportions)?",
+    "pass_anchor": "Consistent absolute frequencies/percentages for both arms; visuals proportional and labeled.",
+    "fail_anchor": "Mixed denominators, relative-only framing, or visuals that exaggerate differences."
+   },
+   "severity": "medium",
+   "opdp_case_ids": [
+    "UL-20260928-195157-v1",
+    "UL-20260728-194718-v1",
+    "UL-20260624-193472-v1",
+    "UL-20260423-192265-v1",
+    "UL-20260422-192125-v1",
+    "UL-20251215-190245-v1",
+    "UL-20251124-189913-v1",
+    "UL-20250909-188719-v1",
+    "UL-20250909-188720-v1",
+    "UL-20250909-188733-v1",
+    "UL-20250909-188721-v1",
+    "UL-20250909-188721-v3",
+    "UL-20250909-188749-v1",
+    "UL-20250909-188749-v2",
+    "UL-20250909-188725-v1",
+    "UL-20250909-188727-v1",
+    "UL-20250909-188715-v1",
+    "UL-20240801-180633-v4",
+    "UL-20230607-169419-v2",
+    "UL-20220331-159926-v5",
+    "UL-20220602-158997-v1",
+    "UL-20210707-150751-v1"
+   ],
+   "note": null
+  },
+  {
+   "id": "B-CFL-01",
+   "source": {
+    "document": "FDA Guidance: Medical Product Communications That Are Consistent With the FDA-Required Labeling - Questions and Answers (final, Jun 2018)",
+    "section": "Q.2/A.2 Factor 1 (conditions of use)",
+    "url": "https://www.fda.gov/media/133619/download",
+    "status": "final guidance",
+    "archived_text": "rules/sources/fda_gov_media_133619_download.txt"
+   },
+   "rule_text": "Information not in the PI must not conflict with the PI conditions of use (indication, population, limitations, dosing/administration, strength).",
+   "verbatim_quote": "Factor 1: How the information in the product communication compares to the information about those conditions of use in the FDA-required labeling",
+   "quote_check": "verified",
+   "applies_to": "HCP & DTC promotional labeling",
+   "check_type": "judgment",
+   "detection": {
+    "question": "Does any data or representation conflict with the PI's indication, patient population, limitations, dosing or administration?",
+    "pass_anchor": "All conditions of use match the PI; non-PI data are within the approved use.",
+    "fail_anchor": "Data or claims imply a different population, dosing/administration, regimen or use (e.g., storage or administration conveniences not in PI)."
+   },
+   "severity": "high",
+   "opdp_case_ids": [
+    "UL-20260526-192843-v1",
+    "UL-20260226-191387-v1",
+    "UL-20260123-190753-v3",
+    "UL-20251215-190245-v2",
+    "UL-20250909-188723-v1",
+    "UL-20250909-188707-v1",
+    "UL-20200814-141347-v3"
+   ],
+   "note": null
+  },
+  {
+   "id": "B-CFL-02",
+   "source": {
+    "document": "FDA Guidance: Medical Product Communications That Are Consistent With the FDA-Required Labeling - Questions and Answers (final, Jun 2018)",
+    "section": "Q.2/A.2 Factor 2 (potential for harm)",
+    "url": "https://www.fda.gov/media/133619/download",
+    "status": "final guidance",
+    "archived_text": "rules/sources/fda_gov_media_133619_download.txt"
+   },
+   "rule_text": "Representations must not increase the potential for harm relative to the PI.",
+   "verbatim_quote": "Factor 2: Whether the representations/suggestions about use of the product in the product communication increase the potential for harm to health",
+   "quote_check": "verified",
+   "applies_to": "all",
+   "check_type": "judgment",
+   "detection": {
+    "question": "Would following the piece's representations increase potential harm compared with the PI (e.g., skipping monitoring, broader dosing)?",
+    "pass_anchor": "No representation that would lead to riskier use than the PI.",
+    "fail_anchor": "Suggests use that bypasses PI precautions or monitoring."
+   },
+   "severity": "high",
+   "opdp_case_ids": [],
+   "note": null
+  },
+  {
+   "id": "B-CFL-03",
+   "source": {
+    "document": "FDA Guidance: Medical Product Communications That Are Consistent With the FDA-Required Labeling - Questions and Answers (final, Jun 2018)",
+    "section": "Q.6/A.6 (evidentiary support)",
+    "url": "https://www.fda.gov/media/133619/download",
+    "status": "final guidance",
+    "archived_text": "rules/sources/fda_gov_media_133619_download.txt"
+   },
+   "rule_text": "Data in CFL communications must be scientifically appropriate and statistically sound, with material limitations disclosed.",
+   "verbatim_quote": "Any data, studies, or analyses relied on should be scientifically appropriate and statistically sound to support the representations",
+   "quote_check": "verified",
+   "applies_to": "HCP & DTC",
+   "check_type": "judgment",
+   "detection": {
+    "question": "Is each data-based claim supported by a scientifically appropriate, statistically sound analysis, with design limitations (post hoc, open-label, single-arm, non-powered) disclosed prominently and not contradicted by the claim's framing?",
+    "pass_anchor": "Claims rest on prespecified, adequately controlled analyses or are clearly framed as descriptive with prominent limitations.",
+    "fail_anchor": "Claims draw confirmatory-sounding conclusions from exploratory, post hoc, single-arm or uncontrolled data."
+   },
+   "severity": "high",
+   "opdp_case_ids": [
+    "UL-20260928-195157-v2",
+    "UL-20260624-193472-v1",
+    "UL-20260624-193472-v2",
+    "UL-20260624-193472-v3",
+    "UL-20260512-192467-v1",
+    "UL-20260423-192265-v1",
+    "UL-20260422-192125-v3",
+    "UL-20260422-192125-v4",
+    "UL-20260206-191066-v1",
+    "UL-20260206-191066-v3",
+    "UL-20260206-191036-v1",
+    "UL-20260205-191020-v2",
+    "UL-20251124-189913-v2",
+    "UL-20250909-188687-v1",
+    "UL-20250909-188691-v1",
+    "UL-20250909-188693-v1",
+    "UL-20250909-188717-v1",
+    "UL-20250909-188732-v1",
+    "UL-20250909-188721-v3",
+    "UL-20250909-188713-v1",
+    "UL-20240801-180633-v4",
+    "UL-20230607-169419-v2",
+    "UL-20220331-159926-v5",
+    "UL-20220602-158997-v1",
+    "UL-20220602-158997-v2",
+    "UL-20210707-150751-v1"
+   ],
+   "note": null
+  },
+  {
+   "id": "B-BS-01",
+   "source": {
+    "document": "FDA Draft Guidance: Brief Summary and Adequate Directions for Use: Disclosing Risk Information in Consumer-Directed Print Advertisements and Promotional Labeling (revised draft, Aug 2015)",
+    "section": "Consumer brief summary content (lines 261-300 of the draft)",
+    "url": "https://www.fda.gov/media/70768/download",
+    "status": "draft guidance (not for implementation)",
+    "archived_text": null
+   },
+   "rule_text": "Consumer brief summary should address the boxed warning, all contraindications, the most clinically significant W&P, frequent ARs, the indication and key patient directives.",
+   "verbatim_quote": "Boxed Warning ... All Contraindications ... the most clinically significant information from the Warnings and Precautions section(s) of the PI",
+   "quote_check": "not_checked (source text not archived; quote taken from FDA search excerpt)",
+   "applies_to": "DTC print ads & promotional labeling",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "risk_coverage",
+    "logic": "pi.required_risk_terms built from Boxed Warning concepts + all CIs + W&P headings; all must appear.",
+    "inputs": [
+     "text",
+     "pi.required_risk_terms"
+    ]
+   },
+   "severity": "high",
+   "opdp_case_ids": [
+    "UL-20260526-192843-v2",
+    "UL-20260331-191883-v2",
+    "UL-20220331-159926-v1",
+    "UL-20201124-144115-v1"
+   ],
+   "note": null
+  },
+  {
+   "id": "B-SM-01",
+   "source": {
+    "document": "FDA Draft Guidance: Internet/Social Media Platforms with Character Space Limitations - Presenting Risk and Benefit Information (draft, Jun 2014)",
+    "section": "IV.B point 1 (risk with benefit in each communication)",
+    "url": "https://www.fda.gov/media/88551/download",
+    "status": "draft guidance (not for implementation)",
+    "archived_text": "rules/sources/fda_gov_media_88551_download.txt"
+   },
+   "rule_text": "In character-space-limited communications (tweets, paid search), risk information should appear together with benefit information within each individual communication.",
+   "verbatim_quote": "Risk information should be presented together with benefit information within each individual character-space-limited communication",
+   "quote_check": "verified",
+   "applies_to": "paid search, microblog/social posts, banners",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "risk_present",
+    "logic": "For piece_type in {sponsored link, paid search, tweet/post, banner}: brand + benefit/indication => require risk content in the same unit.",
+    "inputs": [
+     "text",
+     "piece_type"
+    ]
+   },
+   "severity": "high",
+   "opdp_case_ids": [
+    "UL-20260408-191932-v2",
+    "UL-20251215-190494-v1",
+    "UL-20250909-188905-v1",
+    "UL-20250909-188904-v1",
+    "UL-20250203-185653-v1",
+    "UL-20240717-180350-v1",
+    "UL-20230811-171460-v1",
+    "UL-20220119-155627-v3",
+    "UL-20210809-151527-v1",
+    "WL-20200922-nalpropion-v1",
+    "WL-20250909-aytu-716599-v1"
+   ],
+   "note": null
+  },
+  {
+   "id": "B-SM-02",
+   "source": {
+    "document": "FDA Draft Guidance: Internet/Social Media Platforms with Character Space Limitations - Presenting Risk and Benefit Information (draft, Jun 2014)",
+    "section": "IV.B point 2 (most serious risks)",
+    "url": "https://www.fda.gov/media/88551/download",
+    "status": "draft guidance (not for implementation)",
+    "archived_text": "rules/sources/fda_gov_media_88551_download.txt"
+   },
+   "rule_text": "At minimum, character-limited communications should include the most serious risks: boxed-warning concepts, fatal/life-threatening risks, and contraindications.",
+   "verbatim_quote": "the most serious risks would generally include all risk concepts from a boxed warning, all risks that are known to be fatal or life-threatening, and all contraindications",
+   "quote_check": "verified",
+   "applies_to": "paid search, social",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "risk_coverage",
+    "logic": "pi.required_risk_terms limited to boxed warning + fatal/life-threatening + CIs.",
+    "inputs": [
+     "text",
+     "pi.required_risk_terms"
+    ]
+   },
+   "severity": "high",
+   "opdp_case_ids": [],
+   "note": null
+  },
+  {
+   "id": "B-SM-03",
+   "source": {
+    "document": "FDA Draft Guidance: Internet/Social Media Platforms with Character Space Limitations - Presenting Risk and Benefit Information (draft, Jun 2014)",
+    "section": "IV.B point 3 (direct risk link)",
+    "url": "https://www.fda.gov/media/88551/download",
+    "status": "draft guidance (not for implementation)",
+    "archived_text": "rules/sources/fda_gov_media_88551_download.txt"
+   },
+   "rule_text": "Each communication should include a direct hyperlink to a landing page devoted exclusively to risk information (not the home page); URL should signal risk content.",
+   "verbatim_quote": "a direct hyperlink to a destination (e.g., landing page) that is devoted exclusively to the communication of risk information about the product",
+   "quote_check": "verified",
+   "applies_to": "paid search, social",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "risk_link",
+    "logic": "For character-limited pieces: require a URL/link whose path or anchor contains risk|safety|isi|important-safety; a link only to home page, PI, or 'Medication Guide' sitelink does not satisfy (PI/MG links allowed as supplemental).",
+    "inputs": [
+     "text",
+     "links?",
+     "piece_type"
+    ]
+   },
+   "severity": "medium",
+   "opdp_case_ids": [
+    "WL-20200922-nalpropion-v1",
+    "WL-20250909-aytu-716599-v1"
+   ],
+   "note": null
+  },
+  {
+   "id": "B-SM-04",
+   "source": {
+    "document": "FDA Draft Guidance: Internet/Social Media Platforms with Character Space Limitations - Presenting Risk and Benefit Information (draft, Jun 2014)",
+    "section": "IV.B (URL content)",
+    "url": "https://www.fda.gov/media/88551/download",
+    "status": "draft guidance (not for implementation)",
+    "archived_text": "rules/sources/fda_gov_media_88551_download.txt"
+   },
+   "rule_text": "URLs/web addresses must not themselves be promotional or misleading (e.g., www.bestcancercuredrug.com).",
+   "verbatim_quote": "a URL such as www.bestcancercuredrug.com may be misleading",
+   "quote_check": "verified",
+   "applies_to": "all digital",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "promotional_url",
+    "logic": "Flag URLs/domains containing cure|best|safest|miracle|fastest|guarantee|no-?side.",
+    "inputs": [
+     "text",
+     "links?"
+    ]
+   },
+   "severity": "low",
+   "opdp_case_ids": [],
+   "note": null
+  },
+  {
+   "id": "B-MI-01",
+   "source": {
+    "document": "FDA Draft Guidance: Internet/Social Media Platforms: Correcting Independent Third-Party Misinformation (draft, Jun 2014; FDA has since issued a revised draft 'Addressing Misinformation About Medical Devices and Prescription Drugs: Q&A' that replaces it - revised text not fetched in this pass)",
+    "section": "IV.A (appropriate corrective information)",
+    "url": "https://www.fda.gov/media/88545/download",
+    "status": "draft guidance (superseded by revised draft)",
+    "archived_text": "rules/sources/fda_gov_media_88545_download.txt"
+   },
+   "rule_text": "Voluntary correction of independent third-party misinformation should be tailored, non-promotional, accurate, consistent with labeling, disclose affiliation, and link directly to FDA-required labeling (not a promotional site).",
+   "verbatim_quote": "Disclose that the person providing the corrective information is affiliated with the firm",
+   "quote_check": "verified",
+   "applies_to": "social/community replies by firm",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "misinformation_correction",
+    "logic": "If meta.communication_type=='misinformation_correction': require affiliation disclosure (works for|employee of|on behalf of|affiliated with <company>), a direct PI/labeling link, and no promotional lexicon (superlatives/benefit claims beyond the corrected point).",
+    "inputs": [
+     "text",
+     "meta.communication_type"
+    ]
+   },
+   "severity": "medium",
+   "opdp_case_ids": [],
+   "note": "2014 draft is superseded by FDA's revised draft on addressing misinformation; re-verify anchors against the revised draft before production use."
+  },
+  {
+   "id": "B-PAY-01",
+   "source": {
+    "document": "FDA Guidance: Drug and Device Manufacturer Communications With Payors, Formulary Committees, and Similar Entities - Q&A (final, Jun 2018; FDA guidance page lists a June 2026 draft revision, not fetched in this pass)",
+    "section": "III.A (A.A.4-A.A.7) and FD&C 502(a) HCEI provision",
+    "url": "https://www.fda.gov/media/102683/download",
+    "status": "final guidance",
+    "archived_text": "rules/sources/fda_gov_media_102683_download.txt"
+   },
+   "rule_text": "HCEI to payors must relate to an approved indication, rest on competent and reliable scientific evidence, and include a conspicuous statement of material differences from the labeling plus study design/limitations context.",
+   "verbatim_quote": "includes, where applicable, a conspicuous and prominent statement describing any material differences between the health care economic information and the labeling approved for the drug",
+   "quote_check": "verified",
+   "applies_to": "payors, formulary committees",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "hcei_disclosures",
+    "logic": "If audience contains payer/payor/formulary and meta.hcei: require (a) 'material differences' disclosure when meta.differs_from_label, (b) limitations, (c) data sources/type of analysis, (d) generalizability statement; fail lists missing.",
+    "inputs": [
+     "text",
+     "audience",
+     "meta.hcei?",
+     "meta.differs_from_label?"
+    ]
+   },
+   "severity": "medium",
+   "opdp_case_ids": [],
+   "note": "FDA's guidance page lists a June 2026 draft revision of this guidance (not fetched); re-check."
+  },
+  {
+   "id": "B-PAY-02",
+   "source": {
+    "document": "FDA Guidance: Drug and Device Manufacturer Communications With Payors, Formulary Committees, and Similar Entities - Q&A (final, Jun 2018; FDA guidance page lists a June 2026 draft revision, not fetched in this pass)",
+    "section": "III.C (Q.C.2-Q.C.3) unapproved products/uses to payors",
+    "url": "https://www.fda.gov/media/102683/download",
+    "status": "final guidance",
+    "archived_text": "rules/sources/fda_gov_media_102683_download.txt"
+   },
+   "rule_text": "Pre-approval/unapproved-use information to payors should state the product/use is not approved and safety/effectiveness not established, plus development stage; must not represent it as safe or effective.",
+   "verbatim_quote": "A clear statement that the product or use is not approved/cleared/licensed, and that the safety or effectiveness of the product or use has not been established",
+   "quote_check": "verified",
+   "applies_to": "payors",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "unapproved_disclosures",
+    "logic": "If audience payer and meta.unapproved: require 'not (been )?approved' + 'safety and effectiveness ... not (been )?established' + development stage term (phase|submitted|anticipated); fail on safe/effective claims.",
+    "inputs": [
+     "text",
+     "audience",
+     "meta.unapproved?"
+    ]
+   },
+   "severity": "medium",
+   "opdp_case_ids": [],
+   "note": null
+  },
+  {
+   "id": "B-CCN-01",
+   "source": {
+    "document": "FDA Final Rule: DTC Prescription Drug Advertisements: Presentation of the Major Statement in a Clear, Conspicuous, and Neutral Manner in TV and Radio Format (88 FR 80958, Nov 21 2023; compliance date Nov 20 2024), codified at 21 CFR 202.1(e)(1)(ii)",
+    "section": "21 CFR 202.1(e)(1)(ii)(A)",
+    "url": "https://www.federalregister.gov/documents/2023/11/21/2023-25428/direct-to-consumer-prescription-drug-advertisements-presentation-of-the-major-statement-in-a-clear",
+    "status": "regulation",
+    "archived_text": "rules/sources/law_cornell_edu_cfr_text_21_202_1.txt"
+   },
+   "rule_text": "Major statement must use consumer-friendly language and terminology that is readily understandable.",
+   "verbatim_quote": "It is presented in consumer-friendly language and terminology that is readily understandable.",
+   "quote_check": "verified",
+   "applies_to": "DTC TV/radio",
+   "check_type": "judgment",
+   "detection": {
+    "question": "Is the major statement in plain consumer language (no unexplained medical jargon)?",
+    "pass_anchor": "Plain words consistent with the PPI/MG ('low blood sugar', 'serious allergic reactions').",
+    "fail_anchor": "Technical terms (e.g., 'QT prolongation', 'hepatotoxicity') without plain explanation."
+   },
+   "severity": "medium",
+   "opdp_case_ids": [],
+   "note": null
+  },
+  {
+   "id": "B-CCN-02",
+   "source": {
+    "document": "FDA Final Rule: DTC Prescription Drug Advertisements: Presentation of the Major Statement in a Clear, Conspicuous, and Neutral Manner in TV and Radio Format (88 FR 80958, Nov 21 2023; compliance date Nov 20 2024), codified at 21 CFR 202.1(e)(1)(ii)",
+    "section": "21 CFR 202.1(e)(1)(ii)(B)",
+    "url": "https://www.federalregister.gov/documents/2023/11/21/2023-25428/direct-to-consumer-prescription-drug-advertisements-presentation-of-the-major-statement-in-a-clear",
+    "status": "regulation",
+    "archived_text": "rules/sources/law_cornell_edu_cfr_text_21_202_1.txt"
+   },
+   "rule_text": "Major statement audio must be at least as understandable (volume, articulation, pacing) as the rest of the ad.",
+   "verbatim_quote": "Its audio information, in terms of the volume, articulation, and pacing used, is at least as understandable as the audio information presented in the rest of the advertisement.",
+   "quote_check": "verified",
+   "applies_to": "DTC TV/radio",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "audio_pacing",
+    "logic": "With meta.audio_wpm={benefit, major_statement}: fail if major_statement wpm > benefit wpm * 1.10 (threshold is a Margin heuristic, not an FDA number).",
+    "inputs": [
+     "meta.audio_wpm"
+    ]
+   },
+   "severity": "medium",
+   "opdp_case_ids": [],
+   "note": null
+  },
+  {
+   "id": "B-CCN-03",
+   "source": {
+    "document": "FDA Final Rule: DTC Prescription Drug Advertisements: Presentation of the Major Statement in a Clear, Conspicuous, and Neutral Manner in TV and Radio Format (88 FR 80958, Nov 21 2023; compliance date Nov 20 2024), codified at 21 CFR 202.1(e)(1)(ii)",
+    "section": "21 CFR 202.1(e)(1)(ii)(C)",
+    "url": "https://www.federalregister.gov/documents/2023/11/21/2023-25428/direct-to-consumer-prescription-drug-advertisements-presentation-of-the-major-statement-in-a-clear",
+    "status": "regulation",
+    "archived_text": "rules/sources/law_cornell_edu_cfr_text_21_202_1.txt"
+   },
+   "rule_text": "TV major statement must be dual modality: SUPER text shows verbatim key terms or a verbatim transcript of the audio, displayed concurrently for about the same duration.",
+   "verbatim_quote": "Either the text displays the verbatim key terms or phrases from the corresponding audio, or the text displays the verbatim complete transcript of the corresponding audio",
+   "quote_check": "verified",
+   "applies_to": "DTC TV",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "dual_modality",
+    "logic": "Requires meta.major_statement_audio and meta.major_statement_supers (time-aligned). Each audio risk key term must appear verbatim in a concurrent SUPER; SUPER risk text absent from audio also fails; duration check if timestamps provided.",
+    "inputs": [
+     "meta.major_statement_audio",
+     "meta.major_statement_supers"
+    ]
+   },
+   "severity": "high",
+   "opdp_case_ids": [
+    "UL-20260512-192467-v3",
+    "UL-20260428-192241-v2",
+    "UL-20260205-191020-v3",
+    "UL-20260107-190549-v2",
+    "UL-20250930-189733-v2",
+    "UL-20250909-188717-v3",
+    "UL-20250909-188732-v2",
+    "UL-20250909-188733-v2"
+   ],
+   "note": null
+  },
+  {
+   "id": "B-CCN-04",
+   "source": {
+    "document": "FDA Final Rule: DTC Prescription Drug Advertisements: Presentation of the Major Statement in a Clear, Conspicuous, and Neutral Manner in TV and Radio Format (88 FR 80958, Nov 21 2023; compliance date Nov 20 2024), codified at 21 CFR 202.1(e)(1)(ii)",
+    "section": "21 CFR 202.1(e)(1)(ii)(D)",
+    "url": "https://www.federalregister.gov/documents/2023/11/21/2023-25428/direct-to-consumer-prescription-drug-advertisements-presentation-of-the-major-statement-in-a-clear",
+    "status": "regulation",
+    "archived_text": "rules/sources/law_cornell_edu_cfr_text_21_202_1.txt"
+   },
+   "rule_text": "Text portion of the TV major statement must be legible: font size/style, contrast, placement.",
+   "verbatim_quote": "the size and style of font, the contrast with the background, and the placement on the screen allow the information to be read easily",
+   "quote_check": "verified",
+   "applies_to": "DTC TV",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "super_legibility",
+    "logic": "Requires meta.super_format={px_height, frame_height, contrast_ratio}: fail if text height < 3.5% of frame height or contrast ratio < 4.5:1 (Margin heuristics; FDA gives no numbers).",
+    "inputs": [
+     "meta.super_format"
+    ]
+   },
+   "severity": "medium",
+   "opdp_case_ids": [
+    "UL-20250909-188699-v4",
+    "UL-20250909-188746-v2",
+    "UL-20250909-188747-v2",
+    "UL-20250909-188748-v2",
+    "UL-20220602-158997-v4"
+   ],
+   "note": null
+  },
+  {
+   "id": "B-CCN-05",
+   "source": {
+    "document": "FDA Final Rule: DTC Prescription Drug Advertisements: Presentation of the Major Statement in a Clear, Conspicuous, and Neutral Manner in TV and Radio Format (88 FR 80958, Nov 21 2023; compliance date Nov 20 2024), codified at 21 CFR 202.1(e)(1)(ii)",
+    "section": "21 CFR 202.1(e)(1)(ii)(E)",
+    "url": "https://www.federalregister.gov/documents/2023/11/21/2023-25428/direct-to-consumer-prescription-drug-advertisements-presentation-of-the-major-statement-in-a-clear",
+    "status": "regulation",
+    "archived_text": "rules/sources/law_cornell_edu_cfr_text_21_202_1.txt"
+   },
+   "rule_text": "During the major statement, no audio or visual elements likely to interfere with comprehension.",
+   "verbatim_quote": "the advertisement does not include audio or visual elements, alone or in combination, that are likely to interfere with comprehension of the major statement",
+   "quote_check": "verified",
+   "applies_to": "DTC TV/radio",
+   "check_type": "judgment",
+   "detection": {
+    "question": "During the major statement, are there competing visuals, scene changes, on-screen benefit text, music or action likely to interfere with comprehension?",
+    "pass_anchor": "Calm, static or low-motion visuals; no competing text or benefit messaging; audio clear.",
+    "fail_anchor": "Fast scene cuts, benefit SUPERs, attention-grabbing action or music during the major statement."
+   },
+   "severity": "high",
+   "opdp_case_ids": [
+    "UL-20260512-192467-v4",
+    "UL-20260428-192241-v3",
+    "UL-20260206-191036-v4",
+    "UL-20260130-191009-v3",
+    "UL-20260130-191010-v5",
+    "UL-20260107-190549-v3",
+    "UL-20251215-190245-v4",
+    "UL-20250909-189906-v2",
+    "UL-20250923-188954-v1",
+    "UL-20250923-188954-v2",
+    "UL-20250909-188691-v2",
+    "UL-20250909-188693-v2",
+    "UL-20250909-188697-v2",
+    "UL-20250909-188699-v5",
+    "UL-20250909-188717-v2",
+    "UL-20250909-188717-v4",
+    "UL-20250909-188752-v2",
+    "UL-20250909-188723-v2",
+    "UL-20250909-188746-v1",
+    "UL-20250909-188746-v3",
+    "UL-20250909-188747-v1",
+    "UL-20250909-188747-v3",
+    "UL-20250909-188748-v1",
+    "UL-20250909-188748-v3",
+    "UL-20250909-188751-v2",
+    "UL-20250909-188750-v1",
+    "UL-20250909-188707-v2",
+    "UL-20250909-188708-v2",
+    "UL-20250909-188725-v2",
+    "UL-20250909-188727-v2",
+    "UL-20250909-188729-v2",
+    "UL-20250909-188710-v3",
+    "UL-20250909-188712-v1",
+    "UL-20250909-188713-v2",
+    "UL-20250909-188715-v2",
+    "UL-20250909-188731-v2",
+    "UL-20240118-175584-v2"
+   ],
+   "note": null
+  },
+  {
+   "id": "B-CCN-05D",
+   "source": {
+    "document": "FDA Final Rule: DTC Prescription Drug Advertisements: Presentation of the Major Statement in a Clear, Conspicuous, and Neutral Manner in TV and Radio Format (88 FR 80958, Nov 21 2023; compliance date Nov 20 2024), codified at 21 CFR 202.1(e)(1)(ii)",
+    "section": "21 CFR 202.1(e)(1)(ii)(C)(2) / (E) (Margin proxy)",
+    "url": "https://www.federalregister.gov/documents/2023/11/21/2023-25428/direct-to-consumer-prescription-drug-advertisements-presentation-of-the-major-statement-in-a-clear",
+    "status": "regulation",
+    "archived_text": "rules/sources/law_cornell_edu_cfr_text_21_202_1.txt"
+   },
+   "rule_text": "Deterministic proxy: concurrent SUPER reading load during the major statement.",
+   "verbatim_quote": null,
+   "quote_check": "no_quote",
+   "applies_to": "DTC TV",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "super_reading_speed",
+    "logic": "With meta.supers [{text, seconds}] during the major statement: words/seconds*60 > 238 wpm (heuristic from letter-cited reading-rate concerns) or >1 distinct SUPER on screen -> fail.",
+    "inputs": [
+     "meta.supers"
+    ]
+   },
+   "severity": "medium",
+   "opdp_case_ids": [
+    "UL-20250923-188954-v2",
+    "UL-20250909-188751-v2",
+    "UL-20240118-175584-v2"
+   ],
+   "note": null
+  },
+  {
+   "id": "B-SIUU-01",
+   "source": {
+    "document": "FDA Guidance: Communications From Firms to Health Care Providers Regarding Scientific Information on Unapproved Uses of Approved/Cleared Medical Products: Q&A (final, Jan 2025)",
+    "section": "IV / Q2 (recommended disclosures)",
+    "url": "https://www.fda.gov/media/184871/download",
+    "status": "final guidance",
+    "archived_text": "rules/sources/fda_gov_media_184871_download.txt"
+   },
+   "rule_text": "SIUU communications to HCPs should include: statement that the use is not FDA-approved and safety/effectiveness not established; the approved uses; labeling limitations relevant to the unapproved use; plus study-design/limitations and author financial interests.",
+   "verbatim_quote": "A statement that the unapproved use(s) of the medical product has not been approved by FDA and that the safety and effectiveness of the medical product for the unapproved use(s) has not been established",
+   "quote_check": "verified",
+   "applies_to": "HCP (medical/scientific exchange)",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "siuu_disclosures",
+    "logic": "If meta.communication_type=='SIUU': require (a) not approved + safety/effectiveness not established, (b) 'approved for|indicated for' statement, (c) limitations/warnings reference, (d) study design/limitations, (e) funding/financial interest disclosure.",
+    "inputs": [
+     "text",
+     "meta.communication_type"
+    ]
+   },
+   "severity": "medium",
+   "opdp_case_ids": [],
+   "note": null
+  },
+  {
+   "id": "B-SIUU-02",
+   "source": {
+    "document": "FDA Guidance: Communications From Firms to Health Care Providers Regarding Scientific Information on Unapproved Uses of Approved/Cleared Medical Products: Q&A (final, Jan 2025)",
+    "section": "Q (presentation): SIUU separate from promotional communications",
+    "url": "https://www.fda.gov/media/184871/download",
+    "status": "final guidance",
+    "archived_text": "rules/sources/fda_gov_media_184871_download.txt"
+   },
+   "rule_text": "SIUU communications should be separate from promotional communications; no promotional claims, persuasive design, or calls to action in the SIUU piece.",
+   "verbatim_quote": "SIUU communications should be separate from promotional communications",
+   "quote_check": "verified",
+   "applies_to": "HCP",
+   "check_type": "judgment",
+   "detection": {
+    "question": "Is the SIUU communication kept separate from promotion (no branded promotional claims, persuasive design, or links into promotional content)?",
+    "pass_anchor": "Scientific, non-promotional, separate distribution; disclosures prominent.",
+    "fail_anchor": "Unapproved-use data embedded in or linked from a promotional piece, or presented with promotional tone."
+   },
+   "severity": "medium",
+   "opdp_case_ids": [],
+   "note": null
+  }
+ ]
+}

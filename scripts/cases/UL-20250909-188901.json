@@ -1,0 +1,19 @@
+{
+"id": "UL-20250909-188901",
+"piece_type": "HCP branded website “ORR” webpage (USA-757-80287)",
+"audience": "HCP",
+"company": "Amgen Inc.",
+"regs_in_letter": "FD&C Act (no CFR section cited in letter text)",
+"status": "processed",
+"cases": [
+{
+"cat": "Misleading presentation of study data (single-arm/uncontrolled)",
+"claim": "“Efficacy, Depth of response” | waterfall plot “Tumor change from baseline with IMDELLTRA®” with bars for CR, PR, SD, PD, NE",
+"context": "Approved on ORR/DoR in single-arm DeLLphi-301; disclaimer below plot that the single-arm trial did not establish SD was attributable to drug.",
+"rationale": "Presenting SD as part of 'depth of response' is unsupported; disclaimer does not cure.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "deterministic",
+"check": "Rule: in single-arm-trial products, flag stable disease / DCR / waterfall plots including SD; disclaimers do not count as a fix."
+}
+]
+}

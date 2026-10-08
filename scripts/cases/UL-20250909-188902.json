@@ -1,0 +1,28 @@
+{
+"id": "UL-20250909-188902",
+"piece_type": "HCP professional newsletter “Science Behind Jeuveau” (US-JUV-2500066)",
+"audience": "HCP",
+"company": "Evolus, Inc.",
+"regs_in_letter": "FD&C Act (no CFR section cited in letter text)",
+"status": "processed",
+"cases": [
+{
+"cat": "Unsubstantiated superiority / comparative claims",
+"claim": "“MANUFACTURING MATTERS-NOT ALL TOXINS ARE CREATED EQUAL” | “ENSURE PATIENTS GET THE FULL BENEFITS OF TREATMENT” | “Consistency and efficacy starts with manufacturing. Trust vacuum-dried Jeuveau®, a 900 kDa BoNT/A that utilizes the full complex with active accessory protein for full efficacy.” | “NAPs play an active role in BoNT/A [botulinum neurotoxin type A] activity…” | “BoNT/A with NAPs effectively reduce glabellar strain vs non-complexed formulation”",
+"context": "Multiple FDA-approved botulinum toxins for glabellar lines; no head-to-head studies; cited review article only theorizes.",
+"rationale": "Suggests manufacturing/formulation gives benefits over other toxins when not demonstrated.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Judge: manufacturing/formulation/molecular-weight claims that imply class-comparative clinical advantage without head-to-head data."
+},
+{
+"cat": "Minimization of risk",
+"claim": "“The field effect of the 900 kDa molecule may contribute to the precision profile, supporting the theory larger structures may diffuse less” | “Avoids crystal formation, helping maintain integrity of the toxin, including accessory proteins, for efficacy with less risk of antibody formation.” | “In clinical studies, vacuum-dried toxin formulations produced no antibodies after exposure.”",
+"context": "BOXED WARNING on distant spread of toxin effect; PI Immunogenicity section: potential for immunogenicity, cross-study antibody comparisons may be misleading.",
+"rationale": "Minimizes distant spread risk and immunogenicity; references don't support.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Judge: claims like 'diffuse less' / 'no antibodies' that soften a boxed warning or PI immunogenicity statement."
+}
+]
+}

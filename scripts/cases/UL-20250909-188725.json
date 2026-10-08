@@ -1,0 +1,28 @@
+{
+"id": "UL-20250909-188725",
+"piece_type": "DTC TV ad “Turn the Tables” (QBE.2021-0148)",
+"audience": "DTC",
+"company": "Supernus Pharmaceuticals, Inc.",
+"regs_in_letter": "FD&C Act (no CFR section cited in letter text)",
+"status": "processed",
+"cases": [
+{
+"cat": "Overstatement of efficacy",
+"claim": "[Visual] after Qelbree, hyperactive boy sits calmly at dinner, inattentive boy pays attention in class, disengaged girl focuses on table tennis; no ADHD symptoms for rest of ad | “Qelbree helps make ADHD symptoms manageable,” | SUPER: “Individual results may vary.”",
+"context": "PI: ADHD-RS-5 change -16.0 to -17.7 vs -10.9 to -11.7 placebo from baseline 39.4–45.",
+"rationale": "Implies complete resolution of ADHD symptoms.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Judge: complete-resolution imagery vs partial score reduction in PI."
+},
+{
+"cat": "Distracting presentation during risk/major statement (TV)",
+"claim": "[Visual] frequent scene changes during major statement; serious risks juxtaposed with happy, smiling protagonists",
+"context": "DTC TV major statement.",
+"rationale": "Interferes with comprehension and minimizes risks.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Storyboard check: flag activity scenes and frequent scene changes during major statement audio."
+}
+]
+}

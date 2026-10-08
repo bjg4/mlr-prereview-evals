@@ -1,0 +1,46 @@
+{
+"id": "UL-20250909-188717",
+"piece_type": "DTC TV ad “FASENRA TV 30 SALSA” (US-95912)",
+"audience": "DTC",
+"company": "AstraZeneca Pharmaceuticals LP",
+"regs_in_letter": "FD&C Act (no CFR section cited in letter text)",
+"status": "processed",
+"cases": [
+{
+"cat": "Unsupported PRO / quality-of-life claims",
+"claim": "“LOSING MY GROOVE. THANKS, ASTHMA” (meme) | “Asthma. Does it have you missing out on what you love, with who you love? Get back to better breathing with FASENRA. . . ”",
+"context": "Woman bored at home → salsa dancing with friends, selfie with 'likes'. AQLQ(S)+12 total responder rate improved vs placebo, but studies not designed to measure individual items incl. social/emotional functioning.",
+"rationale": "Implies improved social/emotional functioning; greater benefit than demonstrated.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Judge: before/after social-life transformation (memes, 'likes', 'missing out') when only a total QoL score was studied; item-level social/emotional claims unsupported."
+},
+{
+"cat": "Distracting presentation of material efficacy qualifier (SUPER)",
+"claim": "[Visual] fast-paced salsa dancing and music during SUPER with indication and dosing/administration (frames 3–7)",
+"context": "Indication/dosing SUPER.",
+"rationale": "Competing presentations distract from material information about the drug.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Storyboard check: competing audio/visual elements during indication/dosing SUPERs."
+},
+{
+"cat": "Major statement not in dual modality / incomplete major statement (TV)",
+"claim": "[Omission/Format] hypersensitivity information included only in the SUPERs; audio omits telling HCP or getting emergency help for allergic reaction symptoms (per Patient Package Insert); SUPERs and audio not verbatim/key-term matched",
+"context": "DTC TV major statement.",
+"rationale": "Fails to present major statement in dual modality and omits material information from audio.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "deterministic",
+"check": "Rule: align audio transcript with SUPER text; flag text-only risk items and missing PPI/MG action statements."
+},
+{
+"cat": "Distracting presentation during risk/major statement (TV)",
+"claim": "[Visual] fast-paced salsa dancing and music during the major statement",
+"context": "DTC TV major statement.",
+"rationale": "Interferes with comprehension.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Storyboard check: flag dancing/music/scene cuts during major statement."
+}
+]
+}

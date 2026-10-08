@@ -1,0 +1,97 @@
+DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+
+Food and Drug Administration Silver Spring, MD 20993
+
+Lisa Crawford 
+Director, Promotional Regulatory Affairs 
+Incyte Corporation 
+1801 Augustine Cut-Off 
+Wilmington, DE 19803 
+RE: BLA 761411 
+NIKTIMVO™ (axatilimab-csfr) injection, for intravenous use 
+MA 91 
+Dear Lisa Crawford: 
+The Office of Prescription Drug Promotion (OPDP) of the U.S. Food and Drug Administration 
+(FDA) has reviewed the promotional communications, the landing page and “Niktimvo may 
+offer fast and lasting responses” (“Responses”)1,2 webpages on the direct-to-consumer 
+(DTC) branded website (MAT-AXA-00050) (website) for NIKTIMVO™ (axatilimab-csfr) 
+injection, for intravenous use (Niktimvo) submitted by Incyte Corporation (Incyte) under cover 
+of Form FDA 2253. FDA has determined that these webpages are false or misleading. Thus, 
+these webpages misbrand Niktimvo and makes the distribution of the drug in violation of the 
+Federal Food, Drug, and Cosmetic Act (FD&C Act). 
+The “Responses” webpage includes the following claims pertaining to treatment response to 
+Niktimvo (emphasis original): 
+• “Most people achieved a response with Niktimvo” 
+• “75% of people (59 out of 79) experienced a response” These claims misleadingly overstate the efficacy of Niktimvo by suggesting that Niktimvo has demonstrated complete responses in patients with chronic graft-versus-host disease (cGVHD), when this is not the case. According to the CLINICAL STUDIES section of the FDA-approved Prescribing Information (PI), no patients experienced a complete response (CR), and all 59 responding patients experienced only a partial response (PR) to Niktimvo. We note the definitions of CR and PR (components of “a response”) are presented in conjunction with these claims, but this does not mitigate the misleading suggestion that up to 75% of patients experienced a CR, when none (0%) were observed. 
+
+1 The landing page is accessed from https://www.niktimvo.com/ (last accessed April 22, 2026). 2 The “Niktimvo may offer fast and lasting responses” webpage is accessed from the “How Niktimvo May Help” sub-navigation menu of the website: https://www.niktimvo.com/how-niktimvo-may-help (last accessed April 22, 2026).
+
+Lisa Crawford Page 2 
+Incyte Corporation 
+BLA 761411/MA 91 
+The landing page of the website for Niktimvo includes the claim “Niktimvo may offer fast and 
+lasting responses” in small font under the header “See how Niktimvo may help” (underlined 
+emphasis added, bolded emphasis original). Similarly, the “Responses” webpage includes 
+the following claims and presentations (bolded emphasis original, underlined emphasis 
+added): 
+• “In a study of people experiencing chronic GVHD symptoms after taking at least 2 therapies, Niktimvo™ (axatilimab-csfr) delivered fast and lasting responses” 
+• “Niktimvo provided lasting responses o More than half (60%) of the people who showed a response to Niktimvo continued to respond for at least 1 year” next to an image of a flipping calendar. 
+• “Niktimvo may provide fast and lasting responses across a range of affected organs” next to an image of a clock. These claims and presentations suggest that Niktimvo provides greater benefits to patients with cGVHD than has been demonstrated. First, these claims and presentations misleadingly suggest that patients will experience a “fast” response to the drug, when this is not the case. According to the CLINICAL STUDIES section of the PI, “The median time to first response was 1.5 months (range, 0.9 to 5.1 months),” which indicates that 50% of responding patients took longer than 1.5 months (6 weeks) to achieve a response, and it took as long as 5.1 months (22 weeks) for some patients to achieve a response. We acknowledge that this information is presented in conjunction with the claim, “Some people saw a fast response” (emphasis original) on the same webpage; however, this does not mitigate the overall misleading impression. Second, the claims and presentations regarding “lasting responses” misleadingly suggest that Niktimvo provides a long-term benefit or capacity to continue indefinitely. According to the CLINICAL STUDIES section of the PI, “the median duration of response, calculated from first response to progression, death, or new systemic therapies for cGVHD was 1.9 months (95% CI: 1.6, 3.5).” We acknowledge that the CLINICAL STUDIES section of the PI also states, “In patients who achieved response, no death or new systemic therapy initiation occurred in 60% (95% CI: 43, 74) of patients for at least 12 months since response.” However, the median duration of response is the primary measure of how long responses last, and this additional measure of durability [i.e. “More than half (60%) of the people who showed a response to Niktimvo continued to respond for at least 1 year”] does not include patients who experienced progression. Thus, in direct conjunction with claims regarding the median duration of response and in the context of the multiple “response” claims on the webpage, this additional measure of durability data misleadingly undermines consumers ability to interpret the efficacy of Niktimvo and conflates the measures of response. Therefore, the totality of these claims and presentations on these webpages further contribute to creating a misleading impression that patients will experience a CR in addition to fast response and longer duration than was actually demonstrated. The “Responses” webpage also includes the following claims (bolded emphasis original, underlined emphasis added): 
+• “People achieved responses in multiple affected organs" 
+
+Lisa Crawford Page 3 
+Incyte Corporation 
+BLA 761411/MA 91 
+• “Niktimvo may provide fast and lasting responses across a range of affected organs” These claims are presented in conjunction with a diagram of the human body highlighting specific “affected organs” and corresponding response rates. Overall, this presentation misrepresents the efficacy of Niktimvo because it creates a misleading impression of the treatment benefit of Niktimvo across organ systems. According to the CLINICAL STUDIES section of the PI, the efficacy of Niktimvo was based on overall response rate (ORR) through Cycle 7, Day 1, where overall response included CR or PR based on assessment of cumulative response across all organs, not specific individual organs. It is unclear how individual organ response rates correlate to ORR and this presentation fails to account for patients who experienced a response in one organ but showed progression in another organ. Therefore, the suggestion that Niktimvo can provide a clinical benefit in terms of responses across individual organs, even when an overall response may not have been achieved in these same patients, misleadingly inflates the perceived benefit of the drug and undermines the interpretation of the overall efficacy of the drug. The “Responses” webpage additionally includes the following claims (bolded emphasis original, underlined emphasis added): 
+• “Niktimvo offered symptom improvement” 
+• “44 out of 79 people who received Niktimvo (56%) reported improvement in the specific chronic GVHD symptoms assessed in the study.” 
+• “Symptom improvement was defined as a reduction in chronic GVHD symptoms compared to the start of the study.” The totality of these claims creates a misleading impression regarding the efficacy of Niktimvo. Specifically, this webpage defines “symptom improvement” as a “reduction in chronic GVHD symptoms,” which misleadingly suggests that in the AGAVE-201 study, Niktimvo reduced the number of symptoms, specifically in “44 out of 79 people,” when this was not demonstrated. According to the CLINICAL STUDIES section of the PI (in pertinent part, emphasis added), “ORR results were supported by exploratory analyses of patient reported symptom bother which showed at least a 7-point decrease in the modified Lee Symptom Scale score through Cycle 7 Day 1 in 56% (95% CI: 44, 67) of patients.” The cGVHD modified Lee Symptom Scale only assesses patient-reported overall degree of bother experienced from cGVHD symptoms and is not a direct measure of the number of cGVHD symptoms. Thus, it is misleading to suggest Niktimvo demonstrated “symptom improvement” by way of an overall reduction in chronic GVHD symptoms. Conclusion and Requested Action For the reasons described above, these webpages misbrand Niktimvo and makes the distribution of the drug in violation of the FD&C Act. This letter notifies you of our concerns and provides you with an opportunity to address them. FDA requests that Incyte take immediate action to address any violations (including, for example, ceasing and desisting promotional communications that are misleading as described above). 
+
+Lisa Crawford Page 4 
+Incyte Corporation 
+BLA 761411/MA 91 
+Please submit a written response to this letter within 15 working days from the date of receipt, 
+addressing the concerns described in this letter, listing all promotional communications (with 
+the 2253 submission date) for Niktimvo that contain representations like those described 
+above, and explaining your plan for the discontinuation of such communications, or for 
+ceasing distribution of Niktimvo. 
+If you believe that your products are not in violation of the FD&C Act, please include in your 
+submission to us your reasoning and any supporting information for our consideration within 
+15 working days from the date of receipt of this letter. 
+The concerns discussed in this letter do not necessarily constitute an exhaustive list of 
+potential violations. It is your responsibility to ensure compliance with each applicable 
+requirement of the FD&C Act and FDA implementing regulations. 
+Please direct your response to the undersigned at the Food and Drug Administration, 
+Center for Drug Evaluation and Research, Office of Prescription Drug Promotion, 5901- 
+B Ammendale Road, Beltsville, Maryland 20705-1266. A courtesy copy can be sent by 
+facsimile to (301) 847-8444. Please refer to MA 91 in addition to the BLA number in all future 
+correspondence relating to this particular matter. All correspondence should include a 
+subject line that clearly identifies the submission as a Response to Untitled Letter. You are 
+encouraged, but not required, to submit your response in eCTD format. All correspondence 
+submitted in response to this letter should be placed under eCTD Heading 1.15.1.6. 
+Additionally, the response submission should be coded as an Amendment to eCTD 
+Sequence 5090 under BLA 761411. Questions related to the submission of your response 
+letter should be emailed to CDER-OPDP-RPM@fda.hhs.gov. 
+Sincerely, 
+{See appended electronic signature page} 
+Samia Alam, PharmD 
+Regulatory Review Officer 
+Division of Advertising & Promotion Review 2 
+Office of Prescription Drug Promotion 
+{See appended electronic signature page} 
+Jina Kwak, PharmD, RAC 
+Team Leader 
+Division of Advertising & Promotion Review 2 
+Office of Prescription Drug Promotion 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Signature Page 1 of 1
+
+## This is a representation of an electronic record that was signed electronically. Following this are manifestations of any and all electronic signatures for this electronic record.
+
+SAMIA ALAM 04/22/2026 08:37:04 AM
+
+JINA KWAK 04/22/2026 08:39:32 AM
+
+

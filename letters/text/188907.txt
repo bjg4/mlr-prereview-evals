@@ -1,0 +1,187 @@
+                  DEPARTMENT OF HEALTH & HUMAN SERVICES                                          Public Health Service
+
+
+
+                                                                                                 Food and Drug Administration
+                                                                                                 Silver Spring, MD 20993
+
+
+
+
+             Rajatavo Maitra
+             Senior Director, US Regulatory Operations
+             Ipsen Biopharmaceuticals, Inc.
+             1 Main Street, 7th Floor
+             Cambridge, MA 02142
+
+            RE:         NDA 211723
+                        TAZVERIK® (tazemetostat) tablets, for oral use
+                        MA 572
+
+            Dear Rajatavo Maitra:
+
+            The U.S. Food and Drug Administration (FDA) has reviewed the promotional communication,
+            the “Clinical Trial Results” webpage1 (webpage) on the Tazverik follicular lymphoma (FL)
+            Healthcare Provider Website (TAZ-US-000086) for TAZVERIK® (tazemetostat) tablets, for
+            oral use (Tazverik) submitted by Ipsen Biopharmaceuticals, Inc. (Ipsen) under cover of Form
+            FDA 2253. FDA also received a complaint regarding other promotional communications with
+            representations similar to those discussed in this letter. FDA has determined that the
+            webpage is false or misleading. Thus, the webpage misbrands Tazverik and makes the
+            distribution of the drug in violation of the Federal Food, Drug, and Cosmetic Act (FD&C Act).
+
+            The “Clinical Trial Results” webpage, under the “Efficacy” sub-navigation menu of the
+            website for Tazverik, contains two additional tabs titled, “Study Endpoints” and “Additional
+            Data.” The “Additional Data” tab includes the following efficacy representations regarding
+            “changes in tumor volume” for the wild type (WT) and mutant type (MT) cohorts (in pertinent
+            part, emphasis original, footnotes omitted):
+
+                •       Presentation of a waterfall plot titled, “Exploratory subanalysis of the primary
+                        endpoint: Changes in tumor volume for patients in the WT Cohort” showing
+                        “Change in tumor volume from baseline (%)” on the y-axis and “Patients (n=48)” on
+                        the x-axis with the following claim:
+
+                           o “71% (n=34/48) of EZH2 WT patients had a reduction in tumor volume”
+
+                •       Presentation of a waterfall plot titled, “Exploratory subanalysis of the primary
+                        endpoint: Changes in tumor volume for patients in the MT cohort” showing
+                        “Change in tumor volume from baseline (%)” on the y-axis and “Patients (n=42)” on
+                        the x-axis with the following claim:
+            1 The “Clinical Trial Results” webpage is accessed from the “Efficacy” sub-navigation menu of the website:
+
+            https://www.tazverik.com/hcp/follicular-lymphoma/clinical-trial-results (last accessed September 4, 2025).
+
+
+
+
+Reference ID: 5655550
+            Rajatavo Maitra                                                                                   Page 2
+            Ipsen Biopharmaceuticals, Inc.
+            NDA 211723/MA 572
+
+
+                           o “98% (n=41/42) of the EZH2 MT patients had a reduction in tumor volume”
+
+            As provided on this webpage, the percentage of patients who had a reduction in tumor
+            volume, i.e., disease control rate (DCR), was calculated as a composite of complete
+            response (CR), partial response (PR), and stable disease (SD). This is further illustrated by
+            the waterfall plots which contain dark gray bars under the line for 0% change in tumor
+            volume from baseline (i.e., the 34/48 patients in the WT cohort and 41/42 patients in the MT
+            cohort). The patients meeting the criteria for overall response (i.e., CR + PR), are noted by
+            the dark gray bars that meet or surpass the orange dashed line indicating a 50% decrease in
+            tumor volume. These representations of SD and DCR make this promotional communication
+            misleading by suggesting that Tazverik improves DCR in patients with relapsed or refractory
+            follicular lymphoma, when the study from which the presentations were drawn could not
+            demonstrate this result. Tazverik was approved based on an effect shown on overall
+            response rate (ORR) and duration of response (DOR) endpoints in Study E7438-G000-101,
+            a single arm trial. As support for these representations, you cite data on file, 2 which includes
+            results from Study E7438-G000-101. In Study E7438-G000-101, the endpoint of ORR was
+            comprised only of PR + CR, as defined by the International Working Group Non-Hodgkin
+            Lymphoma (IWG-NHL) criteria as assessed by Independent Review Committee.3 Because
+            Study E7438-G000-101 was designed as a single-arm trial, the study did not establish that
+            the SD result was attributable to the effect of the drug or if the SD result reflects the natural
+            history of the disease. Consequently, the DCR calculations (i.e., the percent of patients who
+            had a reduction in tumor volume), which are based on a composite that includes SD data,
+            are not supported by the data cited. An assessment of delay in time to disease progression
+            in patients treated with Tazverik (i.e., an assessment of SD) would need to be based on the
+            results of a randomized controlled trial.
+
+            We acknowledge that the following text appears under the bolded header, “LIMITATIONS” in
+            conjunction with the waterfall plots (in pertinent part, footnote omitted):
+
+                •       “Tumor volume reduction is not equivalent to overall response, which requires at least
+                        50% volume reduction and no new lesions per IWG-NHL criteria.”
+
+                •       “Conclusions regarding the primary endpoint of the study should not be drawn from
+                        this representation of the data.”
+
+            However, these disclosures of the study’s limitations in this promotional communication do
+            not correct or mitigate the misleading representations or suggestions of the presentation. As
+
+            2 Data on File. Ipsen Biopharmaceuticals, Inc. 2021
+            3
+              Response was measured using the International Working Group Non-Hodgkin Lymphoma (IWG-NHL) criteria,
+            which defines response criteria for lymphoid malignancies as the following: Complete Response (CR): complete
+            disappearance of all detectable clinical evidence of disease and disease-related symptoms if present before
+            therapy. Progressive Disease (PD): Appearance of a new lesion(s) > 1.5 cm in any axis, ≥ 50% increase in sum
+            of the product of the diameters of more than one node, or ≥ 50% increase in longest diameter of a previously
+            identified node > 1 cm in short axis. Partial Response (PR): at least a 50% decrease in sum of the product of the
+            diameters of up to six of the largest dominant nodes or nodal masses. No new sites of disease should be
+            observed. Stable Disease (SD): A patient is considered to have SD when he or she fails to attain the criteria
+            needed for a CR or PR, but does not fulfill those for PD. See: Cheson BD, Pfistner B, Juweid ME, et al. Revised
+            response criteria for malignant lymphoma. J Clin Oncol. 2007; 25(5):579-586.
+
+Reference ID: 5655550
+            Rajatavo Maitra                                                                    Page 3
+            Ipsen Biopharmaceuticals, Inc.
+            NDA 211723/MA 572
+
+            discussed above, this promotional communication makes misleading representations or
+            suggestions about the efficacy of Tazverik by presenting DCR calculations that include SD
+            based on Study E7438-G000-101, which, as a single-arm trial, is not capable of supporting
+            such representations or suggestions.
+
+            Conclusion and Requested Action
+
+            For the reasons described above, the webpage misbrands Tazverik and makes the
+            distribution of the drug in violation of the FD&C Act.
+
+            This letter notifies you of our concerns and provides you with an opportunity to address them.
+            FDA requests that Ipsen take immediate action to address any violations (including, for
+            example, ceasing and desisting promotional communications that are misleading as
+            described above). Please submit a written response to this letter within 15 working days from
+            the date of receipt, addressing the concerns described in this letter, listing all promotional
+            communications (with the 2253 submission date) for Tazverik that contain representations
+            like those described above, and explaining your plan for the discontinuation of such
+            communications, or for ceasing distribution of Tazverik.
+
+            If you believe that your product is not in violation of the FD&C Act, please include in your
+            submission to us your reasoning and any supporting information for our consideration within
+            15 working days from the date of receipt of this letter.
+
+            The concerns discussed in this letter do not necessarily constitute an exhaustive list of
+            potential violations. It is your responsibility to ensure compliance with each applicable
+            requirement of the FD&C Act and FDA implementing regulations.
+
+            Please direct your response to the Food and Drug Administration, Center for Drug
+            Evaluation and Research, Office of Prescription Drug Promotion, 5901-B Ammendale
+            Road, Beltsville, Maryland 20705-1266. A courtesy copy can be sent by facsimile to (301)
+            847-8444. Please refer to MA 572 in addition to the NDA number in all future
+            correspondence relating to this particular matter. All correspondence should include a
+            subject line that clearly identifies the submission as a Response to Untitled Letter. You are
+            encouraged, but not required, to submit your response in eCTD format. All correspondence
+            submitted in response to this letter should be placed under eCTD Heading 1.15.1.6.
+            Additionally, the response submission should be coded as an Amendment to eCTD
+            Sequence 5485 under NDA 211723. Questions related to the submission of your response
+            letter should be emailed to CDER-OPDP-RPM@fda.hhs.gov.
+
+
+                                                            Sincerely,
+
+                                                            {See appended electronic signature page}
+
+                                                            George Tidmarsh, M.D., Ph.D.
+                                                            Director
+                                                            Center for Drug Evaluation and Research
+
+
+
+Reference ID: 5655550
+                                                                                                    Signature Page 1 of 1
+
+          --------------------------------------------------------------------------------------------
+          This is a representation of an electronic record that was signed
+          electronically. Following this are manifestations of any and all
+          electronic signatures for this electronic record.
+          --------------------------------------------------------------------------------------------
+          /s/
+          ------------------------------------------------------------
+
+          CARTER M BEACH
+          09/09/2025 05:08:42 PM
+          On behalf of George Tidmarsh, M.D., Ph.D
+
+
+
+
+Reference ID: 5655550
+

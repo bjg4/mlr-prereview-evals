@@ -1,0 +1,642 @@
+SOURCE_URL: https://www.fda.gov/media/184871/download
+
+Author: FDA
+
+57951683fnlrv2.docx
+
+## Communications From Firms to
+
+## Health Care Providers Regarding
+
+## Scientific Information on
+
+## Unapproved Uses of
+
+## Approved/Cleared Medical
+
+## Products
+
+### Questions and Answers Guidance for Industry
+
+U.S. Department of Health and Human Services 
+Food and Drug Administration 
+Center for Drug Evaluation and Research (CDER) 
+Center for Biologics Evaluation and Research (CBER) 
+Center for Devices and Radiological Health (CDRH) 
+Center for Veterinary Medicine (CVM) 
+Office of the Commissioner (OC) 
+
+January 2025 Procedural Revision 2
+
+OMB Control Number XXXX-XXXX The information collection provisions in Q2, Q4, and Q5 of this guidance are under OMB review. This guidance is not for current implementation. See additional PRA statement in section VI of this guidance.
+
+Communications From Firms to Health Care Providers Regarding Scientific Information on Unapproved Uses of Approved/Cleared Medical Products Questions and Answers Guidance for Industry
+
+Additional copies are available from: 
+Office of Communications, Division of Drug Information 
+Center for Drug Evaluation and Research 
+Food and Drug Administration 
+10001 New Hampshire Ave., Hillandale Bldg., 4th Floor 
+Silver Spring, MD 20993-0002 
+Phone: 855-543-3784 or 301-796-3400; Fax: 301-431-6353; Email: druginfo@fda.hhs.gov 
+https://www.fda.gov/drugs/guidance-compliance-regulatory-information/guidances-drugs 
+and/or 
+Office of Communication, Outreach, and Development 
+Center for Biologics Evaluation and Research 
+Food and Drug Administration 
+10903 New Hampshire Ave., Bldg. 71, rm. 3128 
+Silver Spring, MD 20993-0002 
+Phone: 800-835-4709 or 240-402-8010; Email: ocod@fda.hhs.gov 
+https://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-guidances 
+and/or 
+Office of Communication and Education 
+CDRH-Division of Industry and Consumer Education 
+Center for Devices and Radiological Health 
+Food and Drug Administration 
+10903 New Hampshire Ave., Bldg. 66, rm. 4621 
+Silver Spring, MD 20993-0002 
+Phone: 800-638-2041 or 301-796-7100 
+Fax: 301-847-8149, Email: DICE@fda.hhs.gov 
+https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-assistance/guidance-documents-medical-devices 
+and-radiation-emitting-products 
+and/or 
+Policy and Regulations Staff 
+Center for Veterinary Medicine 
+Food and Drug Administration 
+7500 Standish Place, Rockville, MD 20855 
+Phone: 240-276-9300 
+https://www.fda.gov/animal-veterinary/guidance-regulations/guidance-industry 
+and/or 
+Office of Policy 
+Office of the Commissioner 
+Food and Drug Administration 
+10903 New Hampshire Ave., Bldg. 32, Room 4252 
+Silver Spring, MD 20993-0002 
+Phone: 301-827-4830 
+U.S. Department of Health and Human Services 
+Food and Drug Administration 
+Center for Drug Evaluation and Research (CDER) 
+Center for Biologics Evaluation and Research (CBER) 
+Center for Devices and Radiological Health (CDRH) 
+Center for Veterinary Medicine (CVM) 
+Office of the Commissioner (OC) 
+January 2025 
+Procedural 
+
+TABLE OF CONTENTS 
+I. INTRODUCTION ... 1 
+II. GLOSSARY ... 3 
+III. BACKGROUND ... 7 
+IV. POLICY ... 10 
+V. QUESTIONS AND ANSWERS ... 12 
+VI. PAPERWORK REDUCTION ACT OF 1995 ... 29 
+
+Communications From Firms to Health Care Providers Regarding Scientific Information on Unapproved Uses of Approved/Cleared Medical Products Questions and Answers Guidance for Industry 1
+
+This guidance represents the current thinking of the Food and Drug Administration (FDA or Agency) on this topic. It does not establish any rights for any person and is not binding on FDA or the public. You can use an alternative approach if it satisfies the requirements of the applicable statutes and regulations. To discuss an alternative approach, contact the FDA office responsible for this guidance as listed on the title page.
+
+I. INTRODUCTION 
+This guidance describes FDA’s enforcement policy regarding certain firm-initiated 
+communications of scientific information on unapproved use(s) of the firm’s approved/cleared 
+medical products to health care providers (HCPs) engaged in prescribing or administering 
+medical products to individual patients. 2 Under the FDA Authorities, 3 a firm’s communication 
+about unapproved uses of its approved/cleared medical product could be evidence of the firm’s 
+intended use for such product, and, depending on the facts and circumstances, may be relevant to 
+establishing that the firm has distributed a medical product that fails to comply with applicable 
+premarket requirements or is otherwise misbranded or adulterated. At the same time, in certain 
+circumstances, HCPs may be interested in scientific information about unapproved uses of 
+approved/cleared medical products to inform clinical practice decisions for the care and 
+management of their individual patients. 
+FDA is issuing this guidance to provide reassurance to firms that, if they choose to provide 
+communications consistent with the recommendations of this guidance, FDA does not intend to 
+use the firm’s dissemination of such communication standing alone as evidence of a new 
+intended use. Additionally, FDA does not expect a firm to submit such a communication to the 
+Agency at the time the communication is initially shared with HCPs. For the purposes of this 
+1 This guidance has been prepared by the Office of Prescription Drug Promotion in the Office of Medical Policy in 
+the Center for Drug Evaluation and Research in cooperation with the Center for Biologics Evaluation and Research, 
+the Center for Devices and Radiological Health, the Center for Veterinary Medicine, and the Office of the 
+Commissioner at the Food and Drug Administration. 
+2 Terms that appear in bold at first mention are defined in section II. 
+3 For more information about the relevant statutory authorities, see footnotes 13–16 and the associated text of this 
+guidance. 
+
+guidance, we refer to this enforcement policy as “the enforcement policy outlined in this 
+guidance,” which we explain in greater detail in section IV. We acknowledge that firms 
+communicate in other ways and with other audiences, and this guidance neither speaks to nor 
+intends to convey any views on communications that are not within the scope of the enforcement 
+policy outlined in this guidance. The fact that a communication by a firm does not share all the 
+characteristics of communications that are within the scope of this enforcement policy does not 
+alone mean that FDA intends to rely on it to establish a new intended use. 
+A key tenet underlying this enforcement approach is that, to promote the public health, any 
+individual firm-initiated communication of scientific information about unapproved use(s) of that 
+firm’s approved/cleared medical product(s) should be truthful and non-misleading and should 
+provide and appropriately present all information necessary for HCPs to understand and evaluate 
+the strengths and weaknesses, validity, and clinical utility of the scientific information on 
+unapproved use(s) in that specific communication. Accordingly, this guidance provides 
+recommendations consistent with those principles. 
+This guidance also describes the characteristics of the specific source publications contained in 
+firm-initiated communications that fall within the enforcement policy outlined in this guidance. 
+Specifically, this guidance provides recommendations for firms initiating the sharing with HCPs 
+of: 
+• Source publications that are: - Published scientific or medical journal articles (reprints) - Published clinical reference resources, as follows: o Clinical practice guidelines (CPGs) o Scientific or medical reference texts (reference texts) o Materials from digital clinical practice resources 
+• Firm-generated presentations of scientific information on unapproved use(s) provided with a source publication For the purposes of this guidance, these specific types of firm-initiated communications to HCPs, in combination with the disclosures recommended in this guidance, are referred to as scientific information on unapproved use(s) of approved/cleared medical product communications (hereafter referred to as SIUU communications). 4 This guidance does not apply to a firm’s communications about: 
+
+4 We acknowledge that firms share SIUU communications through different media (e.g., paper, digital). The recommendations in this guidance apply regardless of the medium of the communication.
+
+• A use that is an “unapproved use of an approved product” for the purposes of section 564 of the Federal Food, Drug, and Cosmetic Act (FD&C Act) and that is an authorized emergency use under that section (see sections 564(a)(2)(B) and (a)(4)(E) of the FD&C Act) 5 
+• A prohibited extra-label use of a drug in animals This guidance includes examples to illustrate some of the recommendations and general considerations for SIUU communications. The examples in this guidance do not describe every aspect of the SIUU communications. In developing this guidance, FDA considered feedback from interested parties, including comments received on the revised draft guidance of the same title (2023 revised draft guidance). This guidance finalizes the 2023 revised draft guidance. In general, FDA’s guidance documents do not establish legally enforceable responsibilities. Instead, guidances describe the Agency’s current thinking on a topic and should be viewed only as recommendations, unless specific regulatory or statutory requirements are cited. The use of the word should in Agency guidance means that something is suggested or recommended, but not required. 
+II. GLOSSARY 
+The following terms are defined for the purposes of this guidance: 
+Approved/cleared medical product 6 refers only to certain medical products that may be 
+introduced into interstate commerce for at least one use under the FDA Authorities (as that term 
+is defined in this guidance) as a result of having satisfied applicable premarket requirements, as 
+follows: 
+• With respect to a device, the term refers only to a device that is the subject of an approved premarket application (PMA) in effect under section 515 of the FD&C Act, a substantial equivalence determination (510(k) clearance) for a premarket notification under section 510(k), or a De Novo marketing authorization granted under section 
+
+5 In addition, this guidance does not apply to any communications about a medical product that is an unapproved product as that term is used in section 564 of the FD&C Act, including communications about a use that is an authorized emergency use under that section. (See sections 564(a)(2)(A) and (a)(4)(D) of the FD&C Act.) 6 This term is chosen for ease of reference within this guidance and its use in this guidance is not intended to indicate that every medical product covered by this term is referred to as approved or cleared under the language of the FDA Authorities. For example, nonprescription drugs that satisfy requirements for marketing under section 505G of the FD&C Act are not approved under section 505. The use of the term approved/cleared medical product also does not convey that the introduction of the medical product into interstate commerce for an unapproved use would be legal.
+
+513(f)(2); to a device that is licensed under section 351 of the Public Health Service Act (PHS Act); or to a device that is exempt from premarket notification.
+
+• With respect to a human drug, the term refers only to a drug with respect to which an approval of an application under section 505 of the FD&C Act is in effect or a biologics license under section 351 of the PHS Act is in effect or to a drug that is marketed in compliance with section 505G of the FD&C Act. 
+• With respect to an animal drug, the term refers only to a drug that is the subject of an approved application in effect under section 512 of the FD&C Act; it does not include a conditionally approved or indexed animal drug. Approved use 7 refers to a use that is lawfully included as an indication or use in the FDA required labeling of an approved/cleared medical product (as that term is defined in this guidance) as a result of having satisfied applicable premarket requirements. Clinical practice guideline (CPG) refers to a statement or document from a professional or academic organization that includes recommendations focused on a specific disease or condition intended to help health care providers make decisions for individual patient care, including decisions in circumstances where there are few or no approved/cleared medical products indicated for the patient’s condition or the approved/cleared medical products have not proven successful for the individual patient. Digital clinical practice resource refers to a digital resource that contains medical and scientific information on a wide range of topics. The information is typically searchable by topic or keyword and produces materials in response to the HCP’s search terms. 8 FDA Authorities refers, collectively, to the FD&C Act, the PHS Act, and their implementing regulations. 9 
+7 This term is chosen for ease of reference within this guidance. We note that for certain categories of medical 
+products, the FDA Authorities use terms other than approved to describe satisfaction of applicable premarket 
+requirements. 
+8 Examples of digital clinical practice resources include Medscape and UptoDate. FDA does not endorse any 
+particular digital clinical practice resource. 
+9 See Addendum to FDA Memorandum, Public Health Interests and First Amendment Considerations Related to 
+Manufacturer Communications Regarding Unapproved Uses of Approved or Cleared Medical Products (January 
+2017) — Additional and Updated Considerations Related to Manufacturer Communications Regarding Unapproved 
+Uses of Approved or Cleared Medical Products (January 2025) (2025 Addendum) (available at 
+https://www.regulations.gov/docket/FDA-2016-N-1149). See also the FDA Summary of Premarket Review and 
+Related Authorities for Medical Products (January 2025) (2025 Premarket Review and Related Authorities 
+Summary) that updates Appendix A of the January 2017 Memorandum and provides an overview of legal 
+authorities governing firms’ communications regarding unapproved uses of medical products, including a discussion 
+of the premarket review processes for each type of medical product (available at 
+https://www.regulations.gov/docket/FDA-2016-N-1149). 
+
+FDA-required labeling includes, but is not necessarily limited to, the labeling reviewed and approved by FDA as part of medical product premarket review processes. FDA-required labeling includes, for example:
+
+• For a prescription human drug (including a drug that is licensed as a biological product), the FDA-approved Prescribing Information that meets the requirements of 21 CFR 201.100 
+• For a nonprescription human drug that is the subject of an approved drug application under section 505 of the FD&C Act, the FDA-approved Drug Facts labeling that meets the requirements of 21 CFR 201.66 
+• For a nonprescription drug that is not the subject of an approved drug application under section 505 of the FD&C Act but instead is marketed under section 505G of the FD&C Act, the labeling that must be provided in order for that drug to comply with section 505G 
+• For an animal drug, the FDA-approved information for prescription and nonprescription drugs that meets the requirements of 21 CFR 514.1(b)(3) 
+• For a device, the labeling approved during the review of a premarket approval application or De Novo classification request 
+• For a device subject to premarket notification (510(k)) requirements or exempt from premarket review, the labeling that provides indications for use and adequate directions for use and other information required to appear on the label or in labeling Firm or firms refers to the persons legally responsible for the labeling of medical products and includes applicants, sponsors, requestors, 10 manufacturers, packers, and distributors of medical products, and licensees of such persons, and any persons communicating on behalf of these entities. Firm-generated presentation refers to a firm’s presentation of scientific information on unapproved use(s) from one or more source publications that is provided with the source publication(s). 11 
+
+Health care provider (HCP) refers to individuals such as physicians, veterinarians, dentists, physician assistants, nurse practitioners, pharmacists, or registered nurses who are licensed or
+
+10 See section 505G(q)(3) of the FD&C Act. 11 See Q5 for additional information on firm-generated presentations and a description of the characteristics of firm generated presentations that fall within the enforcement policy outlined in this guidance.
+
+otherwise authorized by law to prescribe, order, administer, or use medical products in a 
+professional capacity. 12 
+Reference text refers to medical or scientific textbooks that typically discuss a wide range of 
+topics (e.g., medical diagnosis, pathophysiology and treatments, pharmacology, surgical 
+techniques, and other scientific or medical information). 
+Reprint refers to a copy of an article originally published by a medical or scientific journal. 
+SIUU communication refers to a firm-initiated communication of scientific information on 
+unapproved use(s) of the firm’s approved/cleared medical product that: 
+1. Is shared with HCPs engaged in prescribing or administering approved/cleared medical 
+products to individual patients, and 
+2. Includes the disclosures recommended in this guidance, and 
+3. Includes one or more of the following types of source publications: 
+• Published reprints 
+• Published clinical reference resources, as follows: - CPGs - Reference texts - Materials from digital clinical practice resources An SIUU communication can also include a firm-generated presentation. Source publication refers to the published reprint, CPG, reference text, or material from a digital clinical practice resource that is included in a firm’s SIUU communication. Unapproved use refers to a use that is not lawfully included as an indication or use in the FDA required labeling of an approved/cleared medical product (as that term is defined in this guidance). 
+
+12 FDA has separate recommendations for a firm’s communications with the payor audience, which could include HCPs serving on formulary committees or other entities carrying out responsibilities for medical product selection or acquisition, formulary management, and/or coverage and reimbursement decisions on a population basis (payors). (See the guidance for industry Drug and Device Manufacturer Communications With Payors, Formulary Committees, and Similar Entities: Questions and Answers (June 2018). We update guidances periodically. To make sure you have the most recent version of a guidance, check the FDA guidance web page at https://www.fda.gov/regulatory-information/search-fda-guidance-documents.) (See also section 502(a) and (gg) of the FD&C Act, 21 U.S.C. 352(a) and (gg)).
+
+III. BACKGROUND 
+The evolution of medical product regulation in the United States has been shaped by experience 
+with the real and substantial risks to the public from uses of medical products not shown to be 
+both safe and effective. Congress developed the premarket review frameworks for medical 
+products in response to public health tragedies, realizing that (1) safety and effectiveness for 
+each intended use needs to be appropriately studied, and the resulting information needs to be 
+submitted by firms to FDA and independently evaluated by FDA before a medical product is 
+introduced into interstate commerce for that use because the evidence that demonstrates 
+effectiveness and safety for one use of a product provides no guarantee of the effectiveness or 
+safety of additional uses; and (2) exclusive reliance on postmarket remedies (e.g., enforcement 
+actions for false or misleading labeling) is unacceptable as a public health strategy because it 
+does not prevent consumers from experiencing harm from unsafe and/or ineffective treatments. 13 
+Accordingly, longstanding FDA Authorities prohibit, among other things, the introduction (or 
+causing the introduction) into interstate commerce of a medical product that fails to comply with 
+applicable premarket requirements or is otherwise misbranded or adulterated. 14 This prohibition 
+includes the introduction (or causing the introduction) into interstate commerce of a medical 
+product that is intended for a use that has not been approved (an unapproved use), even if that 
+same medical product is approved by FDA for a different use. 15,16 
+The intended use of a medical product can be established from, among other things, its label, 
+labeling, promotional claims, advertising, and any other relevant source. 17 For example, claims 
+or statements made by or on behalf of a firm that explicitly or implicitly promote a medical 
+product for a particular use may be taken into account. 18 Accordingly, a firm’s communications 
+13 See FDA Memorandum: Public Health Interests and First Amendment Considerations Related to Manufacturer 
+Communications Regarding Unapproved Uses of Approved or Cleared Medical Products (January 2017 
+Memorandum) at 1 and 4 (available at https://www.regulations.gov/document/FDA-2016-N-1149-0040). 
+14 See 2025 Addendum at 2–9; see generally 2025 Premarket Review and Related Authorities Summary. 
+15 The concept of intended use is fundamental to the regulatory approach for medical products embodied in the FDA 
+Authorities. Intended use is an element in the definitions of drug and device, helping to define the scope of FDA’s 
+authority over medical products and subjecting the medical products to the drug or device provisions of the FDA 
+Authorities, as applicable. In addition, intended use may affect the appropriate premarket review pathway for a 
+medical product and is a separate element in establishing certain violations under the FDA Authorities. (See, 
+generally, Proposed Rule (NPRM): Regulations Regarding “Intended Uses” (2020 Intended Use NPRM) (85 FR 
+59718 at 59724, September 23, 2020); Final Rule: Regulations Regarding “Intended Uses” (2021 Intended Use 
+Final Rule) (86 FR 41383 at 41385, August 2, 2021)). 
+16 See 2025 Addendum at 2–9; see generally 2025 Premarket Review and Related Authorities Summary. 
+17 See, e.g., 2021 Intended Use Final Rule, 86 FR 41383 at 41386–41388 (citing cases). 
+18 See, e.g., 21 CFR 201.128 (drugs); 21 CFR 801.4 (devices); 2020 Intended Uses NPRM, 85 FR 59718 at 59721; 
+2021 Intended Use Final Rule, 86 FR 41383 at 41386–41397; 2025 Addendum at 4; January 2017 Memorandum 
+cited in footnote 13 of this guidance. 
+
+may be relevant to establishing whether its medical product is subject to the FDA Authorities and whether particular statutory or regulatory provisions apply to the medical product. The premarket requirements of the FDA Authorities advance substantial government interests that include increasing the availability of medical products that have been shown to be safe and effective for a particular use and preventing direct and indirect harm from uses of medical products that have not been shown to be safe and effective. Direct harms to health can include patients experiencing significant adverse side effects in the absence of significant countervailing benefits. Indirect harms to health can include the use of medical products that are ineffective in patients and result in the lost opportunity to select an effective intervention against underlying disease (or the delayed diagnosis of a disease or condition in the context of diagnostic products), which is a harm that often cannot be fully remedied after it is incurred. Maintaining the premarket review process for safety and effectiveness of each intended use advances these and other interests, including protecting against fraud, misrepresentation, and bias, and preventing the diversion of health care resources toward ineffective treatments. The premarket requirements of the FDA Authorities advance further substantial government interests, including motivating the development of robust scientific data on safety and effectiveness; ensuring that the FDA-required labeling is accurate and informative; protecting the integrity and reliability of promotional information regarding medical product uses; protecting human subjects receiving experimental treatments; ensuring informed consent; maintaining incentives for clinical trial participation; protecting innovation incentives, including statutory grants of exclusivity; and promoting the development of products for underserved patients. 19
+
+Generally, FDA’s premarket review process focuses on determining whether a medical product is safe and effective for the specified use(s) in an identified population. However, after the premarket review process is complete and a product is approved/cleared, questions may arise in clinical practice relating to the use of the medical product for particular patients. HCPs generally prescribe and use approved/cleared medical products for unapproved uses when they judge that the unapproved use is medically appropriate for their particular patient—whose characteristics and needs may differ from the characteristics of the population(s) reflected in the approved use(s). 20 This practice may be most common in patients with diseases for which there is no medical product that is a proven treatment or in patients who have exhausted all medical
+
+19 See January 2017 Memorandum at 3–16. 
+20 Some legal authorities may impact prescribing or administration, even of approved/cleared medical products. For 
+example, the extra-label use of approved veterinary or human drugs in animals is permitted only if it complies with 
+section 512(a)(4) and (a)(5) of the FD&C Act, 21 U.S.C. 360b(a)(4) and 360b(a)(5), and 21 CFR part 530. (This 
+guidance does not apply to a firm’s communications about prohibited extra-label uses of drugs in animals (see 
+section I)). Other authorities that may impact prescribing and use include, but are not limited to, section 303(e) of 
+the FD&C Act, the Controlled Substances Act (21 U.S.C. 801 et seq.), and state medical licensing and practice 
+requirements. 
+
+products with approved uses for their disease. 21 In such instances, HCPs may be interested in information about unapproved uses of approved/cleared medical products. However, patient harm could result from communicating information about unapproved uses of approved/cleared medical products to HCPs who are engaged in prescribing or administering those medical products to individual patients if that information is false, misleading, or fails to provide and appropriately present all the information necessary for HCPs to understand and evaluate the strengths and weaknesses, validity, and clinical utility of the scientific information on unapproved use(s) in the communication. Cognizant of all these factors, FDA, in implementing the premarket requirements of the FDA Authorities and, more specifically, in developing this guidance, has sought to strike a careful balance, supporting HCP interest in scientific information about unapproved uses of approved/cleared medical products to inform clinical practice decisions for the care and management of individual patients, but without undermining the other government interests described elsewhere in this guidance. This includes the government interest in incentivizing the development of medical products and satisfaction of applicable premarket requirements for those medical products, which reduces the need to rely on unapproved use(s), and in protecting patients from medical product uses that have not been shown to be safe and effective. This guidance represents a continuation of FDA’s ongoing efforts to consider, develop, and refine its policies and recommendations relating to communications from firms to HCPs regarding scientific information on unapproved uses of the firms’ approved/cleared medical products. 22 In 2009, FDA issued the guidance for industry Good Reprint Practices for the Distribution of Medical Journal Articles and Medical or Scientific Reference Publications on Unapproved New Uses of Approved Drugs and Approved or Cleared Medical Devices to provide guidance to firms on distributing journal articles and scientific or medical reference publications. FDA subsequently issued the 2014 draft guidance Distributing Scientific and Medical Publications on Unapproved New Uses — Recommended Practices, which provided additional explanation of the Agency’s policies on communications from a firm to HCPs regarding scientific information on unapproved uses of the firm’s approved/cleared medical products and
+
+21 See January 2017 Memorandum at 17. 
+22 These efforts include, for example, the 2016 public hearing FDA held on the topic of “Manufacturer 
+Communications Regarding Unapproved Uses of Approved or Cleared Medical Products” (2016 public hearing) (81 
+FR 60299, September 1, 2016). In response to comments at the 2016 public hearing, FDA developed and placed in 
+the docket (FDA-2016-N-1149-0040) a memorandum to provide additional background on the issues it is 
+considering as part of its review of its rules and policies relating to communications by a firm regarding unapproved 
+use(s) of the firm’s approved or cleared medical product(s) (See January 2017 Memorandum, cited at footnote 13 of 
+this guidance); see also 82 FR 6367, January 19, 2017 (announcing the addition of the January 2017 Memorandum 
+to the 2016 public hearing docket and extending the comment period). FDA also revised its intended use 
+regulations, publishing the final rule in 2021. See 2021 Intended Use Final Rule, 86 FR 41383 (August 2, 2021), 
+codified at 21 CFR 201.128 and 801.4. The preambles to the proposed and final rules address some related topics. 
+In addition, the guidance for industry Drug and Device Manufacturer Communications With Payors, Formulary 
+Committees, and Similar Entities: Questions and Answers and subsequent legislation address related topics (see 
+footnote 12 of this guidance). 
+
+added recommendations on a firm’s dissemination of scientific or medical reference texts and CPGs that include information on unapproved uses of the firm’s approved/cleared medical products. FDA then issued the 2023 revised draft guidance, which further explained the Agency’s policies on communications from firms to HCPs regarding scientific information on unapproved uses of the firm’s approved/cleared medical product(s) and also incorporated recommendations on firm-generated presentations.
+
+IV. POLICY 
+It is critical that SIUU communications be truthful and non-misleading and also provide and 
+appropriately present all information necessary for HCPs to understand and evaluate the 
+strengths and weaknesses, validity, and clinical utility of the scientific information on 
+unapproved use(s) in the SIUU communication. This guidance provides recommendations 
+addressing all of these considerations. If a firm shares an SIUU communication that is consistent 
+with the recommendations in this guidance, FDA does not intend to use the firm’s dissemination 
+of such communication standing alone as evidence of the firm’s new intended use. Additionally, 
+FDA does not expect a firm to submit that SIUU communication to the Agency at the time the 
+communication is initially shared with HCPs. 
+Under the relevant statutory authorities, when a firm chooses to communicate information about 
+unapproved uses of its approved/cleared medical product, such communication, along with other 
+factors, could be evidence of its intended use and therefore relevant to establishing that the firm 
+has distributed a medical product that fails to comply with applicable premarket requirements or 
+is otherwise misbranded or adulterated. At the same time, in certain circumstances, HCPs may 
+be interested in scientific information about unapproved uses of approved/cleared medical 
+products to inform clinical practice decisions for the care and management of their individual 
+patients, and, as noted, FDA strives to strike a careful balance between these competing public 
+health interests. 23 
+SIUU communications that include firm-generated presentations give rise to considerations that 
+are different in some ways from the considerations that arise from a firm’s distribution of SIUU 
+communications that consist of source publications and the recommended disclosures in Q2 
+alone. The source publications that fall within the enforcement policy outlined in this guidance 
+are generally available from independent publishers and reflect at least some degree of editorial 
+input by an independent publisher whose business interest is not tied to sales of specific medical 
+product(s), in contrast to the firm that has chosen to draw attention to that source publication. 
+These characteristics of a source publication help to explain why a firm’s choice to draw HCP 
+attention to such a source publication (when done in accordance with the recommendations in 
+Q1, Q2, Q3, and Q4 of this guidance) is less likely, on its own, to upset the careful balance of 
+competing public health interests. By contrast, firm-generated presentations lack that 
+
+23 See January 2017 Memorandum at 20; 2025 Addendum at 9.
+
+independence and generally come to an HCP’s attention because of the firm’s initiative to create and share them. Therefore, because of these differences between SIUU communications that do and do not include firm-generated presentations, Q5 of this guidance describes the characteristics of firm-generated presentations that fall within the enforcement policy outlined in this guidance and includes specific recommendations to preserve the balance of interests identified previously. This guidance does not describe the only circumstances in which FDA does not intend to rely on a firm’s dissemination of information about an unapproved use of its approved/cleared medical product, standing alone, as evidence of the firm’s intent that the medical product be used for an unapproved use. For example, in a rulemaking completed in 2021, FDA amended its intended use regulations to clarify that a firm will not be regarded as intending an unapproved use of its approved product based solely on that firm’s knowledge that the product is being prescribed or used by HCPs for such use. 24 The preamble further explained that “knowledge in combination with conduct that falls within an acknowledged FDA ‘safe harbor’ would not be determinative of intended use.” 25 Accordingly, a firm would not be regarded as intending an unapproved use for its approved or cleared medical product based solely on the combination of (1) the firm’s knowledge that such medical product is being prescribed or used by HCPs for an unapproved use and (2) the firm’s sharing of SIUU communication(s) about that unapproved use consistent with the recommendations in this guidance. In that same rulemaking, FDA provided several other examples of evidence that, standing alone, is not determinative of intended use. 26 FDA has also issued other guidance documents that address circumstances when FDA does not intend to rely upon a firm’s dissemination of information regarding an unapproved use of its approved/cleared medical product to establish a new intended use. 27 We note that nothing in this guidance is intended to convey new policy regarding a firm’s existing obligations under the FDA Authorities to update FDA-required labeling to accurately
+
+24 See 2020 Intended Use NPRM, 85 FR 59718 at 59720, 59725. 
+25 Ibid. at 59725. 
+26 Ibid. at 59725–26; see also 2021 Intended Use Final Rule, 86 FR 41383, 41397. 
+27 FDA has provided recommendations for industry support of scientific or educational activities (such as 
+Continuing Medical Education programs) without being subject to FDA regulation (see the guidance Industry 
+Supported Scientific and Educational Activities (December 1997)). FDA issued a draft guidance with 
+recommendations for firms on responding to unsolicited requests for information about unapproved uses of 
+approved medical products (see the draft guidance for industry Responding to Unsolicited Requests for Off-Label 
+Information About Prescription Drugs and Medical Devices (December 2011). When final, that guidance will 
+represent FDA’s current thinking on this topic). In June 2018, FDA issued a final guidance that provides 
+recommendations for firms’ communications with payors and similar entities (see the guidance Drug and Device 
+Manufacturer Communications With Payors, Formulary Committees, and Similar Entities: Questions and Answers 
+(see footnote 12 of this guidance regarding subsequent legislation)). In addition, it has long been FDA policy not to 
+consider a firm’s presentation of truthful and non-misleading scientific information about unapproved uses at the 
+planned sessions and presentations at medical or scientific conferences to be evidence of intended use when the 
+presentation is made in non-promotional settings and not accompanied by promotional communications. See 
+January 2017 Memorandum (cited in footnote 13 of this guidance) at 20–21. 
+
+reflect what is known about the safety profile of the drug, to ensure that the FDA-required labeling is not false or misleading, or for other reasons. 28
+
+V. QUESTIONS AND ANSWERS 
+Q1. What should firms consider when determining whether a source publication is 
+appropriate to be included in an SIUU communication? 
+Because SIUU communications are firm-initiated communications directed to HCPs engaged in 
+prescribing or administering medical products to individual patients, it is critical that the source 
+publications that firms choose to share in their SIUU communications are not likely to lead to 
+direct or indirect patient harm when HCPs rely upon the communication to inform clinical 
+decisions. Accordingly, FDA recommends the following: 
+1. Source publications included by firms in SIUU communications should describe studies 
+and analyses that are scientifically sound. 
+• To be scientifically sound, the studies or analyses should meet generally accepted design and other methodological standards 29 for the particular type of study or analysis performed (e.g., provide a clear description of the prespecified hypothesis stated and tested, acknowledge and account for potential bias, and otherwise meet generally accepted scientific standards), taking into account established scientific principles. Statistical rigor is generally necessary, but not sufficient, for a study or analysis to be scientifically sound. Any study or analysis described in a source publication should be evaluated in light of its limitations to determine whether the study or analysis is scientifically sound. In situations where flaws of a study or analysis render it unreliable, 30 such study or analysis would not meet generally accepted design and methodological standards and should not be included in an SIUU communication because even full disclosure of the limitations of such study or analysis would not permit interpretation of results or attribution of the results to an 
+
+28 See, e.g., section 502(a) of the FD&C Act; 21 CFR 201.56(a)(2) (“labeling must be updated when new information becomes available that causes the labeling to become inaccurate, false, or misleading”), 21 CFR 314.70 and 601.12 (concerning supplements and other changes to an approved application, including labeling), 21 CFR 514.8(c) (concerning supplements and other changes to an approved application for a new animal drug, including labeling), and 21 CFR 814.39 (concerning supplements to an approved PMA for a device). 29 For examples of generally accepted scientific standards, see American Society for Testing and Materials (ASTM), an international standards development organization (see http://www.astm.org/ABOUT/overview.html for more information); International Council for Harmonisation (ICH), an international standards development organization (see http://www.ich.org/about/vision.html for more information); and International Organization for Standardization (IOS), an international standards development organization (see http://www.iso.org/iso/home.html for more information). 30 For example, studies or analyses would be unreliable if they were based on poorly extracted data or data transferred with errors, data that were not source verified, or data that were inaccurately collected and documented.
+
+effect of the medical product. Further, disseminating source publications that distort studies or analyses (e.g., by inaccurately describing or reporting results) or that include fraudulent data would not be consistent with the enforcement policy outlined in this guidance and may also violate provisions of the FDA Authorities, such as section 502(a) of the FD&C Act.
+
+• For human and animal drugs, randomized, double-blind, concurrently controlled superiority trials are usually regarded as the most rigorous design and therefore the most likely to provide scientifically sound information. However, other studies may also be scientifically sound when adequately designed and conducted (e.g., data sources are reliable and relevant, protocols and statistical analysis plans are finalized prior to conducting the analyses, data integrity is carefully monitored and maintained). For example, a scientifically sound study could include an early-phase randomized, double-blind, parallel assignment clinical study with a prespecified statistical analysis plan comparing the pharmacokinetics, pharmacodynamics, safety, and immunogenicity of two prescription drug products. Other examples of studies that could be consistent with this recommendation include meta-analyses, cohort or case-control studies, open-label studies, single-arm studies, externally controlled trials, and non-interventional (observational) studies. 31 
+• For devices, the types of studies, information, and analyses that are considered valid scientific evidence are described in 21 CFR 860.7 and may include well-controlled investigations, partially controlled studies, studies and objective trials without matched controls, well-documented case histories conducted by qualified experts, and reports of significant human experience with a marketed device. For devices, these types of studies, information, and analyses are most likely to be scientifically sound. Additionally, in the case of devices, single-arm studies with comparisons to external controls, non-interventional studies, meta-analyses testing a specific clinical hypothesis, and nonclinical research such as well-designed bench or animal studies may also be scientifically sound. 32 2. Firms should take into account existing scientific knowledge to determine whether a source publication is appropriate to include in an SIUU communication, both when initially preparing the communication and at the time of each dissemination of that communication. 
+31 In certain circumstances, real-world data (i.e., data relating to patient health status and/or the delivery of health 
+care routinely collected from a variety of sources) can be used to generate real-world evidence. For information 
+about real-world data and real-world evidence, including FDA guidances and publications, see FDA’s Real-World 
+Evidence web page, available at https://www.fda.gov/science-research/science-and-research-special-topics/real 
+world-evidence. 
+32 Ibid. 
+
+• A more recent study that generated a different outcome than a previous study does not necessarily make the previous study obsolete or inappropriate to disseminate. However, each time a firm considers disseminating an SIUU communication that includes particular source publication(s), the firm should consider whether existing scientific knowledge has, for example, refuted a conclusion from a study described in that source publication or has corrected a long-held misunderstanding 33 that informed a study described in that source publication. The act of disseminating a communication based on a source publication that describes such a study would not fall within the enforcement policy outlined in this guidance. If, for example, a firm were to disseminate a source publication that predated the scientific knowledge that Medical Product X causes a severe adverse event in a specific population of women (e.g., severe birth defects when administered to pregnant women) and the source publication suggested Medical Product X was an appropriate treatment for all women, that would not be consistent with this recommendation. 
+• In addition, it would not be consistent with this recommendation that firms take into account existing scientific knowledge if a firm continues to share an SIUU communication that has been retracted by the publisher because, for example, findings from the study are no longer trusted due to discovery of scientific misconduct or error. Additionally, in a case where understanding of a disease has advanced and shown that certain outcome measures used in studies do not reflect an effect on the disease, sharing source publications that are based on studies that used those outcome measures would not be consistent with the recommendation that firms take into account existing scientific knowledge when determining whether a source publication should be included in an SIUU communication. 34 Accordingly, when a 
+
+33 For example, at one time there was a widely held belief that treating minor rhythm abnormalities (frequent ventricular premature beats) with anti-arrhythmics after an acute myocardial infarction would improve survival, in the absence of well-controlled studies showing this to be true. Sources were published that included recommendations based on this belief. To test this belief, the National Institutes of Health conducted the Cardiac Arrhythmia Suppression Trial (CAST), a well-controlled study which demonstrated that, although the drugs did indeed treat minor rhythm abnormalities, the patients who took those drugs had a 2 ½ fold increase in mortality. See, Echt, D.S., Liebson, P.R., Mitchell, L.B. et al. (1991). Mortality and Morbidity in Patients Receiving Encainide, Flecainide, or Placebo: The Cardiac Arrhythmia Suppression Trial. New Eng. J. Med., 324(12): 781–88. See also The Cardiac Arrhythmia Suppression Trial-II Investigators. (1992). Effect of Antiarrhythmic Agent Moricizine on Survival After Myocardial Infarction: The Cardiac Arrhythmia Suppression Trial-II. N Eng. J. Med., 327(4): 227– 233. After the CAST study was published, this assumption about the effect of anti-arrhythmics was understood to be incorrect. If a firm were to disseminate a source publication that failed to take into account this existing scientific knowledge about the effect of anti-arrhythmics, that would not be consistent with the recommendations in this guidance. 34 Of note, scientific data generated in early stages of medical product development can produce results that are not borne out in later studies, as demonstrated by the failure of some clinical studies to support the use of a medical product for the treatment of a disease or condition for which the medical product initially appeared promising. For example, the failure rate during the process of new prescription drug development exceeds 95 percent (see National Center for Advancing Translational Sciences. New Therapeutic Uses, U.S. Department of Health and Human Services, National Institutes of Health. April 19, 2024. Accessed May 14, 2024. https://ncats.nih.gov/ntu/about).
+
+firm has shared on the internet an SIUU communication that includes a source publication that is no longer consistent with the recommendation that firms take into account existing scientific knowledge, and the firm has the ability to remove its SIUU communication, we recommend the firm remove its SIUU communication. 35 3. Any conclusions articulated in a source publication should align with the prespecified hypothesis or research question from the described study or analysis and be supported by the results from that study or analysis. 36 Q2. What information should firms include as part of SIUU communications? FDA recommends that firms include all of the following information as part of SIUU communications: 37
+
+• A statement that the unapproved use(s) of the medical product has not been approved by FDA and that the safety and effectiveness of the medical product for the unapproved use(s) has not been established - For example, a statement that “[Medical Product X] has not been approved by FDA for use in [Condition Y], and the safety and effectiveness of [Medical Product X] for [Condition Y] has not been established.” 
+• A statement disclosing the FDA-approved use(s) of the medical product, including any limitations of use specified in the FDA-required labeling 
+• A statement disclosing any limitations, restrictions, cautions, warnings, or precautions described in the FDA-required labeling about the unapproved use(s) 
+Similarly, medical devices have a very high failure rate in their first prototype tests, with a reported 90 percent of 
+medical devices failing in their first prototype tests (see Intertek (2010). The Top 10 Reasons Medical Devices Fail 
+Product Certification Testing the First Time. Available at https://www.intertek.com/resources/white 
+papers/2021/electrical-top-ten-reasons-products-fail/). 
+35 If a firm chooses to include some discussion of or reference to a source publication containing historical 
+information, such as to describe the historical context and evolution of clinical knowledge in a subject area, that 
+would be consistent with the recommendations in this guidance if it makes clear that the information is historical 
+context only and not reflective of existing scientific knowledge. 
+36 See January 2017 Memorandum at 13 (“Marketing activities and communications regarding the safety and 
+effectiveness of a medical product for a particular use that are not properly supported by scientific evidence may 
+thus create a false or misleading impression about the safety and efficacy of the medical product for that use, which 
+can lead to prescribing or use decisions that harm patients”). 
+37 See item 2 in Q4 of this guidance for information on certain modifications to the recommendations in this section 
+when firms share SIUU communications that include certain unabridged CPGs or reference texts in their entirety 
+and do not include firm-generated presentations (as that term is defined in this guidance). 
+
+• A copy of the most current FDA-required labeling (or a mechanism for obtaining this labeling, as appropriate) 
+• A statement describing any contraindication(s) in the FDA-required labeling for the medical product 
+• A statement describing any serious, life-threatening, or fatal risks posed by the medical product that are in the FDA-required labeling for the medical product or known by the firm and that are relevant to the unapproved use(s) - If a risk evaluation and mitigation strategy (REMS) has been established under 21 U.S.C. 355-1, the statement should disclose that fact and should describe the goal(s) of the REMS 
+• A statement identifying any authors, editors, or other contributors to publication(s) included in the SIUU communication who were employees of or consultants to or who received compensation from the firm 38 at the time of writing, editing, or contributing to the publication, to the extent a firm acting reasonably would know of such relationship 
+• In the case of an SIUU communication that includes one or more source publications primarily focused on a particular scientific study or studies, 39 for each such study 40 where the following information is not included in the source publication, provide a description of: 41 - All material aspects of study design, methodology, and results. 
+38 Systematic reviews of studies funded and/or conducted by the firm or its representatives demonstrate bias 
+favoring a firm’s medical product. See, e.g., Lexchin, J., Bero, L. A., Djulbegovic, B., & Clark, O. (2003). 
+Pharmaceutical industry sponsorship and research outcome and quality: systematic review. BMJ (Clinical research 
+ed.), 326(7400), 1167–1170. https://doi.org/10.1136/bmj.326.7400.1167 (reviewing 30 studies finding that 
+“[s]ystematic bias favours products which are made by the company funding the research.”); Lundh, A., Lexchin, J., 
+Mintzes, B., Schroll, J. B., & Bero, L. (2017). Industry sponsorship and research outcome. The Cochrane database 
+of systematic reviews, 2(2), MR000033. https://doi.org/10.1002/14651858.MR000033.pub3 (reviewing 48 studies 
+showing that “[s]ponsorship of drug and device studies by the manufacturing company leads to more favorable 
+results and conclusions than sponsorship by other sources”). 
+39 FDA anticipates that most SIUU communications that include only CPGs or reference texts would not be subject 
+to this recommendation because these types of source publications are not focused primarily on a specific study or 
+studies. 
+40 For example, if an SIUU communication includes a reprint that describes two studies in detail, this 
+recommendation applies to each study, even if the SIUU communication does not address them in identical detail. 
+41 See Q5 for specific recommendations for the presentation of such material information in firm-generated 
+presentations of scientific information on unapproved use(s) provided with a source publication. 
+
+- All material limitations related to the study design, methodology, and results. 42 - Any conclusions—from other scientifically sound studies that evaluated the same or similar hypotheses or research questions—that are in conflict with the conclusions from the studies or analyses described in the source publication(s). The citations for any such studies should also be included. 43
+
+• The publication date of any referenced or included source publication (if not specified in the source publication or citation). Q3. What presentational considerations should firms take into account for SIUU communications? There are several presentational considerations that can help ensure that SIUU communications are conveyed in a manner that enhances and does not interfere with HCP understanding and evaluation of the underlying scientific information, including its limitations. To that end, FDA recommends the following: 
+
+1. SIUU communications should clearly and prominently present the disclosures recommended in this guidance. Recommended disclosures should be clearly and prominently presented. This helps to ensure that HCPs have the information necessary to interpret the scientific information and the SIUU communication as a whole. Factors FDA considers when determining whether information is clearly and prominently presented may include type size, font style, layout, contrast, graphic design, headlines, spacing, volume, articulation, pace, and any other techniques to achieve emphasis or notice. 44 For SIUU communications that have both audio and visual components, to help HCPs notice and comprehend the information, FDA recommends that disclosures be presented in both the audio and in text at the same time using the same words (key terms and phrases or a full transcript). 45 Note, for SIUU communications that have both audio and visual components, it would be consistent with the disclosure recommendations of this guidance for both the audio and visual components to include a statement about how to obtain a copy of the most current FDA-required labeling for the medical product that is the subject of the SIUU communication.
+
+42 See Q1 for further discussion of limitations of studies and analyses. 
+43 See Q1 for further discussion of scenarios where dissemination of a source publication would not fall within the 
+enforcement policy outlined in this guidance as a result of failure to take into account existing scientific knowledge 
+(e.g., in cases where existing scientific knowledge refutes a conclusion from a previous study). 
+44 FDA assesses disclosure clarity and prominence on a case-by-case basis. 
+45 For example, if a firm posts a reprint on a web page and also includes a firm-generated video presentation of 
+scientific information on unapproved use(s) from the reprint (see Q5), the firm should present recommended 
+disclosures in the video in both the audio and in text at the same time, using the same words. 
+
+2. SIUU communications should be separate from promotional communications about 
+approved uses of medical products. 
+As set forth in this guidance, the medical products that are discussed in SIUU communications 
+are approved/cleared for at least one use, and, as such, it is likely that firms disseminate 
+promotional communications for those approved uses. However, combining approved use and 
+unapproved use information has the potential to undermine the government interests in the 
+premarket requirements of the FDA Authorities (see section III of this guidance). Including 
+information about unapproved uses in or with promotional communications for approved uses of 
+a medical product can prompt conflation of the information. 46 This conflation may lead HCPs to 
+conclude that the firm’s medical product has been demonstrated to be safe and effective for all 
+presented uses, including the unapproved use(s), or to conclude that all presented uses of the 
+medical product are uses for which it is approved/cleared. Accordingly, to reduce the risk of 
+HCPs conflating approved and unapproved use information, FDA recommends that SIUU 
+communications be clearly identified through the clear and prominent presentation of the 
+disclosures recommended in this guidance and separate from promotional communications about 
+approved uses. 
+The following examples illustrate these recommendations: 
+Example 1: Medical or scientific conferences represent a venue where information about 
+both approved and unapproved uses of medical products is shared. Although conference 
+organizers generally select the content to be shared for the planned sessions and 
+presentations at the conference (e.g., poster sessions), 47 these same conferences also offer 
+venues (e.g., booths in commercial exhibit halls) where firms can independently select 
+and share information with conference attendees, which could include both promotional 
+communications about approved uses of medical products and SIUU communications. 
+When sharing information in commercial exhibit halls and similar venues where 
+programming is not selected and determined by the conference organizers, firms should 
+ensure that SIUU communications are clearly identified through the clear and prominent 
+presentation of the disclosures recommended in this guidance and are separate from (i.e., 
+not attached to or intermingled with) promotional communications about approved 
+46 Research indicates that combining multiple communications can prompt conflation of the messages conveyed by 
+each communication. See, e.g., Sullivan, H. W., O’Donoghue, A. C., Rupert, D. J., Willoughby, J. F., Amoozegar, 
+J. B., & Aikin, K. J. (2016). Are Disease Awareness Links on Prescription Drug Websites Misleading? A 
+Randomized Study. Journal of health communication, 21(11), 1198–1207; Aikin, K. J., Sullivan, H. W., & Betts, K. 
+R. (2016). Disease Information in Direct-to-Consumer Prescription Drug Print Ads. Journal of health 
+communication, 21(2), 228–239. 
+47 It has long been FDA policy not to consider a firm’s presentation of truthful and non-misleading scientific 
+information about unapproved uses of its approved/cleared medical product at the planned sessions and 
+presentations at medical or scientific conferences to be evidence of a new intended use when the presentation is 
+made in non-promotional settings and is not accompanied by promotional communications. (See January 2017 
+Memorandum at 21.) 
+
+uses. 48 For example, in commercial exhibit halls, FDA strongly recommends that firms divide booth space to allow for a dedicated space where SIUU communications can be shared, separate from the booth space where promotional communications about approved uses are shared. Example 2: If a firm chooses to share information about both the approved and unapproved uses of its medical products to HCPs online through websites, FDA recommends that SIUU communications be on a separate web page from the web page that hosts promotional communications about the approved uses of the medical product and that the web page for the SIUU communications clearly identifies those communications through the clear and prominent presentation of the disclosures recommended in this guidance. FDA also recommends that firms not include direct links from web pages that host promotional communications about approved uses to web pages that host SIUU communications. Example 3: If a firm chooses to share information about both approved and unapproved uses of its medical products to HCPs through email messages, FDA recommends that email messages used to share SIUU communications be separate from email messages used to share promotional communications about approved uses of the medical product and that the email messages used to share SIUU communications clearly identify those communications through the clear and prominent presentation of the disclosures recommended in this guidance. Example 4: If a firm’s representative delivers an SIUU communication during an in person visit with an HCP, that SIUU communication should be separate from (i.e., not attached to or intermingled with) any promotional communications about the approved use(s) of the firm’s medical product that are also shared during the in-person visit. 49 The SIUU communication(s) should be clearly identified through the clear and prominent presentation of the disclosures recommended in this guidance. 3. SIUU communications should be shared through media and via platforms that enable firms to implement the recommendations in this guidance. Firms interested in sharing SIUU communications have the choice to use a variety of media types and platforms, and each medium and platform may prompt unique presentational
+
+48 This recommendation applies even to those SIUU communications that include the same substantive content as presented in planned sessions at the conference. Courts have recognized that a different level of First Amendment scrutiny can apply to the same speech depending on how the speech is communicated. See, e.g., Washington Legal Foundation v. Friedman, 13 F. Supp. 2d 51, 64 (D.D.C. 1998), vacated in part sub nom. Washington Legal Foundation v. Henney, 202 F.3d 331, 336-37 (D.C. Cir. 2000). 49 FDA recommends that firms ensure that the personnel who are engaged in sharing SIUU communications have specialized training in providing truthful, non-misleading scientific information about unapproved uses of the firms’ approved medical products. A firm’s personnel who are sharing SIUU communications should also be trained to handle potential questions that may arise about the information they are sharing or know how to direct the questions to personnel who are best qualified to respond (e.g., medical or scientific/technical representative or department).
+
+challenges and considerations. For example, certain online platforms may impose character 
+space limitations or other presentational limitations that would not enable a firm to include 
+within their communications on that platform all of the disclosures that are recommended for an 
+SIUU communication. To be consistent with the recommendations in this guidance, such 
+platforms should not be used to host SIUU communications but could be used to direct HCPs to 
+an SIUU communication. For example, it would be consistent with the recommendations in this 
+guidance for a communication on a character-space limited platform to direct HCPs to an SIUU 
+communication through a statement that does not mention the name of any specific medical 
+product, such as “New publication for Health Care Providers—phase 3 trial results for an 
+investigational treatment for [disease X],” followed by a link to a website where the SIUU 
+communication appears. 
+Firms should carefully consider the unique presentational challenges and considerations relevant 
+to different media types and platforms to ensure that the medium and platform used for sharing 
+an SIUU communication allows the firm to follow all of the recommendations in this guidance. 
+Q4. What additional recommendations apply to reprints, CPGs, reference texts, and 
+materials from digital clinical practice resources that are included in an SIUU 
+communication? 
+This section offers specific recommendations regarding reprints, CPGs, reference texts, and 
+materials from digital clinical practice resources that are included in an SIUU communication, in 
+addition to the recommendations outlined in Q1, Q2, and Q3. 
+1. Reprints: 
+When firms share SIUU communications that include one or more reprints, the reprints should 
+be unaltered/unabridged because the sharing of unaltered/unabridged articles is less likely to 
+introduce bias or result in the omission of material information. Moreover, FDA recommends 
+that the articles that firms choose to share as reprints have the following characteristics: 
+• The article is published in a journal managed by an independent organization that has an editorial board composed of persons who have demonstrated expertise in the subject of the articles under review by the organization (through education or experience) and that has a publicly stated policy regarding the disclosure of conflicts of interest or biases for all authors, contributors, and editors 
+• The article is peer-reviewed by experts in the subject of the article, as established by education or experience 
+• The article is generally available (or the journal from which the article is taken is generally available) through independent distribution channels (e.g., internet sources, book retailers, subscriptions, libraries) where periodicals and reprints are sold or are accessible 
+
+Articles that misrepresent or overstate findings from a study or analysis in light of the limitations 
+of such study or analysis would not fall within the enforcement policy outlined in this guidance. 
+2. Clinical Reference Resources: 
+In this guidance, we address the following clinical reference resources: 
+• CPGs 
+• Reference texts 
+• Materials from digital clinical practice resources These clinical reference resources often contain information about unapproved uses of approved/cleared medical products. Therefore, when sharing SIUU communications that include CPGs, reference texts, or materials from digital clinical practice resources, FDA recommends that firms follow the recommendations in Q1, Q2, and Q3, subject to the following additions and modifications. When a firm shares an SIUU communication that includes one or more individual section(s) of any of these clinical reference resources, the SIUU communication should include all information from the clinical reference resource necessary for HCPs to interpret the strengths and weaknesses, validity, and clinical utility of the scientific information on unapproved use(s) that the clinical reference resource presents. This may involve the sharing of multiple sections of the clinical reference resource that contain related or linked information. When a firm shares individual section(s) from these clinical reference resources, those individual section(s) should be unaltered/unabridged and extracted directly from the clinical reference resource. Because unabridged CPGs and reference texts in their entirety generally discuss a wide range of topics and medical products, FDA notes the following modifications to the recommendations in Q2. When a firm shares an SIUU communication that does not include a firm-generated presentation, but does include an unabridged CPG or reference text in its entirety that discusses a wide range of medical products and that discussion is not primarily focused on one or more of a firm’s medical products, FDA does not expect a firm to include any of the following: 
+• A statement disclosing the FDA-approved use(s), including any limitations of use specified in the FDA-required labeling, for each of the firm’s medical products mentioned in the CPG or reference text 
+• A statement disclosing any limitations, restrictions, cautions, warnings, or precautions described in the FDA-required labeling about the unapproved use(s) for each of the firm’s medical products mentioned in the CPG or reference text 
+• A copy of or a mechanism to obtain the FDA-required labeling for each of the firm’s medical products mentioned in the CPG or reference text 
+
+• A statement describing the contraindications in the FDA-required labeling for each of the firm’s medical products mentioned in the CPG or reference text 
+• A description of the serious, life-threatening, or fatal risks that are in the FDA-required labeling or are known by the firm and that are relevant to the unapproved use(s) posed by each of the firm’s medical products mentioned in the CPG or reference text (including whether a REMS has been established for any of the firm’s medical products mentioned in the CPG or reference text and a description of the goal(s) of the REMS) Instead, FDA recommends that firms include a more general statement in the SIUU communication, such as, “This [CPG/reference text] describes some uses of medical products that are not approved by the FDA, and the safety and effectiveness of any unapproved use(s) have not been established.” a. Specific Recommendations for CPGs: CPGs are generally based on a wide range of evidence, with the goal of making treatment recommendations and describing the different levels of evidence that support those recommendations. CPGs provide recommendations for care for a disease or condition, in addition to offering potential alternatives for certain patient subgroups. FDA recommends that a CPG have all of the following characteristics if a firm chooses to include it in an SIUU communication: 
+• The CPG is based on rigorous reviews of the existing evidence conducted according to a clear, established procedure and following a transparent process that minimizes biases and conflicts of interest 
+• The CPG includes ratings of the recommendations to reflect the quality and strength of evidence that supports each recommendation 
+• The CPG is revised when important new evidence warrants modifications of current recommendations 
+• The CPG is generally available through independent distribution channels (e.g., internet sources, book retailers, subscriptions, libraries) where CPGs are sold or are accessible CPGs that misrepresent or overstate findings from a study or analysis in light of the limitations of such study or analysis would not fall within the enforcement policy outlined in this guidance. 
+
+One helpful resource when considering whether a particular CPG is appropriate to be included in an SIUU communication is the National Academy of Medicine (NAM) 50 standards for CPG “trustworthiness.” 51 CPGs that are consistent with the NAM standards would also be consistent with the recommendations in this guidance about the characteristics that CPGs should have. The NAM standards recommend that CPGs (1) be based on a systematic review 52 of the existing evidence; (2) be developed by a knowledgeable, multidisciplinary panel of experts and representatives from key affected groups; (3) consider important patient subgroups and patient preferences, as appropriate; (4) be based on an explicit and transparent process by which the CPG is developed and funded that minimizes distortions, 53 biases, and conflicts of interest; (5) provide a clear explanation of the logical relationships between alternative care options and health outcomes, provide clearly articulated recommendations in standardized form, and provide ratings of both quality of evidence and the strength of recommendations; and (6) be reconsidered and revised when important new evidence warrants modifications of CPG recommendations. Numerous professional organizations develop and disseminate CPGs that are pertinent to their members’ clinical practices. In an era of rapidly increasing amounts of scientific information about medical products, CPGs can be a tool to manage this information. However, in light of the proliferation of professional organizations promulgating CPGs and the variations in scope and evidence used for CPG recommendations by these organizations, it is important that firms consider the recommendations in this guidance when they assess CPGs in a medical practice area, including this guidance’s recommendations that CPG recommendations have ratings to
+
+50 NAM was formerly known as the Institute of Medicine (IOM) and is one of three academies that make up the 
+National Academies of Sciences, Engineering, and Medicine. 
+51 Through the Medicare Improvements for Patients and Providers Act of 2008, Congress required the Secretary of 
+Health and Human Services (HHS) to contract with IOM (through the Agency for Healthcare Research and Quality) 
+to undertake a study that focused on “the best methods used in developing clinical practice guidelines in order to 
+ensure that organizations developing such guidelines have information on approaches that are objective, 
+scientifically valid, and consistent” (Public Law 110-275, 122 Stat. 2595). Also, in this legislation, Congress 
+required IOM to submit a report to the Secretary of HHS and the appropriate committees of Congress containing the 
+results of the study, together with recommendations for such legislation and administrative action as IOM 
+determines appropriate. The standards for CPG “trustworthiness,” as referred to in this guidance, are taken directly 
+from IOM’s study results (as articulated in its report, Robin Graham et al. eds., Institute of Medicine of the National 
+Academies, Committee on Standards for Developing Trustworthy Clinical Practice Guidelines, Clinical Practice 
+Guidelines We Can Trust (2011)), available at https://nap.nationalacademies.org/catalog/13058/clinical-practice 
+guidelines-we-can-trust. 
+52 The NAM has defined a systematic review as “a scientific investigation that focuses on a specific question and 
+uses explicit, prespecified scientific methods to identify, select, assess, and summarize the findings of similar but 
+separate studies.” Institute of Medicine, Finding What Works in Health Care: Standards for Systematic Reviews 
+(Jill Eden et al. eds., The National Academies Press 2011), available at 
+https://nap.nationalacademies.org/catalog/13059/finding-what-works-in-health-care-standards-for-systematic 
+reviews. 
+53 Per NAM, distortion may result from, for example, reliance on incomplete data. 
+
+reflect the strength and quality of evidence supporting those CPG recommendations and that 
+any CPG recommendations are updated when new evidence warrants modification. 
+b. Specific Recommendations for Reference Texts and Materials From Digital 
+Clinical Practice Resources: 
+FDA recommends that a reference text or material from a digital clinical practice resource have 
+all of the following characteristics if a firm chooses to include it in an SIUU communication: 
+• It is published by an independent publisher that is in the business of publishing scientific or medical educational content 54 
+• It is published in a manner consistent with current standards for medical content creation and review that are generally accepted by the medical publishing industry and in accordance with any specific peer-review procedures of the publisher 
+• It is authored, edited, and contributed to by experts who have demonstrated expertise in the subject area(s) through education or experience 
+• It is generally available or sold through independent distribution channels 55 (e.g., internet sources, book retailers, subscriptions, libraries) for medical and scientific educational content Reference texts or material(s) from digital clinical practice resources that misrepresent or overstate findings from a study or analysis in light of the limitations of such study or analysis would not fall within the enforcement policy outlined in this guidance. Q5. What additional recommendations apply to firm-generated presentations of scientific information on unapproved use(s) provided with a source publication? In addition to sharing SIUU communications that include one or more source publications, some firms also develop firm-generated presentations to include in their SIUU communications. Because the firms themselves are not only choosing to initiate the sharing of these communications, but also are creating them, these communications present additional considerations to those applicable to SIUU communications that consist of source publications and the recommended disclosures alone. Most obviously, firm-generated presentations do not have the same level of independence in their development and publication as source publications that meet the recommendations set forth in this guidance. Additionally, firm-generated presentations are not otherwise generally available, without the firm’s dissemination, in the way 
+54 It would be consistent with this recommendation for a firm to fund the production of copies of a reference text or 
+material from a digital clinical practice resource that is already generally available and to provide those copies to 
+HCPs. 
+55 FDA recognizes that individual chapters of reference texts may not be generally available through these channels; 
+this language is referring to general availability of the complete reference text. 
+
+that source publications are generally available. This section describes the characteristics of firm-generated presentations that fall within the enforcement policy outlined in this guidance. As an initial matter, consistent with the recommendations in this guidance, an SIUU communication that includes a firm-generated presentation should be truthful and non misleading and should provide and appropriately present all information necessary for HCPs to understand and evaluate the strengths and weaknesses, validity, and clinical utility of the presented scientific information on unapproved use(s), as further explained in this section.
+
+• The firm-generated presentation should be limited to the scientific information on unapproved use(s) from one or more source publications, and the source publication(s) should be consistent with the recommendations in Q1 and Q4 of this guidance. 
+• Firms should provide the source publication(s) with the firm-generated presentation. 56 
+• Firms should include all information material to the representations made in the firm generated presentation with those representations within the firm-generated presentation. For example, if a firm-generated presentation includes information about study results, the firm-generated presentation should include all material aspects of and limitations related to the study design, methodology, and results necessary to interpret the presented information directly with the presented information. 
+• Firm-generated presentations should include the disclosures recommended in Q2 of this guidance 57 and should also clearly disclose what portions of the SIUU communication are firm-generated. For example, a firm-generated presentation could include the following statement: “This presentation was developed by FIRM X.” 
+• Firm-generated presentations should be consistent with the recommendations in this guidance regarding presentational considerations in Q3. Additionally, to ensure a firm-generated presentation is truthful and non-misleading, the firm generated presentation should not, for example, do any of the following: 
+
+56 In situations where a firm chooses to deliver an in-person or hard-copy version of the firm-generated presentation, a hard-copy version of the source publication(s) should be delivered with it. Where a firm-generated presentation is shared electronically, a firm may choose to provide an electronic copy of the source publication(s) or a prominent direct link to a full-text version of the source publication(s) that the HCP can access free of charge. 57 To the extent that recommended disclosures apply to both the firm-generated presentation and the source publication, FDA does not generally expect that firms repeat the recommended disclosures in both the firm generated presentation and separately in an attachment to the source publication. However, the recommended disclosures that are material to specific representations made in the firm-generated presentation should be, at a minimum, included with such representations in the firm-generated presentation.
+
+• Imply that the study, analysis, or underlying data or information from the source publication represents larger or more-general experience with the medical product than it actually does 
+• Include representations or suggestions about the safety or effectiveness of the medical product for the unapproved use(s) that are not consistent with the source publication 
+• Present conclusions or representations about safety or effectiveness for the unapproved use, even if they are an accurate reflection of the statements in the source publication, without attributing that statement expressly to the source publication and without immediately following it with the statement identifying any authors, editors, or other contributors to the source publication who were employees of or consultants to or who received compensation from the firm at the time of writing, editing, or contributing to the source publication 58 
+• Present information (e.g., excerpts, quotes, paraphrases, conclusions) from the source publication out of context 
+• Use statistical analyses or techniques to indicate clinical significance or validity of a finding not supported by the data or information in the source publication 
+• Use presentational elements to obscure or distort the scientific content, such as by using textual features and graphic design elements to emphasize only positive information or distract attention from unfavorable information, or by using tables or graphs to distort or misrepresent the relationships, trends, differences, or changes among the outcomes evaluated in the source publication Nevertheless, it is consistent with the enforcement policy outlined in this guidance for firm generated presentations to use presentational elements and other communication techniques to help explain or illustrate the scientific content in an accurate way or to help ensure clear and prominent presentation of the recommended disclosures (see Q3). For instance, a communication that includes a firm-generated presentation that is otherwise consistent with the recommendations of this guidance and includes an accurate reproduction of tables or graphs from a source publication, or otherwise makes use of color, typeface, font style, contrast, and white space to, for example, ensure a clear and prominent presentation of the recommended disclosures, would be consistent with the enforcement policy outlined in this guidance. In contrast, firm-generated presentations that use communication techniques to encourage the unapproved use of the medical product based on elements other than the communication’s 
+
+58 Ibid.
+
+scientific content are outside the scope of the enforcement policy outlined in this guidance. 59,60 Furthermore, in FDA’s experience, when the following communication techniques are used, in most cases, that use is to influence decisions based on elements other than the communication’s substance: celebrity endorsements, emotional appeals unrelated to the scientific content, 61 gifts, 62 promotional tag lines, 63 jingles, and premium offers. For this reason, the enforcement policy outlined in this guidance does not extend to firm-generated presentations of scientific information on unapproved use(s) that use any of the foregoing communication techniques.
+
+Additionally, the enforcement policy outlined in this guidance does not extend to firm-generated presentations of scientific information about an unapproved use of the firm’s approved/cleared medical product that include calls to value 64 that pre-judge the benefit(s) of the medical product for individual patients. Examples of calls to value that pre-judge the benefit(s) of the medical product for individual patients include “Call FIRM X now for more information on [Medical product X] — it’s the best option for your difficult-to-treat patients!” and “Click here to start improving your patients’ lives today.” In contrast, inclusion of a call to value that does not pre
+
+59 Research demonstrates that communication techniques employed in marketing by firms are effective at 
+influencing attitudes and behaviors of HCPs and that how information is presented can impact HCP impressions of 
+that information. Such techniques can influence attitudes and behavior, independent of the quality of the 
+information, even among highly educated medical professionals. See, e.g., Austad, K. E., Avorn, J., Franklin, J. M., 
+Campbell, E. G., & Kesselheim, A. S. (2014). Association of Marketing Interactions With Medical Trainees’ 
+Knowledge About Evidence-Based Prescribing: Results From a National Survey. JAMA Internal Medicine, 
+174(8):1283–1290; Avorn, J., Chen, M., & Hartley, R. (1982). Scientific versus commercial sources of influence on 
+the prescribing behavior of physicians. The American Journal of Medicine, 73(1), 4–8; Hadland, S. E., Cerdá, M., 
+Li, Y., Krieger, M.S., Marshall, B. D. L. (2018). Association of pharmaceutical industry marketing of opioid 
+products to physicians with subsequent opioid prescribing. JAMA Intern Med., 178(6):861-863; Naylor, C., Chen, 
+E., Strauss, B. (1992). Measured enthusiasm: does the method of reporting trial results alter perceptions of 
+therapeutic effectiveness? Ann Intern Med. 117(11): 916–921; Petty, R. E. & Cacioppo, J. T. (1986); 
+Communication and Persuasion: Central and Peripheral Routes to Attitude Change. New York: Springer-Verlag; 
+Price, S., O’Donoghue, A., Rizzo, L., Sapru, S., Aikin, K. (2021). What influences healthcare providers’ prescribing 
+decisions? Results from a national survey. Research in Social and Administrative Pharmacy, 17(10), 1770–1779; 
+Sah, S., & Fugh-Berman, A. (2013). Physicians under the influence: social psychology and industry marketing 
+strategies. The Journal of law, medicine & ethics: a journal of the American Society of Law, Medicine & Ethics, 
+41(3), 665–672. 
+60 Whether a firm-generated presentation falls outside of the enforcement policy outlined in this guidance for this 
+reason depends on the specifics of the individual communication. 
+61 Examples of emotional appeals unrelated to the scientific content include statements such as “Don’t give up hope 
+for your patients” and inspirational images such as a sunrise, a joyful family gathering, or a basket of puppies. 
+62 Examples of gifts include note pads and pens. See also IOM (Institute of Medicine). (2009). Conflict of Interest 
+in Medical Research, Education, and Practice. Washington, DC: The National Academies Press (noting that even 
+small gifts can result in undue influence, particularly in the context of a sustained relationship). 
+63 An example of a promotional tagline would be “Nothing but the BEST from [Medical product X].” 
+64 A call to value is a term of art that refers to a communication technique that includes both a call to action and a 
+value proposition that tells the audience what this action will translate into for them. 
+
+judge the benefit(s) of the medical product for individual patients would not alone cause a firm generated presentation to fall outside the enforcement policy outlined in this guidance. Examples of calls to value that do not pre-judge the benefit(s) of the medical product for individual patients include “Click here to access the full article for free!” or “Read now to learn more about this new data on Medical product X.” There are several reasons for defining the scope of the enforcement policy outlined in this guidance to exclude firm-generated presentations that use (1) communication techniques that encourage the unapproved use of the firm’s medical product based on elements other than the communication’s scientific content or (2) calls to value that pre-judge the benefit(s) of the medical product for individual patients. In general, in the context of any communication from a firm to an HCP in support of an unapproved use, the firm’s choice to use these communication techniques suggests an effort to convince the HCP to prescribe or use the product for the unapproved use, rather than providing the HCP with scientific information to evaluate and make their own clinical decisions. These efforts to persuade provide particularly clear evidence of the firm’s intended use for the purposes of relevant requirements of the FDA Authorities. 65
+
+Relatedly, the boundary on the enforcement policy outlined in this guidance regarding communication techniques in firm-generated presentations helps to preserve the incentives for firms to develop scientific data and information of the quality and type sufficient to satisfy premarket requirements for approval/clearance of each intended use and then submit that data consistent with the premarket review process for each intended use. 66 Without this boundary regarding communication techniques in firm-generated presentations, there would not be a meaningful distinction between firm-generated presentations included in SIUU communications and promotional activities. As with SIUU communications that include firm-generated presentations, a firm’s promotional communications about approved uses are also firm generated, and, particularly when directed to an HCP audience, frequently present scientific content to encourage use of the medical product. Dissolving this distinction between these types of communications would undercut the incentives for firms to develop scientific evidence and engage in the premarket review process in order to promote their medical product. Finally, because an SIUU communication may be used to inform clinical practice decisions about whether to expose an individual patient to an unapproved use of a medical product, without the assurances of safety and effectiveness provided by premarket review, it is critical that the communication be presented in a manner that is unlikely to lead HCPs to base those decisions on conclusions about the safety or effectiveness of the unapproved use that are not in alignment with or that go beyond what is justified by the underlying scientific information.
+
+65 See 21 CFR 201.128 and 801.4 (describing a wide range of evidence available to establish that intended use); 
+2021 Intended Use Final Rule, 86 FR at 41388 (“Courts have repeatedly held that . . . promotional claims are one 
+source of evidence of intended use.”). 
+66 FDA approval/clearance of each intended use, in turn, helps advance public health benefits, including by assuring 
+independent examination of the data and helping to ensure that labeling is accurate and conveys information 
+prescribers and patients need to use the product safely and effectively for each intended use. See January 2017 
+Memorandum at 3–20. 
+
+In summary, this guidance strives to balance (1) HCP interest in scientific information about unapproved uses of approved/cleared medical products to inform clinical practice decisions for the care and management of individual patients and (2) the various government interests in incentivizing the development of and satisfaction of applicable premarket requirements for medical products. 67 In firm-generated presentations, a firm’s use of communication techniques to encourage the unapproved use of its medical product based on elements other than the communication’s scientific content does not appropriately serve the purpose of informing clinical practice decisions for the care and management of individual patients and therefore does not counterbalance the important government interests discussed in this guidance. For these reasons, those communications are outside the scope of the enforcement policy outlined in this guidance.
+
+VI. PAPERWORK REDUCTION ACT OF 1995 
+This guidance contains information collection provisions that are subject to review by the Office 
+of Management and Budget (OMB) under the Paperwork Reduction Act of 1995 (44 U.S.C. 
+3501-3521). 
+The time required to complete this information collection is estimated to average 2.5 hours per 
+response, including the time to review instructions, search existing data sources, gather the data 
+needed, and complete and review the information collection. Send comments regarding this 
+burden estimate or suggestions for reducing this burden to: 
+Office of Prescription Drug Promotion, Center for Drug Evaluation and Research, Food 
+and Drug Administration, 10903 New Hampshire Avenue, Bldg. 51, Silver Spring, MD 
+20993-0002. 
+An Agency may not conduct or sponsor, and a person is not required to respond to, a collection of 
+information unless it displays a currently valid OMB control number. The information collection 
+provisions in Q2, Q4, and Q5 of this guidance have been submitted to OMB for review as required 
+by section 3507(d) of the Paperwork Reduction Act of 1995. This guidance is not for current 
+implementation. Before implementing the guidance, we will publish a notice in the Federal 
+Register announcing OMB’s decision to approve, modify, or disapprove the information collection 
+provisions contained in the guidance. 
+
+67 See January 2017 Memorandum at 3–20.
+
+

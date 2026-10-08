@@ -1,0 +1,1102 @@
+{
+ "family": "Statute & core regulations (FD&C 502, 21 CFR 202.1, 201.57, 314.81)",
+ "rules": [
+  {
+   "id": "A-502A-01",
+   "source": {
+    "document": "FD&C Act section 502, 21 U.S.C. 352 (Misbranded drugs and devices)",
+    "section": "502(a) [21 U.S.C. 352(a)]",
+    "url": "https://www.law.cornell.edu/uscode/text/21/352",
+    "status": "statute",
+    "archived_text": "rules/sources/law_cornell_edu_uscode_text_21_352.txt"
+   },
+   "rule_text": "A drug is misbranded if its labeling (incl. promotional labeling) is false or misleading in any particular. Umbrella rule; Margin routes to the specific rules below.",
+   "verbatim_quote": "If its labeling is false or misleading in any particular.",
+   "quote_check": "verified",
+   "applies_to": "all promotional labeling (HCP, DTC, payer, social, exhibit, email)",
+   "check_type": "judgment",
+   "detection": {
+    "question": "Taken as a whole, does the piece create a false or misleading net impression about the drug in any particular?",
+    "pass_anchor": "Every express and implied claim is consistent with the PI and supported; net impression matches the label.",
+    "fail_anchor": "Any express or implied claim (text, visual, audio) would leave a reasonable reader with an impression the PI/data do not support."
+   },
+   "severity": "high",
+   "opdp_case_ids": [],
+   "note": null
+  },
+  {
+   "id": "A-502N-01",
+   "source": {
+    "document": "FD&C Act section 502, 21 U.S.C. 352 (Misbranded drugs and devices)",
+    "section": "502(n) [21 U.S.C. 352(n)]",
+    "url": "https://www.law.cornell.edu/uscode/text/21/352",
+    "status": "statute",
+    "archived_text": "rules/sources/law_cornell_edu_uscode_text_21_352.txt"
+   },
+   "rule_text": "Every Rx drug advertisement must include the established name (prominently, in type at least half as large as the proprietary name) and a true statement in brief summary of side effects, contraindications and effectiveness.",
+   "verbatim_quote": "the established name ... printed prominently and in type at least half as large as that used for any trade or brand name thereof",
+   "quote_check": "verified",
+   "applies_to": "advertisements (DTC, HCP journal, broadcast, digital ads)",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "established_name",
+    "logic": "For every proprietary-name occurrence that is featured (headline/first mention per page/web page/SUPER), the established name must occur within 60 characters (after stripping ®/™/CII); when font metadata is supplied, established-name size >= 0.5x brand size.",
+    "inputs": [
+     "text",
+     "brand",
+     "established_name",
+     "name_sizes?"
+    ]
+   },
+   "severity": "high",
+   "opdp_case_ids": [
+    "WL-20250909-aytu-716599-v2"
+   ],
+   "note": null
+  },
+  {
+   "id": "A-502N-02",
+   "source": {
+    "document": "FD&C Act section 502, 21 U.S.C. 352 (Misbranded drugs and devices)",
+    "section": "502(n) (published DTC ads, MedWatch statement)",
+    "url": "https://www.law.cornell.edu/uscode/text/21/352",
+    "status": "statute",
+    "archived_text": "rules/sources/law_cornell_edu_uscode_text_21_352.txt"
+   },
+   "rule_text": "Published DTC ads must carry the statutory MedWatch statement.",
+   "verbatim_quote": "You are encouraged to report negative side effects of prescription drugs to the FDA. Visit www.fda.gov/medwatch, or call 1-800-FDA-1088.",
+   "quote_check": "verified",
+   "applies_to": "DTC print / published ads",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "medwatch_statement",
+    "logic": "If audience==DTC and piece_type is published/print ad: require 'fda.gov/medwatch' AND '1-800-FDA-1088' (dash/space tolerant).",
+    "inputs": [
+     "text",
+     "audience",
+     "piece_type"
+    ]
+   },
+   "severity": "medium",
+   "opdp_case_ids": [],
+   "note": null
+  },
+  {
+   "id": "A-202-E1-01",
+   "source": {
+    "document": "21 CFR 202.1 Prescription-drug advertisements (eCFR current; read via LII)",
+    "section": "202.1(e)(1)(i)(B)",
+    "url": "https://www.law.cornell.edu/cfr/text/21/202.1",
+    "status": "regulation",
+    "archived_text": "rules/sources/law_cornell_edu_cfr_text_21_202_1.txt"
+   },
+   "rule_text": "Broadcast ads must contain a brief summary or make adequate provision for dissemination of the approved labeling (toll-free number, website, print-ad reference, HCP referral).",
+   "verbatim_quote": "unless adequate provision is made for dissemination of the approved or permitted product labeling in connection with the broadcast presentation",
+   "quote_check": "verified",
+   "applies_to": "DTC TV/radio/streaming video",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "adequate_provision",
+    "logic": "For broadcast pieces: require >=3 of 4 adequate-provision elements: phone number pattern; URL; reference to a print ad/magazine; 'ask your doctor/pharmacist/health care provider'. Fail lists the missing elements.",
+    "inputs": [
+     "text",
+     "piece_type"
+    ]
+   },
+   "severity": "high",
+   "opdp_case_ids": [
+    "UL-20211213-155419-v2"
+   ],
+   "note": null
+  },
+  {
+   "id": "A-202-E1-02",
+   "source": {
+    "document": "21 CFR 202.1 Prescription-drug advertisements (eCFR current; read via LII)",
+    "section": "202.1(e)(1)(i)(A)",
+    "url": "https://www.law.cornell.edu/cfr/text/21/202.1",
+    "status": "regulation",
+    "archived_text": "rules/sources/law_cornell_edu_cfr_text_21_202_1.txt"
+   },
+   "rule_text": "Broadcast ads must state the major side effects and contraindications ('major statement') in the audio (or audio and visual) portion.",
+   "verbatim_quote": "Include information relating to the major side effects and contraindications (\"major statement\") of the advertised drugs in the audio or audio and visual parts of the presentation",
+   "quote_check": "verified",
+   "applies_to": "DTC/HCP TV, radio, video",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "risk_coverage",
+    "logic": "Given pi.required_risk_terms (Boxed Warning concepts, all contraindications, W&P headings / MG 'most important information' items), each term (or listed synonym) must appear in the audio transcript (falls back to full text if no transcript). Fail lists missing terms.",
+    "inputs": [
+     "audio_text|text",
+     "pi.required_risk_terms"
+    ]
+   },
+   "severity": "high",
+   "opdp_case_ids": [
+    "UL-20260622-193307-v2",
+    "UL-20260428-192241-v1",
+    "UL-20260408-191932-v2",
+    "UL-20260206-191066-v4",
+    "UL-20260206-191036-v3",
+    "UL-20260130-191009-v2",
+    "UL-20260130-191010-v4",
+    "UL-20250930-189733-v1",
+    "UL-20250909-188699-v3",
+    "UL-20250909-188701-v2",
+    "UL-20250909-188703-v1",
+    "UL-20250909-188752-v1",
+    "UL-20250909-188755-v1",
+    "UL-20250909-188754-v1",
+    "UL-20250909-188756-v1",
+    "UL-20240717-180350-v1",
+    "UL-20220119-155627-v3",
+    "UL-20220331-159926-v1",
+    "UL-20211213-155419-v1",
+    "UL-20200814-141347-v1",
+    "WL-20200831-sprout-610569-v1",
+    "WL-20250909-lilly-716462-v1",
+    "WL-20250909-lilly-716475-v1",
+    "WL-20250909-lilly-716485-v1",
+    "WL-20250909-novo-716495-v1",
+    "WL-20260313-immunitybio-725468-v4"
+   ],
+   "note": null
+  },
+  {
+   "id": "A-202-E2-01",
+   "source": {
+    "document": "21 CFR 202.1 Prescription-drug advertisements (eCFR current; read via LII)",
+    "section": "202.1(e)(2)(i)",
+    "url": "https://www.law.cornell.edu/cfr/text/21/202.1",
+    "status": "regulation",
+    "archived_text": "rules/sources/law_cornell_edu_cfr_text_21_202_1.txt"
+   },
+   "rule_text": "Reminder ads (exempt from brief summary) may call attention to the drug name but may not include indications or dosage recommendations; a piece that names the product and its use is not a reminder ad.",
+   "verbatim_quote": "Reminder advertisements are those which call attention to the name of the drug product but do not include indications or dosage recommendations for use of the drug product.",
+   "quote_check": "verified",
+   "applies_to": "all ads claiming reminder status",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "reminder_ad",
+    "logic": "If meta.claimed_reminder or no risk content: fail when the brand co-occurs with any indication/disease term (pi.indication_terms or a disease lexicon) or dosing language.",
+    "inputs": [
+     "text",
+     "brand",
+     "meta.claimed_reminder?",
+     "pi.indication_terms?"
+    ]
+   },
+   "severity": "high",
+   "opdp_case_ids": [
+    "UL-20211213-155419-v1"
+   ],
+   "note": null
+  },
+  {
+   "id": "A-202-E5-01",
+   "source": {
+    "document": "21 CFR 202.1 Prescription-drug advertisements (eCFR current; read via LII)",
+    "section": "202.1(e)(5)(i)",
+    "url": "https://www.law.cornell.edu/cfr/text/21/202.1",
+    "status": "regulation",
+    "archived_text": "rules/sources/law_cornell_edu_cfr_text_21_202_1.txt"
+   },
+   "rule_text": "An ad is not a 'true statement' if it is false or misleading with respect to side effects, contraindications, or effectiveness (covers overstatement of efficacy).",
+   "verbatim_quote": "It is false or misleading with respect to side effects, contraindications, or effectiveness",
+   "quote_check": "verified",
+   "applies_to": "all",
+   "check_type": "judgment",
+   "detection": {
+    "question": "Does the piece represent or suggest efficacy (magnitude, onset, durability, proportion of responders, outcomes) beyond what the PI/pivotal data show?",
+    "pass_anchor": "Efficacy statements match PI endpoints, magnitudes, timepoints and responder proportions, with the comparator shown.",
+    "fail_anchor": "Implies more patients, bigger, faster, longer-lasting, or different benefits than the PI supports (e.g., 'clear skin that lasts' when <50% achieve it)."
+   },
+   "severity": "high",
+   "opdp_case_ids": [
+    "UL-20260928-195157-v1",
+    "UL-20260728-194718-v1",
+    "UL-20260422-192125-v1",
+    "UL-20260130-191010-v1",
+    "UL-20260123-190753-v1",
+    "UL-20251215-190245-v1",
+    "UL-20251124-189913-v1",
+    "UL-20250909-188906-v1",
+    "UL-20250909-188686-v1",
+    "UL-20250909-188686-v2",
+    "UL-20250909-188719-v1",
+    "UL-20250909-188720-v1",
+    "UL-20250909-188695-v1",
+    "UL-20250909-188699-v1",
+    "UL-20250909-188733-v1",
+    "UL-20250909-188721-v1",
+    "UL-20250909-188749-v1",
+    "UL-20250909-188749-v2",
+    "UL-20250909-188705-v1",
+    "UL-20250909-188708-v1",
+    "UL-20250909-188725-v1",
+    "UL-20250909-188727-v1",
+    "UL-20250909-188729-v1",
+    "UL-20250909-188710-v1",
+    "UL-20250909-188715-v1",
+    "UL-20250909-188731-v1",
+    "UL-20241031-183512-v2",
+    "UL-20240829-181754-v2",
+    "UL-20230811-171460-v2",
+    "UL-20200814-141347-v2"
+   ],
+   "note": null
+  },
+  {
+   "id": "A-202-E5-02",
+   "source": {
+    "document": "21 CFR 202.1 Prescription-drug advertisements (eCFR current; read via LII)",
+    "section": "202.1(e)(5)(ii)",
+    "url": "https://www.law.cornell.edu/cfr/text/21/202.1",
+    "status": "regulation",
+    "archived_text": "rules/sources/law_cornell_edu_cfr_text_21_202_1.txt"
+   },
+   "rule_text": "Fair balance: risk information must be presented with comparable depth/detail to effectiveness information.",
+   "verbatim_quote": "It fails to present a fair balance between information relating to side effects and contraindications and information relating to effectiveness of the drug",
+   "quote_check": "verified",
+   "applies_to": "all",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "risk_present",
+    "logic": "If the piece makes a benefit/indication claim (brand + benefit or indication lexicon), it must also contain risk content: an ISI header or >=2 risk markers (warning, contraindicated, side effect(s), serious, risk of, may cause, allergic). Excerpt-level check; complemented by A-202-E7-08 judgment for prominence.",
+    "inputs": [
+     "text"
+    ]
+   },
+   "severity": "high",
+   "opdp_case_ids": [
+    "UL-20260928-195157-v4",
+    "UL-20260526-192843-v2",
+    "UL-20260408-191932-v2",
+    "UL-20251215-190494-v1",
+    "UL-20250909-188905-v1",
+    "UL-20250909-188904-v1",
+    "UL-20250909-188699-v4",
+    "UL-20250909-188703-v1",
+    "UL-20250909-188746-v2",
+    "UL-20250909-188747-v2",
+    "UL-20250909-188748-v2",
+    "UL-20250909-188755-v1",
+    "UL-20250909-188754-v1",
+    "UL-20250909-188756-v1",
+    "UL-20250203-185653-v1",
+    "UL-20241031-183512-v1",
+    "UL-20240717-180350-v1",
+    "UL-20230811-171460-v1",
+    "UL-20220119-155627-v2",
+    "UL-20220119-155627-v3",
+    "UL-20210809-151527-v1",
+    "UL-20210308-146528-v4",
+    "UL-20201124-144115-v1",
+    "UL-20201124-144115-v2",
+    "WL-20200922-nalpropion-v1",
+    "WL-20250909-lilly-716462-v1",
+    "WL-20250909-lilly-716475-v1",
+    "WL-20250909-aytu-716599-v1",
+    "WL-20260313-immunitybio-725468-v3",
+    "WL-20260313-immunitybio-725468-v4"
+   ],
+   "note": null
+  },
+  {
+   "id": "A-202-E5-03",
+   "source": {
+    "document": "21 CFR 202.1 Prescription-drug advertisements (eCFR current; read via LII)",
+    "section": "202.1(e)(5)(iii)",
+    "url": "https://www.law.cornell.edu/cfr/text/21/202.1",
+    "status": "regulation",
+    "archived_text": "rules/sources/law_cornell_edu_cfr_text_21_202_1.txt"
+   },
+   "rule_text": "Ads must reveal facts material in light of their representations or with respect to consequences of use (omission of material risk or indication facts).",
+   "verbatim_quote": "It fails to reveal facts material in the light of its representations or material with respect to consequences that may result from the use of the drug",
+   "quote_check": "verified",
+   "applies_to": "all",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "risk_coverage",
+    "logic": "Each pi.required_risk_terms item (boxed warning concepts, contraindications, W&P headings with their key action/severity words) must appear in the piece. Fail lists missing items.",
+    "inputs": [
+     "text",
+     "pi.required_risk_terms"
+    ]
+   },
+   "severity": "high",
+   "opdp_case_ids": [
+    "UL-20260622-193307-v2",
+    "UL-20260526-192843-v2",
+    "UL-20260408-191932-v2",
+    "UL-20260331-191883-v2",
+    "UL-20260206-191066-v4",
+    "UL-20260206-191036-v3",
+    "UL-20260130-191009-v2",
+    "UL-20260130-191010-v4",
+    "UL-20251215-190494-v1",
+    "UL-20250930-189733-v1",
+    "UL-20250909-188905-v1",
+    "UL-20250909-188904-v1",
+    "UL-20250909-188699-v3",
+    "UL-20250909-188701-v2",
+    "UL-20250909-188703-v1",
+    "UL-20250909-188752-v1",
+    "UL-20250909-188755-v1",
+    "UL-20250909-188754-v1",
+    "UL-20250909-188756-v1",
+    "UL-20250428-186470-v7",
+    "UL-20250203-185653-v1",
+    "UL-20240717-180350-v1",
+    "UL-20230811-171460-v1",
+    "UL-20220119-155627-v3",
+    "UL-20220331-159926-v1",
+    "UL-20211213-155419-v1",
+    "UL-20210809-151527-v1",
+    "UL-20201124-144115-v1",
+    "UL-20200814-141347-v1",
+    "WL-20200831-sprout-610569-v1",
+    "WL-20200922-nalpropion-v1",
+    "WL-20250909-lilly-716462-v1",
+    "WL-20250909-lilly-716475-v1",
+    "WL-20250909-lilly-716485-v1",
+    "WL-20250909-novo-716495-v1",
+    "WL-20250909-aytu-716599-v1",
+    "WL-20260313-immunitybio-725468-v4"
+   ],
+   "note": null
+  },
+  {
+   "id": "A-202-E5-01D",
+   "source": {
+    "document": "21 CFR 202.1 Prescription-drug advertisements (eCFR current; read via LII)",
+    "section": "202.1(e)(5)(i) (deterministic trigger)",
+    "url": "https://www.law.cornell.edu/cfr/text/21/202.1",
+    "status": "regulation",
+    "archived_text": "rules/sources/law_cornell_edu_cfr_text_21_202_1.txt"
+   },
+   "rule_text": "Lexical trigger for efficacy overstatement: absolute, cure/heal, speed/onset, durability and totality words in efficacy claims must be verified against PI endpoints (fail-pending-verification).",
+   "verbatim_quote": "It is false or misleading with respect to side effects, contraindications, or effectiveness",
+   "quote_check": "verified",
+   "applies_to": "all",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "efficacy_absolutes",
+    "logic": "Flag cure|cures|eliminat\\w*|heal(s|ing)?|100 ?%|100 percent|complete(ly)? (relief|response|clear)|clear skin|lasting|lasts|durable|fast|rapid(ly)?|quick(ly)?|works (with)?in \\d+|in (about )?\\d+[-–]?\\d* minutes|as soon as|live longer|treat all|doesn'?t come back|vaccine|guarantee\\w*|proven|99 ?%|\\d+(\\.\\d+)?\\s*(x|times) more. Passes only if meta.substantiated_claims contains the matched span.",
+    "inputs": [
+     "text",
+     "meta.substantiated_claims?"
+    ]
+   },
+   "severity": "high",
+   "opdp_case_ids": [
+    "UL-20260422-192125-v2",
+    "UL-20260206-191066-v2",
+    "UL-20250909-188706-v3",
+    "UL-20240829-181754-v1",
+    "UL-20240801-180633-v3",
+    "UL-20231031-173730-v1",
+    "UL-20231031-173696-v1",
+    "UL-20230607-169419-v1",
+    "UL-20210308-146528-v1",
+    "WL-20200922-nalpropion-v3",
+    "WL-20260313-immunitybio-725468-v1"
+   ],
+   "note": null
+  },
+  {
+   "id": "A-202-E5-01X",
+   "source": {
+    "document": "21 CFR 202.1 Prescription-drug advertisements (eCFR current; read via LII)",
+    "section": "202.1(e)(5)(i), (e)(6)(i)-(ii) (deterministic trigger)",
+    "url": "https://www.law.cornell.edu/cfr/text/21/202.1",
+    "status": "regulation",
+    "archived_text": "rules/sources/law_cornell_edu_cfr_text_21_202_1.txt"
+   },
+   "rule_text": "Exclusivity/priority claims ('only', 'first and only', '#1', 'leading', 'preferred') must be verified against approved products and labeling.",
+   "verbatim_quote": null,
+   "quote_check": "no_quote",
+   "applies_to": "all",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "exclusivity_claim",
+    "logic": "Flag (the )?(first and )?only|first[- ]in[- ]class|#1|number one|leading|preferred (choice|treatment)|another (topical )?(treatment )?option ... approved; pass if meta.substantiated_claims contains the span.",
+    "inputs": [
+     "text",
+     "meta.substantiated_claims?"
+    ]
+   },
+   "severity": "medium",
+   "opdp_case_ids": [
+    "UL-20260526-192843-v1",
+    "UL-20260512-192467-v2",
+    "UL-20260327-191875-v1",
+    "UL-20260327-191875-v2",
+    "UL-20260205-191020-v1",
+    "UL-20240829-181754-v1",
+    "UL-20240717-180350-v1",
+    "UL-20220331-159926-v3",
+    "WL-20200831-sprout-610569-v2",
+    "WL-20260313-immunitybio-725468-v2"
+   ],
+   "note": null
+  },
+  {
+   "id": "A-202-E6-01",
+   "source": {
+    "document": "21 CFR 202.1 Prescription-drug advertisements (eCFR current; read via LII)",
+    "section": "202.1(e)(6)(i)",
+    "url": "https://www.law.cornell.edu/cfr/text/21/202.1",
+    "status": "regulation",
+    "archived_text": "rules/sources/law_cornell_edu_cfr_text_21_202_1.txt"
+   },
+   "rule_text": "Ad must not represent or suggest the drug is useful in a broader range of conditions or patients than the labeling supports.",
+   "verbatim_quote": "useful in a broader range of conditions or patients ... than has been demonstrated by substantial evidence",
+   "quote_check": "verified",
+   "applies_to": "all",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "indication_qualifiers",
+    "logic": "Given pi.indication_qualifiers (population e.g. 'adults', line of therapy, 'in combination with X', 'adjunct to diet', 'acute', limitations of use), every qualifier must appear (case-insensitive, synonym list) in the piece where the indication/use is first stated. Fail lists missing qualifiers.",
+    "inputs": [
+     "text",
+     "pi.indication_qualifiers"
+    ]
+   },
+   "severity": "high",
+   "opdp_case_ids": [
+    "UL-20260715-193721-v1",
+    "UL-20260622-193307-v1",
+    "UL-20260408-191932-v1",
+    "UL-20260331-191883-v1",
+    "UL-20260206-191036-v2",
+    "UL-20251215-190494-v2",
+    "UL-20250923-189634-v1",
+    "UL-20250909-188703-v3",
+    "UL-20250909-188706-v1",
+    "UL-20250909-188710-v2",
+    "UL-20220119-155627-v1",
+    "UL-20220602-158997-v3",
+    "UL-20211213-155419-v3",
+    "UL-20210308-146528-v3",
+    "UL-20201124-144115-v3",
+    "WL-20200831-sprout-610569-v2",
+    "WL-20200922-nalpropion-v2",
+    "WL-20250909-lilly-716462-v2",
+    "WL-20250909-lilly-716475-v2",
+    "WL-20260313-immunitybio-725468-v5"
+   ],
+   "note": null
+  },
+  {
+   "id": "A-202-E6-01J",
+   "source": {
+    "document": "21 CFR 202.1 Prescription-drug advertisements (eCFR current; read via LII)",
+    "section": "202.1(e)(6)(i)",
+    "url": "https://www.law.cornell.edu/cfr/text/21/202.1",
+    "status": "regulation",
+    "archived_text": "rules/sources/law_cornell_edu_cfr_text_21_202_1.txt"
+   },
+   "rule_text": "Judgment counterpart for broadening: implied use beyond indication (umbrella disease terms, 'all cancers', prevention vs treatment).",
+   "verbatim_quote": "useful in a broader range of conditions or patients",
+   "quote_check": "verified",
+   "applies_to": "all",
+   "check_type": "judgment",
+   "detection": {
+    "question": "Does the piece, through words or visuals, suggest use in a population, disease scope, line of therapy or regimen broader than the PI indication?",
+    "pass_anchor": "Indication stated with all PI qualifiers; visuals/patient types consistent with the indicated population.",
+    "fail_anchor": "Umbrella terms, imagery or phrasing implying broader populations, disease subsets or monotherapy beyond the label."
+   },
+   "severity": "high",
+   "opdp_case_ids": [
+    "UL-20260526-192843-v1",
+    "UL-20260226-191387-v1",
+    "UL-20251215-190245-v2",
+    "UL-20200814-141347-v3"
+   ],
+   "note": null
+  },
+  {
+   "id": "A-202-E6-02",
+   "source": {
+    "document": "21 CFR 202.1 Prescription-drug advertisements (eCFR current; read via LII)",
+    "section": "202.1(e)(6)(ii)",
+    "url": "https://www.law.cornell.edu/cfr/text/21/202.1",
+    "status": "regulation",
+    "archived_text": "rules/sources/law_cornell_edu_cfr_text_21_202_1.txt"
+   },
+   "rule_text": "No comparative claim that a drug is safer or more effective than another unless demonstrated by substantial evidence (generally adequate head-to-head trials).",
+   "verbatim_quote": "Contains a drug comparison that represents or suggests that a drug is safer or more effective than another drug in some particular when it has not been demonstrated",
+   "quote_check": "verified",
+   "applies_to": "all",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "comparative_claim",
+    "logic": "Trigger (fail-pending-substantiation) on comparative/superiority language: better|superior|more effective|outperform|vs\\.?|versus|compared (to|with)|than [A-Z]|unlike other|preferred (choice|treatment)|x times|N% more. Passes only if meta.substantiated_claims lists the matched span (head-to-head support on file).",
+    "inputs": [
+     "text",
+     "meta.substantiated_claims?"
+    ]
+   },
+   "severity": "high",
+   "opdp_case_ids": [
+    "UL-20260512-192467-v2",
+    "UL-20260331-191883-v4",
+    "UL-20260327-191875-v1",
+    "UL-20260226-191387-v2",
+    "UL-20260205-191020-v1",
+    "UL-20250909-188902-v1",
+    "UL-20250909-188908-v1",
+    "UL-20250428-186470-v1",
+    "UL-20250428-186470-v2",
+    "UL-20250203-185653-v2",
+    "UL-20241031-183512-v3",
+    "UL-20220331-159926-v3",
+    "UL-20220331-159926-v4",
+    "UL-20210707-150751-v2",
+    "UL-20210308-146528-v2"
+   ],
+   "note": null
+  },
+  {
+   "id": "A-202-E6-04",
+   "source": {
+    "document": "21 CFR 202.1 Prescription-drug advertisements (eCFR current; read via LII)",
+    "section": "202.1(e)(6)(iv)",
+    "url": "https://www.law.cornell.edu/cfr/text/21/202.1",
+    "status": "regulation",
+    "archived_text": "rules/sources/law_cornell_edu_cfr_text_21_202_1.txt"
+   },
+   "rule_text": "No representation that a drug is safer than demonstrated (minimization: 'well tolerated', 'no X side effects', 'hype', 'very rare', causality-disclaiming language).",
+   "verbatim_quote": "Contains a representation or suggestion that a drug is safer than it has been demonstrated to be",
+   "quote_check": "verified",
+   "applies_to": "all",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "minimization_lexicon",
+    "logic": "Flag: safe(r|st)? (as a claim, not 'safety information'), well[- ]tolerated, no (overall )?[a-z ,-]*(side effects|risk|liver injury)|minimal (effect|impact|risk), (over)?hyp(e|ed), very rare, mild to moderate, medicines have side effects, whether drug related or not, gentle, non-?toxic.",
+    "inputs": [
+     "text"
+    ]
+   },
+   "severity": "high",
+   "opdp_case_ids": [
+    "UL-20260821-194514-v2",
+    "UL-20260728-194718-v3",
+    "UL-20260526-192843-v3",
+    "UL-20250909-188703-v2",
+    "UL-20250428-186470-v5",
+    "UL-20250428-186470-v6",
+    "UL-20250428-186470-v8",
+    "UL-20230607-169419-v3",
+    "WL-20250909-lilly-716485-v2",
+    "WL-20250909-lilly-716485-v3",
+    "WL-20250909-novo-716495-v2",
+    "WL-20250909-novo-716495-v3"
+   ],
+   "note": null
+  },
+  {
+   "id": "A-202-E6-04J",
+   "source": {
+    "document": "21 CFR 202.1 Prescription-drug advertisements (eCFR current; read via LII)",
+    "section": "202.1(e)(6)(iv)",
+    "url": "https://www.law.cornell.edu/cfr/text/21/202.1",
+    "status": "regulation",
+    "archived_text": "rules/sources/law_cornell_edu_cfr_text_21_202_1.txt"
+   },
+   "rule_text": "Judgment counterpart: minimization through framing, ordering, tone or selective presentation.",
+   "verbatim_quote": "safer than it has been demonstrated to be by substantial evidence or substantial clinical experience",
+   "quote_check": "verified",
+   "applies_to": "all",
+   "check_type": "judgment",
+   "detection": {
+    "question": "Does the piece downplay the seriousness, frequency or relevance of any labeled risk (framing, order, tone, selective data)?",
+    "pass_anchor": "Risks stated plainly with severity/action words from the PI; order follows label hierarchy; no softening language.",
+    "fail_anchor": "Risks framed as rare, mild, overhyped or generic; serious risks buried after minor ones; causality disclaimed."
+   },
+   "severity": "high",
+   "opdp_case_ids": [
+    "UL-20260928-195157-v3",
+    "UL-20260728-194718-v4",
+    "UL-20260713-193722-v1",
+    "UL-20260622-193307-v3",
+    "UL-20260622-193307-v5",
+    "UL-20260331-191883-v3",
+    "UL-20260130-191009-v1",
+    "UL-20260130-191010-v3",
+    "UL-20260123-190753-v2",
+    "UL-20260107-190549-v1",
+    "UL-20250909-189906-v1",
+    "UL-20250909-188902-v2",
+    "UL-20250909-188697-v1",
+    "UL-20250909-188705-v2",
+    "UL-20250428-186470-v4"
+   ],
+   "note": null
+  },
+  {
+   "id": "A-202-E6-07",
+   "source": {
+    "document": "21 CFR 202.1 Prescription-drug advertisements (eCFR current; read via LII)",
+    "section": "202.1(e)(6)(vii)",
+    "url": "https://www.law.cornell.edu/cfr/text/21/202.1",
+    "status": "regulation",
+    "archived_text": "rules/sources/law_cornell_edu_cfr_text_21_202_1.txt"
+   },
+   "rule_text": "No nonclinical (animal/in vitro) data presented to suggest clinical significance not established.",
+   "verbatim_quote": "Contains favorable data or conclusions from nonclinical studies of a drug, such as in laboratory animals or in vitro, in a way that suggests they have clinical significance",
+   "quote_check": "verified",
+   "applies_to": "HCP primarily",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "nonclinical_data",
+    "logic": "Flag in vitro|in vivo|preclinical|animal (model|stud)|murine|mice|rats?|cell line|nonclinical unless the same sentence carries a 'clinical significance (has not been|unknown)' disclaimer.",
+    "inputs": [
+     "text"
+    ]
+   },
+   "severity": "medium",
+   "opdp_case_ids": [
+    "UL-20260622-193307-v7"
+   ],
+   "note": null
+  },
+  {
+   "id": "A-202-E6-09",
+   "source": {
+    "document": "21 CFR 202.1 Prescription-drug advertisements (eCFR current; read via LII)",
+    "section": "202.1(e)(6)(x)",
+    "url": "https://www.law.cornell.edu/cfr/text/21/202.1",
+    "status": "regulation",
+    "archived_text": "rules/sources/law_cornell_edu_cfr_text_21_202_1.txt"
+   },
+   "rule_text": "References/guidelines must actually support the claim (e.g., guideline category and preference claims must match the current guideline).",
+   "verbatim_quote": "Uses literature, quotations, or references that purport to support an advertising claim but in fact do not support the claim",
+   "quote_check": "verified",
+   "applies_to": "HCP",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "guideline_citation",
+    "logic": "Trigger on NCCN|ASCO|ESMO|guideline(s)|category [12][AB]?|preferred (regimen|recommendation|option): pass only if meta.reference_checks confirms the cited version and wording.",
+    "inputs": [
+     "text",
+     "meta.reference_checks?"
+    ]
+   },
+   "severity": "medium",
+   "opdp_case_ids": [
+    "UL-20250909-188900-v2"
+   ],
+   "note": null
+  },
+  {
+   "id": "A-202-E6-16",
+   "source": {
+    "document": "21 CFR 202.1 Prescription-drug advertisements (eCFR current; read via LII)",
+    "section": "202.1(e)(6)(xvi)",
+    "url": "https://www.law.cornell.edu/cfr/text/21/202.1",
+    "status": "regulation",
+    "archived_text": "rules/sources/law_cornell_edu_cfr_text_21_202_1.txt"
+   },
+   "rule_text": "No misleading statement that a drug differs from or does not contain a named drug or category of drugs.",
+   "verbatim_quote": "Uses statements or representations that a drug differs from or does not contain a named drug or category of drugs ... in a way that suggests falsely or misleadingly",
+   "quote_check": "verified",
+   "applies_to": "all",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "not_a_class",
+    "logic": "Flag '(is )?not an? <class>' / 'unlike other <class>' / 'non-<class>' / 'no <class>' patterns (class lexicon: antipsychotic, opioid, steroid, stimulant, chemo(therapy), hormone, benzodiazepine, NSAID, immunosuppressant) for verification against PI section 12.",
+    "inputs": [
+     "text"
+    ]
+   },
+   "severity": "medium",
+   "opdp_case_ids": [
+    "UL-20251215-190245-v3"
+   ],
+   "note": null
+  },
+  {
+   "id": "A-202-E6-18",
+   "source": {
+    "document": "21 CFR 202.1 Prescription-drug advertisements (eCFR current; read via LII)",
+    "section": "202.1(e)(6)(xviii)",
+    "url": "https://www.law.cornell.edu/cfr/text/21/202.1",
+    "status": "regulation",
+    "archived_text": "rules/sources/law_cornell_edu_cfr_text_21_202_1.txt"
+   },
+   "rule_text": "Headlines, subheadlines and graphics must not be misleading on their own.",
+   "verbatim_quote": "Uses headline, subheadline, or pictorial or other graphic matter in a way that is misleading",
+   "quote_check": "verified",
+   "applies_to": "all",
+   "check_type": "judgment",
+   "detection": {
+    "question": "Read alone, does any headline, tagline, graphic or image convey a claim the body/PI does not support?",
+    "pass_anchor": "Headline claims are fully qualified on their face or are non-claims.",
+    "fail_anchor": "A headline or visual carries an unqualified efficacy/safety/population message (e.g., 'CLEAR SKIN that lasts', imagery of off-label patient)."
+   },
+   "severity": "high",
+   "opdp_case_ids": [
+    "UL-20260728-194718-v1",
+    "UL-20251215-190245-v1",
+    "UL-20251124-189913-v1",
+    "UL-20250909-188906-v1",
+    "UL-20250909-188686-v1",
+    "UL-20250909-188719-v1",
+    "UL-20250909-188720-v1",
+    "UL-20250909-188721-v1",
+    "UL-20250909-188749-v1",
+    "UL-20250909-188749-v2",
+    "UL-20250909-188708-v1",
+    "UL-20250909-188725-v1",
+    "UL-20250909-188727-v1",
+    "UL-20250909-188715-v1"
+   ],
+   "note": null
+  },
+  {
+   "id": "A-202-E7-01",
+   "source": {
+    "document": "21 CFR 202.1 Prescription-drug advertisements (eCFR current; read via LII)",
+    "section": "202.1(e)(7)(i)",
+    "url": "https://www.law.cornell.edu/cfr/text/21/202.1",
+    "status": "regulation",
+    "archived_text": "rules/sources/law_cornell_edu_cfr_text_21_202_1.txt"
+   },
+   "rule_text": "Favorable conclusions from studies inadequate in design to support them (e.g., time-to-event / DCR / stable disease from single-arm trials) are misleading.",
+   "verbatim_quote": "Contains favorable information or conclusions from a study that is inadequate in design, scope, or conduct to furnish significant support",
+   "quote_check": "verified",
+   "applies_to": "HCP (oncology especially), DTC",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "single_arm_endpoints",
+    "logic": "If pi.trial_design == 'single-arm' (or text says single-arm/open-label/non-randomized): flag PFS|OS|overall survival|progression-free|median (PFS|OS|survival)|time to|event-free|cystectomy-free|disease-specific survival|DCR|disease control|stable disease|SD|waterfall|tumor (change|shrinkage) . Disclaimers do not clear the flag.",
+    "inputs": [
+     "text",
+     "pi.trial_design?"
+    ]
+   },
+   "severity": "high",
+   "opdp_case_ids": [
+    "UL-20260423-192265-v1",
+    "UL-20260107-190567-v1",
+    "UL-20250909-188963-v1",
+    "UL-20250909-188963-v2",
+    "UL-20250909-188898-v1",
+    "UL-20250909-188900-v1",
+    "UL-20250909-188901-v1",
+    "UL-20250909-188903-v1",
+    "UL-20250909-188903-v2",
+    "UL-20250909-188907-v1",
+    "UL-20250909-188751-v1",
+    "UL-20250321-185959-v1",
+    "UL-20250321-185959-v2",
+    "UL-20240801-180633-v1",
+    "UL-20240801-180633-v2",
+    "UL-20240801-180633-v4",
+    "UL-20210707-150751-v1"
+   ],
+   "note": null
+  },
+  {
+   "id": "A-202-E7-02",
+   "source": {
+    "document": "21 CFR 202.1 Prescription-drug advertisements (eCFR current; read via LII)",
+    "section": "202.1(e)(7)(ii)",
+    "url": "https://www.law.cornell.edu/cfr/text/21/202.1",
+    "status": "regulation",
+    "archived_text": "rules/sources/law_cornell_edu_cfr_text_21_202_1.txt"
+   },
+   "rule_text": "Do not use statistical significance (p-values) to support claims lacking clinical significance or from non-prespecified analyses.",
+   "verbatim_quote": "Uses the concept of \"statistical significance\" to support a claim that has not been demonstrated to have clinical significance or validity",
+   "quote_check": "verified",
+   "applies_to": "HCP",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "pvalue_exploratory",
+    "logic": "Flag p-values (p\\s*[<=≤]\\s*0?\\.\\d+) or 'statistically significant' when the piece or meta labels the endpoint exploratory/descriptive/secondary-not-controlled.",
+    "inputs": [
+     "text",
+     "meta.endpoint_status?"
+    ]
+   },
+   "severity": "medium",
+   "opdp_case_ids": [
+    "UL-20250428-186470-v3",
+    "UL-20210707-150751-v1"
+   ],
+   "note": null
+  },
+  {
+   "id": "A-202-E7-03",
+   "source": {
+    "document": "21 CFR 202.1 Prescription-drug advertisements (eCFR current; read via LII)",
+    "section": "202.1(e)(7)(iii)",
+    "url": "https://www.law.cornell.edu/cfr/text/21/202.1",
+    "status": "regulation",
+    "archived_text": "rules/sources/law_cornell_edu_cfr_text_21_202_1.txt"
+   },
+   "rule_text": "Retrospective/post hoc/exploratory analyses may not be presented as if confirmatory.",
+   "verbatim_quote": "Uses statistical analyses and techniques on a retrospective basis to discover and cite findings not soundly supported by the study",
+   "quote_check": "verified",
+   "applies_to": "all",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "posthoc_language",
+    "logic": "Flag post[- ]hoc|exploratory|subgroup|sub-?analysis|descriptive analysis|separate analysis|pooled analysis|open-label extension|not (prespecified|powered|controlled for multiplicity) when in the same piece as proven|demonstrated|showed|significant|%|x more. Also flags onset claims ('as soon as N hours/weeks') when meta.endpoint_status marks the timepoint exploratory.",
+    "inputs": [
+     "text",
+     "meta.endpoint_status?"
+    ]
+   },
+   "severity": "high",
+   "opdp_case_ids": [
+    "UL-20260928-195157-v2",
+    "UL-20260728-194718-v2",
+    "UL-20260624-193472-v1",
+    "UL-20250909-188907-v1",
+    "UL-20250909-188689-v1",
+    "UL-20250909-188721-v2",
+    "UL-20250909-188751-v1",
+    "UL-20250909-188706-v2",
+    "UL-20250428-186470-v3",
+    "UL-20250321-185959-v1",
+    "UL-20240801-180633-v4",
+    "UL-20220331-159926-v5"
+   ],
+   "note": null
+  },
+  {
+   "id": "A-202-E7-08",
+   "source": {
+    "document": "21 CFR 202.1 Prescription-drug advertisements (eCFR current; read via LII)",
+    "section": "202.1(e)(7)(viii)",
+    "url": "https://www.law.cornell.edu/cfr/text/21/202.1",
+    "status": "regulation",
+    "archived_text": "rules/sources/law_cornell_edu_cfr_text_21_202_1.txt"
+   },
+   "rule_text": "Risk information must have prominence and readability reasonably comparable to effectiveness information (type size, placement, contrast, timing, narration).",
+   "verbatim_quote": "Fails to present information relating to side effects and contraindications with a prominence and readability reasonably comparable with the presentation of information relating to effectiveness",
+   "quote_check": "verified",
+   "applies_to": "all",
+   "check_type": "judgment",
+   "detection": {
+    "question": "Is the risk information presented with prominence and readability reasonably comparable to the benefit claims (size, contrast, placement, timing, narration, white space)?",
+    "pass_anchor": "Risk is as noticeable and readable as benefit: same modality, similar size/contrast, not buried after sign-off or in collapsed/scrolling windows.",
+    "fail_anchor": "Risk is smaller, faster, text-only while benefits are narrated, placed after the close/sign-off, collapsed, or crowded."
+   },
+   "severity": "high",
+   "opdp_case_ids": [
+    "UL-20260928-195157-v4",
+    "UL-20260622-193307-v4",
+    "UL-20260327-191875-v2",
+    "UL-20260226-191387-v3",
+    "UL-20250909-188699-v4",
+    "UL-20250909-188746-v2",
+    "UL-20250909-188747-v2",
+    "UL-20250909-188748-v2",
+    "UL-20241031-183512-v1",
+    "UL-20220119-155627-v2",
+    "UL-20220331-159926-v2",
+    "UL-20220602-158997-v4",
+    "UL-20210308-146528-v4",
+    "UL-20201124-144115-v2",
+    "WL-20250909-lilly-716485-v4",
+    "WL-20250909-novo-716495-v4",
+    "WL-20260313-immunitybio-725468-v3"
+   ],
+   "note": null
+  },
+  {
+   "id": "A-202-E7-08D",
+   "source": {
+    "document": "21 CFR 202.1 Prescription-drug advertisements (eCFR current; read via LII)",
+    "section": "202.1(e)(7)(viii)",
+    "url": "https://www.law.cornell.edu/cfr/text/21/202.1",
+    "status": "regulation",
+    "archived_text": "rules/sources/law_cornell_edu_cfr_text_21_202_1.txt"
+   },
+   "rule_text": "Deterministic proxy for risk placement in time-ordered media: risk content must not first appear only after a closing cue.",
+   "verbatim_quote": "with a prominence and readability reasonably comparable",
+   "quote_check": "verified",
+   "applies_to": "video, reels, TV, podcasts, emails",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "risk_after_close",
+    "logic": "With ordered segments (meta.segments or text order): find first closing cue (visit|learn more at|brought to you by|see you|sign-off/signature|tag line|end card). Fail if all risk markers occur after it.",
+    "inputs": [
+     "segments|text"
+    ]
+   },
+   "severity": "medium",
+   "opdp_case_ids": [
+    "UL-20260928-195157-v4",
+    "UL-20260622-193307-v4",
+    "UL-20260226-191387-v3",
+    "UL-20241031-183512-v1",
+    "UL-20210308-146528-v4",
+    "UL-20201124-144115-v2",
+    "WL-20260313-immunitybio-725468-v3"
+   ],
+   "note": null
+  },
+  {
+   "id": "A-202-E7-08M",
+   "source": {
+    "document": "21 CFR 202.1 Prescription-drug advertisements (eCFR current; read via LII)",
+    "section": "202.1(e)(7)(viii) (deterministic proxy, time-based media)",
+    "url": "https://www.law.cornell.edu/cfr/text/21/202.1",
+    "status": "regulation",
+    "archived_text": "rules/sources/law_cornell_edu_cfr_text_21_202_1.txt"
+   },
+   "rule_text": "Deterministic proxy for comparable prominence in audiovisual media: if benefits are narrated, risk must be narrated; risk airtime should not be a small fraction of benefit airtime.",
+   "verbatim_quote": null,
+   "quote_check": "no_quote",
+   "applies_to": "TV, online video, social video, podcasts",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "risk_modality_airtime",
+    "logic": "Requires meta.timing {benefit_narrated, risk_narrated, benefit_seconds, risk_seconds}: fail if benefit narrated and risk not, or risk_seconds < 0.25 x benefit_seconds (Margin heuristic).",
+    "inputs": [
+     "meta.timing"
+    ]
+   },
+   "severity": "medium",
+   "opdp_case_ids": [
+    "UL-20220331-159926-v2",
+    "UL-20210308-146528-v4",
+    "WL-20250909-lilly-716485-v4",
+    "WL-20250909-novo-716495-v4"
+   ],
+   "note": null
+  },
+  {
+   "id": "A-201-57-01",
+   "source": {
+    "document": "21 CFR 201.57 Specific requirements on content and format of labeling (PLR)",
+    "section": "201.57(a)(6) and (c)(2)",
+    "url": "https://www.law.cornell.edu/cfr/text/21/201.57",
+    "status": "regulation",
+    "archived_text": "rules/sources/law_cornell_edu_cfr_text_21_201_57.txt"
+   },
+   "rule_text": "Indications are defined by the PI, including major limitations of use; promotional indication statements should carry the population and limitation-of-use qualifiers.",
+   "verbatim_quote": "Major limitations of use (e.g., lack of effect in particular subsets of the population, or second line therapy status) must be briefly noted.",
+   "quote_check": "verified",
+   "applies_to": "all",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "indication_qualifiers",
+    "logic": "Same check as A-202-E6-01, with pi.limitations_of_use terms appended to required qualifiers.",
+    "inputs": [
+     "text",
+     "pi.indication_qualifiers",
+     "pi.limitations_of_use?"
+    ]
+   },
+   "severity": "high",
+   "opdp_case_ids": [
+    "UL-20260622-193307-v1",
+    "UL-20260331-191883-v1",
+    "UL-20220119-155627-v1",
+    "UL-20210308-146528-v3",
+    "WL-20200831-sprout-610569-v2",
+    "WL-20200922-nalpropion-v2",
+    "WL-20250909-lilly-716462-v2",
+    "WL-20250909-lilly-716475-v2"
+   ],
+   "note": null
+  },
+  {
+   "id": "A-314-81-01",
+   "source": {
+    "document": "21 CFR 314.81(b)(3)(i) (Form FDA 2253 at time of initial dissemination) - section as cited in the OPDP letters; regulation text not fetched in this pass",
+    "section": "314.81(b)(3)(i) (as cited in OPDP letters)",
+    "url": "https://www.law.cornell.edu/cfr/text/21/314.81",
+    "status": "regulation",
+    "archived_text": null
+   },
+   "rule_text": "Promotional labeling and ads must be submitted to FDA on Form FDA 2253 at the time of initial dissemination/publication.",
+   "verbatim_quote": null,
+   "quote_check": "no_quote",
+   "applies_to": "all disseminated promotional pieces incl. executive/media appearances, paid search, social",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "form_2253",
+    "logic": "Metadata: if meta.disseminated is true (or first_use_date set) and meta.form_2253_id is empty -> fail. Pre-dissemination: warn.",
+    "inputs": [
+     "meta.disseminated",
+     "meta.form_2253_id"
+    ]
+   },
+   "severity": "high",
+   "opdp_case_ids": [
+    "UL-20260327-191875-v3",
+    "UL-20230811-171460-v3",
+    "UL-20211213-155419-v4",
+    "UL-20210308-146528-v5",
+    "WL-20250909-lilly-716462-v3",
+    "WL-20250909-lilly-716475-v3",
+    "WL-20250909-lilly-716485-v5",
+    "WL-20250909-novo-716495-v5",
+    "WL-20250909-aytu-716599-v3",
+    "WL-20260313-immunitybio-725468-v6"
+   ],
+   "note": null
+  },
+  {
+   "id": "A-202-E4-01",
+   "source": {
+    "document": "21 CFR 202.1 Prescription-drug advertisements (eCFR current; read via LII)",
+    "section": "202.1(e)(4)(i)(a) and FD&C 502(f)/505 (as cited in letters)",
+    "url": "https://www.law.cornell.edu/cfr/text/21/202.1",
+    "status": "regulation",
+    "archived_text": "rules/sources/law_cornell_edu_cfr_text_21_202_1.txt"
+   },
+   "rule_text": "Ads may recommend or suggest only uses in the approved labeling; investigational products/uses may not be promoted as safe or effective.",
+   "verbatim_quote": "may recommend and suggest the drug only for those uses contained in the labeling thereof",
+   "quote_check": "verified",
+   "applies_to": "all",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "investigational_disclosure",
+    "logic": "If meta.investigational (or text names a development code like ABC-1234 with no approval): require 'investigational' AND ('not approved' or 'safety and efficacy (have not been|not) established'); fail on efficacy/safety claims (proven|safe|effective|no side effects) about it.",
+    "inputs": [
+     "text",
+     "meta.investigational?"
+    ]
+   },
+   "severity": "high",
+   "opdp_case_ids": [
+    "UL-20260821-194514-v3",
+    "WL-20260313-immunitybio-725468-v2"
+   ],
+   "note": null
+  },
+  {
+   "id": "A-202-E4-01J",
+   "source": {
+    "document": "21 CFR 202.1 Prescription-drug advertisements (eCFR current; read via LII)",
+    "section": "202.1(e)(4)",
+    "url": "https://www.law.cornell.edu/cfr/text/21/202.1",
+    "status": "regulation",
+    "archived_text": "rules/sources/law_cornell_edu_cfr_text_21_202_1.txt"
+   },
+   "rule_text": "Judgment counterpart: off-label suggestion (disease, population, route) not in the PI.",
+   "verbatim_quote": "only for those uses contained in the labeling",
+   "quote_check": "verified",
+   "applies_to": "all",
+   "check_type": "judgment",
+   "detection": {
+    "question": "Does the piece suggest any use, population, regimen or route not in the PI indication?",
+    "pass_anchor": "All suggested uses are within the PI; unapproved uses are absent or confined to compliant SIUU/payer channels with disclosures.",
+    "fail_anchor": "Any suggestion of an unapproved use (e.g., 'can treat all cancers')."
+   },
+   "severity": "high",
+   "opdp_case_ids": [
+    "UL-20260821-194514-v1"
+   ],
+   "note": null
+  }
+ ]
+}

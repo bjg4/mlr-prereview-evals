@@ -1,0 +1,37 @@
+{
+"id": "UL-20250909-188721",
+"piece_type": "DTC TV ad “TakING on TD Pool Out 1” (CP-VBZ-US-3838)",
+"audience": "DTC",
+"company": "Neurocrine Biosciences, Inc.",
+"regs_in_letter": "FD&C Act (no CFR section cited in letter text)",
+"status": "processed",
+"cases": [
+{
+"cat": "Overstatement of efficacy",
+"claim": "[Visual] lengthy post-treatment segment in which protagonists continue their work without involuntary movements easily noticed by the viewer",
+"context": "PI: AIMS change vs placebo -1.8 (40 mg, not significant after multiplicity) and -3.1 (80 mg) from baseline ~9.8–10.4.",
+"rationale": "Near-complete resolution portrayed exceeds demonstrated benefit.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Judge: post-treatment imagery vs. modest PI effect sizes on 0–28 scale."
+},
+{
+"cat": "Misleading presentation of study data (exploratory endpoint)",
+"claim": "“…quickly reducING TD movements by greater than 5 times at 2 weeks.” | “ReducING TD Movements >5X at 2 WEEKS vs placebo.” | SUPER: “In a 6-week clinical trial, reductions based on average change from baseline to Week 2 ... INGREZZA (40 mg and 80 mg combined) -1.7 vs placebo -0.3.”",
+"context": "Primary endpoint at Week 6; Week 2 was exploratory.",
+"rationale": "Conclusions from exploratory early timepoint suggest earlier improvement than demonstrated.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "deterministic",
+"check": "Rule: flag onset/early-timepoint claims where that timepoint is exploratory; flag ratio framing ('>5X') of small absolute changes."
+},
+{
+"cat": "Misleading presentation of study data (enriched population)",
+"claim": "“98% of people were still satisfied with INGREZZA after 2 years.” | “Long-LastING Satisfaction >98% still satisfied after 2 YEARS.” | SUPER: “55 of 56 patients in a rollover study of patients taking INGREZZA for 48 weeks after completing long-term KINECT 3 & KINECT 4 studies...”",
+"context": "Rollover study selected for responders; dissatisfied patients may drop out before PSQ.",
+"rationale": "Enriched population results misrepresented as general experience.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Judge: satisfaction/persistence stats from rollover/extension (completer) populations presented as generalizable."
+}
+]
+}

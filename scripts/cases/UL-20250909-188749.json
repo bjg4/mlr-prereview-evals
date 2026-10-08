@@ -1,0 +1,28 @@
+{
+"id": "UL-20250909-188749",
+"piece_type": "DTC TV ad (JUB.0058.USA.24)",
+"audience": "DTC",
+"company": "Bausch Health Companies Inc.",
+"regs_in_letter": "FD&C Act (no CFR section cited in letter text)",
+"status": "processed",
+"cases": [
+{
+"cat": "Overstatement of efficacy",
+"claim": "“don’t fear the fungus” | [Visual] after applying Jublia the man returns to yoga with no sign of the 'Bigfoot foot', touching his uninfected bare feet; other participants no longer move away",
+"context": "PI: Complete Cure 17.8% and 15.2% vs 3.3% and 5.5% vehicle; Mycologic Cure 55.2%/53.4% vs 16.8%/16.9%.",
+"rationale": "Implies all patients achieve complete cure; 'don't fear the fungus' minimizes the condition.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Judge: imagery of complete resolution vs. PI complete-cure rates (<20%)."
+},
+{
+"cat": "Overstatement of efficacy",
+"claim": "[Visual] resolution after a single application; man returns to yoga class with foot looking normal shortly after; “don’t’ fear the fungus.” | SUPER: “Apply to affected toenails for 48 weeks. Individual results may vary.”",
+"context": "Endpoints assessed at week 52; once daily for 48 weeks. SUPER appears at 15 sec, before application scenes, with little emphasis.",
+"rationale": "Implies immediate results; disclaimer timing/emphasis does not mitigate.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Judge: implied time-to-effect vs PI endpoint timing; rule: duration qualifier must appear concurrently with efficacy depiction."
+}
+]
+}

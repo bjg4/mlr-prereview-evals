@@ -1,0 +1,37 @@
+{
+"id": "WL-20200922-nalpropion",
+"piece_type": "Google.com sponsored link (also Bad Ad Program complaint)",
+"audience": "DTC",
+"company": "Nalpropion Pharmaceuticals LLC",
+"regs_in_letter": "21 U.S.C. 352(a), (n); 321(n); 331(a); 21 CFR 202.1(e)(3)(ii); (e)(5)",
+"status": "processed",
+"cases": [
+{
+"cat": "Omission of risk information",
+"claim": "“ CONTRAVE® Weight Loss - (naltrexone HCl/bupropion HCl)” | “Lose 2-4x more weight on average than with diet and exercise alone!” | “View Important Safety Info & Boxed Warning,”",
+"context": "Boxed warning for suicidal thoughts and behaviors.",
+"rationale": "Efficacy claims with no risk information; link to ISI does not mitigate.",
+"reg": "21 U.S.C. 352(n); 21 CFR 202.1(e)(3)(ii), (e)(5)",
+"ct": "deterministic",
+"check": "Rule: sponsored links with efficacy claims require risk info; 'View ISI' links are not risk information."
+},
+{
+"cat": "Broadening of indication / omission of material indication information",
+"claim": "“ CONTRAVE® Weight Loss” | “Lose 2-4x more weight on average than with diet and exercise alone!”",
+"context": "Indication: adjunct to reduced-calorie diet and increased physical activity; BMI ≥30, or ≥27 with comorbidity; limitations of use.",
+"rationale": "Omits adjunct use, BMI criteria, comorbidity requirement and limitations of use.",
+"reg": "21 U.S.C. 352(a); 21 CFR 202.1(e)(5)",
+"ct": "deterministic",
+"check": "Rule: weight-management claims must state adjunct-to-diet-and-exercise and BMI criteria."
+},
+{
+"cat": "Overstatement of efficacy",
+"claim": "“Lose 2-4x more weight on average than with diet and exercise alone!”",
+"context": "Selectively uses favorable co-primary endpoint (% change in body weight); responder rate (≥5% at 1 yr) 36–57% vs 17–43% placebo.",
+"rationale": "Selective presentation of favorable data; implies clinically meaningful effect for any loss.",
+"reg": "21 U.S.C. 352(a); 21 CFR 202.1(e)(5)",
+"ct": "deterministic",
+"check": "Rule: when PI has co-primary endpoints, flag claims that present only the more favorable one; flag 'Nx more' ratio framing."
+}
+]
+}

@@ -1,0 +1,28 @@
+{
+"id": "UL-20250909-188900",
+"piece_type": "HCP branded website webpages: “T315I Mutation”, “CML OPTIC Trial Efficacy”, “CML PACE Trial Efficacy” (USO-ICL-0558v4.0)",
+"audience": "HCP",
+"company": "Takeda Pharmaceuticals America, Inc.",
+"regs_in_letter": "FD&C Act (no CFR section cited in letter text)",
+"status": "processed",
+"cases": [
+{
+"cat": "Misleading presentation of study data (single-arm/uncontrolled)",
+"claim": "“OS 66% estimated at 5 years (95% CI: 51%, 78%)” | “PFS 50% estimated at 5 years (95% CI: 32%, 65%)” | “ESTIMATED OS AND PFS DATA FOR OPTIC WITH A RESPONSE-BASED DOSING STRATEGY” | “CONSISTENT ESTIMATED OS/PFS THROUGH YEAR 5, EVEN IN PATIENTS WITH A T315I MUTATION” | “Median OS and PFS were not reached”",
+"context": "Pie charts and Kaplan-Meier graphs from PACE and OPTIC.",
+"rationale": "PACE and OPTIC designed as single-arm trials (per letter); PFS/OS uninterpretable without comparator.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "deterministic",
+"check": "Rule: flag PFS/OS/survival/time-to-event claims (incl. cystectomy-free, DSS) when the source trial is single-arm; disclaimers do not count as a fix."
+},
+{
+"cat": "Misleading citation of treatment guidelines",
+"claim": "“NCCN CATEGORY 2A PREFERRED RECOMMENDATION” | “Ponatinib is the preferred treatment option for patients with a T315I mutation in any phase.”",
+"context": "Cites NCCN CML V.2.2024; current V.3.2025 says “Ponatinib is a treatment option for patients with a T315I mutation in any phase (preferred for AP-CML or BP-CML).”",
+"rationale": "Misrepresents current guideline; consistency with the (outdated) cited reference does not mitigate.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "deterministic",
+"check": "Rule: guideline claims must match the current guideline version verbatim; flag 'preferred' claims and outdated version citations."
+}
+]
+}

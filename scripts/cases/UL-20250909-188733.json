@@ -1,0 +1,28 @@
+{
+"id": "UL-20250909-188733",
+"piece_type": "DTC TV ad “FASENRA Rachel’s Story – End card update” (US-102362)",
+"audience": "DTC",
+"company": "AstraZeneca Pharmaceuticals LP",
+"regs_in_letter": "FD&C Act (no CFR section cited in letter text)",
+"status": "processed",
+"cases": [
+{
+"cat": "Overstatement of efficacy",
+"claim": "“Asthma was making me miss out on things I love, like spending time with my kids. ... I was concerned about future attacks.” | “Now I’m breathing better. I haven’t had an asthma attack in a year and I’m back to the things I’ve missed.” | “Like cheering for my boys.” | “Running my shop, and spending time with friends.” | “Haven’t you missed enough?” | SUPER: “In two studies, 65% and 60% did not have an asthma attack,”",
+"context": "SIROCCO (48 wk) and CALIMA (56 wk) did not achieve complete prevention of exacerbations; SUPER omits study durations. “Individual results may vary.” AQLQ(S)+12 total responder rate improved vs placebo, but studies not designed to measure individual items incl. social/emotional functioning.",
+"rationale": "Implies greater and longer-term asthma control and social/emotional improvement than demonstrated; SUPER omitting durations adds to the impression.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Judge: testimonial 'no attacks in a year' + percent-attack-free SUPER without study duration; rule: % responder SUPERs must state timeframe."
+},
+{
+"cat": "Major statement not in dual modality / incomplete major statement (TV)",
+"claim": "[Omission/Format] hypersensitivity information included only in the SUPERs; audio omits telling HCP or getting emergency help for allergic reaction symptoms (per Patient Package Insert); SUPERs and audio not verbatim/key-term matched",
+"context": "DTC TV major statement.",
+"rationale": "Fails to present major statement in dual modality and omits material information from audio.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "deterministic",
+"check": "Rule: align audio transcript with SUPER text; flag text-only risk items and missing PPI/MG action statements."
+}
+]
+}

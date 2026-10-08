@@ -1,0 +1,19 @@
+{
+"id": "UL-20250909-188744",
+"piece_type": "Consumer website “Quality of Life” webpage (US-FRZ-0459v2.0)",
+"audience": "DTC",
+"company": "Takeda Pharmaceuticals USA, Inc.",
+"regs_in_letter": "FD&C Act (no CFR section cited in letter text)",
+"status": "processed",
+"cases": [
+{
+"cat": "Unsupported PRO / quality-of-life claims",
+"claim": "“IN THE FRESCO-2 STUDY FRUZAQLA HELPED PRESERVE CERTAIN QUALITY OF LIFE MEASURES” | “A quality of life survey taken as part of the study showed more than 70% of people living with metastatic colorectal cancer (mCRC) taking FRUZAQLA + BSC reported their symptoms staying the same or taking longer to get worse compared with people taking placebo + BSC.” | “Symptoms that took longer to get worse with FRUZAQLA + BSC vs placebo + BSC: o Emotional health o Social well-being o Tiredness (fatigue) o Nausea/vomiting o Trouble sleeping (insomnia)”",
+"context": "FRESCO-2 QLQ-C30/EQ-5D-5L secondary endpoints with no alpha allocation; attrition (esp. placebo); 7-day recall aligned to off-treatment days; confounding; time-to-deterioration ignores discontinuers. Disclaimer present.",
+"rationale": "PRO data exploratory; cannot support QoL benefit or between-arm comparisons; disclaimer does not cure.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "deterministic",
+"check": "Rule: flag QoL/PRO claims where the PRO endpoint lacked alpha allocation/multiplicity control; judgment for PRO design flaws (recall window, attrition)."
+}
+]
+}

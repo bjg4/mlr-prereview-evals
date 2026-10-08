@@ -1,0 +1,28 @@
+{
+"id": "UL-20250909-188701",
+"piece_type": "DTC TV ad “CONTRAVE TV Spot 60 Sec_v2” (CON-2306)",
+"audience": "DTC",
+"company": "Nalpropion Pharmaceuticals LLC",
+"regs_in_letter": "FD&C Act (no CFR section cited in letter text)",
+"status": "processed",
+"cases": [
+{
+"cat": "Unsubstantiated efficacy / mechanism claims",
+"claim": "“CONTRAVE helps keep those cravings away.” | “Is it hard to lose weight because it can be difficult to control cravings?” | “It is designed to work in 2 ways to help reduce hunger and control cravings.” | ON-SCREEN: “2 Ways Reduce Hunger Control Cravings”",
+"context": "People 'smirking defiantly' while putting away chips, chocolates, cookies. PI: “The exact neurochemical effects of CONTRAVE leading to weight loss are not fully understood.” SUPER says mechanism not fully understood but de-emphasized.",
+"rationale": "Suggests mechanism and its link to efficacy are fully understood; SUPER undermined by comparative emphasis.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Judge: definitive MoA claims ('works in 2 ways') where PI says mechanism not fully understood; check relative emphasis of the qualifier."
+},
+{
+"cat": "Omission of risk information",
+"claim": "[Omission] Major statement omits MG manic episodes risk; “Call a doctor right away if any unusual changes in mood, behaviors, thoughts, or feelings occur.” omits the directive to stop taking Contrave; “Do not take CONTRAVE if you have…history of seizures, . . . . ” but fails to communicate that Contrave can cause seizures",
+"context": "Medication Guide 'most important information' and 'possible side effects' sections.",
+"rationale": "Omits serious risks and material action directives.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "deterministic",
+"check": "Rule: diff major statement vs MG: each serious side effect must appear; HCP-contact statements must include 'stop taking' when MG says so."
+}
+]
+}

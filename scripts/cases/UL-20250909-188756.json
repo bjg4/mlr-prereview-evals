@@ -1,0 +1,19 @@
+{
+"id": "UL-20250909-188756",
+"piece_type": "DTC celebrity spokesperson interview video (Kenan Thompson) on Rolling Out (Apr 4, 2025; YouTube)",
+"audience": "DTC",
+"company": "Phathom Pharmaceuticals, Inc.",
+"regs_in_letter": "FD&C Act (no CFR section cited in letter text)",
+"status": "processed",
+"cases": [
+{
+"cat": "Omission of risk information",
+"claim": "“…I was prescribed Voquezna and it actually worked for me…” | “So, in my case the tool I needed was Voquezna and now I’m out here on a much better journey.” | “...and if you get the Voquezna, I hope it works for you like it did for me.”",
+"context": "Paid spokesperson interview on third-party media; no risk information.",
+"rationale": "Presents efficacy claims but entirely omits risk information.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "deterministic",
+"check": "Rule: any spokesperson/influencer/earned-media content where the sponsor's product is named with a benefit or experience ('it worked for me') must include risk information."
+}
+]
+}

@@ -1,0 +1,172 @@
+DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service 
+ 
+ 
+Food and Drug Administration 
+Silver Spring, MD 20993 
+Patricia Thomas 
+Senior Director Oncology Development 
+Takeda Pharmaceuticals America, Inc. 
+40 Landsdowne Street 
+Cambridge, MA 02139 
+RE: NDA 203469 
+ICLUSIG® (ponatinib) tablets, for oral use 
+MA 695 
+Dear Patricia Thomas: 
+The U.S. Food and Drug Administration (FDA) has reviewed the promotional 
+communications, “T315I Mutation”, “CML OPTIC Trial Efficacy” (“OPTIC Efficacy”), and “CML 
+PACE Trial Efficacy” (“PACE Efficacy”) webpages1,2,3 on the Healthcare Provider Branded 
+Website (USO-ICL-0558v4.0) (website) for ICLUSIG® (ponatinib) tablets, for oral use (Iclusig) 
+submitted by Takeda Pharmaceuticals America, Inc. (Takeda) under cover of Form FDA 
+2253. FDA has determined that these webpages are false or misleading. Thus, these 
+webpages misbrand Iclusig and makes the distribution of the drug in violation of the Federal 
+Food, Drug, and Cosmetic Act (FD&C Act). 
+The “T315I Mutation” webpage includes the following presentation regarding Iclusig’s effects 
+on progression-free survival (PFS) and overall survival (OS) in the T315I-positive chronic 
+myeloid leukemia (CML) patient population from the PACE trial (in pertinent part, bolded 
+emphasis original, footnotes omitted): 
+• “OS 66% estimated at 5 years (95% CI: 51%, 78%)” depicted inside of a pie chart 
+• “PFS 50% estimated at 5 years (95% CI: 32%, 65%)” depicted inside of a pie chart 
+Similarly, the “OPTIC Efficacy” webpage includes claims in conjunction with efficacy 
+presentation regarding PFS and OS. These claims and presentation are found under the 
+“Estimated OS/PFS” navigation bar (in pertinent part, bolded emphasis original, footnotes 
+omitted): 
+1 The “T315I Mutation” webpage is accessed from the “Iclusig for CML” sub-navigation menu of the website: 
+https://www.iclusig.com/hcp/cml/t315i-mutation (last accessed September 5, 2025). 
+2 The “CML OPTIC Trial Efficacy” webpage is accessed from the “Efficacy” sub-navigation menu of the website: 
+https://www.iclusig.com/hcp/efficacy/cml-optic-trial (last accessed September 5, 2025). 3 The “CML PACE Trial Efficacy” webpage is accessed from the “Efficacy” sub-navigation menu of the website: 
+https://www.iclusig.com/hcp/efficacy/cml-pace-trial (last accessed September 5, 2025). 
+Reference ID: 5655631 
+ 
+ 
+ 
+ 
+Patricia Thomas Page 2 
+Takeda Pharmaceuticals America, Inc. 
+NDA 203469/MA 695 
+• “ESTIMATED OS AND PFS DATA FOR OPTIC WITH A RESPONSE-BASED 
+DOSING STRATEGY” 
+o Presentation of a Kaplan-Meier estimate graph titled, “OS,” showing “Probability 
+of OS” on the y-axis and “Time, Months” on the x-axis 
+o Presentation of a Kaplan-Meier estimate graph titled, “PFS,” showing 
+“Probability of PFS” on the y-axis and “Time, Months” on the x-axis 
+Furthermore, the “PACE Efficacy” webpage includes claims in conjunction with efficacy 
+presentations regarding PFS and OS for the total chronic phase (CP)-CML patient 
+population, those resistant or intolerant to a prior kinase inhibitor, and those with T315I 
+mutation. These claims and presentation are found under the “Estimated OS/PFS” navigation 
+bar (in pertinent part, bolded emphasis original, footnotes omitted): 
+• “CONSISTENT ESTIMATED OS/PFS THROUGH YEAR 5, EVEN IN PATIENTS 
+WITH A T315I MUTATION” 
+o Presentation of a Kaplan-Meier estimate graph titled “OS,” showing “Probability 
+of OS (%)” on the y-axis and “Time, Months” on the x-axis 
+o Presentation of a Kaplan-Meier estimate graph titled “PFS,” showing 
+“Probability of PFS (%)” on the y-axis and “Time, Months” on the x-axis 
+o “Estimated OS at 5 years” 
+▪ “Total CP-CML patient population: 73% (95% CI: 66, 79)” depicted 
+next to a pie chart that includes shading to show the 73% OS 
+▪ “Resistant/intolerant: 76% (95% CI: 68, 82)” 
+▪ “T315I: 66% (95% CI: 51, 78)” 
+o “Estimated PFS at 5 years” 
+▪ “Total CP-CML patient population: 53% (95% CI: 45, 60)” depicted 
+next to a pie chart that includes shading to show the 53% PFS 
+▪ “Resistant/intolerant: 52% (95% CI: 46, 62)” 
+▪ “T315I: 50% (95% CI: 32, 65)” 
+o “Median OS and PFS were not reached” 
+As references for these representations, you cite two publications by Cortes et al4,5, which 
+include results from the PACE and OPTIC trials. However, these parts of the webpages 
+misbrand Iclusig by misleadingly suggesting that PACE and OPTIC trials provided 
+interpretable results regarding the effects of Iclusig on PFS and OS endpoints, even though 
+the designs of the PACE and OPTIC studies were not capable of establishing improvement 
+4 Cortes JE, Kim DW, Pinilla-Ibarz J, le Coutre PD, Paquette R, Chuah C, Nicolini FE, Apperley JF, Khoury HJ, 
+Talpaz M, DeAngelo DJ, Abruzzese E, Rea D, Baccarani M, Muller MC, Gambacorti-Passerini C, Lustgarten S, 
+Rivera VM, Haluska FG, Guilhot F, Deininger MW, Hochhaus A, Hughes TP, Shah NP, and Kantarjian HM, 
+2018, Ponatinib efficacy and safety in Philadelphia chromosome-positive leukemia: final 5-year results of the 
+phase 2 PACE trial, Blood, 132(4):393-404. 
+5 Cortes J, Apperley J, Lomaia E, Moiraghi B, Undurraga Sutton M, Pavlovsky C, Chuah C, Sacha T, Lipton JH, 
+Schiffer CA, McCloskey J, Hochhaus A, Rousselot P, Rosti G, de Lavallade H, Turkina A, Rojas C, Arthur CK, 
+Maness L, Talpaz M, Mauro M, Hall T, Lu V, Srivastava S, and Deininger M, 2021, Ponatinib dose-ranging study 
+in chronic-phase chronic myeloid leukemia: a randomized, open-label phase 2 clinical trial, Blood, 138(21):2042-
+2050. 
+Reference ID: 5655631 
+ 
+ 
+ 
+ 
+Patricia Thomas Page 3 
+Takeda Pharmaceuticals America, Inc. 
+NDA 203469/MA 695 
+on time-to-event efficacy endpoints, such as OS or PFS. Specifically, because PACE and 
+OPTIC were designed as single-arm trials (i.e., with no comparator arm), and PFS and OS 
+are time-to-event efficacy endpoints, the reported PFS and OS results are uninterpretable; 
+absent of an appropriate comparator, it is not possible to determine if the observed effect is 
+attributable to Iclusig or to other factors, such as the natural history of the disease. 
+Additionally, the “T315I Mutation” webpage includes the following (in pertinent part, bolded 
+emphasis original, underlined emphasis added, footnote omitted): 
+• “NCCN CATEGORY 2A PREFERRED RECOMMENDATION” 
+• “Ponatinib is the preferred treatment option for patients with a T315I mutation in 
+any phase.” 
+The National Comprehensive Cancer Network Clinical Practice Guidelines in Oncology 
+(NCCN Guidelines®) for CML V.2.20246 is cited to support these claims. These claims 
+misleadingly represent that the current NCCN Guidelines® state that Iclusig is the preferred 
+treatment option for the treatment of CML in patients with a T315I mutation in any phase 
+when this is not the case. In fact, the recommendations made in the most current version of 
+these NCCN Guidelines® (V.3.20257), state (underlined emphasis added) “Ponatinib is a 
+treatment option for patients with a T315I mutation in any phase (preferred for AP-CML or 
+BP-CML).” We acknowledge that these claims are consistent with the reference cited; 
+however, this is not sufficient to mitigate this misleading impression. 
+Conclusion and Requested Action 
+For the reasons described above, these webpages misbrand Iclusig and makes the 
+distribution of the drug in violation of the Federal Food, Drug, and Cosmetic Act (FD&C Act). 
+This letter notifies you of our concerns and provides you with an opportunity to address them. 
+FDA requests that Takeda take immediate action to address any violations (including, for 
+example, ceasing and desisting promotional communications that are misleading as 
+described above). Please submit a written response to this letter within 15 working days from 
+the date of receipt, addressing the concerns described in this letter, listing all promotional 
+communications (with the 2253 submission date) for Iclusig that contain representations like 
+those described above, and explaining your plan for the discontinuation of such 
+communications, or for ceasing distribution of Iclusig. 
+If you believe that your products are not in violation of the FD&C Act, please include in your 
+submission to us your reasoning and any supporting information for our consideration within 
+15 working days from the date of receipt of this letter. 
+6 NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines®) for Chronic Myeloid Leukemia V.2.2024. 
+National Comprehensive Cancer Network, 2024. Accessed September 5, 2025. 
+7 NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines®) for Chronic Myeloid Leukemia V.3.2025. 
+National Comprehensive Cancer Network, 2024. Accessed September 5, 2025. 
+Reference ID: 5655631 
+ 
+ 
+ 
+Patricia Thomas Page 4 
+Takeda Pharmaceuticals America, Inc. 
+NDA 203469/MA 695 
+The concerns discussed in this letter do not necessarily constitute an exhaustive list of 
+potential violations. It is your responsibility to ensure compliance with each applicable 
+requirement of the FD&C Act and FDA implementing regulations. 
+Please direct your response to the Food and Drug Administration, Center for Drug
+Evaluation and Research, Office of Prescription Drug Promotion, 5901-B Ammendale 
+Road, Beltsville, Maryland 20705-1266. A courtesy copy can be sent by facsimile to (301) 
+847-8444. Please refer to MA 695 in addition to the NDA number in all future correspondence 
+relating to this particular matter. All correspondence should include a subject line that clearly 
+identifies the submission as a Response to Untitled Letter. You are encouraged, but not 
+required, to submit your response in eCTD format. All correspondence submitted in response 
+to this letter should be placed under eCTD Heading 1.15.1.6. Additionally, the response 
+submission should be coded as an Amendment to eCTD Sequence 5028 under NDA 
+203469. Questions related to the submission of your response letter should be emailed to 
+CDER-OPDP-RPM@fda.hhs.gov. 
+Sincerely, 
+{See appended electronic signature page} 
+George Tidmarsh, M.D., Ph.D. 
+Director 
+Center for Drug Evaluation and Research 
+Reference ID: 5655631 
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+------------------------------------------------------------
+Signature Page 1 of 1 
+This is a representation of an electronic record that was signed 
+electronically. Following this are manifestations of any and all 
+electronic signatures for this electronic record. 
+/s/ 
+CARTER M BEACH 
+09/09/2025 05:10:33 PM 
+On behalf of George Tidmarsh, M.D., Ph.D 
+Reference ID: 5655631

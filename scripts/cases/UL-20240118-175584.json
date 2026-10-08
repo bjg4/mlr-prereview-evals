@@ -1,0 +1,29 @@
+{
+"id": "UL-20240118-175584",
+"piece_type": "DTC broadcast TV ad",
+"audience": "DTC",
+"regs_in_letter": "21 U.S.C. 352 (n); 321(n); 331(a). 21 CFR 202.1(e)(5)",
+"status": "processed",
+"cases": [
+{
+"cat": "Unsupported PRO / quality-of-life claims",
+"heading": "False or Misleading Benefit Presentation",
+"claim": "VO: “And KISQALI helps preserve quality of life so you’re not just living, you’re living well.” | GRAPHIC: “PRESERVES QUALITY OF LIFE” | SUPER: “Quality of life was a secondary outcome measure of the trial. At a 26-month check-in, median time to worsening of at least 10% in quality of life score was 27.7 months with KISQALI + letrozole vs 27.6 months with placebo + letrozole. This analysis was not pre-planned to detect a false positive.”",
+"context": "MONALEESA-2 global QoL secondary endpoint with no alpha allocation; assessment intervals, 7-day recall, confounding, unvalidated 10% threshold, informative dropout.",
+"rationale": "Exploratory PRO data cannot support 'preserves quality of life' or 'living well'; disclaimer insufficient.",
+"reg": "21 CFR 202.1(e)(5)",
+"ct": "deterministic",
+"check": "Rule: flag 'quality of life', 'living well', 'preserves QoL' claims and require an alpha-controlled PRO endpoint in the label."
+},
+{
+"cat": "Distracting presentation of material efficacy qualifier (SUPER readability)",
+"heading": "False or Misleading Benefit Presentation",
+"claim": "“live longer” | “[l]ong live family time,” “[l]ong live dreams,” “long live you,” “[l]ong live hugs and kisses,” “long live life” | GRAPHIC “HELPS WOMEN LIVE LONGER” with SUPER: “Overall survival (OS) was a secondary end point of the trial... At an 80-month check in, median OS was 63.9 months for KISQALI + an NSAI [non-steroidal aromatase inhibitor] vs 51.4 months for an NSAI alone.”",
+"context": "SUPER presents 48 words in ~5 seconds (576 wpm vs ~238 wpm average) during competing audio, music, scene change, and larger graphics.",
+"rationale": "Material information qualifying survival claims cannot be read or processed, creating misleading efficacy impression.",
+"reg": "21 CFR 202.1(e)(5)",
+"ct": "deterministic",
+"check": "Rule: compute SUPER words-per-minute (words / seconds on screen x 60); flag > ~240 wpm, especially when competing graphics/audio are present."
+}
+]
+}

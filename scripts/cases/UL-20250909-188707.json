@@ -1,0 +1,28 @@
+{
+"id": "UL-20250909-188707",
+"piece_type": "DTC TV ad (1992-US-2500295)",
+"audience": "DTC",
+"company": "Bristol-Myers Squibb",
+"regs_in_letter": "FD&C Act (no CFR section cited in letter text)",
+"status": "processed",
+"cases": [
+{
+"cat": "Misleading administration / storage / handling presentation",
+"claim": "“Cancer isn’t me, it’s something I treat. And the less time I spend treating cancer, the better. This is me.” | “… Opdivo Qvantig lets you receive treatment quickly – in as little as 3 minutes” | ”INJECTION IN AS LITTLE AS 3 MINUTES” | “A treatment that’s faster.”",
+"context": "'Heroes' appear in clinic but zoom out to café, movie theater, arcade, spa; lighting dark→bright. Lower-third: “…This does not account for all aspects of treatment time. Actual clinic time may vary;”",
+"rationale": "Suggests little to no time in clinical setting; disclaimer does not mitigate.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Judge: 'as little as X minutes' administration claims and imagery implying minimal clinic time; lower-third disclaimers are not a fix."
+},
+{
+"cat": "Distracting presentation during risk/major statement (TV)",
+"claim": "[Visual] one “hero” playing arcade games, a second having coffee with friends then at a spa, a third at a movie theater — during the major statement",
+"context": "DTC TV major statement.",
+"rationale": "Interferes with comprehension.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Storyboard check: flag activity scenes and frequent scene changes during major statement audio."
+}
+]
+}

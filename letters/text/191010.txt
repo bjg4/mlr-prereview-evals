@@ -1,0 +1,230 @@
+                  DEPARTMENT OF HEALTH & HUMAN SERVICES                                   Public Health Service
+
+
+
+                                                                                          Food and Drug Administration
+                                                                                          Silver Spring, MD 20993
+
+
+             Purve Patel, Head of US Regulatory Affairs
+             argenx US, Inc.
+             33 Arch Street, 32nd Floor
+             Boston, MA 02110
+
+            RE:         BLA 761304
+                        VYVGART HYTRULO® (efgartigimod alfa and hyaluronidase-qvfc) injection, for
+                        subcutaneous use
+                        MA 548
+
+            Dear Purve Patel:
+
+            The Office of Prescription Drug Promotion (OPDP) of the U.S. Food and Drug Administration
+            (FDA) has reviewed the promotional communication, a direct-to-consumer (DTC) television
+            advertisement (TV ad), (US-VYV_HYT-24-00109) for VYVGART HYTRULO® (efgartigimod
+            alfa and hyaluronidase-qvfc) injection, for subcutaneous use (Vyvgart Hytrulo) submitted by
+            argenx US, Inc. (argenx) under cover of Form FDA 2253. FDA has determined that the TV is
+            false or misleading. Thus, the TV ad misbrands Vyvgart Hytrulo and makes the distribution of
+            the drug in violation of the Federal Food, Drug, and Cosmetic Act (FD&C Act).
+
+            The TV ad includes the following claims (in pertinent part):
+
+                •       “…and while I still have CIDP, I have a chance to live vividly.”
+                •       “Vyvgart Hytrulo has been proven to significantly reduce the risk of symptoms getting
+                        worse.”
+                •       “I’m hitting fairways with the fellas. I’m hitting the road with my number one. That’s how
+                        we live vividly with Vyvgart Hytrulo”
+
+            These claims are accompanied by various presentations of two CIDP patients throughout the
+            TV ad. Specifically, one patient is shown walking to a car with a cane. She is later shown
+            driving the car, pulling up to several food trucks, and walking to meet up with friends. Another
+            patient, wearing braces around his lower legs, is shown walking to a golf cart to select a club,
+            swinging the golf club, and later is shown bending down to line up and then putt a golf ball
+            towards the hole. This scene eventually transitions to the patient walking along the golf
+            course with friends and then eating a meal at a table overlooking the golf course.
+
+            The totality of these claims and presentations create a misleading impression that all patients
+            with CIDP, while on treatment with Vyvgart Hytrulo, can expect to engage in these activities
+            (e.g., playing golf, driving a car) and remain functional with little to no diminishment of or
+            restrictions to daily activities, when this has not been demonstrated. According to the Vyvgart
+            Hytrulo FDA-approved prescribing information (PI), CLINICAL STUDIES section, “[t]he
+
+
+
+
+Reference ID: 5737318
+            Purve Patel, RPh                                                                Page 2
+            argenx US, Inc.
+            BLA 761304 / MA 548
+
+            efficacy of VYVGART HYTRULO for the treatment of adults with chronic inflammatory
+            demyelinating polyneuropathy (CIDP) was established in a two stage, multicenter study…
+            The primary endpoint was the time to clinical deterioration defined as a 1-point increase in
+            aINCAT [adjusted Inflammatory Neuropathy Cause and Treatment disability score] at two
+            consecutive visits or a >1-point increase in aINCAT at one visit.” Patients enrolled in the
+            study had an Inflammatory Neuropathy Cause and Treatment (INCAT) disability score of ≥2,
+            and a score of 2 had to be exclusively from leg disability. An INCAT leg disability score of 2
+            means that the patient usually uses unilateral support to walk outdoors. Patients in Stage B of
+            the study had a median baseline adjusted INCAT (aINCAT) score of 3, meaning patients
+            need unilateral support to walk outdoors or have difficulty using the hands and arms to
+            complete tasks. While patients treated with Vyvgart Hytrulo experienced a statistically
+            significant longer time to clinical deterioration compared to patients who received placebo,
+            these data do not support the implications that all patients can reasonably expect to perform
+            the level of activity depicted in the TV ad or remain functional with little to no diminishment of
+            or restrictions to daily activities while on treatment with Vyvgart Hytrulo.
+
+            In addition, the TV ad includes the following claim:
+
+                •        SUPER: “For patients identified as responders entering the main part of the study, the
+                        risk of arm and leg symptoms getting worse was 61% lower for patients taking
+                        VYVGART Hytrulo, compared to patients taking placebo (VYVGART Hytrulo=111
+                        patients; placebo=110 patients).”
+
+            This claim is misleading because the time to clinical deterioration, the primary endpoint of the
+            clinical trial, is not the same as the risk of worsening. According to the Vyvgart Hytrulo PI,
+            CLINICAL STUDIES section, the hazard ratio (HR) for the time to first aINCAT increase
+            (clinical deterioration) for patients receiving VYVGART HYTRULO compared to patients
+            receiving placebo was 0.394. The HR is a rate measure over time of a relative risk of CIDP
+            relapse occurring at any point during the study period. It does not show the actual risk
+            reduction or clinical importance of the finding. The risk difference of clinical deterioration was
+            evaluated to support the primary endpoint analysis. Based on the number of relapse events
+            in the Vyvgart Hytrulo arm as compared to the placebo arm, patients in the Vyvgart Hytrulo
+            arm had a reduced risk of relapse of -25.7% (95% CI, -38.0 to -11.4) compared to placebo.
+            Therefore, the claim that “the risk of arm and leg symptoms getting worse was 61% lower for
+            patients taking VYVGART Hytrulo…” is misleading.
+
+            Furthermore, the TV ad includes the following claims and presentations (emphasis original):
+
+                •       A man golfing, who states, “And I can treat my CIDP with a once weekly injection in
+                        about 30 seconds” in conjunction with on-screen text (emphasis original), “VYVGART
+                        Hytrulo (efgartigimod alfa and hyaluronidase-qvfc) a once-weekly self-injection that
+                        takes about 30 seconds”
+
+            These claims and presentations are misleading because they suggest that the administration
+            of Vyvgart Hytrulo can be completed in 30 seconds while participating in outdoor activities
+            such as golfing, thereby oversimplifying the administration process. The FDA-approved
+            Instructions for Use (IFU) for Vyvgart Hytrulo includes a number of detailed steps required for
+            proper administration of the product, including letting the product sit on a clean, flat surface
+
+
+Reference ID: 5737318
+            Purve Patel, RPh                                                                 Page 3
+            argenx US, Inc.
+            BLA 761304 / MA 548
+
+            for 30 minutes to come to room temperature, gathering necessary supplies (e.g., safety
+            needle, alcohol swab, sharps disposal container, sterile gauze or small adhesive bandage),
+            washing hands, injecting the medication into the abdomen, and disposing the syringe in a
+            sharps container. We acknowledge that a small SUPER appears at the bottom of the screen
+            stating, “See Patient Information and Instructions for Use. Monitor for allergic reactions for at
+            least 30 minutes after injection and seek medical attention if needed.” however, this does not
+            mitigate the misleading impression.
+
+            The TV ad is also misleading because it includes claims and presentations about the uses
+            and benefits of Vyvgart Hytrulo but omits material risk information pertaining to the warning
+            and precautions for hypersensitivity reactions and infusion/injection-related reactions.
+            Specifically, the major statement does not communicate the following from the “What are the
+            possible side effects of VYVGART HYTRULO?” section of the Patient Information (in
+            pertinent part; underlined emphasis added):
+
+                •       “Allergic reactions: …get emergency help right away if you have any of the following
+                        symptoms of an allergic reaction: rash, swelling of the face, lips, throat or tongue,
+                        shortness of breath, trouble breathing, low blood pressure, fainting”
+
+                •       “Infusion or injection-related reactions: …Tell your healthcare provider if you have any
+                        of the following symptoms of an infusion or injection-related reaction: high blood
+                        pressure, chills, shivering, chest, stomach, or back pain”
+
+            The TV ad is misleading because the attention-grabbing visuals (e.g., multiple scene
+            changes that alternate between a man putting on a golf course, to a car stopping for a
+            pedestrian in a crosswalk, to a woman driving a car, to four men walking on a golf course, to
+            a woman pulling up in her car to several food trucks) and on-screen text (a car license plate
+            “NMBR 1”) during the presentation of the major statement interfere with comprehension of
+            the major statement.
+
+            Conclusion and Requested Action
+
+            For the reasons described above, the TV ad misbrands Vyvgart Hytrulo and makes the
+            distribution of the drug in violation of the FD&C Act.
+
+            This letter notifies you of our concerns and provides you with an opportunity to address them.
+            FDA requests that argenx take immediate action to address any violations (including, for
+            example, ceasing and desisting promotional communications that are misleading as
+            described above).
+
+            Please submit a written response to this letter within 15 working days from the date of receipt,
+            addressing the concerns described in this letter, listing all promotional communications (with
+            the 2253 submission date) for Vyvgart Hytrulo that contain representations like those
+            described above, and explaining your plan for the discontinuation of such communications, or
+            for ceasing distribution of Vyvgart Hytrulo.
+
+
+
+
+Reference ID: 5737318
+            Purve Patel, RPh                                                             Page 4
+            argenx US, Inc.
+            BLA 761304 / MA 548
+
+            If you believe that your products are not in violation of the FD&C Act, please include in your
+            submission to us your reasoning and any supporting information for our consideration within
+            15 working days from the date of receipt of this letter.
+
+            The concerns discussed in this letter do not necessarily constitute an exhaustive list of
+            potential violations. It is your responsibility to ensure compliance with each applicable
+            requirement of the FD&C Act and FDA implementing regulations.
+
+            Please direct your response to the undersigned at the Food and Drug Administration,
+            Center for Drug Evaluation and Research, Office of Prescription Drug Promotion, 5901-
+            B Ammendale Road, Beltsville, Maryland 20705-1266. A courtesy copy can be sent by
+            facsimile to (301) 847-8444. Please refer to MA 548 in addition to the BLA number in all
+            future correspondence relating to this particular matter. All correspondence should include a
+            subject line that clearly identifies the submission as a Response to Untitled Letter. You are
+            encouraged, but not required, to submit your response in eCTD format. All correspondence
+            submitted in response to this letter should be placed under eCTD Heading 1.15.1.6.
+            Additionally, the response submission should be coded as an Amendment to eCTD
+            Sequence 5543 under BLA 761304. Questions related to the submission of your response
+            letter should be emailed to CDER-OPDP-RPM@fda.hhs.gov.
+
+
+                                                             Sincerely,
+
+                                                             {See appended electronic signature page}
+
+                                                             Lindsay McCann, PharmD, BCCCP
+                                                             Regulatory Review Officer
+                                                             Division of Advertising & Promotion Review 1
+                                                             Office of Prescription Drug Promotion
+
+
+                                                             {See appended electronic signature page}
+
+                                                             Taylor Burnett Mmagu, PharmD, RAC
+                                                             Team Leader
+                                                             Division of Advertising & Promotion Review 1
+                                                             Office of Prescription Drug Promotion
+
+
+
+
+Reference ID: 5737318
+                                                                                                    Signature Page 1 of 1
+
+          --------------------------------------------------------------------------------------------
+          This is a representation of an electronic record that was signed
+          electronically. Following this are manifestations of any and all
+          electronic signatures for this electronic record.
+          --------------------------------------------------------------------------------------------
+          /s/
+          ------------------------------------------------------------
+
+          LINDSAY M MCCANN
+          01/30/2026 12:37:23 PM
+
+          TAYLOR B BURNETT MMAGU
+          01/30/2026 12:48:23 PM
+
+
+
+
+Reference ID: 5737318
+

@@ -1,0 +1,101 @@
+DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+
+Food and Drug Administration Silver Spring, MD 20993
+
+Larry Miles Pinnacle Biologics, Inc. 2801 Lakeside Drive, Suite 210 Bannockburn, IL 60015
+
+RE: NDA 020451 PHOTOFRIN® (porfimer sodium) for injection, for intravenous use 
+MA 183 
+Dear Larry Miles: 
+The Office of Prescription Drug Promotion (OPDP) of the U.S. Food and Drug Administration 
+(FDA) has reviewed the promotional communications, “Esophageal Cancer_MOA Video” 
+(US/PHO/PM/0094) and “NSCLC_MOA Video” (US/PHO/PM/0095) (videos) for 
+PHOTOFRIN® (porfimer sodium) for injection, for intravenous use (Photofrin) submitted by 
+Pinnacle Biologics, Inc. (Pinnacle) under cover of Form FDA 2253. FDA has determined that 
+the videos are false or misleading. Thus, the videos misbrand Photofrin and make the 
+distribution of the drug in violation of the Federal Food, Drug, and Cosmetic Act (FD&C Act). 
+The videos are misleading because they fail to provide material information regarding 
+Photofrin’s full FDA-approved indications from the INDICATIONS AND USAGE section of the 
+Photofrin Prescribing Information (PI). Specifically, the beginnings of the videos introduce the 
+use of Photofrin for the treatment of esophageal cancer (EC) and high-grade dysplasia in 
+Barrett’s esophagus (i.e., EC video) and endobronchial non-small-cell lung cancer (i.e., 
+NSCLC video), but omit specific patient populations and limitations, as is consistent with the 
+PI. By failing to adequately disclose the full indications associated with Photofrin, the videos 
+create a misleading impression about the drug’s FDA-approved indications. We 
+acknowledge that the indications are presented in the “INDICATIONS FOR USE” section at 
+the end of the video; however, this is not sufficient to mitigate the misleading impression. 
+The indications are also presented in small, plain font, for approximately five seconds, in 
+conjunction with the risk presentation, which competes for the healthcare provider’s attention. 
+As a result, it is difficult for healthcare providers to adequately process and comprehend the 
+full indications associated with Photofrin. 
+The videos are misleading because they include numerous claims and presentations about 
+the use and benefits of Photofrin but omit material information pertaining to the serious risks 
+associated with Photofrin. For example, the videos do not communicate the following from 
+the CONTRAINDICATIONS section of the PI (in pertinent part): 
+• PHOTOFRIN is contraindicated in patients with porphyria … 
+
+Larry Miles Page 2 
+Pinnacle Biologics, Inc. 
+NDA 020451/MA 183 
+• PDT is contraindicated in patients with tumors eroding into a major blood vessel. In addition, the EC video minimizes the risks pertaining to the contraindications by suggesting that patients with esophageal ulcers of greater than 1 cm in diameter can be safely treated with Photofrin with PDT when this is not the case (i.e., VO (2:32) (in pertinent part): “… selectively destroys the cancer cells with … a diameter of up to 1.2cm”). Specifically, the CONTRAINDICATIONS section of the PI states that “PDT is not suitable for patients with esophageal or gastric varices, or patients with esophageal ulcers >1 cm in diameter.” Furthermore, the videos are misleading because they omit material risk information pertaining to the warnings and precautions associated with Photofrin. Specifically, the presentation of the warnings and precautions and most common adverse reactions at the end of the videos does not communicate the following from the WARNINGS AND PRECAUTIONS section of the PI (in pertinent part; underlined emphasis added; bolded emphasis original): 5.1 Gastroesophageal Fistula and Perforation Serious and sometimes fatal gastrointestinal and esophageal necrosis and perforation can occur following treatment with PHOTOFRIN with PDT … 5.2 Pulmonary and Gastroesophageal Hemorrhage Patients with large, centrally located tumors, cavitating tumors, or extensive tumors extrinsic to the bronchus are at high risk for fatal massive hemoptysis … 5.4 Photosensitivity All patients who receive PHOTOFRIN will be photosensitive and must observe precautions to avoid exposure of skin and eyes … Some patients may remain photosensitive for up to 90 days or more” … 5.8 Airway Obstruction and Respiratory Distress PHOTOFRIN followed by PDT can cause treatment-induced inflammation and obstruct the main airway … If respiratory distress occurs, the physician should be prepared to carry out immediate bronchoscopy to remove secretions and debris to open the airway … 5.12 Embryo-Fetal Toxicity … PHOTOFRIN may cause embryo-fetal toxicity … Advise females of reproductive potential and males with female partners of reproductive potential to use effective contraception during treatment with PHOTOFRIN and for 5 months after the final dose. We acknowledge that some risk information presented earlier in the videos includes treatment-induced inflammation and photosensitivity (i.e., beginning at around 0:56); however, this information is presented briefly (about 10 seconds) and does not include that all patients will be photosensitive or that treatment-induced inflammation may lead to airway obstruction and respiratory distress. Therefore, this does not mitigate the video’s omission of the serious risk information as described above. By omitting risks associated with Photofrin, the videos fail to provide material information about the consequences that may result from the use of the drug and create a misleading impression about the drug’s safety. 
+
+Larry Miles Page 3 
+Pinnacle Biologics, Inc. 
+NDA 020451/MA 183 
+
+These videos are also misleading because they fail to present information relating to the serious risks and side effects associated with Photofrin with a prominence and readability reasonably comparable with the presentation of information relating to the benefits of the drug. Specifically, the “IMPORTANT WARNINGS AND PRECAUTIONS,” which include the serious risks regarding Photofrin therapy, are presented as static, onscreen text, in small, plain font, over approximately five seconds at the end of the video, in conjunction with the indications and most common adverse reactions. In contrast, benefit claims for Photofrin are prominently presented on the screen in large print with colorful animated graphics. We acknowledge that risk information pertaining to airway obstruction and respiratory distress, photosensitivity, and a contraindication is presented at around 0:56 of the videos; however, as noted above, this information is presented briefly for about 10 seconds, and no other risk information is presented until the last 5 seconds of the video. Additionally, the videos do not present any signal to alert the viewer that important risk information is being presented after the close of the animated portion of the video containing the benefit claims. The overall effect of this presentation undermines the communication of important risk information. Additionally, the NSCLC video misleadingly minimizes the risks associated with Photofrin by suggesting that debridement is optional when treating endobronchial tumors, when this is not the case. Specifically, the voiceover claim states (emphasis added), “Following photodynamic therapy. Debridement may be performed if residual tumor remains” (3:34 – 3:36). However, according to the WARNINGS AND PRECAUTIONS section of the PI (in pertinent part, emphasis added), “Monitor patients closely between the laser light therapy and the mandatory debridement bronchoscopy for any evidence of respiratory distress.” The DOSAGE AND ADMINISTRATION, Photoactivation section also states, “It is important to perform a debridement 2 to 3 days after each light administration to minimize the potential for obstruction caused by necrotic debris” when treating endobronchial cancer. These claims and presentations, the omission and minimization of contraindications and warnings and precautions, and the lack of prominent, balancing risk information create a misleading impression regarding the safety of Photofrin and minimize the risks of the product. The videos include the following claims and presentation (underlined emphasis added; italicized emphasis original):
+
+• VO (3:07): “Photodynamic therapy is proven to boost anti-tumor immunity and improves tumor cell immunogenicity, essentially training the body to attack the invading cancer.” 
+• SUPER (3:14): “Systemic Neutrophilia, Acute Phase Reactants, Inflammatory Cytokines, T- Cells*” with footnote “*“Combination of photodynamic therapy (PDT) and anti-tumor immunity in cancer therapy,” Journal of Pharmaceutical Investigation, 2 December 2017” These claims and presentation, in the context of branded promotional communications for Photofrin, create a misleading impression that Photofrin, which is the photosensitizing agent in a PDT regimen, has demonstrated a “proven” boost in anti-tumor immunity and improves 
+
+Larry Miles Page 4 
+Pinnacle Biologics, Inc. 
+NDA 020451/MA 183 
+
+tumor cell immunogenicity. However, the review article1 cited to support these claims only generally describes immunogenic tumor cell death (i.e. necrosis) and anti-tumor immune responses induced by PDT in animal models and does not discuss Photofrin treatment specifically. While we acknowledge that the CLINICAL PHARMACOLOGY, Mechanism of Action, section of the Photofrin PI states that (in pertinent part) “[t]umor death also occurs,” and tumor-specific immune responses may result from tumor necrosis, this does not support the suggestion that PDT with Photofrin is “proven” to boost anti-tumor immunity and improves tumor cell immunogenicity, nor are we aware of data to support this suggestion. Therefore, these conclusory claims and presentations (i.e., “proven”) are misleading. The NSCLC video includes the following claim (in pertinent part, emphasis added):
+
+• VO (2:31): “The energy transfer generates reactive singlet oxygen which selectively destroys the cancer cells with … a diameter of up to 1.2cm.” This claim creates a misleading impression that treatment with Photofrin in NSCLC has shown a definitive and quantified benefit in selectively destroying cancer cells with up to a diameter of 1.2cm when this has not been demonstrated. No references are cited to support this claim, nor are we aware of data to support this claim for Photofrin in the treatment of NSCLC. Conclusion and Requested Action For the reasons described above, the videos misbrand Photofrin and make the distribution of the drug in violation of the FD&C Act. This letter notifies you of our concerns and provides you with an opportunity to address them. FDA requests that Pinnacle take immediate action to address any violations (including, for example, ceasing and desisting promotional communications that are misleading as described above). Please submit a written response to this letter within 15 working days from the date of receipt, addressing the concerns described in this letter, listing all promotional communications (with the 2253 submission date) for Photofrin that contain representations like those described above, and explaining your plan for the discontinuation of such communications, or for ceasing distribution of Photofrin. If you believe that your product is not in violation of the FD&C Act, please include in your submission to us your reasoning and any supporting information for our consideration within 15 working days from the date of receipt of this letter. The concerns discussed in this letter do not necessarily constitute an exhaustive list of potential violations. It is your responsibility to ensure compliance with each applicable requirement of the FD&C Act and FDA implementing regulations. 
+
+1 Hwang HS, Shin H, Han J, Na K. Combination of photodynamic therapy (PDT) and anti-tumor immunity in cancer therapy. J Pharm Investig. 2018 Nov 1;48(2):143-151.
+
+Larry Miles Page 5 
+Pinnacle Biologics, Inc. 
+NDA 020451/MA 183 
+Please direct your response to the undersigned at the Food and Drug Administration, 
+Center for Drug Evaluation and Research, Office of Prescription Drug Promotion, 5901- 
+B Ammendale Road, Beltsville, Maryland 20705-1266. A courtesy copy can be sent by 
+facsimile to (301) 847-8444. Please refer to MA 183 in addition to the NDA number in all 
+future correspondence relating to this particular matter. All correspondence should include a 
+subject line that clearly identifies the submission as a Response to Untitled Letter. You are 
+encouraged, but not required, to submit your response in eCTD format. All correspondence 
+submitted in response to this letter should be placed under eCTD Heading 1.15.1.6. 
+Additionally, the response submission should be coded as an Amendment to eCTD 
+Sequence 0219 under NDA 020451. Questions related to the submission of your response 
+letter should be emailed to CDER-OPDP-RPM@fda.hhs.gov. 
+Sincerely, 
+{See appended electronic signature page} 
+Rebecca Falter, PharmD, BCACP 
+Regulatory Review Officer 
+Division of Advertising & Promotion Review 1 
+Office of Prescription Drug Promotion 
+{See appended electronic signature page} 
+Emily Dvorsky, PharmD, RAC 
+Team Leader 
+Division of Advertising & Promotion Review 1 
+Office of Prescription Drug Promotion 
+
+--------------------------------------------------------------------------------------------
+
+This is a representation of an electronic record that was signed electronically. Following this are manifestations of any and all electronic signatures for this electronic record.
+
+-------------------------------------------------------------------------------------------- 
+/s/ 
+------------------------------------------------------------ 
+
+REBECCA A FALTER 06/22/2026 08:44:46 AM
+
+EMILY M DVORSKY 06/22/2026 08:53:18 AM
+
+Signature Page 1 of 1
+
+

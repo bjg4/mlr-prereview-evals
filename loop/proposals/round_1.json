@@ -1,0 +1,154 @@
+{
+ "round": 1,
+ "generated": "2026-10-08T07:29:45-07:00",
+ "note": "Set approved=true (and approved_by) to evaluate. rule_text/eval_data need a human.",
+ "proposals": [
+  {
+   "id": "C1-reminder-boxed-warning",
+   "layer": "rule_text",
+   "type": "rule_override",
+   "target_metric": "judge_balanced_accuracy",
+   "requires_human": true,
+   "approved": true,
+   "approved_by": "owner request (phase-3 task message); rule wording still needs regulatory-reviewer sign-off",
+   "hypothesis": "A-202-E2-01 omits the 202.1(e)(2)(i) bar on reminder ads for boxed-warning drugs and the \"name + optional non-promotional details only\" limit, so the judge passes reminder pieces it should fail.",
+   "source_quote": "Reminder advertisements ... are not permitted for a prescription drug product whose labeling contains a boxed warning relating to a serious hazard (21 CFR 202.1(e)(2)(i))",
+   "payload": {
+    "rule_id": "A-202-E2-01",
+    "rule_text": "Reminder ads (exempt from brief summary) may contain only the proprietary and established names plus optional non-promotional details (dosage form, package quantity, price, manufacturer) and no indication, dosage recommendation, or other representation about the drug. Reminder ads are not permitted at all for a drug whose labeling has a boxed warning (except price-only ads under 21 CFR 200.200). A piece that names the product and its use is not a reminder ad and needs full risk disclosure."
+   },
+   "evaluated": true,
+   "result": "accepted_pending_human_review",
+   "reason": "dev judge_balanced_accuracy +0.0034; no holdout/slice regression beyond noise"
+  },
+  {
+   "id": "C2-pair-category-match",
+   "layer": "rule_assignment",
+   "type": "pair_rule_assignment",
+   "target_metric": "judge_balanced_accuracy",
+   "requires_human": false,
+   "approved": true,
+   "approved_by": "owner request (phase-3 task message)",
+   "hypothesis": "Easy pairs are judged against the first judgment rule linked to the case, which often is not the rule the letter cited for that claim; matching the letter category to its rule should cut spurious fails of compliant rewrites.",
+   "payload": {
+    "mode": "category_match"
+   },
+   "evaluated": true,
+   "result": "rejected",
+   "reason": "holdout pairwise_accuracy regressed -0.0084 (noise 0.0083)"
+  },
+  {
+   "id": "C3-tighten-soft-claims",
+   "layer": "judge_prompt",
+   "type": "judge_addendum",
+   "target_metric": "single_sensitivity",
+   "requires_human": false,
+   "approved": true,
+   "approved_by": "owner request (phase-3 task message)",
+   "hypothesis": "Judge passes soft/implied efficacy and ease-of-use claims (round-0 misses on a cortisol-lowering drug ad and a glucagon rescue-pen ad).",
+   "payload": {
+    "text": "Soft or implied claims are still claims. Wording that the product is easy, simple or foolproof to use, that users 'did it right', 'take control', or that monitoring lets them 'avoid' side effects is a representation about efficacy or safety: fail it when the label facts do not support it or when it understates required steps or risks."
+   },
+   "evaluated": true,
+   "result": "rejected",
+   "reason": "dev judge_balanced_accuracy regressed -0.0511 (noise 0.0312); holdout judge_balanced_accuracy regressed -0.0496 (noise 0.0476); holdout pairwise_accuracy regressed -0.0167 (noise 0.0083); dev family A dropped -0.0865"
+  },
+  {
+   "id": "C4-loosen-trigger-only",
+   "layer": "judge_prompt",
+   "type": "judge_addendum",
+   "target_metric": "single_specificity",
+   "requires_human": false,
+   "approved": true,
+   "approved_by": "owner request (phase-3 task message)",
+   "hypothesis": "Judge fails compliant items by demanding things the rule only requires when a trigger is present (NM-13: risk text without a benefit claim; NM-25: a log with no suspect characteristic).",
+   "payload": {
+    "text": "Apply a requirement only when its trigger is present in the text. If the text presents serious risks and makes no benefit claim beyond the indication, the benefit-with-risk requirement is met. If a record shows none of the suspect characteristics the rule names, it passes; do not require the piece to document screening or qualifications the rule does not ask the piece itself to contain."
+   },
+   "evaluated": true,
+   "result": "rejected",
+   "reason": "holdout pairwise_accuracy regressed -0.0084 (noise 0.0083)"
+  },
+  {
+   "id": "P1-eval_data",
+   "layer": "eval_data",
+   "type": "manual",
+   "payload": {
+    "items": [
+     "R1-PW-UL-20260622-193307-v6-single-A",
+     "R1-PW-UL-20240801-180633-v4-single-A",
+     "R1-PW-UL-20240801-180633-v2-single-B",
+     "R1-PW-NM-12-single-A",
+     "R1-PW-NM-25-single-A"
+    ],
+    "count": 5
+   },
+   "hypothesis": "5 dev failures attributed to eval_data",
+   "requires_human": true,
+   "approved": false,
+   "instructions": "Fix the listed items in the eval files; log with loop.py --log-eval-data; re-baseline."
+  },
+  {
+   "id": "P1-det_check",
+   "layer": "det_check",
+   "type": "manual",
+   "payload": {
+    "items": [
+     "R1-det-comparative_claim-UL-20260327-191875-v1",
+     "R1-det-control_group_data-UL-20260130-191010-v2",
+     "R1-det-control_group_data-UL-20250909-188721-v2",
+     "R1-det-control_group_data-UL-20240829-181754-v1",
+     "R1-det-efficacy_absolutes-UL-20240801-180633-v3",
+     "R1-det-efficacy_absolutes-UL-20230607-169419-v1",
+     "R1-det-exclusivity_claim-UL-20240829-181754-v1",
+     "R1-det-indication_qualifiers-UL-20260408-191932-v1",
+     "R1-det-minimization_lexicon-UL-20250428-186470-v8",
+     "R1-det-minimization_lexicon-UL-20230607-169419-v3",
+     "R1-det-nonclinical_data-UL-20260622-193307-v7",
+     "R1-det-fp-adequate_provision-CTRL-UL-20211213-155419-v2",
+     "R1-det-fp-comparative_claim-CTRL-UL-20250428-186470-v2",
+     "R1-det-fp-comparative_claim-CTRL-UL-20250909-188908-v1",
+     "R1-det-fp-control_group_data-CTRL-UL-20240829-181754-v1",
+     "R1-det-fp-exclusivity_claim-CTRL-UL-20260526-192843-v1",
+     "R1-det-fp-fda_approval_misuse-CTRL-UL-20260526-192843-v1",
+     "R1-det-fp-guideline_citation-CTRL-UL-20250909-188900-v2",
+     "R1-det-fp-minimization_lexicon-CTRL-WL-20250909-lilly-716485-v3",
+     "R1-det-fp-risk_present-CTRL-UL-20250909-188904-v1",
+     "R1-det-fp-single_arm_endpoints-CTRL-UL-20250909-188901-v1"
+    ],
+    "count": 21
+   },
+   "hypothesis": "21 dev failures attributed to det_check",
+   "requires_human": true,
+   "approved": false,
+   "instructions": "Edit checks/margin_checks.py; re-run; the loop re-scores det metrics."
+  },
+  {
+   "id": "P1-input_gap",
+   "layer": "input_gap",
+   "type": "manual",
+   "payload": {
+    "items": [
+     "R1-PW-UL-20260928-195157-v1-single-A",
+     "R1-PW-UL-20260713-193722-v1-single-A",
+     "R1-PW-UL-20260512-192467-v1-single-A",
+     "R1-PW-UL-20260206-191036-v1-single-B",
+     "R1-PW-UL-20251124-189913-v1-single-A",
+     "R1-PW-UL-20250909-188720-v1-single-A",
+     "R1-PW-UL-20250909-188693-v1-single-A",
+     "R1-PW-UL-20250909-188732-v1-single-A",
+     "R1-PW-UL-20250909-188733-v1-single-B",
+     "R1-PW-UL-20260622-193307-v4-single-A",
+     "R1-det-indication_qualifiers-needs_input",
+     "R1-det-minimization_lexicon-needs_input",
+     "R1-det-testimonial_typicality-needs_input"
+    ],
+    "count": 13
+   },
+   "hypothesis": "13 dev failures attributed to input_gap",
+   "requires_human": true,
+   "approved": false,
+   "instructions": "Acquire the missing inputs (assets, PI, study data) or accept as a known limit."
+  }
+ ]
+}

@@ -1,0 +1,510 @@
+SOURCE_URL: https://www.fda.gov/media/133619/download
+
+Author: FDA/CDER
+
+20586448fnlPRAupdate11-12-24
+
+## Medical Product Communications
+
+## That Are Consistent With the
+
+## FDA-Required Labeling
+
+## Questions and Answers
+
+## Guidance for Industry
+
+U.S. Department of Health and Human Services 
+Food and Drug Administration 
+Center for Drug Evaluation and Research (CDER) 
+Center for Biologics Evaluation and Research (CBER) 
+Center for Devices and Radiological Health (CDRH) 
+Center for Veterinary Medicine (CVM) 
+Office of the Commissioner (OC) 
+
+June 2018 Procedural
+
+OMB Control No. 0910-0686 
+Current expiration date available at https://www.reginfo.gov 
+(Search ICR and enter OMB control number) 
+See additional PRA statement in section IV of this guidance. 
+Medical Product Communications That Are 
+Consistent With the FDA-Required Labeling 
+Questions and Answers 
+Guidance for Industry 
+Additional copies are available from: 
+Office of Communications, Division of Drug Information 
+Center for Drug Evaluation and Research 
+Food and Drug Administration 
+10001 New Hampshire Ave., Hillandale Bldg., 4 th Floor 
+Silver Spring, MD 20993-0002 
+Phone: 855-543-3784 or 301-796-3400; Fax: 301-431-6353 
+Email: druginfo@fda.hhs.gov 
+http://www.fda.gov/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/default.htm 
+and/or 
+Office of Communication, Outreach and Development 
+Center for Biologics Evaluation and Research 
+Food and Drug Administration 
+10903 New Hampshire Ave., Bldg. 71, Room 3128 
+Silver Spring, MD 20993-0002 
+Phone: 800-835-4709 or 240-402-8010 
+Email: ocod@fda.hhs.gov 
+http://www.fda.gov/BiologicsBloodVaccines/GuidanceComplianceRegulatoryInformation/Guidances/default.htm 
+and/or 
+Office of the Center Director 
+Center for Devices and Radiological Health 
+Food and Drug Administration 
+10903 New Hampshire Ave., Bldg. 66, Room 5431 
+Silver Spring, MD 20993-0002 
+Email: CDRH-Guidance@fda.hhs.gov 
+https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/default.htm 
+and/or 
+Policy and Regulations Staff, HFV-6 
+Center for Veterinary Medicine 
+Food and Drug Administration 
+7519 Standish Place, Rockville, MD 20855 
+http://www.fda.gov/AnimalVeterinary/GuidanceComplianceEnforcement/GuidanceforIndustry/default.htm 
+and/or 
+Office of Policy 
+Office of the Commissioner 
+Food and Drug Administration 
+10903 New Hampshire Ave., Bldg. 32, Room 4232 
+Silver Spring, MD 20993-0002 
+Phone: 301-796-4830 
+U.S. Department of Health and Human Services 
+Food and Drug Administration 
+Center for Drug Evaluation and Research (CDER) 
+Center for Biologics Evaluation and Research (CBER) 
+Center for Devices and Radiological Health (CDRH) 
+Center for Veterinary Medicine (CVM) 
+Office of the Commissioner (OC) 
+June 2018 
+Procedural 
+
+TABLE OF CONTENTS 
+I. INTRODUCTION ... 1 
+II. BACKGROUND ... 2 
+III. QUESTIONS AND ANSWERS ... 3 
+IV. PAPERWORK REDUCTION ACT OF 1995 ... 19 
+
+### Medical Product Communications That Are Consistent With the FDA-Required Labeling Questions and Answers Guidance for Industry 1
+
+This guidance represents the current thinking of the Food and Drug Administration (FDA or Agency) on this topic. It does not establish any rights for any person and is not binding on FDA or the public. You can use an alternative approach if it satisfies the requirements of the applicable statutes and regulations. To discuss an alternative approach, contact the FDA office responsible for this guidance as listed on the title page.
+
+I. INTRODUCTION This guidance provides information for firms 2 about how FDA evaluates firms’ medical product 3 communications that fall within the scope of FDA’s regulatory authority 4 (product communications) and that present information not contained in the FDA-required labeling for the product but that may be consistent with the FDA-required labeling for the product. 5 For the purposes of this guidance and as further explained in section III, information that is consistent with the FDA-required labeling is limited to information about the approved or cleared 6 uses of a product. The term FDA-required labeling as used in this guidance includes the labeling reviewed and approved by FDA as part of the medical product marketing application review
+
+1 This guidance has been prepared by the Center for Drug Evaluation and Research, the Center for Biologics 
+Evaluation and Research, the Center for Devices and Radiological Health, the Center for Veterinary Medicine, and 
+the Office of the Commissioner at the Food and Drug Administration. 
+2 The term firms refers to medical product manufacturers, packers, and distributors and their representatives. 
+3 The term medical product(s) refers to drugs and medical devices for humans, including those that are licensed as 
+biological products, and animal drugs. See Q.1/A.1 in section III of this guidance. 
+4 FDA regulates the manufacture, sale, and distribution of drugs and devices in the United States under the authority 
+of the Federal Food, Drug, and Cosmetic Act (FD&C Act) and the Public Health Service Act (PHS Act). This 
+authority includes oversight of labeling for all drugs and devices and of advertising for prescription drugs and 
+restricted devices. These and other firm communications are also relevant under the FD&C Act and FDA’s 
+implementing regulations to establishing a new intended use, different from the use for which the product is legally 
+marketed (see Q.3/A.3 in section III of this guidance). 
+5 For ease of reference, this guidance sometimes uses the acronym CFL as shorthand for the phrase consistent with 
+the FDA-required labeling. 
+6 For ease of reference, when approval and clearance (and similar terms) are used in discussing devices, the terms 
+refer to FDA permitting the marketing of a device via the premarket approval, 510(k), De Novo classification, or 
+Humanitarian Device Exemption (HDE) pathway and to devices that are exempt from premarket notification. 
+
+process. 7 For products not subject to premarket approval, but instead subject to premarket notification (510(k)) requirements or exempt from premarket review, the term FDA-required labeling includes the labeling that provides adequate directions for use and other information required to appear on the label or in labeling. 8
+
+FDA is providing this guidance to address frequently asked questions concerning this topic. In general, FDA’s guidance documents do not establish legally enforceable responsibilities. Instead, guidances describe the Agency’s current thinking on a topic and should be viewed only as recommendations, unless specific regulatory or statutory requirements are cited. The use of the word should in Agency guidances means that something is suggested or recommended, but not required.
+
+II. BACKGROUND 
+FDA determines whether a medical product is safe and effective for use under the conditions 
+prescribed, recommended, or suggested in the proposed labeling submitted with the product’s 
+marketing application or submission (and for devices, also during the classification process). 9 In 
+making this determination, FDA evaluates whether the conditions of use in the proposed labeling 
+are supported by the required levels and types of evidence of safety and effectiveness and 
+whether the benefits of using the product under those specific conditions of use outweigh the 
+risks of the product. After FDA approves or clears a medical product, the FDA-required labeling 
+sets forth the conditions of use under which the product has been shown to meet the relevant 
+standard for marketing. This labeling also provides directions and information on how to use the 
+product safely and effectively under those conditions. 
+The FDA-required labeling is the primary tool that communicates the essential information 
+needed for the safe and effective use of the product, and firms have an obligation to update their 
+FDA-required labeling as needed to ensure it is not false or misleading. 10 The FDA-required 
+labeling is subject to content requirements and limitations to help ensure that it effectively 
+7 Such labeling may include, for example, the FDA-approved prescribing information for a human drug (including a 
+drug that is licensed as a biological product), including FDA-approved patient labeling, if any, that, under 21 CFR 
+201.100(d), must accompany any labeling distributed by or on behalf of the manufacturer, packer, or distributor of 
+the drug; the FDA-approved prescribing information for an animal drug; or the labeling approved during the 
+premarket approval process for a device. 
+8 Because compounded drugs that comply with sections 503A or 503B of the FD&C Act are not subject to section 
+502(f)(1) of the FD&C Act requiring adequate directions for use, they do not have FDA-required labeling as defined 
+in this guidance. See sections 503A(a) and 503B(a) of the FD&C Act. 
+9 See, for example, sections 505(d)(1), (2), (4) and (5); 512(d)(1)(A), (B), (D) and (E); 513(a)(2)(B); and 515(d)(2) 
+of the FD&C Act. Also, a human or animal drug is not a new drug if it is generally recognized as safe and effective 
+under the conditions prescribed, recommended, or suggested in its labeling. See sections 201(p) and (v) of the 
+FD&C Act. 
+10 See, for example, sections 301(a) and (b) and 502(a) of the FD&C Act. 
+
+communicates information. It is not intended to exhaustively address all that is known about a 
+product for its approved or cleared uses. 
+Medical product firms have told FDA that they are interested in communicating, including in 
+their promotional materials, data and information about the approved/cleared uses of their 
+products that are not contained in their products’ FDA-required labeling. We also recognize that 
+firms have questions about how FDA determines whether product communications that contain 
+data and information that are not in the FDA-required labeling are consistent with that labeling. 
+The purpose of this guidance is to provide clarity regarding FDA’s thinking when examining the 
+consistency of a firm’s product communications with that product’s own FDA-required 
+labeling. 11 As explained in section III (Q.3/A.3), if a firm communicates information that is not 
+contained in its product’s FDA-required labeling but that is determined to be consistent with the 
+FDA-required labeling, FDA does not intend to rely on that communication to establish a new 
+intended use. 
+Product communications that are consistent with a product’s FDA-required labeling but are false 
+or misleading may subject a firm to enforcement action under the Federal Food, Drug, and 
+Cosmetic Act (FD&C Act). Thus, this guidance also provides general (but not comprehensive) 
+recommendations intended to aid firms in complying with requirements in the FD&C Act and 
+FDA’s implementing regulations 12 for conveying information that is consistent with the FDA 
+required labeling in a truthful and non-misleading way, as well as examples to illustrate these 
+concepts. These general recommendations for conveying information in a truthful and non 
+misleading way are applicable only to drug and device labeling and prescription drug and 
+restricted device advertising that are consistent with the FDA-required labeling (for ease of 
+reference, this guidance uses the term CFL promotional communications to refer to such 
+communications). Communication of information that is not consistent with the FDA-required 
+labeling is outside the scope of these recommendations. 
+III. QUESTIONS AND ANSWERS 
+Q.1. What FDA-regulated products fall within the scope of this guidance? 
+A.1. This guidance applies to drugs and devices for humans, including those that are 
+licensed as biological products, and to animal drugs (collectively, medical products). 
+For devices cleared in 510(k)s and devices that are 510(k)-exempt, there is no need to 
+separately analyze communications under the factors discussed in Q.2/A.2. Rather, 
+for 510(k)-cleared devices, firms should analyze communications about such devices 
+
+11 This guidance does not address considerations relating to the approval of generic drugs and biosimilar products involving the submission of information to show that the condition(s) of use in the labeling proposed for the proposed generic or biosimilar product have been previously approved for the reference product. See sections 505(j)(2)(A)(i) and 512(n)(1) of the FD&C Act and section 351(k)(2)(A)(i)(III) of the PHS Act. 12 See sections 201(n), 502(a), 502(n), 502(q), and 502(r) of the FD&C Act and 21 CFR 1.21(a) and 202.1(e)(5).
+
+(whether in labeling or otherwise) in accordance with 21 CFR 807.81(a)(3) and 
+FDA’s guidance Deciding When to Submit a 510(k) for a Change to an Existing 
+Device 13 (510(k) Modifications Guidance). As explained in the 510(k) Modifications 
+Guidance, not all changes require a new 510(k) and manufacturers may use a risk 
+based assessment approach, as appropriate, to guide their analysis of whether a new 
+510(k) is likely required. This risk-based assessment approach is consistent with the 
+principles described in this CFL guidance. For 510(k)-exempt devices, firms should 
+analyze communications in accordance with the limitations of exemptions applicable 
+to their device at 21 CFR 862.9 to 892.9 and, for certain devices, in their 
+classification regulation. FDA views communications that trigger the need for a 
+510(k) as inconsistent with FDA-required labeling. 14 Conversely, FDA views 
+communications that do not trigger the need for a 510(k) to be consistent with the 
+FDA-required labeling, and does not intend to rely on such communications to 
+establish a new or significantly modified intended use, or one that is different from 
+the use for which the product is legally marketed. 15 Although, as noted above, there 
+is no need to analyze 510(k) cleared and 510(k)-exempt devices and exempt devices 
+under the factors in Q.2/A.2, the recommendations and examples in Q.6/A.6 through 
+Q.10/A.10 for conveying information in a truthful and non-misleading way in CFL 
+promotional communications may be helpful for such devices. 
+Q.2. How does FDA determine whether a firm’s product communication is consistent 
+with the FDA-required labeling for that product? 
+A.2. FDA uses three factors to determine whether the representations or suggestions in a 
+product communication are consistent with the product’s FDA-required labeling. If a 
+product communication fails to satisfy any one of these factors, it is not considered 
+consistent with the FDA-required labeling. FDA recognizes that there is overlap in 
+these factors and expects that product communications that are not consistent with the 
+FDA-required labeling may fail to satisfy multiple factors. 
+Factor 1: How the information in the product communication compares to the 
+information about those conditions of use in the FDA-required labeling identified 
+in the bullets below 16 — If the answer to any of the following questions is yes, 
+that indicates the product communication is not consistent with the FDA-required 
+labeling: 
+13 See FDA’s guidance Deciding When to Submit a 510(k) for a Change to an Existing Device (October 2016). We 
+update guidances periodically. For the most recent version of a guidance, check the FDA guidance web page at 
+https://www.fda.gov/RegulatoryInformation/Guidances/default.htm. 
+14 See also Q.11/A.11. 
+15 Note that communications regarding 510(k)-cleared or 510(k)-exempt devices that change the intended use of the 
+device so significantly that a different type of premarket submission such as a PMA or De Novo would be the 
+appropriate premarket submission for the change would not be consistent with the FDA-required labeling. 
+16 This guidance is not intended to provide a definitive FDA interpretation of conditions of use for all circumstances. 
+
+• Indication – Do the representations/suggestions about the product in the communication relate to a different indication than the one(s) reflected in the product’s FDA-required labeling? 
+• Patient Population – Is the patient population represented or suggested in the communication outside the approved patient population reflected in the FDA-required labeling? 
+• Limitations and Directions for Handling/Use – Do the representations/suggestions in the communication conflict with the use limitations or directions for handling, preparing, and/or using the product reflected in the FDA-required labeling? 
+• Dosing or Use Regimen/Administration – Do the representations/suggestions about the product conflict with the recommended dosage or use regimen, route of administration, or strength(s) (if applicable) set forth in the FDA-required labeling? Factor 2: Whether the representations/suggestions about use of the product in the product communication increase the potential for harm to health relative to the information reflected in the FDA-required labeling 17 — When reviewing a medical product’s marketing application, FDA weighs the benefits and risks of a medical product for the conditions of use prescribed, recommended, or suggested in the product’s labeling and determines whether the benefits of using the product under those conditions of use outweigh the potential or probable risks of the product. Under certain circumstances, FDA may also consider additional risks and potential harms in determining whether a product meets the relevant standard for marketing. For example, FDA may assess the risks of abuse or misuse of certain products, the potential for harm to the health of humans from certain animal drug uses, or the potential for harm to health from secondary exposure to certain medical products. If using a product in accordance with the representations/suggestions in a product communication increases the potential for harm to health relative to the information reflected in the FDA required labeling, this indicates that the communication is not consistent with the FDA-required labeling. For example, if the representations or suggestions about use of the product would reasonably be expected to introduce new risks that are not included in the FDA-required labeling or to materially increase the rate of 
+
+17 Note that certain proposed safety-related changes to the FDA-required labeling of medical products can be submitted to the Agency in changes being effected (CBE) supplements and firms may distribute the medical product with such labeling changes upon receipt by the Agency of the supplement for the change. See, for example, 21 CFR 314.70(c)(6), 601.12(f)(2), 514.8(c)(3), & 814.39(d). Firm communications that reflect changes to the labeling described in a pending CBE supplement (and that are otherwise consistent with the framework described in this guidance) would be considered consistent with the FDA-required labeling.
+
+occurrence or severity of existing risks 18 included in the FDA-required labeling, the communication would not be consistent with the FDA-required labeling. Factor 3: Whether the directions for use in the FDA-required labeling enable the product to be safely and effectively used under the conditions represented/suggested in the product communication — For example, when considering this question, firms should determine if the FDA required labeling provides sufficient information about risks (i.e., information about the potential or expected risks) and effects of using the product as presented in the product communication. Similarly, firms should examine any unique considerations associated with the use of the product as suggested by the communication and assess whether the FDA-required labeling furnishes the appropriate context. If the answer to this question is no, that indicates the product communication is not consistent with the FDA-required labeling. Given the potential for overlap in these three factors, FDA recognizes that there are questions about how a product communication that satisfies factor 1 could fail on factor 2 and/or 3. As a general matter, factor 1 primarily addresses situations where the information about the conditions of use described in the FDA-required labeling and in a firm’s communication conflict with one another. However, while the FDA required labeling provides essential information about the approved conditions of use, it is not intended to exhaustively address every possible scenario a firm could suggest in its communications – either to rule out or to endorse each possible scenario – and certain scenarios could negatively affect the safe and effective use of the product. As a result, simply analyzing whether there is a conflict between the information in the communication and the FDA-required labeling is not always sufficient to determine whether a communication is consistent with the FDA-required labeling. If a firm’s communication suggests use of its product in a way that does not conflict with the FDA-required labeling but which nevertheless increases the potential for harm to health relative to the information reflected in the FDA-required labeling, the
+
+18 This factor is not intended to restrict firms from communicating about increased risks, such as risks observed with use of their products in clinical practice. For example, as described in the preceding footnote, firms’ communications can reflect changes to the labeling described in a pending CBE supplement, including supplements that add or strengthen contraindication, warning, precaution, or adverse reaction information in the FDA-required labeling, and such communications would be considered consistent with the FDA-required labeling. It is also not intended to restrict communications that describe minor differences in the rate of occurrence of common, non serious adverse reactions (e.g., if a firm’s communication describes the rate of occurrence of headache observed in clinical practice, and this rate is slightly higher than the rate of occurrence of headache reflected in the FDA required labeling from the clinical trials experience, this communication would not be considered to fail this factor). However, if a firm’s communication suggests use of its product in a way that would reasonably be expected to result in a clinically significant increase in the rate of occurrence or severity of an adverse event compared to what is described in the FDA-required labeling or in a way that would reasonably be expected to introduce a new risk that is not described in the FDA-required labeling, that would indicate the product communication is not consistent with the FDA-required labeling.
+
+communication would not be consistent with the FDA-required labeling (factor 2). Similarly, if a firm’s communication suggests use of a product in a way that does not conflict with the information in the FDA-required labeling but the FDA-required labeling would not provide adequate information to enable the product to be safely or effectively used under the conditions represented in the communication, the communication would not be consistent with the FDA-required labeling (factor 3). The following examples further illustrate how factors 2 and 3 are applied:
+
+• Example 1: Drug A and Drug B are both indicated for the treatment of osteoarthritis in dogs. Drug A’s FDA-required labeling states that when discontinuing treatment with Drug A there should be a washout period before switching to another drug because of an increased risk of adverse reactions from drug interactions if dogs are switched without a washout period between the drugs. Drug B’s FDA-required labeling does not address switching from Drug A to Drug B. A firm’s product communication for Drug B suggests that dogs can be immediately switched from Drug A to Drug B. . The communication may not fail on factor 1 because there is no information in the FDA-required labeling for Drug B that explicitly addresses use of Drug B in dogs being switched from Drug A. However, this communication would fail on factor 2 because the information in the communication increases the potential for harm to health relative to the information in the FDA-required labeling for Drug B, which does not describe the additional risks associated with use of Drug B when dogs are abruptly switched to the drug from Drug A. This communication would also fail on factor 3 because the FDA-required labeling for Drug B would not provide adequate directions for use of Drug B under the conditions represented in the communication (e.g., on relevant hazards associated with abrupt switching from Drug A to Drug B). 
+• Example 2: The dosage and administration section of the FDA-approved labeling for a drug indicates that dose modifications may be needed based on individual safety and tolerability, but does not provide specific dose modification instructions. A firm’s product communication for the drug indicates that patients who have tolerability issues should be dosed on a specific modified schedule set forth in the communication; however, this schedule would result in patients receiving a sub-therapeutic dose of the drug. Although the communication may not fail on factor 1 in that it does not conflict with the general dose modification statement in the dosage and administration section of the FDA-approved labeling, the FDA-required labeling would not provide adequate information to enable the product to be used effectively under the dosing conditions represented in the communication, which would result in patients receiving a sub-therapeutic dose. For this reason, this communication would fail on factor 3. 
+
+Q.3. Does FDA intend to rely on a firm’s product communications that are consistent 
+with the FDA-required labeling to establish a new intended use? 
+A.3. No. If a firm’s product communication is consistent with the FDA-required labeling, 
+FDA does not intend to rely on that communication to establish a new intended use, 
+different from the use(s) for which the product is legally marketed. In addition, FDA 
+does not intend to consider a product communication that is consistent with the FDA 
+required labeling as evidence of a firm’s failure to comply with the FD&C Act’s 
+requirement that a medical product’s labeling bear adequate directions for use (see 
+section 502(f) of the FD&C Act) based solely on the fact that the communication 
+presents data and information that are not reflected in the product’s FDA-required 
+labeling. This is not to suggest that these communications must be excluded from 
+consideration altogether. For example, if there is other evidence of a new intended 
+use for a product, product communications that are consistent with the FDA-required 
+labeling may be part of the overall material that is evaluated in assessing the firm’s 
+conduct. 
+Even if a firm’s product communication is consistent with the FDA-required labeling, 
+the firm also must ensure that the communication satisfies other applicable 
+requirements. In this respect, please note that the determination of whether or not a 
+communication is consistent with the FDA-required labeling is separate from the 
+determination of which specific labeling or advertising provisions of the FDA 
+authorities, if any, apply to that communication (see Q.6/A.6 and Q.7/A.7). 
+Q.4. What are examples of the kinds of information that could be consistent with the 
+FDA-required labeling for a product? 
+A.4. The following are examples of some general types of information that could be 
+consistent with the FDA-required labeling. These examples are provided for 
+illustrative purposes only and are not intended to be comprehensive or restrictive. 
+Furthermore, not all representations or suggestions about a product that relate to the 
+general categories described in this answer will be consistent with the FDA-required 
+labeling for the specific product. That determination is fact-specific and is made by 
+evaluating the particular representations or suggestions being made in a product 
+communication, using the factors outlined in Q.2/A.2. 
+• Information based on a comparison of the safety or efficacy of a medical product for its approved indication to another medical product approved for the same indication (e.g., a firm’s product communication provides information from a head-to-head study or studies indicating that its drug approved to treat high blood pressure in adults has superior efficacy to another drug that is also approved to treat high blood pressure in adults) 
+• Information that provides additional context about the adverse reactions associated with the approved uses of the product reflected in the product’s FDA required labeling (e.g., the FDA-required labeling for a product identifies nausea 
+
+as a potential adverse reaction and further indicates the product can be taken with or without food. A firm’s product communication provides information about how taking a product with food might reduce nausea) 19
+
+• Information about the onset of action of the product for its approved indication and dosing/use regimen (e.g., the FDA-required labeling for a product approved to treat major depressive disorder does not contain information about onset of action before the point in time designated as the study’s endpoint, and a firm’s product communication provides information indicating that the product shows an effect relative to the control at 2 weeks) 
+• Information about the long-term safety and/or efficacy of products that are approved for chronic use (e.g., a firm provides postmarketing information for its product, which was approved for chronic use based on 24-week study data, regarding persistent safety and/or efficacy over 18 months) 
+• Information about the effects or use of a product in specific patient subgroups that are included in its approved patient population (e.g., a firm’s product communication provides information on the number of female patients that were studied in its pivotal clinical trials and the treatment effects in that patient group, or, in the case of a diagnostic product, the diagnostic performance in that patient group) 
+• Information concerning the effects of a product on the patient for its FDA approved indication in its approved patient population (e.g., (1) a firm’s product communication provides information concerning patient compliance/adherence; (2) a firm’s product communication for its prosthetic hip, which is approved to treat mobility-limiting joint disease caused by osteoarthritis, provides information regarding the effects of the device on relieving patients’ symptoms associated with the disease (e.g., decreased hip pain) at an interim point in time before a primary endpoint of improvement in function; (3) a firm’s product communication provides information about patients’ perceptions of a known adverse reaction associated with use of the product for its approved indication; (4) a firm’s product communication for its vascular interventional device provides information regarding procedure-related pain for patients who are treated with the device for its approved use) 
+
+19 In June 2014, FDA issued a draft guidance entitled Distributing Scientific and Medical Publications on Risk Information for Approved Prescription Drugs and Biological Products — Recommended Practices (Risk Information Draft Guidance). (When final, this guidance will represent FDA’s current thinking on this topic.) That draft guidance relates to “information that becomes available after a drug is marketed that rebuts or mitigates information about a risk already identified in the approved labeling or otherwise refines risk information in the approved labeling in a way that does not indicate greater seriousness of the risk” (page 3 (footnote omitted)). To the extent there is overlap between the Risk Information Draft Guidance and this guidance, FDA recommends that firms consider the recommendations in both guidances.
+
+• Information concerning product convenience (e.g., (1) a firm’s product communication for its drug, which is indicated for the treatment and prevention of ectoparasites in dogs, provides information about the convenient dosing schedule of the product for pet owners based on its long duration of effect; (2) a firm’s product communication for its drug, which is administered by subcutaneous injection, conveys that its administration time is more convenient than another product with the same active ingredient indicated for the same condition which is administered through an intravenous infusion, by providing information that its subcutaneous injection requires an average of 3 hours in the clinic versus an average of 10 hours in the clinic for infusion of the other product) 
+• Information that provides additional context about the mechanism of action described in the FDA-required labeling (e.g., the FDA-required labeling for a drug product indicates it exerts its effects by binding to a certain receptor, and a firm’s product communication provides additional information about the product’s selectivity for that receptor) 
+• Information about the tolerability of a product when used concomitantly with another product for a co-morbid condition (e.g., a firm’s product communication for its drug, which is approved for the treatment of hypertension, provides postmarket information indicating that patients within its FDA-approved population who are also receiving treatment with another product for their type 2 diabetes mellitus reported tolerability of the hypertension drug that was comparable to that of patients taking the drug during clinical trials, who were not taking the concomitant medication) Q.5. What are examples of the kinds of information that are not considered consistent with the FDA-required labeling for a product? A.5. Some examples of general types of information that are not considered consistent with the FDA-required labeling include the following. As with the examples provided in Q.4/A.4, these examples are provided for illustrative purposes only and are not intended to be comprehensive. 
+• Information about the use of a product to treat or diagnose a different disease or condition than the product is approved to treat or diagnose (e.g., a product is approved to treat cardiovascular disease, and a firm’s product communication provides information about using the product to treat diabetes) 
+• Information about the use of a product to treat or diagnose patients who are not included in the product’s approved patient population (e.g., (1) a device is indicated for the quantitation of hepatitis B virus (HBV) DNA in human blood samples of previously diagnosed HBV-infected individuals as an aid in the management of patients with chronic HBV infection undergoing anti-viral therapy, and a firm’s product communication provides information about using the device to make an initial diagnosis of HBV infection in previously undiagnosed patients; (2) an animal drug is approved only for use in feedlot cattle, 
+
+and a firm’s product communication provides information about using the product in veal or dairy cattle)
+
+• Information about the use of a product to treat a different stage, severity, or manifestation of a disease than the product is approved to treat (e.g., a product is approved only to treat severe asthma, and a firm’s product communication provides information about using the product to treat patients with mild asthma) 
+• Information about the use of a product as monotherapy when it is only approved for use in conjunction with one or more other products or therapeutic modalities (e.g., the FDA-required labeling for a product indicates it is for use as an adjunct to surgery and radiation, and a firm’s product communication provides information about using the product to treat patients who are not undergoing surgery and radiation) 
+• Information about using a product through a different route of administration or in a different tissue type than the product is approved for (e.g., a product is approved only for intramuscular injection, and a firm’s product communication indicates the product can be injected intravenously) 
+• Information about the use of a different strength, dosage, or use regimen than the approved strength, dosage, or use regimen (e.g., the FDA-required labeling for a drug indicates it should be taken twice a day 12 hours apart, and a firm’s product communication represents that the product can instead be taken once a day, with both doses being taken together in the morning) 
+• Information about the use of a product in a different dosage form than what is set forth in the FDA-required labeling (e.g., the product’s approved dosage form is a capsule, and a firm’s product communication provides information about use of the product as an oral solution) Q.6. What evidentiary support should a firm have for its CFL promotional communications? A.6. Under the FD&C Act and FDA’s implementing regulations, labeling for drugs and devices and advertising for prescription drugs and restricted devices must be truthful and non-misleading, which includes revealing facts that are material about the product being promoted, including information about the risks of the product. 20 When these communications lack appropriate evidentiary support, they are likely to be false or misleading and can cause patient harm. To be truthful and non misleading, representations or suggestions made by firms about their products need to be grounded in fact and science and presented with appropriate context. Any data, studies, or analyses relied on should be scientifically appropriate and statistically sound to support the representations or suggestions made in a CFL promotional communication. 
+
+20 See, for example, sections 201(n), 502(a), 502(n), 502(q), and 502(r) of the FD&C Act; 21 CFR 202.1(e)(5).
+
+The safety and effectiveness of the drug or device under the conditions of use in the FDA-required labeling have already been established by appropriate evidence during the premarket review process (and/or through the device classification process). Therefore, FDA would not consider representations or suggestions in a CFL promotional communication to be false or misleading based only on the lack of evidence sufficient to satisfy the applicable approval/clearance standard. For example, evidence other than that which meets the new drug approval standard of “substantial evidence” of effectiveness could be used to support certain representations or suggestions about a prescription drug in a CFL promotional communication. 21 Nevertheless, the communication could be false or misleading for other reasons. Accordingly, the representations or suggestions should be supported and presented as described in this guidance. The amount and type of evidence needed to support a particular CFL promotional communication depends in part on the topic addressed by the communication. For example, different evidence would be needed to support a long-term efficacy presentation than would be needed to support a presentation about a product’s mechanism of action. The amount and type of evidence needed also depends on the particular representations or suggestions that are made about any given topic in the communication. We are aware that firms are interested in including information from a variety of types of studies and analyses in their product communications, including additional information from the studies that supported approval or clearance of their product and from postmarket studies and analyses of their product. As a general matter, FDA believes that a variety of types of studies and analyses can provide useful additional information about a medical product for its approved/cleared conditions of use. However, some of these studies or analyses do not, in and of themselves, allow for reliable conclusions to be drawn about the effects of the product. To be considered truthful and non-misleading, firms’ product communications should not overstate the findings of or the conclusions that can be drawn from such studies or analyses, or fail to disclose their material limitations. For example, certain analyses of pivotal trial data may provide information that elaborates on the data reflected in the product’s FDA-required labeling and could add to understanding of a product (e.g., information from separate analyses of the individual components of a composite endpoint that was successfully used as the primary endpoint and that are derived from appropriate statistical tests 22 and pre specified in the statistical analysis plan). However, if the pivotal trial was, for example, not adequately powered to determine treatment effect on the individual components of the composite endpoint and/or type 1 error (false positive rate) was
+
+21 In such circumstances, FDA does not intend to interpret its regulations, see, for example, 21 CFR 202.1(e)(6)(i), to the contrary. 22 See, for example, FDA’s guidance E9 Statistical Principles for Clinical Trials (September 1998); FDA’s guidance Design Considerations for Pivotal Clinical Investigations for Medical Devices (November 2013); and FDA’s guidance Statistical Guidance on Reporting Results from Studies Evaluating Diagnostic Tests (March 2007).
+
+not controlled in these analyses, these analyses would generally not support 
+conclusions about a treatment effect of the product on the individual components of 
+the composite endpoint. In such a case, representing or suggesting that the data 
+support such efficacy conclusions, either directly (e.g., by claiming the product has 
+demonstrated efficacy on the individual components) or indirectly (e.g., by presenting 
+p-values, which would imply a statistically rigorous conclusion where one does not 
+exist), would be false or misleading. 
+If the firm wishes to present this information in a CFL promotional communication, it 
+must do so in a truthful and non-misleading way. 23 For example, the firm could 
+present the results from these analyses of the individual components of the composite 
+endpoint descriptively without p-values and without claiming that the results on the 
+individual components are demonstrated additional effects of the drug. The firm 
+should also include contextual information to describe the material limitations of the 
+data (see Q.8/A.8) – e.g., for this particular presentation, the firm could explain that 
+because these analyses were not prespecified and appropriate multiplicity adjustments 
+were not applied, the results on the individual components need cautious 
+interpretation and could represent chance findings. 
+Thus, in addition to being scientifically appropriate and statistically sound, the 
+evidence should be accurately characterized in the CFL promotional communication, 
+including limitations of the strength of the evidence and the conclusions that can be 
+drawn from it (as discussed in Q.8/A.8). However, firms should note that if a CFL 
+promotional communication relies on a study that is inadequate to support the 
+representations or suggestions it presents, disclosure of the material limitations of that 
+study does not correct the misleading message conveyed by the communication. For 
+example, in the scenario described in the previous paragraphs, if the firm’s 
+communication represented or suggested that the results on the individual 
+components are demonstrated additional effects of the drug, disclosing the limitations 
+of the underlying evidence would not correct the misleading message conveyed by 
+the communication. Rather, as previously mentioned, the information should be 
+presented in a way that does not overstate the conclusions that can be drawn from the 
+supporting evidence. And if a firm’s communication is based on speculation or belief 
+without scientific support or is based on a poorly designed or conducted study or 
+analysis, that communication would not be consistent with the recommendations in 
+this guidance, regardless of whether the communication discloses the lack of 
+appropriate support for the information being presented. 
+Q.7. What other considerations apply to CFL promotional communications that are 
+consistent with the FDA-required labeling? 
+A.7. In addition to the considerations addressed in Q.6/A.6, firms should ensure their 
+FDA-regulated promotional materials otherwise satisfy the applicable requirements of 
+the FD&C Act and FDA’s implementing regulations. 
+
+23 See sections 502(a), 502(n), 502(q), and 502(r) of the FD&C Act; 21 CFR 1.21 (a) and 202.1(e)(5).
+
+Nothing in this guidance is intended to change a firm’s existing obligations under the 
+FD&C Act, the Public Health Service Act (PHS Act), or FDA’s implementing 
+regulations to update its FDA-required labeling to ensure that the labeling is not false 
+or misleading or for other reasons. 24 
+Q.8. What does FDA recommend that firms consider when developing CFL promotional 
+communications that are consistent with the FDA-required labeling to help ensure 
+that the presentation of this information does not render the communication false 
+or misleading? 
+A.8. The way a firm presents information that is consistent with the FDA-required labeling 
+(including the express and implied claims made and the overall impression created by 
+the communication as a whole) affects how the information is understood. The 
+following are some high-level recommendations for firms to consider when 
+developing their presentations of information in CFL promotional communications to 
+help ensure the presentations do not mislead the applicable audience(s): 
+• Any study results or other data and information that are relied upon to support a firm’s CFL promotional communication should be accurately represented in the communications. Moreover, aspects of study design and methodology that are material for audiences to accurately interpret the information presented (e.g. type of study, study objectives, product dosage/use regimens, controls used, patient population studied) from any studies relied on should be clearly and prominently 25 disclosed in firms’ CFL promotional communications, and material limitations related to the study design, methodology, and results should also be disclosed in a clear and prominent manner. 
+• The CFL promotional communication should accurately characterize and contextualize the relevant information about the product, including by disclosing unfavorable or inconsistent findings. For example, if a firm presents efficacy results from a postmarketing study of its product that evaluated the effect of the product on two different endpoints, such as overall survival and progression-free survival, and the product failed to demonstrate an effect on one of these two endpoints, the firm should clearly and prominently disclose this in the CFL 
+
+24 See, for example, 21 CFR 201.56(a)(2) (“[approved] labeling must be updated when new information becomes available that causes the labeling to become inaccurate, false, or misleading”); 21 CFR 314.70 and 601.12 (concerning supplements and other changes to an approved application, including labeling); 21 CFR 514.8(c) (concerning supplements and other changes to an approved application for a new animal drug, including labeling); 21 CFR 814.39 (concerning supplements to an approved premarket approval application (PMA), including labeling); and 21 CFR 814.108 (concerning supplements to an approved HDE application, including labeling). 25 In evaluating whether information is presented clearly and prominently, FDA considers the conspicuousness of the information as compared to other statements and presentations in the communication (including factors such as location, font size, contrast, and white space) and also considers whether it is presented in a way that is likely to be read and understood by those receiving the communication.
+
+promotional communication, rather than selectively presenting only the positive efficacy results.
+
+• If the FDA-required labeling contains data or information related to what is being represented/suggested in the CFL promotional communication, the communication should also include the data or information from the FDA required labeling to provide the audience with appropriate context, and this information should be presented in a clear and prominent way. For example, if a communication provides postmarketing information about the types and rates of occurrence of adverse events that have been observed in practice, the communication should also include information from the FDA-required labeling about the types and rates of occurrence of adverse reactions observed in clinical trials to provide context. 
+These considerations are not intended to be a comprehensive description of 
+everything a firm should factor into its analysis of whether its presentations are 
+truthful and non-misleading. FDA recommends that, before disseminating a CFL 
+promotional communication, firms should have qualified medical/scientific, legal, 
+and regulatory personnel carefully review the communication to ensure it is not false 
+or misleading. 
+Q.9. What are some examples of promotional communications that are consistent with 
+the FDA-required labeling and with the recommendations in this guidance? 
+A.9. The following are two examples of promotional communications FDA would 
+consider to be consistent with the FDA-required labeling and the recommendations in 
+Q.6/A.6 and Q.8/A.8. 
+Example 1: Product B is an Immune Globulin Intravenous (Human), 10% liquid 
+indicated for the treatment of primary humoral immunodeficiency (PI) and chronic 
+immune thrombocytopenic purpura (IPT). Product B’s firm develops promotional 
+materials which communicate that clearance of Product B is comparable in males and 
+females taking it to treat PI and IPT. These materials cite to the pharmacokinetic 
+information obtained from the pivotal study of the product. 
+Is this consistent with the FDA-required labeling? Yes. This claim about the product 
+is within the scope of the uses approved by FDA, because the FDA-required labeling 
+reflects that the product is indicated for use in both males and females to treat PI and 
+IPT, and does not contain any limitations or directions or other special considerations 
+related to the sex of patients using the product. The representation about similar 
+clearance of the product in males and females is not expected to increase the potential 
+for harm to patients, and the directions in the FDA-required labeling enable the 
+product to be safely and effectively used to treat PI and IPT regardless of sex. This 
+would be an example of a promotional communication that FDA would consider to 
+be consistent with the FDA-required labeling. 
+
+Is this truthful and non-misleading? Yes, assuming the clearance information from the pivotal study is accurately reported in the firm’s CFL promotional communication and the material aspects of the underlying study design and methodology are disclosed, including any material limitations of the information. As indicated in Q.7/A.7, the firm should also ensure the rest of the information in the CFL promotional communication is truthful and non-misleading and satisfies any other applicable requirements. Example 2: An implantable device is approved for use as an adjunctive therapy for reducing symptoms of a chronic disease when symptoms are not adequately controlled by medication. The device is clinician/patient-controlled based on the disease state and symptoms. The directions for use do not prescribe a specific use schedule. In the clinical study that supported the device’s premarket approval application (PMA), approximately half of the patients using the device reported severe headaches, but many patients tolerate this risk because of the benefits of amelioration of symptoms associated with their chronic illness. The firm enrolled patients with the implanted device in a postmarketing registry, which was designed to better identify and quantify rare adverse events and evaluate the longer-term effectiveness of the therapy. In addition to clinical visits for follow up, patients used a diary to record device use, symptoms, and adverse events. Data from the registry suggest that patients who use the device more frequently and for shorter periods of time (such use is consistent with the approved labeling) experience comparable benefits in ameliorating the symptoms associated with their chronic illness as were observed in the clinical study supporting the PMA, but that these patients have a reduced incidence of severe headaches associated with use of the device compared to that reported in the PMA-approved labeling. The device firm develops promotional materials to communicate this information about the reduced incidence of severe headaches; these materials also outline specific information regarding the registry, including the number of patients enrolled in the registry, patient population, outcome measures, and a summary of the device use, as well as symptoms and adverse events reported in the patient diaries. The proposed promotional materials clearly disclose that the trends related to the diary information about the reduced incidence of severe headaches are descriptive, not statistically powered, and not pre-specified, and that this information should be cautiously interpreted and may result from chance. They also disclose the data from the premarket clinical study along with the registry data to provide context. Is this consistent with the FDA-required labeling? Yes. These representations about the use of the product are within the scope of the uses approved by FDA, because the product is being used for its approved indication in its approved patient population and in a manner that comports with the directions for use in the FDA-required labeling. These representations are not expected to increase the potential for harm to patients relative to the information reflected in the FDA-required labeling. The directions for use in the FDA-required labeling enable the product to be safely and
+
+effectively used under the conditions represented in the communication. While the 
+promotional materials provide supplementary information about use of the device in a 
+specific manner, the information provided is consistent with the directions for use in 
+the labeling, which do not prescribe a specific use schedule, and the information does 
+not otherwise alter or compromise the directions for use in the FDA-required 
+labeling. A firm’s communication of this information would be considered consistent 
+with the FDA-required labeling. 
+Is this truthful and non-misleading? If the data and information are accurately 
+reported in the firm’s promotional materials and the material aspects of the 
+underlying study design and methodology are disclosed in the materials, including 
+material limitations of the information, FDA would consider this to be truthful and 
+non-misleading. Provided the rest of the information in the promotional materials is 
+truthful and non-misleading, this is an example of a CFL promotional communication 
+that FDA would also consider to be consistent with the recommendations in Q.6/A.6 
+and Q.8/A.8. 
+Q.10. What are examples of promotional communications FDA would consider to be 
+inconsistent with the FDA-required labeling or inconsistent with the 
+recommendations in this guidance? 
+A.10. Here are two examples. The first illustrates a promotional communication that FDA 
+would consider to be inconsistent with the FDA-required labeling, and the second 
+illustrates a CFL promotional communication that FDA would consider to be 
+inconsistent with the recommendations in Q.6/A.6 and Q.8/A.8. 
+Example 1: A drug is indicated for the treatment of bovine respiratory disease (BRD) 
+associated with certain susceptible bacteria in beef and non-lactating dairy cattle. The 
+firm develops promotional materials to communicate information about the use of the 
+drug to prevent BRD if used 5 days before shipment of cattle. 
+Is this consistent with the FDA-required labeling? No. These representations about 
+the use of the product are not within the scope of the uses approved by FDA. 
+Treatment of BRD and prevention of BRD are distinct indications, and this drug is 
+not approved for prevention of BRD. The FDA-required labeling for treatment of 
+BRD does not provide directions for using the product for disease prevention. 
+Moreover, the administration of the drug to cattle 5 days before shipment to prevent 
+BRD would reasonably be expected to increase the risk to health (including to the 
+health of cattle and of humans) from resistant bacteria originating from treated cattle. 
+FDA considers appropriate risk factors, including considerations of animal and public 
+health, in determining whether an animal drug product is safe and effective under 
+particular conditions of use. 
+Example 2: Drug A is approved for the long-term, maintenance treatment of asthma 
+patients 12 years of age and older. The safety and efficacy of Drug A for this 
+indication was evaluated versus placebo treatment in a randomized, double-blind 
+
+study. The study also included an active comparator (Drug B), approved for the same 
+indication and with a comparable risk profile, which was similarly evaluated versus 
+placebo. The study was not designed to test the non-inferiority or superiority of Drug 
+A directly against Drug B (i.e., the Drug B arm was included for assay sensitivity). 
+Drug A and Drug B demonstrated statistically significant improvements versus 
+placebo in the co-primary efficacy endpoints, but Drug A’s results showed a 
+numerically greater improvement versus placebo than those for Drug B. Based on 
+this study, Drug A’s firm develops promotional materials to communicate that Drug 
+A is clinically superior to Drug B for the long-term, maintenance treatment of asthma 
+patients 12 years of age and older. 
+Is this consistent with the FDA-required labeling? Yes. The information the firm 
+proposes to present is within the scope of the uses approved by FDA for Drug A. The 
+promotional material relates to the indicated use of Drug A in the approved patient 
+population at the same dosing strength and frequency recommended in the FDA 
+required labeling. The information is not expected to increase the potential for harm 
+to the health of patients relative to the information reflected in the FDA-required 
+labeling — both Drug A and Drug B are approved for the same indication and patient 
+population and have similar risk profiles. Furthermore, the directions in the FDA 
+required labeling enable Drug A to be safely and effectively used under the 
+conditions presented in the promotional material. This promotional communication 
+could be considered consistent with the FDA-required labeling. 
+Is this truthful and non-misleading? No. The promotional material is misleading 
+because it makes a claim of superior effectiveness for Drug A versus Drug B based 
+on a study that was not designed to establish superiority of Drug A to Drug B. Thus, 
+the CFL promotional communication would not be consistent with the 
+recommendations in Q.6/A.6 and Q.8/A.8. 
+If the firm wishes to present data and information from this study, it should do so in a 
+truthful and non-misleading way. For example, the firm could describe the study 
+design and objectives, including the material limitations of both, and include 
+prominent contextual information that the study was not designed to provide 
+comparative efficacy data and should not be interpreted as providing evidence of 
+either superiority or non-inferiority of Drug A to Drug B. The CFL promotional 
+communication should not contain representations or suggestions that are not 
+supported by appropriate evidence, such as any representation or suggestion of Drug 
+A’s superior effectiveness over Drug B. 
+Q.11. What are the Agency’s policies for communication of information that is not 
+consistent with the FDA-required labeling (i.e., information about unapproved uses 
+of approved/cleared medical products)? 
+A.11. A determination that a product communication is not consistent with that product’s 
+FDA-required labeling does not necessarily mean the communication is one that FDA 
+would rely on as relevant to establishing a violation of FDA-administered legal 
+
+authorities. There are other potentially relevant regulations, guidance documents, and policies that describe the Agency’s views and enforcement priorities that could apply in this situation. For example, FDA has issued a draft guidance describing how firms can respond to unsolicited requests for unapproved use information related to their FDA-approved prescription drugs and FDA-approved or cleared devices. 26 In addition, FDA has provided separate guidances describing recommended practices for firms for the dissemination of scientific and medical publications discussing unapproved uses of approved drugs or approved or cleared devices. 27,28
+
+IV. PAPERWORK REDUCTION ACT OF 1995 
+This guidance contains information collection provisions that are subject to review by the Office 
+of Management and Budget (OMB) under the Paperwork Reduction Act of 1995 (44 U.S.C. 
+3501-3520). Specifically, in Q.8/A.8 the guidance contains recommendations regarding 
+information that firms should include in communications that contain information not found in 
+the FDA-required labeling for their medical products but that are consistent with the FDA 
+required labeling. 
+FDA estimates that it will take firms approximately 4 hours per unique presentation to prepare 
+and incorporate the information that this guidance recommends should be included in their CFL 
+promotional communications. Send comments regarding this burden estimate or suggestions for 
+reducing this burden to: 
+FDA PRA Staff, Office of Operations; Food and Drug Administration; 
+Three White Flint North; 11601 Landsdown Street, 10A-12M; North Bethesda, MD 
+20852 
+An Agency may not conduct or sponsor, and a person is not required to respond to, a collection 
+of information unless it displays a currently valid OMB control number. The OMB control 
+number for this information collection is 0910-0686. To find the current expiration date, search 
+for this OMB control number at https://www.reginfo.gov. 
+26 See FDA’s draft guidance Responding to Unsolicited Requests for Off-Label Information About Prescription 
+Drugs and Medical Devices Practices (December 2011). When final, this guidance will represent FDA’s current 
+thinking on this topic. 
+27 See FDA’s guidance Good Reprint Practices for the Distribution of Medical Journal Articles and Medical or 
+Scientific Reference Publication on Unapproved New Uses of Approved Drugs and Approved or Cleared Medical 
+Devices (January 2009). 
+28 See FDA’s revised draft guidance Distributing Scientific and Medical Publications on Unapproved New Uses – 
+Recommended Practices (February 2014). When final, this guidance will represent FDA’s current thinking on this 
+topic. 
+
+

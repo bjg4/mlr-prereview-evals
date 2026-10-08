@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+private/
+*.local.md
+.env
+*api_key*
+# third-party captures and locally generated field results stay out of the repo
+pieces/*
+!pieces/manifest.json
+!pieces/pi_facts.example.json

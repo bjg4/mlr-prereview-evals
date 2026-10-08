@@ -1,0 +1,28 @@
+{
+"id": "UL-20250909-188686",
+"piece_type": "DTC TV ad (AMV-USA-00862)",
+"audience": "DTC",
+"company": "Alnylam Pharmaceuticals, Inc.",
+"regs_in_letter": "FD&C Act (no CFR section cited in letter text)",
+"status": "processed",
+"cases": [
+{
+"cat": "Overstatement of efficacy",
+"claim": "“ATTR-CM can make it feel like you’re missing out. But with Amvuttra, you don’t just get a prescription, you get a ticket. One that may take you on a different journey.” | “…so you can choose your adventure, whether it’s out there or right here.” | “Don’t let ATTR-CM decide where tomorrow takes you….Amvuttra. Just the ticket for ATTR-CM.”",
+"context": "Patients shown whale watching, at a football game, nature park, concert, gondola. PI: 6-MWT and KCCQ-OS worsened in both arms through Month 30; slower decline with Amvuttra.",
+"rationale": "Suggests patients can be carefree, live as before diagnosis, and broadly improved QoL — not demonstrated.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Judge: lifestyle/'carefree'/return-to-normal imagery in progressive disease where PI functional/QoL measures (e.g., 6MWT, KCCQ) still declined (slower decline ≠ improvement)."
+},
+{
+"cat": "Overstatement of efficacy",
+"claim": "“It works to rapidly knock down TTR at the source”",
+"context": "SUPER: In ATTR-CM, TTR protein can misfold and build up in the body, causing symptoms. Max TTR reduction by week 6; mortality/UHF first assessed at 3 months; function at 6 months.",
+"rationale": "Implies faster onset of clinical effect than demonstrated; omits timeframes.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Judge: 'rapid' mechanism/biomarker claims that imply rapid clinical benefit; require clinical-endpoint timing."
+}
+]
+}

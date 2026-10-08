@@ -1,0 +1,201 @@
+{
+ "family": "FTC endorsement & health-claims guidance",
+ "rules": [
+  {
+   "id": "C-END-01",
+   "source": {
+    "document": "FTC Guides Concerning Use of Endorsements and Testimonials in Advertising, 16 CFR Part 255",
+    "section": "16 CFR 255.1(a),(c)",
+    "url": "https://www.law.cornell.edu/cfr/text/16/part-255",
+    "status": "FTC guides (interpretive)",
+    "archived_text": "rules/sources/law_cornell_edu_cfr_text_16_255_5.txt"
+   },
+   "rule_text": "Endorsements must reflect the endorser's honest opinions/experience; an endorser who claims to use the product must be a bona fide user.",
+   "verbatim_quote": "the endorser must have been a bona fide user of it at the time the endorsement was given",
+   "quote_check": "verified",
+   "applies_to": "DTC influencer, celebrity, patient testimonial",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "endorser_user",
+    "logic": "If the text contains first-person use claims (I take|I use|I've been using|I was prescribed|my <brand>) and meta.endorser_verified_user is not true -> fail (verification record missing).",
+    "inputs": [
+     "text",
+     "meta.endorser_verified_user?"
+    ]
+   },
+   "severity": "medium",
+   "opdp_case_ids": [
+    "UL-20250909-188723-v1",
+    "UL-20250909-188755-v1",
+    "UL-20250909-188754-v1",
+    "UL-20250909-188756-v1",
+    "UL-20220331-159926-v1",
+    "UL-20220331-159926-v4"
+   ],
+   "note": null
+  },
+  {
+   "id": "C-END-02",
+   "source": {
+    "document": "FTC Guides Concerning Use of Endorsements and Testimonials in Advertising, 16 CFR Part 255",
+    "section": "16 CFR 255.2(b); FTC HPCG III.C.1",
+    "url": "https://www.law.cornell.edu/cfr/text/16/part-255",
+    "status": "FTC guides (interpretive)",
+    "archived_text": "rules/sources/law_cornell_edu_cfr_text_16_255_5.txt"
+   },
+   "rule_text": "A consumer testimonial on a key attribute implies typical results; the advertiser needs substantiation or must clearly disclose generally expected results. 'Results not typical' does not cure.",
+   "verbatim_quote": "An advertisement containing an endorsement relating the experience of one or more consumers on a central or key attribute of the product will likely be interpreted as representing that the endorser's experience is representative",
+   "quote_check": "verified",
+   "applies_to": "DTC testimonials, influencers",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "testimonial_typicality",
+    "logic": "Flag first-person outcome claims (worked for me|I (lost|cleared|haven't had|feel)|my (skin|pain|migraines?) (is|are|was) (gone|clear)|for me, it works within) unless a quantitative 'generally expected results' disclosure (\\d+% of (patients|people)) is present; 'results not typical/may vary' alone does not pass.",
+    "inputs": [
+     "text"
+    ]
+   },
+   "severity": "medium",
+   "opdp_case_ids": [
+    "UL-20250909-188755-v1",
+    "UL-20250909-188754-v1",
+    "UL-20250909-188756-v1",
+    "UL-20220331-159926-v1",
+    "UL-20220331-159926-v4",
+    "UL-20211213-155419-v1",
+    "UL-20210308-146528-v1",
+    "UL-20210308-146528-v2",
+    "WL-20250909-lilly-716485-v1"
+   ],
+   "note": null
+  },
+  {
+   "id": "C-END-03",
+   "source": {
+    "document": "FTC Guides Concerning Use of Endorsements and Testimonials in Advertising, 16 CFR Part 255",
+    "section": "16 CFR 255.5(a)",
+    "url": "https://www.law.cornell.edu/cfr/text/16/part-255",
+    "status": "FTC guides (interpretive)",
+    "archived_text": "rules/sources/law_cornell_edu_cfr_text_16_255_5.txt"
+   },
+   "rule_text": "Material connections between endorser and seller (payment, free product, employment, family) must be disclosed clearly and conspicuously.",
+   "verbatim_quote": "such connection must be disclosed clearly and conspicuously",
+   "quote_check": "verified",
+   "applies_to": "influencer/celebrity/KOL/patient-ambassador content, social",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "material_connection_disclosure",
+    "logic": "If meta.endorser_compensated (or text has partner(ed)? with|teamed up with|ambassador|sponsored) require an explicit disclosure token near the start: #ad|#sponsored|paid partnership|paid (spokesperson|by)|sponsored by|compensated|in partnership with <company>.",
+    "inputs": [
+     "text",
+     "meta.endorser_compensated?"
+    ]
+   },
+   "severity": "medium",
+   "opdp_case_ids": [],
+   "note": "OPDP letters on influencer/celebrity content cite FD&C risk omission, not FTC 255; no OPDP exemplar is labeled as an FTC violation."
+  },
+  {
+   "id": "C-HP-01",
+   "source": {
+    "document": "FTC Health Products Compliance Guidance (Dec 2022)",
+    "section": "III.B (substantiating claims)",
+    "url": "https://www.ftc.gov/system/files/ftc_gov/pdf/Health-Products-Compliance-Guidance.pdf",
+    "status": "FTC staff guidance",
+    "archived_text": "rules/sources/ftc_gov_system_files_ftc_gov_pdf_Health_Products_Compliance_Guidance_pdf.txt"
+   },
+   "rule_text": "Health claims require competent and reliable scientific evidence matching the claim (randomized, controlled human clinical testing for most health benefit claims).",
+   "verbatim_quote": "supplements, drugs, and other health-related products require substantiation in the form of competent and reliable scientific evidence",
+   "quote_check": "verified",
+   "applies_to": "DTC (FTC jurisdiction: OTC, devices, supplements, telehealth/compounders; Rx ads overlap with FDA)",
+   "check_type": "judgment",
+   "detection": {
+    "question": "Is each health-benefit claim supported by evidence of the type and quality the claim implies?",
+    "pass_anchor": "Claim scope matches RCT evidence on the claimed endpoint and population.",
+    "fail_anchor": "Claim implies outcomes, populations or magnitudes beyond the evidence."
+   },
+   "severity": "high",
+   "opdp_case_ids": [
+    "UL-20260624-193472-v2",
+    "UL-20260624-193472-v3",
+    "UL-20260622-193307-v6",
+    "UL-20260512-192467-v1",
+    "UL-20260422-192125-v4",
+    "UL-20260206-191036-v1",
+    "UL-20260205-191020-v2",
+    "UL-20251124-189913-v2",
+    "UL-20250909-188687-v1",
+    "UL-20250909-188691-v1",
+    "UL-20250909-188693-v1",
+    "UL-20250909-188699-v2",
+    "UL-20250909-188701-v1",
+    "UL-20250909-188717-v1",
+    "UL-20250909-188732-v1",
+    "UL-20250909-188713-v1"
+   ],
+   "note": null
+  },
+  {
+   "id": "C-HP-02",
+   "source": {
+    "document": "FTC Health Products Compliance Guidance (Dec 2022)",
+    "section": "III.A.2 (when to disclose qualifying information)",
+    "url": "https://www.ftc.gov/system/files/ftc_gov/pdf/Health-Products-Compliance-Guidance.pdf",
+    "status": "FTC staff guidance",
+    "archived_text": "rules/sources/ftc_gov_system_files_ftc_gov_pdf_Health_Products_Compliance_Guidance_pdf.txt"
+   },
+   "rule_text": "Qualifying information needed to prevent deception must be clear, conspicuous, simple and close to the claim; vague qualifiers ('may', 'helps') are inadequate.",
+   "verbatim_quote": "Vague qualifying terms are inadequate.",
+   "quote_check": "verified",
+   "applies_to": "DTC",
+   "check_type": "judgment",
+   "detection": {
+    "question": "Where a claim needs qualification, is the qualifier specific, prominent, and adjacent to the claim (not a vague 'may'/'helps' or fine print)?",
+    "pass_anchor": "Specific, adjacent, equally prominent qualification.",
+    "fail_anchor": "Qualification only via 'may/helps', footnotes, or separated fine print."
+   },
+   "severity": "medium",
+   "opdp_case_ids": [
+    "UL-20250909-188686-v1",
+    "UL-20250909-188719-v1",
+    "UL-20250909-188720-v1",
+    "UL-20250909-188749-v2",
+    "UL-20250909-188725-v1",
+    "UL-20250909-188727-v1",
+    "UL-20240829-181754-v2"
+   ],
+   "note": null
+  },
+  {
+   "id": "C-HP-03",
+   "source": {
+    "document": "FTC Health Products Compliance Guidance (Dec 2022)",
+    "section": "III.C.4 (mischaracterizations of FDA approval)",
+    "url": "https://www.ftc.gov/system/files/ftc_gov/pdf/Health-Products-Compliance-Guidance.pdf",
+    "status": "FTC staff guidance",
+    "archived_text": "rules/sources/ftc_gov_system_files_ftc_gov_pdf_Health_Products_Compliance_Guidance_pdf.txt"
+   },
+   "rule_text": "Do not mischaracterize FDA approval or status (e.g., implying FDA endorsement of superiority or safety beyond the label).",
+   "verbatim_quote": null,
+   "quote_check": "no_quote",
+   "applies_to": "DTC",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "fda_approval_misuse",
+    "logic": "Flag 'FDA[- ]approved' within 40 chars of safe|safest|best|only|superior|authentic and safe|proven; flag 'FDA[- ](cleared|approved)' for products whose meta.status != approved.",
+    "inputs": [
+     "text",
+     "meta.status?"
+    ]
+   },
+   "severity": "medium",
+   "opdp_case_ids": [
+    "UL-20260526-192843-v1",
+    "UL-20260327-191875-v1",
+    "WL-20200831-sprout-610569-v2",
+    "WL-20250909-lilly-716462-v1"
+   ],
+   "note": null
+  }
+ ]
+}

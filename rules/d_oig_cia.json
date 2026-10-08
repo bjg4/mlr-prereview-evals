@@ -1,0 +1,179 @@
+{
+ "family": "OIG speaker-program alert & CIA promotional controls",
+ "rules": [
+  {
+   "id": "D-SP-01",
+   "source": {
+    "document": "HHS-OIG Special Fraud Alert: Speaker Programs (Nov 2020)",
+    "section": "Suspect characteristics (bullets 1-2)",
+    "url": "https://oig.hhs.gov/documents/special-fraud-alerts/865/SpecialFraudAlertSpeakerPrograms.pdf",
+    "status": "OIG fraud alert",
+    "archived_text": "rules/sources/oig_hhs_gov_documents_special_fraud_alerts_865_SpecialFraudAlertSpeakerPrograms_pdf.txt"
+   },
+   "rule_text": "Speaker programs should present substantive information; alcohol or meals exceeding modest value are suspect.",
+   "verbatim_quote": "Alcohol is available or a meal exceeding modest value is provided to the attendees of the program",
+   "quote_check": "verified",
+   "applies_to": "HCP speaker programs",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "speaker_program_logistics",
+    "logic": "On meta.program: fail if alcohol==true, meal_cost_per_head > company cap, or educational_minutes < meta.min_minutes.",
+    "inputs": [
+     "meta.program"
+    ]
+   },
+   "severity": "high",
+   "opdp_case_ids": [],
+   "note": null
+  },
+  {
+   "id": "D-SP-02",
+   "source": {
+    "document": "HHS-OIG Special Fraud Alert: Speaker Programs (Nov 2020)",
+    "section": "Suspect characteristics (venue)",
+    "url": "https://oig.hhs.gov/documents/special-fraud-alerts/865/SpecialFraudAlertSpeakerPrograms.pdf",
+    "status": "OIG fraud alert",
+    "archived_text": "rules/sources/oig_hhs_gov_documents_special_fraud_alerts_865_SpecialFraudAlertSpeakerPrograms_pdf.txt"
+   },
+   "rule_text": "Venues not conducive to education (restaurants, entertainment or sports venues) are suspect.",
+   "verbatim_quote": "The program is held at a location that is not conducive to the exchange of educational information (e.g., restaurants or entertainment or sports venues)",
+   "quote_check": "verified",
+   "applies_to": "HCP speaker programs",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "speaker_program_logistics",
+    "logic": "meta.program.venue_type in {restaurant, bar, sports, entertainment, resort} -> fail.",
+    "inputs": [
+     "meta.program"
+    ]
+   },
+   "severity": "high",
+   "opdp_case_ids": [],
+   "note": null
+  },
+  {
+   "id": "D-SP-03",
+   "source": {
+    "document": "HHS-OIG Special Fraud Alert: Speaker Programs (Nov 2020)",
+    "section": "Suspect characteristics (repeat attendance; attendees without business reason)",
+    "url": "https://oig.hhs.gov/documents/special-fraud-alerts/865/SpecialFraudAlertSpeakerPrograms.pdf",
+    "status": "OIG fraud alert",
+    "archived_text": "rules/sources/oig_hhs_gov_documents_special_fraud_alerts_865_SpecialFraudAlertSpeakerPrograms_pdf.txt"
+   },
+   "rule_text": "Repeat attendance on the same topic and attendees with no legitimate business reason (friends, family, own-practice staff) are suspect.",
+   "verbatim_quote": "HCPs attend programs on the same or substantially the same topics more than once",
+   "quote_check": "verified",
+   "applies_to": "HCP speaker programs",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "speaker_program_logistics",
+    "logic": "meta.program.attendees: fail on repeat attendee for same topic within the tracking window, or attendee.relationship in {spouse, family, friend, speaker_practice_staff}.",
+    "inputs": [
+     "meta.program"
+    ]
+   },
+   "severity": "high",
+   "opdp_case_ids": [],
+   "note": null
+  },
+  {
+   "id": "D-SP-04",
+   "source": {
+    "document": "HHS-OIG Special Fraud Alert: Speaker Programs (Nov 2020)",
+    "section": "Suspect characteristics (speaker selection; compensation)",
+    "url": "https://oig.hhs.gov/documents/special-fraud-alerts/865/SpecialFraudAlertSpeakerPrograms.pdf",
+    "status": "OIG fraud alert",
+    "archived_text": "rules/sources/oig_hhs_gov_documents_special_fraud_alerts_865_SpecialFraudAlertSpeakerPrograms_pdf.txt"
+   },
+   "rule_text": "Speaker selection driven by sales/ROI and compensation above fair market value are suspect.",
+   "verbatim_quote": "The company pays HCP speakers more than fair market value for the speaking service",
+   "quote_check": "verified",
+   "applies_to": "HCP speaker programs",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "speaker_program_logistics",
+    "logic": "meta.program.speaker: fail if selected_by in {sales, marketing} or roi_used, or honorarium > fmv_cap.",
+    "inputs": [
+     "meta.program"
+    ]
+   },
+   "severity": "high",
+   "opdp_case_ids": [],
+   "note": null
+  },
+  {
+   "id": "D-SP-05",
+   "source": {
+    "document": "HHS-OIG Special Fraud Alert: Speaker Programs (Nov 2020)",
+    "section": "Suspect characteristics (little substantive content; no new information)",
+    "url": "https://oig.hhs.gov/documents/special-fraud-alerts/865/SpecialFraudAlertSpeakerPrograms.pdf",
+    "status": "OIG fraud alert",
+    "archived_text": "rules/sources/oig_hhs_gov_documents_special_fraud_alerts_865_SpecialFraudAlertSpeakerPrograms_pdf.txt"
+   },
+   "rule_text": "Programs with little substantive content or no recent new information (many repeats on same topic) are suspect.",
+   "verbatim_quote": "The company sponsors speaker programs where little or no substantive information is actually presented",
+   "quote_check": "verified",
+   "applies_to": "HCP speaker programs",
+   "check_type": "judgment",
+   "detection": {
+    "question": "Does the speaker deck/program convey substantive, current educational content justifying the program?",
+    "pass_anchor": "Substantive content tied to new data/indication or bona fide educational need.",
+    "fail_anchor": "Thin content, mostly promotional or repeated with no new information."
+   },
+   "severity": "medium",
+   "opdp_case_ids": [],
+   "note": null
+  },
+  {
+   "id": "D-CIA-01",
+   "source": {
+    "document": "Corporate Integrity Agreement between HHS-OIG and Novartis Pharmaceuticals Corporation (Jun 30 2020) - used as a representative pharma CIA",
+    "section": "III.B.2.n (Policies and Procedures)",
+    "url": "https://oig.hhs.gov/documents/cias/11122/Novartis_Corporation_06302020.pdf",
+    "status": "CIA (binding on that company only; typical of pharma CIAs)",
+    "archived_text": "rules/sources/oig_hhs_gov_documents_cias_11122_Novartis_Corporation_06302020_pdf.txt"
+   },
+   "rule_text": "Promotional, reimbursement and disease-state materials must be reviewed by qualified regulatory, medical and/or legal personnel before external dissemination.",
+   "verbatim_quote": "review of promotional, reimbursement, and disease state materials and information intended to be disseminated outside Novartis by appropriate qualified personnel (such as regulatory, medical, and/or legal personnel)",
+   "quote_check": "verified",
+   "applies_to": "all externally disseminated materials",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "mlr_signoff",
+    "logic": "meta.approvals must include medical, legal and regulatory sign-offs with dates on or before meta.first_use_date.",
+    "inputs": [
+     "meta.approvals",
+     "meta.first_use_date?"
+    ]
+   },
+   "severity": "high",
+   "opdp_case_ids": [],
+   "note": null
+  },
+  {
+   "id": "D-CIA-02",
+   "source": {
+    "document": "Corporate Integrity Agreement between HHS-OIG and Novartis Pharmaceuticals Corporation (Jun 30 2020) - used as a representative pharma CIA",
+    "section": "III.L (Monitoring of Promotional Activities)",
+    "url": "https://oig.hhs.gov/documents/cias/11122/Novartis_Corporation_06302020.pdf",
+    "status": "CIA (binding on that company only; typical of pharma CIAs)",
+    "archived_text": "rules/sources/oig_hhs_gov_documents_cias_11122_Novartis_Corporation_06302020_pdf.txt"
+   },
+   "rule_text": "Companies under a CIA monitor speaker programs and field activity (controls, live/recorded observation, reviews).",
+   "verbatim_quote": null,
+   "quote_check": "no_quote",
+   "applies_to": "HCP speaker programs, field sales",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "speaker_program_logistics",
+    "logic": "meta.program.monitored or recorded flag required where company policy demands it.",
+    "inputs": [
+     "meta.program"
+    ]
+   },
+   "severity": "low",
+   "opdp_case_ids": [],
+   "note": null
+  }
+ ]
+}

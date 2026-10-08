@@ -1,0 +1,386 @@
+{
+ "family": "PhRMA DTC Guiding Principles & PhRMA Code",
+ "rules": [
+  {
+   "id": "E-DTC-02",
+   "source": {
+    "document": "PhRMA Guiding Principles: Direct to Consumer Advertisements About Prescription Medicines (revised Oct 2018, effective Apr 15 2019)",
+    "section": "Principle 2",
+    "url": "https://cdn.aglty.io/phrma/global/resources/PhRMA_Guiding_Principles_2018.pdf",
+    "status": "voluntary industry code",
+    "archived_text": "rules/sources/cdn_aglty_io_phrma_global_resources_PhRMA_Guiding_Principles_2018_pdf.txt"
+   },
+   "rule_text": "DTC information should be accurate, truthful, not misleading, evidence-supported, balanced, consistent with labeling; no off-label promotion.",
+   "verbatim_quote": "companies should continue to base promotional claims on FDA approved labeling and not promote medicines for off-label uses",
+   "quote_check": "verified",
+   "applies_to": "DTC",
+   "check_type": "judgment",
+   "detection": {
+    "question": "Is every DTC claim consistent with labeling and free of off-label suggestion?",
+    "pass_anchor": "On-label, balanced, supported.",
+    "fail_anchor": "Any off-label suggestion or unsupported claim."
+   },
+   "severity": "high",
+   "opdp_case_ids": [
+    "UL-20260821-194514-v1",
+    "UL-20260821-194514-v3",
+    "WL-20260313-immunitybio-725468-v2"
+   ],
+   "note": null
+  },
+  {
+   "id": "E-DTC-04",
+   "source": {
+    "document": "PhRMA Guiding Principles: Direct to Consumer Advertisements About Prescription Medicines (revised Oct 2018, effective Apr 15 2019)",
+    "section": "Principle 4",
+    "url": "https://cdn.aglty.io/phrma/global/resources/PhRMA_Guiding_Principles_2018.pdf",
+    "status": "voluntary industry code",
+    "archived_text": "rules/sources/cdn_aglty_io_phrma_global_resources_PhRMA_Guiding_Principles_2018_pdf.txt"
+   },
+   "rule_text": "DTC TV and print ads should clearly indicate the medicine is a prescription drug.",
+   "verbatim_quote": "should clearly indicate that the medicine is a prescription drug",
+   "quote_check": "verified",
+   "applies_to": "DTC TV, print",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "rx_indicator",
+    "logic": "DTC TV/print: require prescription|Rx[- ]only|ask your doctor (if|about) <brand>.",
+    "inputs": [
+     "text",
+     "audience",
+     "piece_type"
+    ]
+   },
+   "severity": "low",
+   "opdp_case_ids": [],
+   "note": null
+  },
+  {
+   "id": "E-DTC-09",
+   "source": {
+    "document": "PhRMA Guiding Principles: Direct to Consumer Advertisements About Prescription Medicines (revised Oct 2018, effective Apr 15 2019)",
+    "section": "Principle 9",
+    "url": "https://cdn.aglty.io/phrma/global/resources/PhRMA_Guiding_Principles_2018.pdf",
+    "status": "voluntary industry code",
+    "archived_text": "rules/sources/cdn_aglty_io_phrma_global_resources_PhRMA_Guiding_Principles_2018_pdf.txt"
+   },
+   "rule_text": "DTC print ads should include FDA's MedWatch number and website; DTC TV should direct to a print ad with MedWatch and/or a company toll-free number.",
+   "verbatim_quote": "DTC print advertisements for prescription medicines should include FDA's toll-free MedWatch telephone number and website",
+   "quote_check": "verified",
+   "applies_to": "DTC print, TV",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "medwatch_statement",
+    "logic": "Print: 1-800-FDA-1088 and fda.gov/medwatch. TV: MedWatch, print-ad reference, or a toll-free number.",
+    "inputs": [
+     "text",
+     "piece_type"
+    ]
+   },
+   "severity": "medium",
+   "opdp_case_ids": [],
+   "note": null
+  },
+  {
+   "id": "E-DTC-10",
+   "source": {
+    "document": "PhRMA Guiding Principles: Direct to Consumer Advertisements About Prescription Medicines (revised Oct 2018, effective Apr 15 2019)",
+    "section": "Principle 10",
+    "url": "https://cdn.aglty.io/phrma/global/resources/PhRMA_Guiding_Principles_2018.pdf",
+    "status": "voluntary industry code",
+    "archived_text": "rules/sources/cdn_aglty_io_phrma_global_resources_PhRMA_Guiding_Principles_2018_pdf.txt"
+   },
+   "rule_text": "If actors portray health care professionals, the ad should say so; real HCPs who are compensated should be identified as such.",
+   "verbatim_quote": "should acknowledge in the advertisement that actors are being used",
+   "quote_check": "verified",
+   "applies_to": "DTC TV/print",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "actor_portrayal",
+    "logic": "If meta.actor_portrays_hcp: require 'actor portrayal|actor'; if meta.real_hcp_compensated: require 'paid|compensated' disclosure.",
+    "inputs": [
+     "text",
+     "meta.actor_portrays_hcp?",
+     "meta.real_hcp_compensated?"
+    ]
+   },
+   "severity": "low",
+   "opdp_case_ids": [],
+   "note": null
+  },
+  {
+   "id": "E-DTC-11",
+   "source": {
+    "document": "PhRMA Guiding Principles: Direct to Consumer Advertisements About Prescription Medicines (revised Oct 2018, effective Apr 15 2019)",
+    "section": "Principle 11",
+    "url": "https://cdn.aglty.io/phrma/global/resources/PhRMA_Guiding_Principles_2018.pdf",
+    "status": "voluntary industry code",
+    "archived_text": "rules/sources/cdn_aglty_io_phrma_global_resources_PhRMA_Guiding_Principles_2018_pdf.txt"
+   },
+   "rule_text": "Celebrity endorsements should reflect the endorser's actual opinions/experience; company keeps verification, incl. whether the endorser uses the product.",
+   "verbatim_quote": "Companies should maintain verification of the basis of any actual or implied endorsements made by the celebrity endorser",
+   "quote_check": "verified",
+   "applies_to": "DTC celebrity",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "endorser_user",
+    "logic": "Same as C-END-01 (verification record required for celebrity use claims).",
+    "inputs": [
+     "text",
+     "meta.endorser_verified_user?"
+    ]
+   },
+   "severity": "low",
+   "opdp_case_ids": [],
+   "note": null
+  },
+  {
+   "id": "E-DTC-13",
+   "source": {
+    "document": "PhRMA Guiding Principles: Direct to Consumer Advertisements About Prescription Medicines (revised Oct 2018, effective Apr 15 2019)",
+    "section": "Principle 13",
+    "url": "https://cdn.aglty.io/phrma/global/resources/PhRMA_Guiding_Principles_2018.pdf",
+    "status": "voluntary industry code",
+    "archived_text": "rules/sources/cdn_aglty_io_phrma_global_resources_PhRMA_Guiding_Principles_2018_pdf.txt"
+   },
+   "rule_text": "DTC TV that names a product should clearly state the approved conditions and the major risks.",
+   "verbatim_quote": "should clearly state the health conditions for which the medicine is approved and the major risks",
+   "quote_check": "verified",
+   "applies_to": "DTC TV",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "tv_indication_risk",
+    "logic": "TV pieces naming the brand: require indication statement (pi.indication_terms) and risk content.",
+    "inputs": [
+     "text",
+     "piece_type",
+     "pi.indication_terms?"
+    ]
+   },
+   "severity": "medium",
+   "opdp_case_ids": [
+    "UL-20211213-155419-v1"
+   ],
+   "note": null
+  },
+  {
+   "id": "E-DTC-14",
+   "source": {
+    "document": "PhRMA Guiding Principles: Direct to Consumer Advertisements About Prescription Medicines (revised Oct 2018, effective Apr 15 2019)",
+    "section": "Principle 14",
+    "url": "https://cdn.aglty.io/phrma/global/resources/PhRMA_Guiding_Principles_2018.pdf",
+    "status": "voluntary industry code",
+    "archived_text": "rules/sources/cdn_aglty_io_phrma_global_resources_PhRMA_Guiding_Principles_2018_pdf.txt"
+   },
+   "rule_text": "Balanced presentation: risks (incl. substance of boxed warnings) with reasonably comparable prominence, clear, conspicuous, neutral, without distraction.",
+   "verbatim_quote": "risks and safety information, including the substance of relevant boxed warnings, should be presented with reasonably comparable prominence to the benefit information",
+   "quote_check": "verified",
+   "applies_to": "DTC TV/print",
+   "check_type": "judgment",
+   "detection": {
+    "question": "Are risks (incl. boxed-warning substance) presented with reasonably comparable prominence, clearly and without distraction?",
+    "pass_anchor": "Comparable prominence; boxed-warning substance stated; no distraction.",
+    "fail_anchor": "Risk de-emphasized or distracted; boxed warning substance missing."
+   },
+   "severity": "high",
+   "opdp_case_ids": [
+    "UL-20260928-195157-v4",
+    "UL-20260512-192467-v4",
+    "UL-20260428-192241-v3",
+    "UL-20260327-191875-v2",
+    "UL-20260226-191387-v3",
+    "UL-20260206-191036-v4",
+    "UL-20260130-191009-v3",
+    "UL-20260130-191010-v5",
+    "UL-20260107-190549-v3",
+    "UL-20251215-190245-v4",
+    "UL-20250909-189906-v2",
+    "UL-20250923-188954-v1",
+    "UL-20250923-188954-v2",
+    "UL-20250909-188691-v2",
+    "UL-20250909-188693-v2",
+    "UL-20250909-188697-v2",
+    "UL-20250909-188699-v4",
+    "UL-20250909-188699-v5",
+    "UL-20250909-188717-v2",
+    "UL-20250909-188717-v4",
+    "UL-20250909-188752-v2",
+    "UL-20250909-188723-v2",
+    "UL-20250909-188746-v1",
+    "UL-20250909-188746-v2",
+    "UL-20250909-188746-v3",
+    "UL-20250909-188747-v1",
+    "UL-20250909-188747-v2",
+    "UL-20250909-188747-v3",
+    "UL-20250909-188748-v1",
+    "UL-20250909-188748-v2",
+    "UL-20250909-188748-v3",
+    "UL-20250909-188751-v2",
+    "UL-20250909-188750-v1",
+    "UL-20250909-188707-v2",
+    "UL-20250909-188708-v2",
+    "UL-20250909-188725-v2",
+    "UL-20250909-188727-v2",
+    "UL-20250909-188729-v2",
+    "UL-20250909-188710-v3",
+    "UL-20250909-188712-v1",
+    "UL-20250909-188713-v2",
+    "UL-20250909-188715-v2",
+    "UL-20250909-188731-v2",
+    "UL-20241031-183512-v1",
+    "UL-20240118-175584-v2",
+    "UL-20220119-155627-v2",
+    "UL-20220331-159926-v2",
+    "UL-20210308-146528-v4",
+    "WL-20250909-lilly-716485-v4",
+    "WL-20250909-novo-716495-v4",
+    "WL-20260313-immunitybio-725468-v3"
+   ],
+   "note": null
+  },
+  {
+   "id": "E-DTC-15",
+   "source": {
+    "document": "PhRMA Guiding Principles: Direct to Consumer Advertisements About Prescription Medicines (revised Oct 2018, effective Apr 15 2019)",
+    "section": "Principle 15",
+    "url": "https://cdn.aglty.io/phrma/global/resources/PhRMA_Guiding_Principles_2018.pdf",
+    "status": "voluntary industry code",
+    "archived_text": "rules/sources/cdn_aglty_io_phrma_global_resources_PhRMA_Guiding_Principles_2018_pdf.txt"
+   },
+   "rule_text": "DTC advertising should respect the seriousness of the condition and the medicine.",
+   "verbatim_quote": "All DTC advertising should respect the seriousness of the health conditions and the medicine being advertised",
+   "quote_check": "verified",
+   "applies_to": "DTC",
+   "check_type": "judgment",
+   "detection": {
+    "question": "Does the tone respect the seriousness of the condition and medicine (no trivializing humor, 'hype' framing of risks, lifestyle-only framing)?",
+    "pass_anchor": "Tone proportionate to seriousness.",
+    "fail_anchor": "Trivializes disease or risks."
+   },
+   "severity": "low",
+   "opdp_case_ids": [
+    "UL-20260728-194718-v3",
+    "UL-20260526-192843-v2",
+    "UL-20260408-191932-v2",
+    "UL-20260331-191883-v3",
+    "UL-20250930-189733-v2",
+    "UL-20250909-188717-v3",
+    "UL-20250909-188732-v2",
+    "UL-20250909-188733-v2",
+    "UL-20250909-188725-v1",
+    "UL-20250428-186470-v7",
+    "UL-20200814-141347-v1",
+    "WL-20250909-lilly-716485-v1",
+    "WL-20250909-lilly-716485-v2",
+    "WL-20250909-lilly-716485-v3",
+    "WL-20250909-novo-716495-v1",
+    "WL-20250909-novo-716495-v2",
+    "WL-20250909-novo-716495-v3"
+   ],
+   "note": null
+  },
+  {
+   "id": "E-DTC-16",
+   "source": {
+    "document": "PhRMA Guiding Principles: Direct to Consumer Advertisements About Prescription Medicines (revised Oct 2018, effective Apr 15 2019)",
+    "section": "Principle 16",
+    "url": "https://cdn.aglty.io/phrma/global/resources/PhRMA_Guiding_Principles_2018.pdf",
+    "status": "voluntary industry code",
+    "archived_text": "rules/sources/cdn_aglty_io_phrma_global_resources_PhRMA_Guiding_Principles_2018_pdf.txt"
+   },
+   "rule_text": "DTC ads with content inappropriate for children should run where the audience is ~90% adults.",
+   "verbatim_quote": "reasonably expected to draw an audience of approximately 90 percent adults (18 years or older)",
+   "quote_check": "verified",
+   "applies_to": "DTC TV/print/digital placement",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "adult_audience",
+    "logic": "meta.placement.adult_pct < 0.90 -> fail (when meta.age_sensitive).",
+    "inputs": [
+     "meta.placement"
+    ]
+   },
+   "severity": "low",
+   "opdp_case_ids": [],
+   "note": null
+  },
+  {
+   "id": "E-DTC-19",
+   "source": {
+    "document": "PhRMA Guiding Principles: Direct to Consumer Advertisements About Prescription Medicines (revised Oct 2018, effective Apr 15 2019)",
+    "section": "Principle 19",
+    "url": "https://cdn.aglty.io/phrma/global/resources/PhRMA_Guiding_Principles_2018.pdf",
+    "status": "voluntary industry code",
+    "archived_text": "rules/sources/cdn_aglty_io_phrma_global_resources_PhRMA_Guiding_Principles_2018_pdf.txt"
+   },
+   "rule_text": "DTC TV naming a product should direct patients to cost information (list price, typical out-of-pocket).",
+   "verbatim_quote": "should include direction as to where patients can find information about the cost of the medicine",
+   "quote_check": "verified",
+   "applies_to": "DTC TV",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "cost_info",
+    "logic": "DTC TV: require cost|price|out-of-pocket|savings|afford within text/SUPERs, ideally with URL.",
+    "inputs": [
+     "text",
+     "piece_type",
+     "audience"
+    ]
+   },
+   "severity": "low",
+   "opdp_case_ids": [],
+   "note": null
+  },
+  {
+   "id": "E-CODE-07",
+   "source": {
+    "document": "PhRMA Code on Interactions with Health Care Professionals (2022 revision)",
+    "section": "Section 7 (Speaker Programs and Speaker Training Meetings)",
+    "url": "https://cdn.aglty.io/phrma/global/resources/PhRMA%20Code%20-%20Final.pdf",
+    "status": "voluntary industry code",
+    "archived_text": "rules/sources/cdn_aglty_io_phrma_global_resources_PhRMA_20Code_20_20Final_pdf.txt"
+   },
+   "rule_text": "Speaker programs: substantive education; only attendees with bona fide educational need; modest meals; no alcohol; appropriate venue with rep present; no repeat attendance; FMV compensation; sponsor clearly identified.",
+   "verbatim_quote": "Companies should not pay for or provide alcohol in connection with the speaker program.",
+   "quote_check": "verified",
+   "applies_to": "HCP speaker programs",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "speaker_program_logistics",
+    "logic": "Same metadata check as D-SP-*; plus deck text must identify sponsor ('sponsored by|on behalf of <company>').",
+    "inputs": [
+     "meta.program",
+     "text"
+    ]
+   },
+   "severity": "medium",
+   "opdp_case_ids": [],
+   "note": null
+  },
+  {
+   "id": "E-CODE-02",
+   "source": {
+    "document": "PhRMA Code on Interactions with Health Care Professionals (2022 revision)",
+    "section": "Section 2 (Informational Presentations ... and Accompanying Meals)",
+    "url": "https://cdn.aglty.io/phrma/global/resources/PhRMA%20Code%20-%20Final.pdf",
+    "status": "voluntary industry code",
+    "archived_text": "rules/sources/cdn_aglty_io_phrma_global_resources_PhRMA_20Code_20_20Final_pdf.txt"
+   },
+   "rule_text": "Rep informational presentations may include occasional modest meals in office/hospital settings; no entertainment (Section 3).",
+   "verbatim_quote": null,
+   "quote_check": "no_quote",
+   "applies_to": "field/HCP",
+   "check_type": "deterministic",
+   "detection": {
+    "check_fn": "speaker_program_logistics",
+    "logic": "meta.program.type=='rep_presentation': venue must be in-office/hospital; meal modest; no entertainment.",
+    "inputs": [
+     "meta.program"
+    ]
+   },
+   "severity": "low",
+   "opdp_case_ids": [],
+   "note": null
+  }
+ ]
+}

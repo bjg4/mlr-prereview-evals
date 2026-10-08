@@ -1,0 +1,290 @@
+                  DEPARTMENT OF HEALTH & HUMAN SERVICES                                  Public Health Service
+
+
+
+                                                                                         Food and Drug Administration
+                                                                                         Silver Spring, MD 20993
+
+
+             Melina Dass, Vice President
+             Regulatory Affairs
+             Evolus, Inc.
+             520 Newport Center Drive, Suite 1200
+             Newport Beach, CA 92660
+
+            RE:         BLA 761085
+                        JEUVEAU® (prabotulinumtoxinA-xvfs) for injection, for intramuscular use
+                        MA 622
+
+            Dear Melina Dass:
+
+            The Office of Prescription Drug Promotion (OPDP) of the U.S. Food and Drug Administration
+            (FDA) has reviewed the promotional communication, an Instagram post (post) for JEUVEAU®
+            (prabotulinumtoxinA-xvfs) for injection, for intramuscular use (Jeuveau) submitted by Evolus,
+            Inc. (Evolus) under cover of Form FDA 2253.1 The post was made by Evolus on both the
+            “evolus” and “jeuveaubyevolus” Instagram accounts. The FDA Bad Ad Program also received
+            a complaint regarding this post for Jeuveau. FDA has determined that the post is false or
+            misleading. Thus, the post misbrands Jeuveau within the meaning of the Federal Food, Drug,
+            and Cosmetic Act (FD&C Act) and makes its distribution violative. 21 U.S.C. 352(a), (n);
+            321(n); 331(a). 21 CFR 202.1(e)(5); (e)(7)(viii). These violations are concerning from a
+            public health perspective because the promotional communication creates a misleading
+            impression regarding the safety and effectiveness of Jeuveau, a drug with a number of
+            serious and potentially life-threatening risks, including a boxed warning regarding the risk of
+            distant spread of toxin effects.
+
+            Prior Communication
+            OPDP notes that our advisory comments dated November 22, 2019, to Evolus addressed
+            draft promotional communications for Jeuveau with certain similarities to the claims and
+            presentations included in the post addressed in this letter. In these advisory comments,
+            OPDP recommended revisions to draft promotional communications in order to
+            avoid misrepresenting the onset of treatment effect with Jeuveau. We are concerned that
+            Evolus is not representing the benefits of Jeuveau in a truthful and non-misleading manner,
+            despite concerns previously expressed by OPDP.
+
+
+
+
+            1 Posted on Evolus (https://www.instagram.com/jeuveaubyevolus/reel/DWT9yrZEnvl/) and “jeuveaubyevolus”
+
+            (https://www.instagram.com/reel/DWT9yrZEnvl/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==&ig
+            si=MzRlODBiNWFlZA==) verified Instagram accounts. Last accessed on September 28, 2026.
+
+
+
+
+Reference ID: 5876609
+            Melina Dass                                                                                   Page 2
+            Evolus, Inc.
+            BLA 761085 MA 622
+
+            The post contains a reel2 that begins with a patient, Josephine, sitting down for an interview
+            where she states (emphasis added):
+
+                        “I’m excited about getting rid of my lines…I’m ready to, like, not have them so
+                        much.”
+
+            The scene transitions to a before treatment video clip on Day 0 and an after treatment video
+            clip on Day 2. In the voiceover during the before and after treatment video clips, Josephine
+            states (emphasis added):
+
+                        “I feel really good. I’m really surprised at how quickly it’s kicking in! And I’m feeling
+                        like the line between my eyebrows is gone.”
+
+            Additionally, the reel is accompanied by the following in the caption (emphasis added):
+
+                        “Lines today. Blurred in as little as 2 days.*…Nope. You’re not seeing things.
+                        Jeuveau® really does work like that. Josephine is only one of the many patients who
+                        loved their results with Jeuveau. ‘I feel really good. I’m really surprised at how
+                        quickly it kicked in!’ With our iconic fast-acting results…”
+                        ...
+                        “*About 50% of patients begin showing improvement after two days. Most
+                        patients (~69%) achieve complete results by day 30.”
+
+            These claims and presentations are misleading for multiple reasons. First, the claims and
+            presentations misleadingly suggest that treatment with Jeuveau will get “rid of” of frown lines,
+            patients will experience “complete results,” and frown lines will be “gone” indefinitely, when
+            this is not the case. According to the FDA-approved Prescribing Information (PI) for Jeuveau
+            (emphasis added), “JEUVEAU is indicated for the temporary improvement in the
+            appearance of moderate to severe glabellar lines associated with corrugator and/or procerus
+            muscle activity in adult patients.” The efficacy of Jeuveau for this use was evaluated based
+            on the proportion of subjects achieving ≥ 2-point improvement from baseline at maximum
+            frown as assessed independently by both the investigator and subject as a composite
+            endpoint using the Glabellar Line Scale (GLS) at Day 30. While the pivotal trials for Jeuveau
+            included evaluations at specific GLS scores including a GLS score of 0 or “none”, these were
+            exploratory endpoints, and no statistical analyses were performed. As such, no alpha was
+            allocated to this analysis, meaning no pre-specified false positive error rate was established.
+            Thus, claims suggesting that frown lines are “gone” or patients experienced “complete”
+            results are not supported. We acknowledge that the full, FDA-approved indication for
+            Jeuveau is included in the post, but not until the close of Josephine’s testimonial or unless
+            the viewer manually scrolls down in the caption, neither of which mitigates the misleading
+            impression created by the post.
+
+            In addition to the misleading suggestion regarding the magnitude of efficacy, the post also
+            creates a misleading impression regarding the onset of efficacy. Specifically, these claims
+            and presentations suggest that Jeuveau provides faster results (by Day 2) than has been
+            demonstrated. As mentioned above, the primary efficacy endpoint for Jeuveau was assessed
+
+            2 For the purposes of this letter, the term “reel” refers to a feature of Instagram which allows users to record,
+
+            edit, and create a post with short-form video content.
+
+Reference ID: 5876609
+            Melina Dass                                                                     Page 3
+            Evolus, Inc.
+            BLA 761085 MA 622
+
+            at Day 30 in the pivotal studies (EV-001 and EV-002). While efficacy data were collected at
+            other time points besides the primary endpoint at Day 30, the timepoint at Day 2 was an
+            exploratory endpoint (i.e., hypothesis generating). Similar to the concerns addressed above,
+            such analysis of this exploratory endpoint has limitations, such as the lack of multiplicity
+            adjustment, which introduces statistical and inferential risks, making it difficult to interpret and
+            draw reliable conclusions and does not ascertain whether the findings were attributable to
+            treatment with Jeuveau, or merely due to chance. Furthermore, this exploratory endpoint at
+            Day 2 assessed response as only a ≥1-point change on the GLS based on separate subject
+            or investigator assessment. A one-grade change may not accurately represent a clinically
+            meaningful intra-subject change because the response threshold for moving to an adjacent
+            category on an assessment scale represents a much smaller level of improvement.
+
+            In conjunction with claims and presentations regarding the primary efficacy endpoint, the
+            inclusion of claims and presentations related to the exploratory endpoint at Day 2 conflates
+            the measures of response and confounds consumers’ understanding of the efficacy of
+            Jeuveau. These two endpoints do not reflect the same degree of clinical response. The
+            primary endpoint (at Day 30) that was deemed clinically significant was a more stringent ≥ 2-
+            point improvement on the GLS scale and was based on a composite of both investigator and
+            subject assessments, whereas the exploratory endpoint (at Day 2) assessed only a ≥ 1-point
+            improvement and only relied on a single assessment dimension. The intermingling of claims
+            and presentations regarding these two distinct endpoints results in a misleading impression
+            regarding the efficacy of Jeauveu as consumers are unlikely to differentiate between and
+            understand the varying degrees of clinical response and statistical rigor represented
+            throughout the presentation. Therefore, the totality of these claims and presentations in the
+            post misleadingly suggests that treatment benefit with Jeuveau is more favorable, with
+            respect to the magnitude and onset of efficacy, than has been demonstrated. While the
+            patient testimonial in this video may be an accurate reflection of this patient’s own experience
+            with Jeuveau, the testimonial does not adequately support the suggestion that all patients
+            taking Jeuveau will experience a similar response. We acknowledge that the SUPER in the
+            reel states “Individual results may vary.” However, this does not mitigate the misleading
+            impression created by the post.
+
+            The reel features Josephine, a Jeuveau patient, giving a lively and engaging patient
+            testimonial/interview with trendy, upbeat music playing in the background. Josephine
+            appears fashion-forward and beauty-focused in makeup, with aesthetic nails, wearing various
+            pieces of jewelry, and pictured through various outfit changes all while touting the benefits
+            and efficacy of Jeuveau. In addition, there are multiple embedded video clips of before and
+            after treatment with Jeuveau at Day 0, Day 2, and Day 30. The reel is accompanied by the
+            following claims in the caption of the post (emphasis added):
+
+                        “…it’s no wonder Jeuveau is making moves to Studio @IPSY for our Blur The Lines
+                        Masterclass. Because in 2026, we’re blurring the lines between what’s found in
+                        your beauty bag and what happens in the treatment room. [syringe icon]
+                        [lipstick icon]”
+
+            The totality of these claims and presentations is misleading because it likens the use of an
+            injectable prescription product with an everyday beauty product, oversimplifies the important
+            dosage and administration instructions of Jeuveau and minimizes the risks associated with a
+
+
+Reference ID: 5876609
+            Melina Dass                                                                     Page 4
+            Evolus, Inc.
+            BLA 761085 MA 622
+
+            prescription drug product with a boxed warning. Specifically, the claims and presentations
+            imply that the use of Jeuveau, a prescription injectable product intended to be administered
+            by a healthcare provider, is comparable to an everyday beauty product or regimen and can
+            simply be ordered from a cosmetic delivery service such as IPSY and incorporated as a part
+            of a cosmetic routine, similar to a stick of lipstick being stored in “your beauty bag.” However,
+            Jeuveau is associated with important dosage and administration instructions for safe use.
+            According to the DOSAGE AND ADMINISTRATION of the PI:
+
+                        “The safe and effective use of Jeuveau depends upon proper storage of the product,
+                        selection of the correct dose, and proper reconstitution and administration techniques.
+                        Physicians administering JEUVEAU must understand the relevant neuromuscular
+                        and/or orbital anatomy of the area involved…”
+
+            The suggestion that lines are blurred between Jeuveau, a prescription product, and an over-
+            the counter cosmetic is especially problematic from a public health perspective given the
+            serious risks associated with the use of the product. The PI for Jeuveau includes a boxed
+            warning for the distant spread of toxin effect, contraindications, and multiple warnings and
+            precautions associated with the use of the product.
+
+            This misleading suggestion is further compounded because, in contrast to the benefit
+            presentations, the reel fails to present information related to the side effects and
+            contraindications of Jeuveau with a prominence and readability reasonably comparable with
+            the presentation of information relating to the benefits of Jeuveau. Specifically, risk
+            information is presented only at the end of the reel, where it is unlikely to draw the viewer’s
+            attention. It appears only after Josephine concludes her testimonial with the tag line,
+            “Jeuveau, you see me” with the tag line subsequently appearing onscreen for about four
+            seconds against a black background, which typically suggests the close of a presentation.
+            However, a brief narrated statement of the indication and limited risk information does follow
+            with additional unnarrated, fast scrolling risk information appearing after a directive to “ask
+            your doctor if Jeuveau is right for you.” The reel does not present any signal, at anytime
+            throughout, to alert the viewer that important risk information is presented after the close of
+            Josephine’s 38 second testimonial. We acknowledge the prescription status and limited risk
+            information for Jeuveau is disclosed in the lower half of the caption of the post; however, it
+            can only be accessed if the viewer manually scrolls down past additional benefit claims. The
+            overall effect of disclosing risk information in this manner, compared to the presentation
+            Jeuveau’s benefits during the patient testimonial, undermines the communication of risk
+            information and thereby minimizes the risks associated with the use of Jeuveau.
+
+            Conclusion and Requested Action
+
+            For the reasons described above, the post misbrands Jeuveau within the meaning of the
+            FD&C Act and makes its distribution violative. 21 U.S.C. 352(a), (n); 321(n); 331(a). 21 CFR
+            202.1(e)(5); (e)(7)(viii).
+
+            This letter notifies you of our concerns and provides you with an opportunity to address them.
+            OPDP requests that Evolus take immediate action to address any violations of the FD&C Act.
+            Please submit a written response to this letter within 15 working days from the date of receipt,
+            addressing the concerns described in this letter, listing all promotional communications (with
+
+Reference ID: 5876609
+            Melina Dass                                                                  Page 5
+            Evolus, Inc.
+            BLA 761085 MA 622
+
+            the 2253 submission date) for Jeuveau that contain representations like those described
+            above, and explaining your plan for the discontinuation of such communications, or for
+            ceasing distribution of Jeuveau.
+
+            If you believe that your products are not in violation of the FD&C Act, please include in your
+            submission to us your reasoning and any supporting information for our consideration within
+            15 working days from the date of receipt of this letter.
+
+            The concerns discussed in this letter do not necessarily constitute an exhaustive list of
+            potential violations. It is your responsibility to ensure compliance with each applicable
+            requirement of the FD&C Act and FDA implementing regulations.
+
+            Please direct your response to the undersigned at the Food and Drug Administration,
+            Center for Drug Evaluation and Research, Office of Prescription Drug Promotion, 5901-
+            B Ammendale Road, Beltsville, Maryland 20705-1266. A courtesy copy can be sent by
+            facsimile to (301) 847-8444. Please refer to MA # 622 in addition to the BLA number in all
+            future correspondence relating to this particular matter. All correspondence should include a
+            subject line that clearly identifies the submission as a Response to Untitled Letter. You are
+            encouraged, but not required, to submit your response in eCTD format. All correspondence
+            submitted in response to this letter should be placed under eCTD Heading 1.15.1.6.
+            Additionally, the response submission should be coded as an Amendment to eCTD
+            Sequence 1617 under BLA 761085. Questions related to the submission of your response
+            letter should be emailed to CDER-OPDP-RPM@fda.hhs.gov.
+
+                                                             Sincerely,
+
+                                                             {See appended electronic signature page}
+
+                                                             Eunice Chung-Davies, PharmD, MBA
+                                                             Regulatory Review Officer
+                                                             Division of Advertising & Promotion Review 2
+                                                             Office of Prescription Drug Promotion
+
+
+                                                             {See appended electronic signature page}
+
+                                                             James Dvorsky, PharmD, MPH, RAC, CPH
+                                                             Deputy Director
+                                                             Division of Advertising & Promotion Review 2
+                                                             Office of Prescription Drug Promotion
+
+
+
+
+Reference ID: 5876609
+                                                                                                    Signature Page 1 of 1
+
+          --------------------------------------------------------------------------------------------
+          This is a representation of an electronic record that was signed
+          electronically. Following this are manifestations of any and all
+          electronic signatures for this electronic record.
+          --------------------------------------------------------------------------------------------
+          /s/
+          ------------------------------------------------------------
+
+          EUNICE H CHUNG-DAVIES
+          09/28/2026 03:48:32 PM
+
+          JAMES S DVORSKY
+          09/28/2026 03:50:09 PM
+
+
+
+
+Reference ID: 5876609
+

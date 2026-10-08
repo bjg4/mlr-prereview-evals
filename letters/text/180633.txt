@@ -1,0 +1,265 @@
+DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+
+Food and Drug Administration Silver Spring, MD 20993
+
+RE: NDA 216340 
+KRAZATI™ (adagrasib) tablets, for oral use 
+MA 166 
+Dear Nicole Van de Vaarst: 
+The Office of Prescription Drug Promotion (OPDP) of the U.S. Food and Drug Administration 
+(FDA) has reviewed the promotional communication, the “KRYSTAL-1 Efficacy” webpage1 on 
+the Healthcare Provider Branded Website (US-KRA-22-00152) (website) for KRAZATI™ 
+(adagrasib) tablets, for oral use submitted by Mirati Therapeutics Inc., a Bristol Myers Squibb 
+Co. under cover of Form FDA 2253. The FDA Bad Ad Program also received multiple 
+complaints regarding the website. 
+The website makes false or misleading claims and representations about the benefits of 
+Krazati. Thus, the website misbrands Krazati within the meaning of the Federal Food, Drug, 
+and Cosmetic Act (FD&C Act) and makes its distribution violative. 21 U.S.C. 352(a), (n); 
+321(n); 331(a). See 21 CFR 202.1(e)(5). These violations are particularly concerning 
+because the promotional communication makes misleading representations about the 
+efficacy of Krazati in patients with KRAS G12C-mutated locally advanced or metastatic non 
+small cell lung cancer (NSCLC). Metastatic NSCLC is an incurable condition with a 5-year 
+survival rate of less than 10%, and lung cancer is a serious public health concern and 
+treatment for this condition involves serious risks. Lung cancer is by far the leading cause of 
+cancer death in the United States, accounting for about 1 in 5 of all cancer deaths.2 
+
+Background Below are the indication and summary of the most serious and most common risks associated with the use of Krazati.3 According to the INDICATIONS AND USAGE section of
+
+1 The “KRYSTAL-1 Efficacy” webpage is accessed from the “Efficacy” menu item under the “Clinical Data” sub 
+navigation menu of the website, including the “ORR”, “DCR”, “Intracranial ORR”, “DOR”, “OS”, and “PFS” 
+navigation bar items: https://www.krazatihcp.com/efficacy (last accessed July 31, 2024). 2 American Cancer Society: Key Statistics for Lung Cancer. See: https://www.cancer.org/cancer/types/lung 
+cancer/about/key-statistics.html. 
+3 This information is for background purposes only and does not necessarily represent the risk information that 
+should be included in the promotional communication(s) cited in this letter. 
+Nicole Van de Vaarst, Senior Manager 
+Mirati Therapeutics Inc., a Bristol Myers Squibb Co. 
+Bristol Myers Squibb US Commercial Regulatory Affairs 
+3401 Princeton Pike 
+Lawrence, NJ 08648 
+
+Nicole Van de Vaarst Page 2 
+Mirati Therapeutics Inc., a Bristol Myers Squibb Co. 
+NDA 216340/MA 166 
+the FDA-approved Prescribing Information (PI) (in pertinent part): 
+KRAZATI is indicated for the treatment of adult patients with KRAS G12C-mutated 
+locally advanced or metastatic NSCLC, as determined by an FDA approved test, who 
+have received at least one prior systemic therapy. 
+This indication is approved under accelerated approval based on objective response 
+rate (ORR) and duration of response (DOR). Continued approval for this indication 
+may be contingent upon verification and description of a clinical benefit in a 
+confirmatory trial(s). 
+Krazati was approved under the accelerated approval pathway. This pathway can allow for 
+earlier approval of drugs intended to treat serious conditions and fill an unmet medical need. 
+Accelerated approval is based on an effect on a surrogate or intermediate clinical endpoint 
+that is thought to be reasonably likely to predict clinical benefit, rather than on a direct 
+measurement of clinical benefit. FDA has required sponsors of drugs approved under the 
+accelerated approval pathway, including Krazati, to conduct a confirmatory trial to verify and 
+describe the clinical benefit of the drug.4 
+The PI for Krazati includes warnings and precautions regarding gastrointestinal adverse 
+reactions, QTc interval prolongation, hepatotoxicity, and interstitial lung disease/pneumonitis. 
+The most common adverse reactions reported with use of Krazati include nausea, diarrhea, 
+vomiting, fatigue, musculoskeletal pain, hepatotoxicity, renal impairment, edema, dyspnea, 
+and decreased appetite. 
+False or Misleading Benefit Presentation 
+Prescription drug advertisements and labeling (promotional communications) misbrand a 
+drug if they are false or misleading with respect to efficacy. The determination of whether a 
+promotional communication is misleading includes, among other things, not only 
+representations made or suggested in the promotional communication, but also the extent to 
+which the promotional communication fails to reveal facts material in light of the 
+representations made or with respect to consequences that may result from the use of the 
+drug as recommended or suggested in the promotional communication. 
+All of the presentations described below are found in the “Efficacy” menu item, under the 
+“Clinical Data” sub-navigation menu of the website for Krazati. The main “Efficacy” menu 
+landing page includes the following banner as a preface to the presentations (underlined 
+emphasis added): 
+“KRYSTAL-1 EFFICACY 
+Scroll to see the efficacy of Krazati.” 
+When users scroll “to see the efficacy of Krazati,” they are able to access the presentations 
+described in this letter on a horizontal navigation bar with the following navigation bar item 
+4 We note that the confirmatory trial, a randomized phase 3 trial, for Krazati, KRYSTAL-12, is currently ongoing; 
+however, this study has not been completed. clinicaltrials.gov/study/NCT04685135. 
+
+Nicole Van de Vaarst Page 3 
+Mirati Therapeutics Inc., a Bristol Myers Squibb Co. 
+NDA 216340/MA 166 
+headings: “ORR,” “DCR,” “Intracranial ORR,” “OS,” “PFS,” and “DOR.” 
+The “DCR” navigation bar item on the “KRYSTAL-1 Efficacy” webpage includes the 
+prominent headline claim, “DCR IN PATIENTS TAKING KRAZATI: 80% (n=112; 95% CI: 
+70.8-86.5)” together with the claim “Depth of response: 80% of patients experienced tumor 
+shrinkage of any magnitude.” According to the website, “DCR” stands for “disease control 
+rate” and is presented as the sum of the percentages of patients who had stable disease 
+(SD), partial response (PR), or complete response (CR). These claims are presented in 
+conjunction with a waterfall plot that allows viewers to click on buttons to the right of the plot 
+to highlight patients with: “Stable Disease,” "Partial Response,” “Complete Response,” and 
+“Progressive Disease.”5 Clicking on the “Stable Disease” button shows the claim, “Stable 
+Disease: 37%,” and highlights various bars along the plot. 
+This presentation misleadingly suggests that Krazati improves DCR and “depth of response” 
+in patients with KRAS G12C-mutated locally advanced or metastatic NSCLC based on a 
+composite of CR, PR, and SD, even though the study was not designed to demonstrate this. 
+As noted previously, Krazati was approved under the accelerated approval pathway based 
+on results from KRYSTAL-1. KRYSTAL-1 was a multicenter, single-arm, open-label 
+expansion cohort study that evaluated the effect of Krazati on two efficacy endpoints: 
+Objective Response Rate (ORR) and Duration of Response (DOR). In KRYSTAL-1, the 
+endpoint of ORR was comprised only of PR + CR, as defined by RECIST v 1.1. Because 
+KRYSTAL-1 was designed as a single arm trial, the study did not establish that the SD 
+result was attributable to the effect of the drug; for example, the result may instead reflect 
+the natural history of the disease. An assessment of delay in time to disease progression in 
+patients treated with Krazati (i.e., an assessment of SD) would need to be based on the 
+results of a randomized controlled trial. 
+
+One reference is cited in support of the claims in the above presentation.6 The reference presents a summary of NCT03785249 (KRYSTAL-1).7 However, it is misleading to include in promotional materials representations or suggestions that rely on a study or studies whose design is not capable of supporting such representations or suggestions. Here, as already noted, since KRYSTAL-1 was a single-arm trial, it is not known whether the data on SD are attributable to treatment with Krazati. Consequently, the DCR calculations, which are based on a composite that includes SD data, and the associated “depth of response” claim, are not supported by the data cited. Your presentation of these data conveys to viewers of the website that the data are relevant to their understanding of the efficacy of Krazati notwithstanding the limitations in the study.
+
+5Response was measured using the Response Evaluation Criteria in Solid Tumors (RECIST) v 1.1., which 
+defines the evaluation of target lesions as the following: Complete Response (CR): Disappearance of all target 
+lesions. Partial Response (PR): At least a 30% decrease in the sum of diameters of target lesions, taking as 
+reference the baseline sum diameters. Progressive Disease (PD): At least a 20% increase in the sum of 
+diameters of target lesions, taking as reference the smallest sum on study. In addition to the relative increase of 
+20%, the sum must also demonstrate an absolute increase of at least 5 mm. Stable Disease (SD): Neither 
+sufficient shrinkage to qualify for PR nor sufficient increase to qualify for PD, taking as reference the smallest 
+sum diameters while on study. https://ctep.cancer.gov/protocoldevelopment/docs/recist_guideline.pdf 
+6Janne PA, Riely, GJ, Gadgeel SM, et al, 2022, Adagrasib in Non-Small-Cell Lung Cancer Harboring a 
+KRASG12C Mutation, N Eng J Med; 387:120-131. 
+7Janne et al. (2022) includes data for SD and DCR, and defines disease control as “complete response, partial 
+response, or stable disease . . . .” and presents the composite endpoint of DCR (which comprises the 
+percentage of patients who achieved “disease control” [CR + PR + SD]) as 79.5%. 
+
+Nicole Van de Vaarst Page 4 
+Mirati Therapeutics Inc., a Bristol Myers Squibb Co. 
+NDA 216340/MA 166 
+The “OS” and “PFS” navigation bar items on the “KRYSTAL-1 Efficacy” webpage include the 
+claims “MEDIAN OS IN PATIENTS TAKING KRAZATI: 14.1 MONTHS,” and “MEDIAN PFS 
+IN PATIENTS TAKING KRAZATI: 6.9 MONTHS” in conjunction with two graphs presenting 
+“Survival Probability” and “PFS Probability,” over time (months), respectively. According to 
+the website, OS stands for overall survival and PFS stands for progression-free survival. 
+Similar claims are also presented in the “ORR” navigation bar item under the “KRYSTAL-1 
+Efficacy” webpage where the OS and PFS median data are reported in the same bulleted 
+list as the DOR data. As a reference for these claims, you cite data on file.8,9 As previously 
+noted, Krazati was approved based on an effect shown on ORR and DOR endpoints in 
+KRYSTAL-1, a single-arm trial. PFS and OS are time-to-event efficacy endpoints. Time-to 
+event efficacy endpoints in single-arm trials are generally uninterpretable because it is not 
+possible to determine if the observed effect (e.g., survival time) is attributable to the drug or 
+the natural history of the disease. Evaluation of time-to-event endpoints requires 
+randomized controlled trials because a comparator arm is necessary to assess whether the 
+effect seen on the endpoint being studied is attributable to the drug or some other factor. 
+Thus, these claims are misleading because they are based on the results of a trial that is not 
+capable of producing interpretable OS and PFS results. 
+We acknowledge that the text “descriptive analysis” appears under the “OS” and “PFS” 
+navigation bar item headers when you click to view each of the items, as well as the 
+following text that appears at the bottom of the “OS,” “PFS,” and “ORR” displays: “single 
+arm trials do not adequately characterize time-to-event endpoints such as OS/PFS. Thus, 
+these data from KRYSTAL-1 cannot be interpreted as having OS/PFS benefit.” However, 
+for the reasons discussed above, it is misleading to make such representations or 
+suggestions about the efficacy of this drug based on KRYSTAL-1, which, as a single-arm 
+trial, is not capable of supporting such representations or suggestions; and this is not 
+corrected by disclosure of the study’s limitations. 
+The “DOR” navigation bar item on the “KRYSTAL-1 Efficacy” webpage includes a graph 
+titled “DESCRIPTIVE ANALYSIS MEDIAN DOR IN PATIENTS TAKING KRAZATI: 12.5 
+MONTHS.” As with the “OS” and “PFS” navigation bar items, the text “descriptive analysis” 
+appears below “DOR” in the navigation bar item header when you click to view the item. 
+The median DOR reported from this graph, “12.5 MONTHS,” misleadingly overstates the 
+efficacy of Krazati. According to Table 7 in the CLINICAL STUDIES section of the PI for 
+Krazati, the median DOR for patients treated with Krazati is 8.5 months with a 95% 
+confidence interval of 6.2 months to 13.8 months. You cite “data on file” for the claim and 
+describe the data on file as including “pooled DOR” information in the annotated version of 
+the website you submitted to FDA to comply with 21 CFR 314.550. Pooling data poses 
+analytical problems as differences among studies and study populations can affect the 
+validity and interpretability of pooled analyses. Particular concerns arise when there are 
+differences in demographic or disease characteristics, treatment practices, methods for 
+assessing efficacy, test procedures, and other study design features as these can all lead to 
+significant heterogeneity in results that confound interpretation. Based on the information 
+provided, FDA is not able to verify the presented results, and FDA is not aware of data that 
+support your claim that the median DOR for patients treated with Krazati is 12.5 months. If 
+
+8 Data on file. Analysis of Overall Survival, using ADS. Mirati Therapeutics, Inc. 2022. 9 Data on file. Analysis of Progression-free Survival (Independent Central Review). Mirati Therapeutics, Inc. 2022. Reference ID: 5423579
+
+Nicole Van de Vaarst Page 5 
+Mirati Therapeutics Inc., a Bristol Myers Squibb Co. 
+NDA 216340/MA 166 
+you have data to support this claim, please submit them to FDA for review. 
+The “Intracranial ORR” navigation bar item on the “KRYSTAL-1 Efficacy” webpage includes 
+the claims, “33% INTRACRANIAL ORR IN PATIENTS WITH STABLE, ADEQUATELY 
+TREATED BRAIN METASTASES” and, “INTRACRANIAL DCR IN PATIENTS WITH BRAIN 
+METASTASES: 85% (n=33; 95% CI: 68-95).” As a reference for these claims, you cite 
+Janne et al. (2022)6 and Spira et al. (2022).10 These claims are misleading because they 
+imply that Krazati is effective in treating brain metastases even though such an effect is not 
+established by this post hoc analysis. In a clinical trial designed to specifically evaluate brain 
+metastases using the Response Assessment in Neuro-Oncology Brain Metastases (RANO 
+BM) criteria,11 previously treated target lesions would have documentation of how each 
+lesion was previously treated (e.g., stereotactic radiosurgery, whole brain radiotherapy, 
+surgical resection); however, this information was not collected in this single-arm cohort. It is 
+known only that the majority of patients (27 of the 33 evaluable patients) included in this post 
+hoc subgroup analysis were previously treated with radiation therapy for brain metastases. 
+Therefore, this post-hoc analysis did not establish that improvement in intracranial ORR is 
+attributable to treatment with Krazati; these results may instead represent the effects of 
+radiation therapy. In addition to the confounding factors affecting the interpretability of 
+intracranial ORR in the trial, intracranial DCR is not interpretable as an effect of treatment 
+with Krazati due to the limitations described above regarding the single-arm design of the 
+trial. 
+We acknowledge that the text, “POST HOC ANALYSIS” appears under the “Intracranial 
+ORR” navigation bar item header when you click to view the item, as well as the following 
+statements that appear at the bottom of the page (underlined emphasis added): 
+“INTRACRANIAL ORR AND DCR CANNOT BE ATTRIBUTED TO KRAZATI ALONE GIVEN 
+BRAIN METASTASES WERE PREVIOUSLY TREATED, SOME WITH RECENT PRIOR 
+RADIATION. THESE RESULTS SHOULD BE INTERPRETED WITH CAUTION.” However, 
+these statements are not sufficient to mitigate the overall misleading impression created by 
+the inclusion of this presentation. In fact, the statements suggest that intracranial ORR and 
+DCR can be attributed, in part, to an effect of Krazati when these data cannot be interpreted 
+at all as an effect of Krazati. 
+Conclusion and Requested Action 
+For the reasons discussed above, the website misbrands Krazati within the meaning of the 
+FD&C Act and makes its distribution violative. 21 U.S.C. 352(a), (n); 321(n); 331(a). See 21 
+CFR 202.1(e)(5). 
+This letter notifies you of our concerns and provides you with an opportunity to address them. 
+OPDP requests that Mirati Therapeutics Inc., a Bristol Myers Squibb Co. cease any violations 
+of the FD&C Act. Please submit a written response to this letter within 15 working days from 
+the date of receipt, addressing the concerns described in this letter, listing all promotional 
+
+10 Spira AI, Riely GJ, Gadgeel SM, et al, 2022, KRYSTAL-1: Activity and Safety of Adagrasib (MRTX849) in Patients with Advanced/Metastatic Non-Small Cell Lung Cancer Harboring a KRASG12C Mutation [Poster Presentation], 2022 American Society of Clinical Oncology Annual Meeting, Chicago, IL, United States. 11 Lin NU, Lee EQ, Aoyama H, et al, 2015, Response assessment criteria for brain metastases: proposal from the RANO group, Lancet Oncology 2015; 16: e270-78.
+
+Nicole Van de Vaarst Page 6 
+Mirati Therapeutics Inc., a Bristol Myers Squibb Co. 
+NDA 216340/MA 166 
+communications (with the 2253 submission date) for Krazati that contain representations like 
+those described above, and explaining your plan for the timely discontinuation of such 
+communications, or for ceasing distribution of Krazati. 
+If you believe that your products are not in violation of the FD&C Act, please include in your 
+submission to us your reasoning and any supporting information for our consideration within 
+15 working days from the date of receipt of this letter. 
+The concerns discussed in this letter do not necessarily constitute an exhaustive list of 
+potential violations. It is your responsibility to ensure compliance with each applicable 
+requirement of the FD&C Act and FDA implementing regulations. 
+Please direct your response to the undersigned at the Food and Drug Administration, 
+Center for Drug Evaluation and Research, Office of Prescription Drug Promotion, 5901- 
+B Ammendale Road, Beltsville, Maryland 20705-1266. A courtesy copy can be sent by 
+facsimile to (301) 847-8444. Please refer to MA 166 in addition to the NDA number in all 
+future correspondence relating to this particular matter. All correspondence should include a 
+subject line that clearly identifies the submission as a Response to Untitled Letter. You are 
+encouraged, but not required, to submit your response in eCTD format. All correspondence 
+submitted in response to this letter should be placed under eCTD Heading 1.15.1.6. 
+Additionally, the response submission should be coded as an Amendment to eCTD 
+Sequence 5163 under NDA 216340. Questions related to the submission of your response 
+letter should be emailed to the OPDP RPM at CDER-OPDP-RPM@fda.hhs.gov. 
+Sincerely, 
+{See appended electronic signature page} 
+Kelle Caruso, PharmD, BCPS 
+Regulatory Review Officer 
+Division of Advertising & Promotion Review 1 
+Office of Prescription Drug Promotion 
+
+{See appended electronic signature page} Rachael Conklin, MS, RN, RAC Team Leader Division of Advertising & Promotion Review 1 Office of Prescription Drug Promotion
+
+--------------------------------------------------------------------------------------------
+
+This is a representation of an electronic record that was signed electronically. Following this are manifestations of any and all electronic signatures for this electronic record.
+
+-------------------------------------------------------------------------------------------- 
+/s/ 
+------------------------------------------------------------ 
+
+RACHAEL E CONKLIN on behalf of KELLE E CARUSO 08/01/2024 05:56:02 PM
+
+RACHAEL E CONKLIN 08/01/2024 05:56:23 PM
+
+Signature Page 1 of 1
+
+

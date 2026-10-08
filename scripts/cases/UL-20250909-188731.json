@@ -1,0 +1,28 @@
+{
+"id": "UL-20250909-188731",
+"piece_type": "DTC TV ad “ULTOMIRIS gMG DTC TV Spot – 2025 2_(v1.0)” (US/ULT-g/0744)",
+"audience": "DTC",
+"company": "Alexion Pharmaceuticals, Inc.",
+"regs_in_letter": "FD&C Act (no CFR section cited in letter text)",
+"status": "processed",
+"cases": [
+{
+"cat": "Overstatement of efficacy",
+"claim": "VO/SUPER: “Ultomiris IS continuous symptom control” | VO: “With improvement in activities of daily living” | SUPER: “IS more than 2x improvement in activities of daily living (MG-ADL)”",
+"context": "PI: MG-ADL change at Week 26; concomitant gMG treatments allowed (AChE inhibitors >80%, corticosteroids 70%, NSISTs 68%); MG-ADL not assessed daily. SUPER: “Based on the MG-ADL, a scale that measures the impact of 8 gMG symptoms on daily functions.”",
+"rationale": "'Continuous symptom control' not supported by periodic MG-ADL with background therapy.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Judge: 'continuous/constant control' claims vs endpoint assessment frequency; flag 'Nx improvement' ratio framings."
+},
+{
+"cat": "Distracting presentation during risk/major statement (TV)",
+"claim": "[Visual] camera follows man through multiple bright scenes: taking a waffle from his wife's plate, party with wife and grandson, getting into a car — during the major statement",
+"context": "DTC TV major statement.",
+"rationale": "Interferes with comprehension.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Storyboard check: flag tracking shots and scene changes during major statement."
+}
+]
+}

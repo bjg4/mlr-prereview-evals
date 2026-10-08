@@ -1,0 +1,37 @@
+{
+"id": "UL-20250909-188710",
+"piece_type": "DTC TV ad (FA-11446517)",
+"audience": "DTC",
+"company": "Novartis Pharmaceuticals Corporation",
+"regs_in_letter": "FD&C Act (no CFR section cited in letter text)",
+"status": "processed",
+"cases": [
+{
+"cat": "Overstatement of efficacy",
+"claim": "“What do you do when things get tough? You don’t give up.”",
+"context": "Men painting, teaching bike riding, fishing, completing a puzzle, building a table, training a dog. PI PSMAfore: confirmed ORR 49%; of those, 21% complete response. Disclaimer: “Individual results may vary...”",
+"rationale": "Suggests perseverance plus Pluvicto definitively yields success.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Judge: perseverance/success narratives in oncology vs PI response rates."
+},
+{
+"cat": "Broadening of indication / omission of material indication information",
+"claim": "[Omission] TV ad does not specify use in patients considered appropriate to delay taxane-based chemotherapy",
+"context": "PI: PSMA-positive mCRPC treated with ARPI therapy and considered appropriate to delay taxane-based chemotherapy.",
+"rationale": "Fails to communicate full indication.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "deterministic",
+"check": "Rule: indication statement must include every PI qualifier (incl. line-of-therapy conditions)."
+},
+{
+"cat": "Distracting presentation during risk/major statement (TV)",
+"claim": "[Visual] a man working on a puzzle, a second man building a table and having a tea party, a third training a dog — during the major statement",
+"context": "DTC TV major statement.",
+"rationale": "Interferes with comprehension.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Storyboard check: flag activity scenes and frequent scene changes during major statement audio."
+}
+]
+}

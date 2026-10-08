@@ -1,0 +1,28 @@
+{
+"id": "UL-20250909-188729",
+"piece_type": "DTC TV ad (US-QLP-250169)",
+"audience": "DTC",
+"company": "AbbVie, Inc.",
+"regs_in_letter": "FD&C Act (no CFR section cited in letter text)",
+"status": "processed",
+"cases": [
+{
+"cat": "Overstatement of efficacy",
+"claim": "“Before preventing migraine with QULIPTA, it was hard keeping plans.” | “QULIPTA MORE ZERO-MIGRAINE DAYS POSSIBLE.” | “QULIPTA-the forget you-get migraine medicine.”",
+"context": "Woman in dark bedroom → chaperoning field trip without symptoms. PI: MMD reduced 0.7–1.7 days (episodic) and 1.8 days (chronic) vs placebo; acute treatments allowed. Ad also says “You’ll never truly forget migraine” and “reduces attacks”.",
+"rationale": "Creates impression of total migraine prevention.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Judge: 'zero-migraine'/'forget you get migraine' framing vs MMD reduction of ~1–2 days."
+},
+{
+"cat": "Distracting presentation during risk/major statement (TV)",
+"claim": "[Visual] a child climbing down a rope, children boarding a bus, chaperone photographing children, transition to woman circling a date on a calendar — during the major statement",
+"context": "DTC TV major statement.",
+"rationale": "Interferes with comprehension.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Storyboard check: flag activity scenes and frequent scene changes during major statement audio."
+}
+]
+}

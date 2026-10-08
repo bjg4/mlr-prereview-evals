@@ -1,0 +1,29 @@
+{
+ "accepted": [
+  {
+   "id": "C1-reminder-boxed-warning",
+   "type": "rule_override",
+   "payload": {
+    "rule_id": "A-202-E2-01",
+    "rule_text": "Reminder ads (exempt from brief summary) may contain only the proprietary and established names plus optional non-promotional details (dosage form, package quantity, price, manufacturer) and no indication, dosage recommendation, or other representation about the drug. Reminder ads are not permitted at all for a drug whose labeling has a boxed warning (except price-only ads under 21 CFR 200.200). A piece that names the product and its use is not a reminder ad and needs full risk disclosure."
+   },
+   "layer": "rule_text",
+   "round": 1,
+   "status": "accepted_pending_human_review"
+  },
+  {
+   "id": "C2r-pair-category-match-recheck",
+   "type": "pair_rule_assignment",
+   "payload": {
+    "mode": "category_match"
+   },
+   "layer": "rule_assignment",
+   "round": 2,
+   "status": "accepted"
+  }
+ ],
+ "model": "anthropic/claude-haiku-5.5",
+ "created": "2026-10-08T07:11:52-07:00",
+ "last_scoreboard": "evals/scoreboard/round_2.json",
+ "normalize_quotes": true
+}

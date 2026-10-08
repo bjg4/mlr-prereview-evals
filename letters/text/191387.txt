@@ -1,0 +1,113 @@
+Author: FDA/CDER
+
+DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+
+Food and Drug Administration Silver Spring, MD 20993
+
+Rachel Wilson 
+Senior Director, Regulatory Affairs – Advertising and Promotion 
+Novo Nordisk Inc. 
+800 Scudders Mill Road 
+Plainsboro, NJ 08536 
+RE: NDA 209637 
+OZEMPIC® (semaglutide) injection, for subcutaneous use 
+MA 1457 
+Dear Rachel Wilson: 
+The Office of Prescription Drug Promotion (OPDP) of the U.S. Food and Drug Administration 
+(FDA) has reviewed the promotional communication, a direct-to-consumer (DTC) video 
+(video), titled “Ozempic vs. – Random Guy OLV” (US25OZM01130) for OZEMPIC® 
+(semaglutide) injection, for subcutaneous use (Ozempic) submitted by Novo Nordisk Inc. 
+(Novo Nordisk) under cover of Form FDA 2253.1 FDA has determined that the video is false 
+or misleading. Thus, the video misbrands Ozempic and makes the distribution of the drug in 
+violation of the Federal Food, Drug, and Cosmetic Act (FD&C Act). 
+The video includes claims and presentations that misrepresent the efficacy of Ozempic. 
+Specifically, the video begins with a musical presentation of the following claim, “There’s 
+Only One Ozempic. O, O, O.” This is followed by two actors, one who introduces himself as 
+“Ozempic” wearing an orange shirt (00:07) and another who introduces himself as the “other 
+GLP-1s for type 2 diabetes” (other GLP-1s) wearing a gray shirt (00:08). The “Ozempic” 
+character then introduces “a nice guy named Stan” to “talk about my benefits” (00:11). The 
+“other GLP-1s” character appears confused and asks, “what?” (00:12) while Stan pulls out 
+cue cards from his pocket and starts reading from them. These presentations are in 
+conjunction with the following claims (in pertinent part): 
+• VO: (Stan): “Hm. Now it says here… for adults with type 2 diabetes, Ozempic is the GLP-1 with the most FDA-approved uses” (00:14) during which “Ozempic” gestures to Stan and nods his head as he turns around to “other GLP-1s” 
+• SUPER: “Ozempic® is the GLP-1 with the most FDA-approved uses for adults with type 2 diabetes.” 
+• VO: (Stan): “Ozempic is approved to lower A1C . . . ” (00:26) 
+• SUPER: “Ozempic® is proven to lower A1C, along with diet and exercise.” 
+
+1 The Form FDA 2253 submission included the final video in MP4 format, but did not include an annotated storyboard with frame numbers. We have instead referenced timestamps in this letter to facilitate communication of our concerns.
+
+Rachel Wilson Page 2 
+Novo Nordisk Inc. 
+NDA 209637 / MA 1457 
+• VO: (Stan): “. . . lower the risk of major cardiovascular events like stroke, heart attack, or death . . . ” (00:30) 
+• SUPER: “Ozempic® lowers the risk of major cardiovascular events such as stroke, heart attack, or death in adults with type 2 diabetes and known heart disease.” 
+• VO: (Stan): “. . . and lower the risk of worsening chronic kidney disease. Alright, back to you Ozempic.” (00:39) 
+• SUPER: “Ozempic® reduces the risk of kidney disease worsening, kidney failure (end stage kidney disease), and death due to cardiovascular disease in adults with type 2 diabetes and known chronic kidney disease.” 
+• VO: (“Ozempic”): “Thanks Stan.” (00:45) 
+• VO: (“other GLP-1s”): “Yeah, cool. Uh, do me next.” (00:47) 
+• VO: (Stan): “Well, I see you don’t have as many FDA-approved uses as Ozempic.” (00:49) This portion of the video concludes with the musical presentation of the on-screen claim, “There’s Only One Ozempic . . . ” as was done in the beginning of the video (1:07). The claim, “for adults with type 2 diabetes, Ozempic is the GLP-1 with the most FDA approved uses” is misleading because it implies that all patients with type 2 diabetes are candidates for all the FDA-approved indications for Ozempic, when this is not the case without the presence of concurrent disease states. Patients with type 2 diabetes must have the concurrent disease state of “established cardiovascular disease” or “chronic kidney disease” to be candidates for the respective indications below. According to the INDICATIONS AND USAGE section of the PI, Ozempic is indicated (in pertinent part, emphasis added): 
+• To reduce the risk of major adverse cardiovascular events (cardiovascular death, non fatal myocardial infarction or non-fatal stroke) in adults with type 2 diabetes mellitus and established cardiovascular disease. 
+• To reduce the risk of sustained eGFR decline, end-stage kidney disease, and cardiovascular death in adults with type 2 diabetes and chronic kidney disease. We acknowledge that the full FDA-approved indications are shown in the SUPERs following the corresponding voiceover claims. However, the inclusion of this information is not sufficient to correct the overall misleading impression created by the claims in the voiceover at the beginning of the video. The video also makes the following claims and presentations (in pertinent part, italicized emphasis added): 
+• VO: (“Ozempic”): “Thanks Stan.” (00:45) 
+• VO: (“other GLP-1s”): “Yeah, cool. Uh, do me next.” (00:47) 
+• VO: (Stan): “Well, I see you don’t have as many FDA-approved uses as Ozempic.” (00:49) 
+
+Rachel Wilson Page 3 
+Novo Nordisk Inc. 
+NDA 209637 / MA 1457 
+• VO: (“other GLP-1s”): “Oh, really? Well, can Ozempic do this?” while making bird calling sound with his mouth (00:53 - 1:01) 
+• VO: (“Ozempic”): “Cool. What was that?” (1:02) 
+• VO: (“other GLP-1s”): “It was a brown sicklebill.” (1:03) 
+• VO: (“Ozempic”): “Right. And that’s a real bird?” (1:06) 
+• VO: Music: “There’s Only One Ozempic . . . ” (1:07) The totality of these claims and presentations create a misleading impression by framing Ozempic as superior to other glucagon-like peptide 1 receptor agonists (GLP-1s) for type 2 diabetes. Claims such as, “. . .I see you don’t have as many FDA-approved uses as Ozempic” and “There’s Only One Ozempic . . . ” in addition to what appears to be an attempt to lighten the situation, the bird-calling response, furthers the comparative claim by suggesting that “other GLP-1s” are not worthy of substantive discussion. The comedic device communicates to viewers that competitor GLP-1 products lack meaningful benefits. This is underscored by “other GLP-1s” not having “as many FDA-approved uses as Ozempic”, while Ozempic is presented as the serious and superior option. According to the CLINICAL STUDIES section of the FDA-approved prescribing information (PI) for Ozempic, the studies supporting the indications pertaining to concurrent established cardiovascular disease and chronic kidney disease were placebo-controlled trials and not designed to measure superiority versus other GLP-1 products. Thus, the superiority of Ozempic relative to other GLP-1s cannot be determined from the available clinical trial data. We are unaware of data supporting the implication that Ozempic is superior to other GLP-1s for type 2 diabetes in these concurrent disease states. If you have data to support these claims and presentations, please submit them to the FDA for review. The superiority implication is further compounded by the visual representation of the characters. The “Ozempic” character is wearing a bright, orange shirt, which creates a deliberate visual contrast against the “other GLP-1s” character in a dull, gray shirt. This implies superiority by associating Ozempic with vibrant colors or positive imagery and the competitor with dull colors or negative imagery. Finally, the video does not present any signal to alert the viewer that important risk information follows the close of the interaction between the two actors. In fact, the video shows the Ozempic logo and plays the musical presentation of the on-screen claim, “There’s Only One Ozempic . . . ”, which typically signals the close or end of an advertisement. The overall effect of disclosing risk information in this manner undermines the communication of risk information and thereby misleadingly minimizes the risks associated with the use of Ozempic. We acknowledge that there is a statement at the top of the video that instructs viewers “To see Prescribing Information and Medication Guide, click video, link in this ad, or visit Ozempic-pi.com[.]” However, this is not sufficient to mitigate the misleading impression. Conclusion and Requested Action For the reasons described above, the video misbrands Ozempic and makes the distribution of the drug in violation of the FD&C Act. This letter notifies you of our concerns and provides you with an opportunity to address them. FDA requests that Novo Nordisk take immediate action to address any violations (including, 
+
+Rachel Wilson Page 4 
+Novo Nordisk Inc. 
+NDA 209637 / MA 1457 
+for example, ceasing and desisting promotional communications that are misleading as 
+described above). 
+Please submit a written response to this letter within 15 working days from the date of receipt, 
+addressing the concerns described in this letter, listing all promotional communications (with 
+the 2253 submission date) for Ozempic that contain representations like those described 
+above, and explaining your plan for the discontinuation of such communications, or for 
+ceasing distribution of Ozempic. 
+If you believe that your products are not in violation of the FD&C Act, please include in your 
+submission to us your reasoning and any supporting information for our consideration within 
+15 working days from the date of receipt of this letter. 
+The concerns discussed in this letter do not necessarily constitute an exhaustive list of 
+potential violations. It is your responsibility to ensure compliance with each applicable 
+requirement of the FD&C Act and FDA implementing regulations. 
+Please direct your response to the undersigned at the Food and Drug Administration, 
+Center for Drug Evaluation and Research, Office of Prescription Drug Promotion, 5901- 
+B Ammendale Road, Beltsville, Maryland 20705-1266. A courtesy copy can be sent by 
+facsimile to (301) 847-8444. Please refer to MA 1457 in addition to the NDA number in all 
+future correspondence relating to this particular matter. All correspondence should include a 
+subject line that clearly identifies the submission as a Response to Untitled Letter. You are 
+encouraged, but not required, to submit your response in eCTD format. All correspondence 
+submitted in response to this letter should be placed under eCTD Heading 1.15.1.6. 
+Additionally, the response submission should be coded as an Amendment to eCTD 
+Sequence 1509 under NDA 209637. Questions related to the submission of your response 
+letter should be emailed to CDER-OPDP-RPM@fda.hhs.gov. 
+Sincerely, 
+{See appended electronic signature page} 
+Tierra Butler, PharmD 
+Regulatory Review Officer 
+Division of Advertising & Promotion Review 2 
+Office of Prescription Drug Promotion 
+{See appended electronic signature page} 
+Sapna Shah, PharmD 
+Team Leader 
+Division of Advertising & Promotion Review 2 
+Office of Prescription Drug Promotion 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Signature Page 1 of 1
+
+This is a representation of an electronic record that was signed electronically. Following this are manifestations of any and all electronic signatures for this electronic record.
+
+TIERRA N BUTLER 02/26/2026 04:51:27 PM
+
+SAPNA SHAH 02/26/2026 04:59:42 PM
+
+

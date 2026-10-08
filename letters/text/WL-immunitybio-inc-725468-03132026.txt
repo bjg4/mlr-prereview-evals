@@ -1,0 +1,153 @@
+
+Published: 2026-03-13
+Author: Center
+
+ImmunityBio, Inc. - 725468 - 03/13/2026 | FDA
+
+# ImmunityBio, Inc. MARCS-CMS 725468 — March 13, 2026 
+
+Product:
+: Drugs 
+
+Recipient:
+: Recipient Name Richard Adcock
+: Recipient Title President and Chief Executive Officer 
+: ImmunityBio, Inc.
+: 9920 Jefferson Blvd Culver City, CA 90232 United States
+
+Issuing Office:
+: The Office of Prescription Drug Promotion (OPDP)
+: United States
+
+RE: BLA 761336 ANKTIVA® (nogapendekin alfa inbakicept-pmln) solution, for intravesical use MA 75, 80
+
+WARNING LETTER
+
+Dear Richard Adcock:
+
+The Office of Prescription Drug Promotion (OPDP) of the U.S. Food and Drug Administration (FDA) has reviewed the promotional communications, a direct-to-consumer (DTC) broadcast advertisement (US-ANK-250065-v1) (TV ad) submitted by ImmunityBio, Inc. (ImmunityBio) under cover of Form FDA 2253 and a DTC podcast (podcast) titled, “Is the FDA BLOCKING Life Saving Cancer Treatments?” regarding ANKTIVA® (nogapendekin alfa inbakicept-pmln) solution, for intravesical use (Anktiva). The podcast features Dr. Patrick Soon-Shiong 1, Executive Chairman and Global Chief Scientific and Medical Officer for ImmunityBio. The podcast originally aired on The Sean Spicer Show on January 19, 2026, and can also be accessed through ImmunityBio’s website. 2 The FDA Bad Ad Program also received complaints regarding promotional communications for Anktiva. FDA has determined that the TV ad and podcast are false or misleading. Thus, the TV ad and podcast misbrand Anktiva and make the distribution of the drug in violation of the Federal Food, Drug, and Cosmetic Act (FD&C Act). 21 U.S.C. 352(a), (n); 321(n); 331(a). See 21 CFR 202.1 (e)(5); (e)(7)(viii). Furthermore, the TV ad and podcast provide evidence that Anktiva is intended for new uses for which it lacks approval, and for which its labeling does not provide adequate directions for use. 21 U.S.C. 352(f)(1); 331(a). See 21 CFR 201.5; 201.100; 201.115; 201.128. In addition, the podcast was not submitted at the time of initial dissemination or publication as required by 21 CFR 314.81(b)(3)(i). These violations are concerning from a public health perspective because the promotional communications create a misleading impression that Anktiva, a treatment for a certain type of bladder cancer, can cure and even prevent all cancer. Cancer is the second leading cause of death in the United States and a significant public health concern that affects a vulnerable patient population at increased risk of medical complications and adverse outcomes. 3 
+
+Background
+
+Below is the approved indication of Anktiva, a summary of the most serious and most common risks associated with the use of Anktiva 4, and information regarding the administration of Anktiva. According to the INDICATIONS AND USAGE section of the FDA-approved Prescribing Information (PI) (in pertinent part):
+
+ANKTIVA in combination with Bacillus Calmette-Guérin (BCG) is indicated for the treatment of adult patients with BCG-unresponsive nonmuscle invasive bladder cancer (NMIBC) with carcinoma in situ (CIS) with or without papillary tumors.
+
+The PI for Anktiva includes a warning and precaution regarding the risk of metastatic bladder cancer with delayed cystectomy, which can be lethal. The most common adverse reactions reported with use of Anktiva, including laboratory test abnormalities, are increased creatinine, dysuria, hematuria, urinary frequency, micturition urgency, urinary tract infection, increased potassium, musculoskeletal pain, chills, and pyrexia.
+
+Additionally, the DOSAGE AND ADMINISTRATION section of the PI states (in pertinent part, emphasis original):
+
+For Intravesical Use Only. Do NOT administer by subcutaneous or intravenous or intramuscular routes.
+
+Prior Communications
+
+FDA notes that the Untitled Letters dated September 9, 2025, and January 7, 2026, sent to Altor BioScience, LLC (an indirect wholly-owned subsidiary of ImmunityBio, Inc.) addressed presentations of Anktiva that were, in certain respects, similar to presentations in the TV ad and podcast addressed in this letter. In the Untitled Letters, OPDP noted that both the Healthcare Provider Branded webpage and Consumer webpage for Anktiva included efficacy representations based on QUILT-3.032 5, a single-arm study, misleadingly suggesting that QUILT-3.032 provided interpretable results regarding the effects of Anktiva on time-to-event efficacy endpoints. OPDP is concerned that, despite receiving these previous Untitled Letters, ImmunityBio continues to promote Anktiva in a similarly misleading manner.
+
+False or Misleading Claims about Efficacy
+
+Prescription drug advertisements and labeling (promotional communications) misbrand a drug if they are false or misleading with respect to efficacy. The determination of whether a promotional communication is misleading includes, among other things, not only representations made or suggested in the promotional communication, but also the extent to which the promotional communication fails to reveal facts material in light of the representations made or with respect to consequences that may result from the use of the drug as recommended or suggested in the promotional communication.
+
+TV ad and Podcast
+
+The TV ad, which features Richard Adcock as the Chief Executive Officer of ImmunityBio and Dr. Patrick Soon-Shiong as the Executive Chairman & Global Chief and Medical Officer of ImmunityBio, includes representations about the efficacy of Anktiva, such as:
+
+- DR. SOON-SHIONG (00:34): “It's probably the most exciting time, not only in my career, but to be at ImmunityBio. Because we have now the convergence of all technology. There's an ability to actually create a cancer vaccine so that we can treat the tumor, and it doesn't come back.” presented in conjunction with the image of a vial of Anktiva
+
+The podcast, which features the host introducing Dr. Patrick Soon-Shiong as the Global Chief Medical and Technology Officer of ImmunityBio, makes representations about the efficacy of Anktiva such as:
+
+- DR. SOON-SHIONG (13:27): “[Interleukin-15 (IL-15) is a molecule that] stimulates the natural killer (NK) cell and the T cell…the most important molecule that could cure cancer…nobody could figure out how to get IL-15 into your body with a single jab, and that is Anktiva.”
+- ON-SCREEN (13:47): “ANKTIVA BioShield” presented inside a glowing, circular image and “IMMUNITYBIO” prominently presented at the bottom of the frame
+- DR. SOON-SHIONG (19:40): “We have now discovered and developed this drug…approved for bladder cancer, but it actually can treat all cancers…is this little vial that you inject subcutaneously that really is on the path to curing the cancer.” In conjunction with the on-screen claim, “Cancer Therapeutic Vaccine (BioShield).”
+- DR. SOON-SHIONG (47:03): “We have the therapy to prevent cancer if you were exposed to radiation, and that’s Anktiva,” while the screen displays a patient brochure, titled “Getting Started with ANKTIVA®”
+
+The representations in the TV ad and podcast are misleading for multiple reasons. First, the representations in the TV ad and podcast misleadingly suggest that Anktiva will allow all NMIBC patients treated with Anktiva to be cancer-free for the long term, when this has not been demonstrated. According to the CLINICAL STUDIES section of the PI, efficacy of Anktiva was evaluated in the QUILT-3.032 study, a single-arm, multicenter trial in 77 adults with BCG-unresponsive, high-risk, NMIBC with CIS with or without Ta/T1 papillary disease following transurethral resection. The major efficacy outcome measures were complete response (CR) at any time (as defined by negative results for cystoscopy [with transurethral resection of bladder tumor and biopsies as applicable] and urine cytology) and duration of response (DOR). As the papillary component of the tumor was resected prior to treatment with Anktiva and BCG, only the effect on the CIS component could be directly observed. The CR was 62% (95% CI: 51,73) for patients treated with Anktiva and BCG (n=77). Of the 62% of patients who responded, 58% had a DOR greater than or equal to 12 months, and 40% had a DOR greater than or equal to 24 months. Therefore, these data do not support that treatment with Anktiva will allow all NMIBC patients to be cancer-free for the long term, as suggested in the TV ad and podcast, and we are not aware of other data that would support such suggestions. Moreover, the claims and representations that Anktiva is a “single jab” and a “little vial…on the path to curing the cancer” misleadingly suggest that Anktiva has a treatment effect as a single agent. The efficacy of Anktiva was established based on the results of Cohort A of QUILT-3.032, which only studied Anktiva in combination with BCG, while Cohort C, which evaluated Anktiva as a single agent in the same disease setting, was stopped early for futility. 6 We are not aware of data that would support suggestions that Anktiva alone is an effective treatment for NMIBC.
+
+Furthermore, QUILT-3.032 did not provide interpretable results on disease-free survival (DFS), and we are not aware of data that support the efficacy claims and representations that Anktiva can “cure” cancer. As QUILT-3.032 was designed as a single-arm study (i.e., with no comparator arm), and DFS is a time-to-event efficacy endpoint, the reported DFS results are uninterpretable; absent an appropriate comparator, it is not possible to determine if lack of recurrence is attributable to Anktiva or to other factor(s), such as the natural history of the disease. Claims such as “treat the tumor, and it doesn’t come back” and “the most important molecule that could cure cancer…and that is Anktiva” suggest an improvement on the DFS endpoint even though the single-arm design of the QUILT-3.032 study was not capable of establishing improvement on this time-to-event efficacy endpoint.
+
+In addition, the representation in both the TV ad and podcast that Anktiva is a cancer vaccine is false and is further compounded by the claim in the podcast that Anktiva is “the therapy to prevent cancer if you were exposed to radiation.” According to the CLINICAL PHARMACOLOGY, Mechanism of Action section of the PI, Anktiva is an IL-15 receptor agonist that results in proliferation and activation of NK, CD8+ and memory T cells without proliferation of immuno-suppressive Treg cells. Anktiva is not a vaccine, and we are not aware of data showing that Anktiva has a preventative effect in patients without cancer, including patients who have been exposed to radiation.
+
+The consistent and pervasive misleading efficacy claims and representations presented across promotional materials on different platforms are especially concerning from a public health perspective, given that they grossly misrepresent the benefits of Anktiva. We are not aware of data that would support the claims and representations described above.
+
+TV ad and Podcast
+
+The podcast includes the following claims:
+
+- DR. SOON-SHIONG (19:40): “We have now discovered and developed this drug…It’s approved for bladder cancer, but it actually can treat all cancers.”
+- DR. SOON-SHIONG (36:04): “This thing called checkpoint inhibitors…It fails. The only thing that can rescue it is Anktiva…If you have lung cancer, you get radiation, chemotherapy, and you fail. And then you get a checkpoint inhibitor, and you fail. There’s nothing left. The only thing left is this terrible drug called docetaxel…”
+- DR. SOON-SHIONG (47:03): “We have the therapy to prevent cancer if you were exposed to radiation and that’s Anktiva.”
+
+These claims and representations from ImmunityBio, represented by Dr. Soon-Shiong, provide evidence that Anktiva is intended for new uses for which it lacks approval in the United States 7 and for which its labeling does not provide adequate directions for use. Anktiva is not approved as a treatment for “all cancers” or lung cancer after failure of checkpoint inhibitors, nor is it approved for any form of cancer prevention. Anktiva’s labeling does not contain adequate directions for such uses, thereby rendering the drug misbranded.
+
+These claims and representations, which misleadingly suggest that Anktiva is safe and effective for uses for which it is not approved, are especially concerning from a public health perspective. Bladder cancer represents only 4.2% of the estimated 2,041,910 new cancer cases in 2025 8 and BCG-unresponsive, high-risk, NMIBC with CIS with or without papillary tumors represents an even smaller proportion of these cases. These broad promotional claims misleadingly suggest that Anktiva has been shown to be appropriate for use in the vast majority of patients with cancer when it is only approved for use in patients with a specific type of NMIBC.
+
+In addition, the representations made in both the TV ad and podcast provide evidence that Anktiva is intended for use as an injection, including subcutaneously, even though its labeling does not provide adequate directions for use in this manner. As noted above, Dr. Soon-Shiong refers to Anktiva as a “single jab” and a “little vial that you inject subcutaneously” during the podcast. Similarly, after introducing Anktiva and referring to its approval, the TV ad displays the Anktiva logo on the entire screen, in large font, followed by footage of a vial of Anktiva being removed from its carton. The TV ad then presents a close-up view of a vial of Anktiva being picked up, followed by a health care practitioner preparing to administer a dose, and then a patient in a chair after an injection. Subsequently, another patient is being injected in the arm with a syringe. However, according to the DOSAGE AND ADMINISTRATION section of the PI, Anktiva is for intravesical use only, and should not be administered by subcutaneous or intravenous or intramuscular routes. These representations from the TV ad and podcast, which erroneously suggest that Anktiva has been shown to be safe and effective for use in injectable routes of administration, are particularly alarming from a public health perspective given that the safety and efficacy of Anktiva when administered via a route other than intravesically are unknown at this time.
+
+False or Misleading Risk Presentation
+
+Promotional communications misbrand a drug if they are false or misleading with respect to risk. The determination of whether a promotional communication is misleading includes, among other things, not only representations made or suggested in the promotional communication, but also the extent to which the promotional communication fails to reveal facts material in light of the representations made or with respect to consequences that may result from the use of the drug as recommended or suggested in the promotional communication.
+
+The TV ad and podcast are misleading because they fail to present information relating to warnings and precautions and side effects associated with the drug with a prominence and readability reasonably comparable with the presentation of information relating to the benefits of the drug.
+
+TV ad
+
+The TV ad prominently presents several representations about the benefits of Anktiva. For example, the TV ad includes attention-grabbing visuals of vials of Anktiva and multiple patients receiving treatment along with claims such as “treat the tumor” and “cancer free.” In contrast, risk information is presented only at the end of the TV ad after the Voiceover states, “To learn more, visit immunitybio.com” and the screen fades to black, which typically signals the close or end of a presentation. Additionally, the TV ad does not present any signal to alert the viewer that important risk information is presented after the close of the TV ad. The overall effect of this presentation undermines the communication of important risk information and thereby misleadingly minimizes the risks associated with the use of Anktiva.
+
+Podcast
+
+The podcast is misleading because it includes claims and representations about the benefits of Anktiva but fails to communicate any risk information. For example, at approximately 9 minutes and 59 seconds into the episode, the landing page of the consumer website 9 for Anktiva is displayed on screen with the claim “Think 53+ months duration of response.” Additionally, Dr. Soon-Shiong states (in pertinent part) that “IL-15 stimulates the natural killer cell and the T cell. That’s why they called it the most important molecule that could cure cancer…They couldn’t figure out, nobody could figure out how to get this IL-15 into your body…and that is Anktiva.” He also talks about Anktiva as the “BioShield…It’s approved for bladder cancer…on the path to curing the cancer…” and states, “If you have CIS and papillary, I can treat you. It’s approved.” However, the podcast includes no risk information. By omitting risk information associated with Anktiva, the podcast fails to provide material information about the consequences that may result from the use of the drug and creates a misleading impression about the drug’s safety.
+
+TV ad and Podcast
+
+The TV ad and podcast are misleading because they fail to provide material information regarding Anktiva’s full FDA-approved indication. Specifically, the INDICATIONS AND USAGE section of the PI states the following (underlined emphasis added):
+
+ANKTIVA in combination with Bacillus Calmette-Guérin (BCG) is indicated for the treatment of adult patients with BCG-unresponsive nonmuscle invasive bladder cancer (NMIBC) with carcinoma in situ (CIS) with or without papillary tumors.
+
+The TV ad suggests the use of Anktiva for the treatment of nonmuscle invasive CIS bladder cancer, but it does not specify that Anktiva is indicated for use in combination with BCG for adult patients with BCG-unresponsive NMIBC with CIS with or without papillary tumors. Additionally, the podcast suggests the use of Anktiva for the treatment of bladder cancer generally and “for CIS with or without papillary” bladder cancer but does not specify that Anktiva is indicated for use in combination with BCG for adult patients with BCGunresponsive NMIBC. We are not aware of data sufficient to demonstrate that Anktiva is effective for uses that depart from the approved indication.
+
+By failing to disclose the full indication associated with Anktiva, the TV ad and podcast create a misleading impression about the FDA-approved indication for Anktiva. We acknowledge that the full indication is presented at the end of the TV ad. However, it is presented after the screen fades to black, which typically signals the close or end of a presentation; therefore, this does not mitigate the misleading impression. This is especially concerning given the misleading representations made in the TV ad and podcast that suggest Anktiva “actually can treat all cancers” and that Anktiva is “the therapy to prevent cancer if you were exposed to radiation.”
+
+Podcast
+
+FDA regulations require any labeling or advertising devised for promotion of the drug product to be submitted at the time of initial dissemination of the labeling and at the time of initial publication of the advertisement for a prescription drug product. Each submission is required to be accompanied by a completed transmittal Form FDA 2253 (Transmittal of Advertisements and Promotional Labeling for Drugs for Human Use) and is required to include a copy of the product’s current professional labeling. A copy of the podcast was not submitted to FDA under cover of Form FDA 2253 at the time of initial publication or dissemination as required by 21 CFR 314.81(b)(3)(i).
+
+Conclusion and Requested Action
+
+For the reasons described above, the TV ad and podcast misbrand Anktiva and make the distribution of the drug in violation of the FD&C Act. 21 U.S.C. 352(a), (n), (f)(1); 321(n); 331(a). See 21 CFR 202.1 (e)(5); (e)(7)(viii). See 21 CFR 201.5; 201.100; 201.115; 201.128. Furthermore, ImmunityBio did not comply with 21 CFR 314.81(b)(3)(i).
+
+This letter notifies you of our concerns and provides you with an opportunity to address them. You should take immediate action to address any violations (including, for example, ceasing and desisting promotional communications that are misleading as described above). Failure to adequately address any violations may result in legal action without further notice, including, without limitation, seizure and injunction.
+
+Please submit a written response to this letter within 15 working days from the date of receipt, addressing the concerns described in this letter, listing all other promotional communications (with the 2253 submission date) for Anktiva that contain representations such as those described above, and explaining your plan for discontinuation of such communications, or for ceasing distribution of Anktiva.
+
+If you believe that your products are not in violation of the FD&C Act, please include in your submission to us your reasoning and any supporting information for our consideration within 15 working days from the date of receipt of this letter.
+
+Additionally, we request that your submission include a comprehensive plan of action to disseminate truthful, non-misleading, and complete corrective communication(s) about the concern(s) discussed in this letter. The corrective communication(s) should be disseminated to the audience(s) that received the promotional communication(s) identified in the opening paragraph of this letter. We recommend that corrective communication(s) include a description of the promotional communication(s) identified in this letter, which misbrand Anktiva; include a summary of the concern(s) described in this letter; and provide information to correct each of these concern(s). Corrective communication(s) should be free of promotional claims and presentations. To the extent possible, corrective communication(s) should be distributed using the same media, and generally for the same duration of time and with the same frequency as the promotional communication(s) identified in the opening paragraph of this letter.
+
+The concerns discussed in this letter do not necessarily constitute an exhaustive list of potential violations. It is your responsibility to ensure compliance with each applicable requirement of the FD&C Act and FDA implementing regulations.
+
+Please direct your response to the undersigned at the Food and Drug Administration, Center for Drug Evaluation and Research, Office of Prescription Drug Promotion, 5901-B Ammendale Road, Beltsville, Maryland 20705-1266. A courtesy copy can be sent by facsimile to (301) 847-8444. Please refer to MA 75 and MA 80 in addition to the BLA number in all future correspondence relating to this particular matter. All correspondence should include a subject line that clearly identifies the submission as a Response to Warning Letter. You are encouraged, but not required, to submit your response in eCTD format. All correspondence submitted in response to this letter should be placed under eCTD Heading 1.15.1.6. Additionally, the response submission should be coded as an Amendment to eCTD Sequence 0219 under BLA 761336. Questions related to the submission of your response letter should be emailed to CDER-OPDP-RPM@fda.hhs.gov.
+
+Sincerely, {See appended electronic signature page} Kathleen Klemm, PharmD, MS, RAC Acting Director Division of Advertising & Promotion Review 1 Office of Prescription Drug Promotion -------------------------------------------------------------------------------------------- This is a representation of an electronic record that was signed electronically. Following this are manifestations of any and all electronic signatures for this electronic record. -------------------------------------------------------------------------------------------- /s/ ------------------------------------------------------------ KATHLEEN KLEMM 03/13/2026 12:41:50 PM
+
+1 Dr. Patrick Soon-Shiong is Executive Chairman of the Board and Global Chief Scientific and Medical Officer, ImmunityBio, Inc. ImmunityBio website. Accessed March 13, 2026. https://immunitybio.com/about/
+
+2 This podcast is available on the ImmunityBio “News and Events” webpage. Accessed March 13, 2026. https://immunitybio.com/is-the-fda-blocking-life-saving-cancer-treatments/
+
+3 National Center for Health Statistics: Mortality in the United States, 2024. Centers for Disease Control and Prevention. Accessed March 13, 2026. https://www.cdc.gov/nchs/products/databriefs/db548.htm
+
+4 This information is for background purposes only and does not necessarily represent the risk information that should be included in the promotional communication(s) cited in this letter.
+
+5 Chang S. An update on QUILT-3.032: durable complete responses to NAI (ANKTIVA) plus BCG therapy in BCG-unresponsive CIS with or without Ta/T1 papillary disease and in papillary disease without CIS. Presented at: AUA2025; April 26-29, 2025; Las Vegas, NV.
+
+6 Chamie K, Chang SS, Kramolowsky E, et al. IL-15 Superagonist NAI in BCG-Unresponsive Non-Muscle-Invasive Bladder Cancer. NEJM Evid. 2022;2(1). doi:10.1056/EVIDoa2200167
+
+7 We note that the Saudi Food and Drug Authority (SFDA) has granted conditional approval for Anktiva (nogapendekin alfa inbakicept) in combination with immunotherapy for adult patients with metastatic non-small cell lung cancer (NSCLC) whose disease has progressed after standard of care.
+
+8 National Cancer Institute: Surveillance, Epidemiology, and End Results Program. Accessed March 13, 2026. https://seer.cancer.gov/statfacts/html/all.html
+
+9 Anktiva. ImmunityBio, Inc. Accessed March 13, 2026. https://www.anktiva.com
+
+Promotion Material
+
+ Contact Number 1-888-INFO-FDA (1-888-463-6332)
+
+# Eli Lilly and Company - 716462 - 09/09/2025 | FDA

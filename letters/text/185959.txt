@@ -1,0 +1,131 @@
+Author: FDA/CDER
+
+DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+
+Food and Drug Administration Silver Spring, MD 20993
+
+Chris Jewell, JD, MBA 
+Senior Vice President and General Counsel 
+Taiho Oncology, Inc. 
+101 Carnegie Center, Suite 101 
+Princeton, NJ 08540 
+RE: NDA 214801 
+LYTGOBI® (futibatinib) tablets, for oral use 
+MA 89 
+Dear Chris Jewell: 
+The Office of Prescription Drug Promotion (OPDP) of the U.S. Food and Drug Administration 
+(FDA) has reviewed the promotional communication, the “Efficacy Results” webpage1 
+(webpage) on the LYTGOBI Healthcare Provider Branded Website (FUTI-PM-US-0024 v2)2 
+(website) for LYTGOBI® (futibatinib) tablets, for oral use (Lytgobi) submitted by Taiho 
+Oncology, Inc. (Taiho) under cover of Form FDA 2253. 
+The webpage makes false or misleading representations about the benefits of Lytgobi. Thus, 
+the webpage misbrands Lytgobi within the meaning of the Federal Food, Drug, and Cosmetic 
+Act (FD&C Act) and makes its distribution violative. 21 U.S.C. 352(a), (n); 321(n); 331(a). 
+See 21 CFR 202.1(e)(5). These violations are particularly concerning because the 
+promotional communication makes misleading representations about the efficacy of Lytgobi 
+in patients with previously treated, unresectable, locally advanced or metastatic intrahepatic 
+cholangiocarcinoma (iCCA) harboring fibroblast growth factor receptor 2 (FGFR2) gene 
+fusions or other rearrangements. Intrahepatic bile duct cancers have an estimated 5-year 
+relative survival rate of 9%.3 Unresectable, locally advanced or metastatic iCCA is a serious 
+public health concern as this unresectable cancer cannot be removed completely by surgery 
+and treatment for this condition involves serious risks.4 
+
+Background Below are the indication and summary of the most serious and most common risks
+
+1 The “Efficacy Results” webpage is accessed from the “Efficacy & Safety” sub-navigation menu of the website: https://www.lytgobi.com/hcp/efficacy-and-safety/efficacy-results (last accessed March 19, 2025). 2 The material ID referenced on the “Efficacy Results” webpage includes “v2.” 3 American Cancer Society: Survival Rates for Bile Duct Cancer. See: https://www.cancer.org/cancer/types/bile duct-cancer/detection-diagnosis-staging/survival-by-stage.html (last accessed March 19, 2025). 4 National Cancer Institute: What Is Bile Duct Cancer (Cholangiocarcinoma)? See: https://www.cancer.gov/types/liver/bile-duct-cancer (last accessed March 19, 2025).
+
+False or Misleading Benefit Presentation Prescription drug advertisements and labeling (promotional communications) misbrand a drug if they are false or misleading with respect to benefits. The determination of whether a promotional communication is misleading includes, among other things, not only representations made or suggested in the promotional communication, but also the extent to which the promotional communication fails to reveal facts material in light of the representations made or with respect to consequences that may result from the use of the drug as recommended or suggested in the promotional communication. The “Efficacy Results” webpage, under the “Efficacy & Safety” sub-navigation menu of the website for Lytgobi, includes the following in conjunction with efficacy representations regarding PFS and OS (in pertinent part, emphasis original, footnotes omitted):
+
+• Presentation of a Kaplan-Meier estimate graph of PFS titled, “Progression-free survival (PFS),” showing “Progression-free Survival (%)” on the y-axis and “Months” on the x axis o “Median [PFS], 9.0 mo (95% CI: 6.9, 13.1)” o “Median follow-up at time of data cutoff was 17.1 months” 
+• Presentation of a Kaplan-Meier estimate graph of OS titled, “Overall survival (OS),” showing “Overall Survival (%)” on the y-axis and “Months” on the x-axis o “Median [OS], 21.7 mo (95% CI: 14.5, Not Reached)” o “At the time of data cutoff: Median follow-up was 17.1 months; the OS data were not mature; during the study, 40 patients (39%) died following treatment discontinuation with the majority (90%) dying from disease progression.” Similarly, the “Efficacy Results” webpage includes the following representations under the “Supplementary results” bolded header (in pertinent part, emphasis original): 
+• “Efficacy results at extended follow-up” 
+• “At a nonprespecified follow-up analysis conducted 8 months after the primary analysis (data cutoff, May 29, 2021; median follow-up, 25.0 months), efficacy in the overall study population was maintained with: . . . o “median PFS of 8.9 months” o “median OS of 20.0 months” 
+
+As a reference for these representations, you cite a publication and two abstract presentations from Goyal, et al, which include results from the FOENIX-CCA2 trial. 7,8,9
+
+These parts of the webpage misbrand Lytgobi by misleadingly suggesting that FOENIX 
+CCA2 provided interpretable results regarding the effects of Lytgobi on PFS and OS 
+endpoints, even though the design of the FOENIX-CCA2 study was not capable of 
+establishing improvement on time-to-event efficacy endpoints such as OS or PFS. 
+Specifically, because FOENIX-CCA2 was designed as a single-arm trial (i.e., with no 
+comparator arm), and PFS and OS are time-to-event efficacy endpoints, the reported PFS 
+and OS results are uninterpretable; absent an appropriate comparator, it is not possible to 
+determine if the observed effect is attributable to Lytgobi or to other factor(s), such as the 
+natural history of the disease. 
+We acknowledge that the following text appears above the PFS and OS presentations, under 
+the bolded heading “FOENIX-CAA2: Additional endpoints” (in pertinent part, emphasis 
+original, footnotes omitted): 
+• Due to potential variability in the natural history of the disease, a single-arm study may not adequately characterize these time-to-event endpoints and the results may not be interpretable 
+• This data presentation is neither intended to draw conclusions regarding the efficacy of LYTGOBI nor to imply that there is a treatment effect of LYTGOBI on these time-to-event endpoints and the results should be interpreted with caution In addition, after the representations regarding efficacy results at extended follow-up, the following text appears in conjunction with the PFS and OS presentations: “The extended follow-up data were collected after the primary analysis and are descriptive in nature, and results should be interpreted with caution.” However, including these statements in Lytgobi promotional communications, along with misleading representations about Lytgobi’s efficacy (i.e., PFS and OS results from FOENIX-CCA2), does not render the promotional communication nonmisleading in light of the issues with FOENIX-CCA2 (explained above) that make the study incapable of supporting representations or suggestions that these results are attributable to the effect of Lytgobi. The “Efficacy Results” webpage also includes the following efficacy presentations regarding DCR (in pertinent part, emphasis original, footnotes omitted): 
+• “Disease control rate (DCR) (n=103)” 
+7 Goyal L, Meric-Bernstam F, Hollebecque A, et al. Futibatinib for FGFR2-Rearranged Intrahepatic 
+Cholangiocarcinoma. N Engl J Med. 2023;388(3):228-239. 
+8 Goyal L, Meric-Bernstam F, Hollebecque A, et al. Primary results of phase 2 FOENIX-CCA2: the irreversible 
+FGFR1–4 inhibitor futibatinib in intrahepatic cholangiocarcinoma with FGFR2 fusions/rearrangements. Abstract 
+presented at: American Association for Cancer Research Annual Meeting; April 10-15, 2021, and May 17-21, 
+2021. Abstract CT010. 
+9 Goyal L, Meric-Bernstam F, Hollebecque A, et al. Updated results of the FOENIX-CCA2 trial: Efficacy and 
+safety of futibatinib in intrahepatic cholangiocarcinoma (iCCA) harboring FGFR2 fusions/rearrangements. 
+Abstract presented at ASCO Annual Meeting 2022. Abstract 4009. J Clin Oncol. 2022;40(16 suppl). 
+
+Chris Jewell Page 5 
+Taiho Oncology, Inc. 
+NDA 214801/MA 89 
+• “83% DCR (95% CI: 74, 89)” depicted inside of a pie chart that includes shading to show the 83% DCR Similarly, the following representation regarding efficacy results at extended follow-up is presented on the “Efficacy Results” webpage: “At a nonprespecified follow-up analysis conducted 8 months after the primary analysis (data cutoff, May 29, 2021; median follow-up, 25.0 months), efficacy in the overall study population was maintained with … DCR of 82.5%.” As provided on this webpage, DCR is defined as “the sum of complete response, partial response, and stable disease.” These presentations make these promotional communications misleading by suggesting that Lytgobi improves DCR in patients with locally advanced or metastatic iCCA based on a composite of complete response (CR), partial response (PR), and stable disease (SD) when the study from which the presentations were drawn could not demonstrate this result. Lytgobi was approved based on an effect shown on overall response rate (ORR) and duration of response endpoints in FOENIX-CCA2, a single arm trial. In FOENIX-CCA2, the endpoint of ORR was comprised only of PR + CR, as defined by the Response Evaluation Criteria in Solid Tumors (RECIST) v 1.1.10 Because FOENIX-CCA2 was designed as a single arm trial, the study did not establish that the SD result was attributable to the effect of the drug; for example, the result may instead reflect the natural history of the disease. An assessment of delay in time to disease progression in patients treated with Lytgobi (i.e., an assessment of SD) would need to be based on the results of a randomized controlled trial. You cite the same publication and presentations from Goyal, et al, that are referenced above in support of these representations.7,8,9 These references include results from FOENIX CCA2. However, it is misleading to include in promotional communications representations or suggestions that rely on a study or studies whose design is not capable of supporting such representations or suggestions. Here, as already noted, since FOENIX-CCA2 was a single arm trial, it is not known whether the data on SD are attributable to treatment with Lytgobi. Consequently, the DCR calculations, which are based on a composite that includes SD data, are not supported by the data cited. In addition to the disclosures of the study’s limitations noted previously, we acknowledge that the following text appears in conjunction with the DCR presentations regarding the results from the primary analysis: “FOENIX-CCA2 was a single arm study. In this setting, the DCR results may reflect the natural history of cholangiocarcinoma in an individual patient, rather than the direct effect of treatment.” In addition, we acknowledge that the following text appears with the “efficacy results at extended follow-up” representation: “The extended follow-up data were collected after the primary analysis and are descriptive in nature, and results should be interpreted with caution.” However, for the reasons discussed above, these promotional communications make misleading representations or suggestions about the efficacy of Lytgobi through the presentation of DCR calculations that include SD and that are based on the FOENIX-CCA2 study, which, as a single-arm trial, is not capable of supporting such representations or 
+
+10 Response was measured using the Response Evaluation Criteria in Solid Tumors (RECIST) v 1.1., which defines the evaluation of target lesions as the following: Complete Response (CR): Disappearance of all target lesions. Partial Response (PR): At least a 30% decrease in the sum of diameters of target lesions, taking as reference the baseline sum diameters. Progressive Disease (PD): At least a 20% increase in the sum of diameters of target lesions, taking as reference the smallest sum on study. In addition to the relative increase of 20%, the sum must also demonstrate an absolute increase of at least 5 mm. Stable Disease (SD): Neither sufficient shrinkage to qualify for PR nor sufficient increase to qualify for PD, taking as reference the smallest sum diameters while on study. See: https://ctep.cancer.gov/protocoldevelopment/docs/recist guideline.pdf.
+
+Chris Jewell Page 6 
+Taiho Oncology, Inc. 
+NDA 214801/MA 89 
+suggestions. The disclosures of the study’s limitations (noted above) in this promotional 
+communication do not correct or mitigate the misleading representations or suggestions of 
+the presentation. 
+Conclusion and Requested Action 
+For the reasons discussed above, the webpage misbrands Lytgobi within the meaning of the 
+FD&C Act and makes its distribution violative. 21 U.S.C. 352(a), (n); 321(n); 331(a). See 21 
+CFR 202.1(e)(5). 
+This letter notifies you of our concerns and provides you with an opportunity to address them. 
+OPDP requests that Taiho cease any violations of the FD&C Act. Please submit a written 
+response to this letter within 15 working days from the date of receipt, addressing the 
+concerns described in this letter, listing all promotional communications (with the 2253 
+submission date) for Lytgobi that contain representations like those described above, and 
+explaining your plan for the timely discontinuation of such communications, or for ceasing 
+distribution of Lytgobi. 
+If you believe that your products are not in violation of the FD&C Act, please include in your 
+submission to us your reasoning and any supporting information for our consideration within 
+15 working days from the date of receipt of this letter. 
+The concerns discussed in this letter do not necessarily constitute an exhaustive list of 
+potential violations. It is your responsibility to ensure compliance with each applicable 
+requirement of the FD&C Act and FDA implementing regulations. 
+Please direct your response to the undersigned at the Food and Drug Administration, 
+Center for Drug Evaluation and Research, Office of Prescription Drug Promotion, 5901- 
+B Ammendale Road, Beltsville, Maryland 20705-1266. A courtesy copy can be sent by 
+facsimile to (301) 847-8444. Please refer to MA 89 in addition to the NDA number in all 
+future correspondence relating to this particular matter. All correspondence should include a 
+subject line that clearly identifies the submission as a Response to Untitled Letter. You are 
+encouraged, but not required, to submit your response in eCTD format. All correspondence 
+submitted in response to this letter should be placed under eCTD Heading 1.15.1.6. 
+
+Additionally, the response submission should be coded as an Amendment to eCTD Sequence 5046 under NDA 214801. Questions related to the submission of your response letter should be emailed to the OPDP RPM at CDER-OPDP-RPM@fda.hhs.gov.
+
+Sincerely, 
+{See appended electronic signature page} 
+Rebecca Falter, PharmD, BCACP 
+Regulatory Review Officer 
+Division of Advertising & Promotion Review 1 
+Office of Prescription Drug Promotion 
+
+{See appended electronic signature page} Emily Dvorsky, PharmD, RAC Team Leader Division of Advertising & Promotion Review 1 Office of Prescription Drug Promotion
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Signature Page 1 of 1
+
+## This is a representation of an electronic record that was signed electronically. Following this are manifestations of any and all electronic signatures for this electronic record.
+
+REBECCA A FALTER 03/21/2025 09:30:50 AM
+
+EMILY M DVORSKY 03/21/2025 09:53:18 AM
+
+

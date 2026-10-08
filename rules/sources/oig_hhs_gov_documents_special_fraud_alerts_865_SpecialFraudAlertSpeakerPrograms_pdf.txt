@@ -1,0 +1,206 @@
+SOURCE_URL: https://oig.hhs.gov/documents/special-fraud-alerts/865/SpecialFraudAlertSpeakerPrograms.pdf
+
+Author: HHS-OIG-OCIG
+
+Special Fraud Alert: Speaker Programs
+
+November 16, 2020 
+I. Introduction 
+This Special Fraud Alert highlights the fraud and abuse risks associated with the offer, 
+payment, solicitation, or receipt of remuneration relating to speaker programs by 
+pharmaceutical and medical device companies. For purposes of this Special Fraud Alert, 
+speaker programs are generally defined as company-sponsored events at which a 
+physician or other health care professional (collectively, “HCP”) makes a speech or 
+presentation to other HCPs about a drug or device product or a disease state on behalf of 
+the company. The company generally pays the speaker HCP an honorarium, and often 
+pays remuneration (for example, free meals) to the attendees. In the last three years, drug 
+and device companies have reported paying nearly $2 billion to HCPs for speaker-related 
+services. 1 
+The Office of Inspector General (OIG) and Department of Justice (DOJ) have 
+investigated and resolved numerous fraud cases involving allegations that remuneration 
+offered and paid in connection with speaker programs violated the anti-kickback statute. 
+The Federal government has pursued civil and criminal cases against companies and 
+individual HCPs involving speaker programs. These cases alleged, for example, that 
+drug and device companies: 
+ selected high-prescribing HCPs to be speakers and rewarded them with 
+lucrative speaker deals (e.g., some HCPs received hundreds of thousands of 
+dollars for speaking); 2 
+1 Drug and device companies are required to report certain payments made to HCPs to the Centers for Medicare & 
+Medicaid Services (CMS). CMS makes this information publicly available on its Open Payments website. 
+According to Open Payments, drug and device companies paid HCPs nearly $2 billion under the category 
+“compensation for services other than consulting, including serving as faculty or as a speaker at a venue other 
+than a continuing education program” for years 2017, 2018, and 2019 combined. Open Payments Complete 2017, 
+2018, and 2019 Program Year Datasets, CMS, https://www.cms.gov/OpenPayments/Explore-the-Data/Data 
+Overview (accessed Sept. 9, 2020). 
+2 Though not addressed in this Special Fraud Alert, remuneration paid by drug and device companies relating to the 
+training of HCP speakers also may raise fraud and abuse risks. 
+1 
+ conditioned speaker remuneration on sales targets (e.g., required speaker 
+HCPs to write a minimum number of prescriptions in order to receive the 
+speaker honoraria); 
+ held speaker programs at entertainment venues or during recreational 
+events or otherwise in a manner not conducive to an educational 
+presentation (e.g., wineries, sports stadiums, fishing trips, golf clubs, and 
+adult entertainment facilities); 
+ held programs at high-end restaurants where expensive meals and alcohol 
+were served (e.g., in one case, the average food and alcohol cost per 
+attendee was over $500); and 
+ invited an audience of HCP attendees who had previously attended the 
+same program or HCPs’ friends, significant others, or family members who 
+did not have a legitimate business reason to attend the program. 
+Our enforcement experience demonstrates that some companies expend significant 
+resources on speaker programs and that some HCPs receive substantial remuneration 
+from companies. This Special Fraud Alert highlights some of the inherent fraud and 
+abuse risks associated with the offer, payment, solicitation, or receipt of remuneration 
+related to company-sponsored speaker programs. 
+II. The Anti-Kickback Statute 
+Congress enacted the anti-kickback statute, in part, to protect patients from referrals or 
+recommendations by HCPs who may be influenced by inappropriate financial incentives. 
+The anti-kickback statute makes it a criminal offense to knowingly and willfully solicit, 
+receive, offer, or pay any remuneration to induce or reward, among other things, referrals 
+for, or orders of, items or services reimbursable by a Federal health care program. 3 When 
+remuneration is paid purposefully to induce or reward referrals of items or services 
+payable by a Federal health care program, the anti-kickback statute is violated. For 
+purposes of the anti-kickback statute, the offer, payment, solicitation, or receipt of 
+“remuneration” includes the transfer of anything of value, directly or indirectly, overtly 
+
+3 See section 1128B(b)(1)–(2) of the Social Security Act; 42 U.S.C. § 1320a-7b(b)(1)–(2). The anti-kickback statute applies broadly to remuneration to induce or reward referrals of patients as well as the payment of remuneration intended to induce or reward the purchasing, leasing, or ordering of, or arranging for or recommending the purchasing, leasing, or ordering of, any item or service reimbursable by any Federal health care program. In this Special Fraud Alert, we use the term “referral” to include the full range of these types of activities (including ordering or prescribing items) that falls within the scope of the anti-kickback statute. 2
+
+or covertly, in cash or in kind. By its terms, the statute ascribes criminal liability to all parties to an impermissible “kickback” transaction (i.e., those who solicit or receive prohibited remuneration as well as those who offer or pay the prohibited remuneration). Violation of the statute is a felony punishable by a maximum fine of $100,000, imprisonment up to 10 years, or both. Criminal conviction will also lead to mandatory exclusion from Federal health care programs, including Medicare and Medicaid. 4 OIG may also initiate administrative proceedings to exclude persons from the Federal health care programs and impose civil money penalties for conduct prohibited by the anti kickback statute. 5
+
+III. Fraud and Abuse Risks of Speaker Programs 
+Numerous investigations have involved allegations that drug and device companies 
+organize and pay for speaker programs with the intent to induce HCPs to prescribe or 
+order (or recommend the prescription or ordering of) the companies’ products. Speaker 
+programs typically involve an HCP who is not an employee of the company speaking in 
+person to other HCPs about a company product or disease state using a presentation 
+developed and approved by the company. According to a pharmaceutical industry trade 
+group, HCPs “participate in company-sponsored speaker programs in order to help 
+educate and inform other health care professionals about the benefits, risks, and 
+appropriate uses of company medicines.” 6 
+
+OIG is skeptical about the educational value of such programs. Our investigations have revealed that, often, HCPs receive generous compensation to speak at programs offered under circumstances that are not conducive to learning or to speak to audience members who have no legitimate reason to attend. Such cases strongly suggest that one purpose of the remuneration to the HCP speaker and attendees is to induce or reward referrals. Furthermore, studies have shown that HCPs who receive remuneration from a company are more likely to prescribe or order that company’s products. 7 This remuneration to
+
+4 See 42 U.S.C. § 1320a-7(a). 
+5 See 42 U.S.C. § 1320a-7(b)(7); § 1320a-7a(a)(7). 
+6 Code on Interactions with Health Care Professionals, PhRMA, 7 (June 2020), available at 
+https://phrma.org/Codes-and-guidelines/Code-on-Interactions-with-Health-Care-Professionals. A device industry 
+trade group also addresses this topic and interactions with HCPs generally in its code of ethics. See AdvaMed 
+Code of Ethics, AdvaMed (July 2020), available at https://www.advamed.org/resource-center/advamed-code 
+ethics-2020. 
+7 Amarnath Annapureddy et al., Association Between Industry Payments to Physicians and Device Selection in ICD 
+Implantation, 324 JAMA 17, 2020, at 1759, 1762–63; William Fleischman et al., Association between payments 
+from manufacturers of pharmaceuticals to physicians and regional prescribing: cross sectional ecological study, 
+354 BMJ i4189, 2016, at 1, 4–7; James P. Orlowski & Leon Wateska, The effects of pharmaceutical firm 
+enticements on physician prescribing patterns. There’s no such thing as a free lunch., 102 CHEST, 1992, 270. 
+3 
+HCPs may skew their clinical decision making in favor of their own and the company’s 
+financial interests, rather than the patient’s best interests. 
+There are many other ways for HCPs to obtain information about drug and device 
+products and disease states that do not involve remuneration to HCPs. HCPs can access 
+the same or similar information provided in a speaker program using various online 
+resources, the product’s package insert, third-party educational conferences, medical 
+journals, and more. The availability of this information through means that do not 
+involve remuneration to HCPs further suggests that at least one purpose of remuneration 
+associated with speaker programs is often to induce or reward referrals. 
+Parties involved in speaker programs may be subject to increased scrutiny. These include 
+any drug or device company that organizes or pays remuneration associated with the 
+program, any HCP who is paid to speak, and any HCP attendees who receive 
+remuneration from the company (e.g., free food and drink). OIG has long expressed 
+concerns over the practice of drug and device companies providing anything of value to 
+HCPs in a position to make or influence referrals to such companies’ products. In the 
+2003 OIG Compliance Program Guidance for Pharmaceutical Manufacturers, 8 OIG 
+identified manufacturer compensation relationships with physicians connected directly or 
+indirectly to marketing and sales activities, including speaking activities, as an area of 
+potential risk under the anti-kickback statute. OIG noted that when a drug or device 
+company engages in “entertainment, recreation, travel, meals or other benefits in 
+association with information or marketing presentations,” such arrangements may 
+potentially implicate the anti-kickback statute. 9 
+
+OIG also warned physicians that a consultant or speaking arrangement with a drug or device company could be an improper inducement “to prescribe or use [company] products on the basis of . . . loyalty to the company or to get more money from the company, rather than because it is the best treatment for the patient.” 10 OIG recommended that physicians consider the propriety of any proposed relationship with a company and advised that if the basis for a physician’s compensation “is your ability to
+
+8 OIG Compliance Program Guidance for Pharmaceutical Manufacturers, 68 Fed. Reg. 23731 (May 5, 2003), 
+available at https://oig.hhs.gov/authorities/docs/03/050503FRCPGPharmac.pdf. The guidance is not limited to 
+pharmaceutical manufacturers; it states, “the compliance program elements and potential risk areas addressed in 
+this compliance program guidance may also have application to manufacturers of other products that may be 
+reimbursed by [F]ederal health care programs, such as medical devices and infant nutritional products.” Id. at 
+23742, n.5. 
+9 Id. at 23738. 
+10 A Roadmap for New Physicians, Avoiding Medicare and Medicaid Fraud and Abuse, HHS-OIG, 22 (Nov. 2010), 
+available at https://oig.hhs.gov/compliance/physician-education/roadmap_web_version.pdf; OIG Compliance 
+Program for Individual and Small Group Physician Practices, 65 Fed. Reg. 59434 (Oct. 5, 2000), available at 
+https://oig.hhs.gov/authorities/docs/physician.pdf. 
+
+prescribe a drug or use a medical device or refer your patients for particular services or 
+supplies, the proposed consulting arrangement likely is one you should avoid as it could 
+violate fraud and abuse laws.” 11 Again, we note that HCPs could face liability under the 
+anti-kickback statute for knowingly and willfully soliciting or receiving remuneration in 
+connection with speaker programs in return for prescribing or ordering products 
+reimbursable by a Federal health care program. 
+OIG recognizes that the lawfulness of any remunerative arrangement, including speaker 
+program arrangements, under the anti-kickback statute depends on the facts and 
+circumstances and intent of the parties. Such intent may be evidenced by the speaker 
+program’s characteristics and the actual conduct of the parties involved. Below we 
+describe some characteristics, which, taken separately or together, potentially indicate a 
+speaker program arrangement that could violate the anti-kickback statute. As previously 
+stated, drug and device companies that host or pay for such speaker programs and HCPs 
+who speak at or attend such programs could be liable under the anti-kickback statute for 
+any prohibited remuneration. This list of suspect characteristics is illustrative, not 
+exhaustive, and the presence or absence of any one of these factors is not determinative 
+of whether a particular arrangement would be suspect under the anti-kickback statute. 
+ The company sponsors speaker programs where little or no substantive 
+information is actually presented; 
+ Alcohol is available or a meal exceeding modest value is provided to the 
+attendees of the program (the concern is heightened when the alcohol is 
+free); 
+ The program is held at a location that is not conducive to the exchange of 
+educational information (e.g., restaurants or entertainment or sports 
+venues); 
+ The company sponsors a large number of programs on the same or 
+substantially the same topic or product, especially in situations involving no 
+recent substantive change in relevant information; 
+ There has been a significant period of time with no new medical or 
+scientific information nor a new FDA-approved or cleared indication for 
+the product; 
+
+11 Id. at 23.
+
+ HCPs attend programs on the same or substantially the same topics more 
+than once (as either a repeat attendee or as an attendee after being a speaker 
+on the same or substantially the same topic); 
+ Attendees include individuals who don’t have a legitimate business reason 
+to attend the program, including, for example, friends, significant others, or 
+family members of the speaker or HCP attendee; employees or medical 
+professionals who are members of the speaker’s own medical practice; staff 
+of facilities for which the speaker is a medical director; and other 
+individuals with no use for the information; 
+ The company’s sales or marketing business units influence the selection of 
+speakers or the company selects HCP speakers or attendees based on past 
+or expected revenue that the speakers or attendees have or will generate by 
+prescribing or ordering the company’s product(s) (e.g., a return on 
+investment analysis is considered in identifying participants); 
+ The company pays HCP speakers more than fair market value for the 
+speaking service or pays compensation that takes into account the volume 
+or value of past business generated or potential future business generated 
+by the HCPs. 
+IV. Conclusion 
+OIG has significant concerns about companies offering or paying remuneration (and 
+HCPs soliciting or receiving remuneration) in connection with speaker programs. Based 
+on our investigations and enforcement actions, this remuneration is often offered or paid 
+to induce (or solicited or received in return for) ordering or prescribing items paid for by 
+Federal health care programs. If the requisite intent is present, both the company and the 
+HCPs may be subject to criminal, civil, and administrative enforcement actions. This 
+Special Fraud Alert is not intended to discourage meaningful HCP training and 
+education. Rather, the purpose of this Special Fraud Alert is to highlight certain inherent 
+risks of remuneration related to speaker programs. Drug and device companies and 
+HCPs should consider the risks when assessing whether to offer, pay, solicit, or receive 
+remuneration related to speaker programs. 
+We are issuing this alert during the pandemic emergency, which is necessarily curtailing 
+many in-person activities. While companies may have decreased in-person speaker 
+program-related remuneration to HCPs during the pandemic, risks remain whenever 
+payments are offered or made to HCPs who generate Federal health care program 
+6 
+
+business for the company. The risks associated with speaker programs will become more pronounced if companies resume in-person speaker programs or increase speaker program-related remuneration to HCPs. Companies should assess the need for in-person programs given the risks associated with offering or paying related remuneration and consider alternative less-risky means for conveying information to HCPs. HCPs should likewise consider the risks of soliciting or receiving remuneration related to speaker programs given other available means to gather information relevant to providing appropriate treatment for patients. If a company or HCP has questions about a specific speaker program arrangement involving remuneration to referral sources, the OIG Advisory Opinion process remains available. Information about that process may be found at: https://oig.hhs.gov/faqs/advisory-opinions-faq.asp.
+
+

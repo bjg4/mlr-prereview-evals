@@ -1,0 +1,28 @@
+{
+"id": "WL-20200831-sprout-610569",
+"piece_type": "DTC radio ad (US—1900289.03)",
+"audience": "DTC",
+"company": "Sprout Pharmaceuticals, Inc.",
+"regs_in_letter": "21 U.S.C. 352(n); 321(n); 331(a); 21 CFR 202.1(e)(3)(ii) and (iii); (e)(5)",
+"status": "processed",
+"cases": [
+{
+"cat": "Omission of risk information",
+"claim": "“. . . low blood pressure and fainting in certain settings . . . [,]” | [Omission] all contraindications; Boxed Warning details (alcohol close in time — wait at least 2 hours after 1–2 drinks; CYP3A4 inhibitors; liver problems); CNS depression W&P; hypotension/syncope with Addyi alone",
+"context": "Boxed Warning for hypotension and syncope. Prior OPDP advisory comments (2016) to Valeant.",
+"rationale": "Omits contraindications and material Boxed Warning/W&P facts; misleading safety impression.",
+"reg": "21 U.S.C. 352(n); 21 CFR 202.1(e)(3)(ii), (e)(5)",
+"ct": "deterministic",
+"check": "Rule: diff risk content vs Boxed Warning sub-elements, all contraindications and W&P headings."
+},
+{
+"cat": "Broadening of indication / omission of material indication information",
+"claim": "“1 in 10 premenopausal women suffer from frustrating low libido, also known as HSDD.” | “Meet Addyi – the first and only FDA-approved non-hormonal pill for acquired, generalized HSDD in premenopausal women. In other words: An FDA-approved pill for women frustrated by their low libido.” | “Ladies, add your desire back with Addyi.”",
+"context": "Indication excludes HSDD due to medical/psychiatric condition, relationship problems, or drugs; not for postmenopausal women, men, or sexual performance.",
+"rationale": "Omits indication exclusions and limitations of use; suggests approval for all women frustrated by low libido.",
+"reg": "21 U.S.C. 352(n); 21 CFR 202.1(e)(5)",
+"ct": "deterministic",
+"check": "Rule: flag lay paraphrases of the indication ('in other words') that drop PI exclusions/limitations of use."
+}
+]
+}

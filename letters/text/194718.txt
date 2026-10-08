@@ -1,0 +1,212 @@
+                  DEPARTMENT OF HEALTH & HUMAN SERVICES                             Public Health Service
+
+
+                                                                                    Food and Drug Administration
+                                                                                    Silver Spring, MD 20993
+
+
+
+
+             Rexner Vargas
+             Director, Regulatory Affairs
+             Travere Therapeutics, Inc.
+             3611 Valley Centre Drive, Suite 300
+             San Diego, CA 92130
+
+            RE:         NDA 216403
+                        FILSPARI® (sparsentan) tablets, for oral use
+                        MA 191
+
+            Dear Rexner Vargas:
+
+            The Office of Prescription Drug Promotion (OPDP) of the U.S. Food and Drug Administration
+            (FDA) has reviewed the promotional communication, professional visual aid (05/2026
+            SPA0981 v2) for FILSPARI® (sparsentan) tablets, for oral use (Filspari) submitted by Travere
+            Therapeutics, Inc. (Travere) under cover of Form FDA 2253. FDA has determined that the
+            professional visual aid is false or misleading. Thus, the professional visual aid misbrands
+            Filspari and makes the distribution of the drug in violation of the Federal Food, Drug, and
+            Cosmetic Act (FD&C Act).
+
+            The professional visual aid includes the following claims (in pertinent part, bolded emphasis
+            original, underlined emphasis added):
+
+                •       “A STRONGER FOUNDATION FOR KIDNEY PRESERVATION” (page 1)
+                •       “Consistent nephroprotection” (pages 1 and 3)
+                •       “Achieving complete remission of proteinuria (defined as <0.3 g/d) drives long-
+                        term nephroprotective benefits” (page 2)
+                •       “Kidney Function Preservation” (page 3)
+                •       “Nephroprotection” (page 3)
+                •       “Proven to achieve better kidney function preservation over 2 years” (page 8)
+                •       “FILSPARI®: a stronger foundation for kidney preservation” (page 13)
+                •       “Proven to achieve better kidney function preservation” (page 13)
+
+            These claims create a misleading impression regarding the benefits of Filspari. Specifically,
+            claims suggesting that patients treated with Filspari will achieve kidney preservation,
+            preservation of kidney function, or nephroprotection are misleading because these outcomes
+            have not been demonstrated. The FDA-approved prescribing information (PI) states that
+            Filspari "is indicated to slow kidney function decline in adults with primary immunoglobulin A
+            nephropathy (IgAN) who are at risk for disease progression" (underlined emphasis added).
+            The CLINICAL STUDIES section of the PI reports that Filspari "reduced the rate of decline in
+
+
+
+
+Reference ID: 5842214
+            Rexner Vargas                                                                    Page 2
+            Travere therapeutics, Inc.
+            NDA 216403 MA 191
+
+            kidney function from baseline to Week 110 compared to irbesartan. The mean eGFR slope
+            from baseline to Week 110 was -3.0 mL/min/1.73 m² per year for Filspari and -4.2
+            mL/min/1.73 m² per year for irbesartan…" (underlined emphasis added). While Filspari
+            demonstrated slowing of the rate of kidney function decline relative to irbesartan, kidney
+            function continued to decline in patients receiving Filspari. Therefore, claims suggesting that
+            treatment with Filspari will result in kidney preservation, kidney function preservation, or
+            nephroprotection are misleading.
+
+            The professional visual aid includes the following claims and presentation (in pertinent part,
+            bolded emphasis original, underlined emphasis added):
+
+                •       a bar graph with the heading “Proven to drive 3x more patients to complete
+                        remission of proteinuria (<0.3 g/day)” (page 7)
+
+                •       “Proven to drive 3x more patients to complete remission of proteinuria” (page 13)
+
+            These claims and presentation create a misleading impression regarding the efficacy of
+            Filspari. Specifically, these claims suggest that Filspari was proven to drive three times more
+            patients to complete remission of proteinuria when this has not been demonstrated. Filspari
+            was demonstrated to slow kidney function decline in adults with primary IgAN who are at risk
+            for disease progression by the change from baseline in urine protein/creatinine ratio (UPCR)
+            and the rate of change in eGFR over a 110-week period. Complete remission of proteinuria
+            was evaluated as an exploratory endpoint (i.e., hypothesis-generating) and as such, no alpha
+            was allocated to this analysis, meaning no pre-specified false positive error rate was
+            established. Accordingly, it is not possible to ascertain whether this finding is attributable to
+            treatment with Filspari or merely due to chance. Therefore, these exploratory data do not
+            support conclusory claims that Filspari is proven to drive complete remission of proteinuria.
+            We acknowledge the disclaimer on page seven, “Prespecified exploratory analysis:
+            percentage of patients with complete remission of proteinuria at any time during treatment in
+            the double-blind period,” however, this does not mitigate the misleading impression.
+
+            Page 10 of the professional visual aid includes the headline claim, “FILSPARI was well
+            tolerated over 2 years” (emphasis original). This claim misleadingly minimizes the risks
+            associated with Filspari. Specifically, according to its PI, Filspari is associated with multiple
+            serious risks, including Boxed Warnings due to its risks of hepatotoxicity and embryo-fetal
+            toxicity. In addition, due to the risk of hepatoxicity, Filspari has limited availability only through
+            a restricted distribution program called the FILSPARI Risk Evaluation and Mitigation Strategy
+            (REMS). The minimization of the serious risk of hepatotoxicity is further exacerbated by the
+            claim on page 10, “No drug-induced liver injury following treatment with Filspari” in
+            conjunction with an image of a liver (emphasis original). However, we note that there were
+            cases of drug-induced liver injury (DILI) with hepatocellular injury patterns, indicating direct
+            damage to liver cells. Thus, due to this serious safety concern, regular liver monitoring is
+            required via a REMS while on treatment. We acknowledge that information regarding the
+            risks of Filspari is presented throughout the visual aid; however, this does not mitigate the
+            misleading minimization of the risks associated with Filspari described above.
+
+
+
+
+Reference ID: 5842214
+            Rexner Vargas                                                                Page 3
+            Travere therapeutics, Inc.
+            NDA 216403 MA 191
+
+            Furthermore, page 11 of the professional visual aid includes a graph depicting mean systolic
+            and diastolic blood pressure over 110 weeks with the headline, “Blood pressure remained
+            consistent over a 2-year period and was comparable to irbesartan” (bolded emphasis
+            original). This claim and presentation also misleadingly minimize the risks associated with
+            Filspari by suggesting that treatment with Filspari will not adversely affect a patient’s blood
+            pressure. However, the WARNINGS AND PRECAUTIONS, Hypotension section of the
+            Filspari PI states, “In clinical trials, there was a greater incidence of hypotension-associated
+            adverse events, some serious, including dizziness, in patients treated with FILSPARI
+            compared to irbesartan.” Therefore, the suggestion that treatment with Filspari will not
+            adversely affect a patient’s blood pressure is misleading. We acknowledge that the
+            information regarding the risk of hypotension is presented on pages 10 and 15; however, this
+            does not mitigate the misleading minimization of the risk of hypotension.
+
+            Conclusion and Requested Action
+
+            For the reasons described above, the professional visual aid misbrands Filspari and makes
+            the distribution of the drug in violation of the FD&C Act.
+
+            This letter notifies you of our concerns and provides you with an opportunity to address them.
+            FDA requests that Travere take immediate action to address any violations (including, for
+            example, ceasing and desisting promotional communications that are misleading as
+            described above).
+
+            Please submit a written response to this letter within 15 working days from the date of receipt,
+            addressing the concerns described in this letter, listing all promotional communications (with
+            the 2253 submission date) for Filspari that contain representations like those described
+            above, and explaining your plan for the discontinuation of such communications, or for
+            ceasing distribution of Filspari.
+
+            If you believe that your products are not in violation of the FD&C Act, please include in your
+            submission to us your reasoning and any supporting information for our consideration within
+            15 working days from the date of receipt of this letter.
+
+            The concerns discussed in this letter do not necessarily constitute an exhaustive list of
+            potential violations. It is your responsibility to ensure compliance with each applicable
+            requirement of the FD&C Act and FDA implementing regulations.
+
+
+
+
+Reference ID: 5842214
+            Rexner Vargas                                                             Page 4
+            Travere therapeutics, Inc.
+            NDA 216403 MA 191
+
+            Please direct your response to the undersigned at the Food and Drug Administration,
+            Center for Drug Evaluation and Research, Office of Prescription Drug Promotion, 5901-
+            B Ammendale Road, Beltsville, Maryland 20705-1266. A courtesy copy can be sent by
+            facsimile to (301) 847-8444. Please refer to MA 191 in addition to the NDA number in all
+            future correspondence relating to this particular matter. All correspondence should include a
+            subject line that clearly identifies the submission as a Response to Untitled Letter. You are
+            encouraged, but not required, to submit your response in eCTD format. All correspondence
+            submitted in response to this letter should be placed under eCTD Heading 1.15.1.6.
+            Additionally, the response submission should be coded as an Amendment to eCTD
+            Sequence 5183 under NDA 216403. Questions related to the submission of your response
+            letter should be emailed to CDER-OPDP-RPM@fda.hhs.gov.
+
+
+                                                           Sincerely,
+
+                                                           {See appended electronic signature page}
+
+                                                           Koung Lee, RPh, MSHS
+                                                           Regulatory Review Officer
+                                                           Division of Advertising & Promotion Review 1
+                                                           Office of Prescription Drug Promotion
+
+
+                                                           {See appended electronic signature page}
+
+                                                           Susannah O’Donnell, MPH, RAC
+                                                           Deputy Director (Acting)
+                                                           Division of Advertising & Promotion Review 1
+                                                           Office of Prescription Drug Promotion
+
+
+
+
+Reference ID: 5842214
+                                                                                                    Signature Page 1 of 1
+
+          --------------------------------------------------------------------------------------------
+          This is a representation of an electronic record that was signed
+          electronically. Following this are manifestations of any and all
+          electronic signatures for this electronic record.
+          --------------------------------------------------------------------------------------------
+          /s/
+          ------------------------------------------------------------
+
+          KOUNG U LEE
+          07/28/2026 09:48:13 AM
+
+          SUSANNAH O'DONNELL
+          07/28/2026 12:27:58 PM
+
+
+
+
+Reference ID: 5842214
+

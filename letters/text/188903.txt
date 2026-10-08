@@ -1,0 +1,115 @@
+Author: FDA/CDER
+
+DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+
+Food and Drug Administration Silver Spring, MD 20993
+
+Jim Ewing Executive Director, Promotional Regulatory Affairs Incyte Corporation 1801 Augustine Cut-Off Wilmington, DE 19803 RE: NDA 213736 PEMAZYRE® (pemigatinib) tablets, for oral use MA 459 Dear Jim Ewing: The U.S. Food and Drug Administration (FDA) has reviewed the promotional communication, a professional “CCA CVA Update Print 8.5x11” (MAT-PEM-00577-v2)1 sales aid (sales aid) for PEMAZYRE® (pemigatinib) tablets, for oral use (Pemazyre) submitted by Incyte Corporation (Incyte) under cover of Form FDA 2253. FDA also received complaints regarding promotional communications with representations similar to those discussed in this letter. FDA has determined that the sales aid is false or misleading. Thus, the sales aid misbrands Pemazyre and makes the distribution of the drug in violation of the Federal Food, Drug, and Cosmetic Act (FD&C Act). Page eight of the sales aid includes the following efficacy representations regarding disease control rate (DCR) under the “FIGHT-202: ADDITIONAL ENDPOINTS” header (in pertinent part, emphasis original, footnotes omitted):
+
+• “82% DCR (95% CI, 74-89)” depicted inside of a circular graphic that includes shading to show the 82% DCR 
+• “DCR was defined as CR+PR+SD o CR in 2.8% of patients (n=3); PR in 32.7% of patients (n=35); SD in 46.7% of patients (n=50)” Similarly, page 10 of the sales aid includes the following representations regarding efficacy results under the “4-YEAR FOLLOW-UP ANALYSIS– ADDITIONAL ENDPOINTS” header (in pertinent part, emphasis original, footnotes omitted): 
+
+1 The material ID referenced on the sales aid includes “v2.”
+
+Jim Ewing Page 2 
+Incyte Corporation 
+NDA 213736/MA 459 
+• Presentation titled, “DCR,” with “82.4% DCR (95% CI, 74-89)” depicted inside of a circular graphic that includes shading to show the 82.4% DCR 
+• “DCR was defined as CR+PR+SD o CR in 2.8% of patients (n=3) o PR in 34.3% of patients (n=37) o SD in 45.4% of patients (n=49)” These representations make this promotional communication misleading by suggesting that Pemazyre improves DCR in patients with locally advanced or metastatic CCA based on a composite of complete response (CR), partial response (PR), and stable disease (SD) when the study from which the representations were drawn could not demonstrate this result. Pemazyre was approved based on an effect shown on overall response rate (ORR) and duration of response (DOR) endpoints in FIGHT-202, a single-arm trial. As support for these representations, you cite publications from Abou-Alfa, et al, and Vogel, et al, which include results from the FIGHT-202 trial.2,3 In FIGHT-202, the endpoint of ORR was comprised only of PR + CR, as defined by Response Evaluation Criteria in Solid Tumors (RECIST) v 1.1.4 Because FIGHT-202 was designed as a single-arm trial, the study did not establish if the SD result was attributable to the effect of Pemazyre or if the SD result reflects the natural history of the disease. Consequently, the DCR calculations, which are based on a composite that includes SD data, are not supported by the data cited. An assessment of delay in time to disease progression in patients treated with Pemazyre (i.e., an assessment of SD) would need to be based on the results of a randomized controlled trial. We acknowledge that the following text appears in conjunction with the DCR representations, under the “FIGHT-202: ADDITIONAL ENDPOINTS” header (in pertinent part, footnotes omitted): 
+• “Due to the potential variability in the natural history of the disease, a single-arm study may not adequately characterize these time-to-event endpoints” 
+• “FIGHT-202 was a single-arm study o In this setting, the DCR results may reflect the natural history of cholangiocarcinoma in an individual patient rather than the direct effect of the treatment” 
+2 Abou-Alfa GK, Sahai V, Hollebecque A, et al. Pemigatinib for previously treated, locally advanced or 
+metastatic cholangiocarcinoma: a multicentre, open-label, phase 2 study. Lancet Oncol. 2020;21(5):671-684. 
+3 Vogel A, Sahai V, Hollebecque A, et al. An open-label study of pemigatinib in cholangiocarcinoma: final 
+results from FIGHT-202. ESMO Open. 2024;9(6):103488. 
+4 Response was measured using the Response Evaluation Criteria in Solid Tumors (RECIST) v 1.1., which 
+defines the evaluation of target lesions as the following: Complete Response (CR): Disappearance of all target 
+lesions. Partial Response (PR): At least a 30% decrease in the sum of diameters of target lesions, taking as 
+reference the baseline sum diameters. Progressive Disease (PD): At least a 20% increase in the sum of 
+diameters of target lesions, taking as reference the smallest sum on study. In addition to the relative increase of 
+20%, the sum must also demonstrate an absolute increase of at least 5 mm. Stable Disease (SD): Neither 
+sufficient shrinkage to qualify for PR nor sufficient increase to qualify for PD, taking as reference the smallest 
+sum diameters while on study. See: https://dctd.cancer.gov/research/ctep-trials/for-sites/recist-guidelines 
+v11.pdf. 
+
+Jim Ewing Page 3 
+Incyte Corporation 
+NDA 213736/MA 459 
+However, these disclosures of the study’s limitations in this promotional communication do 
+not correct or mitigate the misleading representations or suggestions of the presentation. As 
+discussed above, this promotional communication makes misleading representations or 
+suggestions about the efficacy of Pemazyre by presenting DCR calculations that include SD 
+based on the FIGHT-202 study, which, as a single-arm trial, is not capable of supporting such 
+representations or suggestions. 
+Page eight of the sales aid also includes the following in conjunction with efficacy 
+representations regarding progression-free survival (PFS) and overall survival (OS) (in 
+pertinent part, emphasis original, footnotes omitted): 
+• Presentation of a Kaplan-Meier estimate graph of PFS titled, “PFS,” showing “Progression-free survival (%)” on the y-axis and months on the x-axis o “Median PFS=6.9 months (95% CI, 6.2-9.6)” o “Median follow-up time at data cutoff was 15.4 months.” 
+• Presentation of a Kaplan-Meier estimate graph of OS titled, “OS,” showing “Overall survival (%)” on the y-axis and months on the x-axis o “Median OS = 21.1 months (95% CI, 14.8-NE)” o “At time of data cutoff: median follow-up was 15.4 months; the OS data were not mature; a total of 40 patients (37%) had died.” Similarly, page 10 of the sales aid includes the following representations regarding efficacy results at a “4-year follow-up analysis” (in pertinent part, emphasis original, footnotes omitted): 
+• Presentation of a Kaplan-Meier estimate graph of PFS titled, “PFS,” showing “Progression-free survival (%)” on the y-axis and months on the x-axis o “Median PFS = 7.0 months (95% CI, 6.1-10.5)” 
+• Presentation of a Kaplan-Meier estimate graph of OS titled, “OS,” showing “Overall survival (%)” on the y-axis and months on the x-axis o “Median OS = 17.5 months (95% CI, 14.4-22.9)” o “Median follow-up for PFS and OS was 42.9 months.” These representations in the sales aid misbrand Pemazyre by misleadingly suggesting that FIGHT-202 provided interpretable results regarding the effects of Pemazyre on PFS and OS endpoints, even though the design of the FIGHT-202 study was not capable of establishing improvement on time-to-event efficacy endpoints such as PFS or OS. You cite the same publications from Abou-Alfa, et al, and Vogel, et al, that are referenced above in support of these representations from FIGHT-202.2,3 However, as FIGHT-202 was designed as a 
+
+Jim Ewing Page 4 
+Incyte Corporation 
+NDA 213736/MA 459 
+single-arm trial (i.e., with no comparator arm), and PFS and OS are time-to-event efficacy 
+endpoints, the reported PFS and OS results are uninterpretable; absent an appropriate 
+comparator, it is not possible to determine if the observed effect is attributable to Pemazyre 
+or to other factor(s), such as the natural history of the disease. We acknowledge the 
+disclosure of the study’s limitations noted previously. However, including this statement in 
+Pemazyre promotional communications, along with misleading representations about 
+Pemazyre’s efficacy (i.e., PFS and OS results from FIGHT-202), does not render the 
+promotional communication nonmisleading in light of the issues with FIGHT-202 (explained 
+above) that make the study incapable of supporting representations or suggestions that these 
+results are attributable to the effect of Pemazyre. 
+Conclusion and Requested Action 
+For the reasons described above, the sales aid misbrands Pemazyre and makes the 
+distribution of the drug in violation of the FD&C Act. 
+This letter notifies you of our concerns and provides you with an opportunity to address them. 
+FDA requests that Incyte take immediate action to address any violations (including, for 
+example, ceasing and desisting promotional communications that are misleading as 
+described above). Please submit a written response to this letter within 15 working days from 
+the date of receipt, addressing the concerns described in this letter, listing all promotional 
+communications (with the 2253 submission date) for Pemazyre that contain representations 
+like those described above, and explaining your plan for the discontinuation of such 
+communications, or for ceasing distribution of Pemazyre. 
+If you believe that your product is not in violation of the FD&C Act, please include in your 
+submission to us your reasoning and any supporting information for our consideration within 
+15 working days from the date of receipt of this letter. 
+The concerns discussed in this letter do not necessarily constitute an exhaustive list of 
+potential violations. It is your responsibility to ensure compliance with each applicable 
+requirement of the FD&C Act and FDA implementing regulations. 
+Please direct your response to the Food and Drug Administration, Center for Drug 
+Evaluation and Research, Office of Prescription Drug Promotion, 5901-B Ammendale 
+Road, Beltsville, Maryland 20705-1266. A courtesy copy can be sent by facsimile to (301) 
+847-8444. Please refer to MA 459 in addition to the NDA number in all future 
+correspondence relating to this particular matter. All correspondence should include a 
+subject line that clearly identifies the submission as a Response to Untitled Letter. You are 
+encouraged, but not required, to submit your response in eCTD format. All correspondence 
+submitted in response to this letter should be placed under eCTD Heading 1.15.1.6. 
+Additionally, the response submission should be coded as an Amendment to eCTD 
+Sequence 5454 under NDA 213736. 
+
+Jim Ewing Page 5 
+Incyte Corporation 
+NDA 213736/MA 459 
+
+Questions related to the submission of your response letter should be emailed to CDER OPDP-RPM@fda.hhs.gov.
+
+Sincerely, 
+{See appended electronic signature page} 
+George Tidmarsh, M.D., Ph.D. 
+Director 
+Center for Drug Evaluation and Research 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Signature Page 1 of 1
+
+This is a representation of an electronic record that was signed electronically. Following this are manifestations of any and all electronic signatures for this electronic record.
+
+CARTER M BEACH 
+09/09/2025 05:08:00 PM 
+On behalf of George Tidmarsh, M.D., Ph.D 
+
+

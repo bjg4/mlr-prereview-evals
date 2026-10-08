@@ -1,0 +1,20 @@
+{
+"id": "UL-20250909-188695",
+"piece_type": "DTC TV ad “Can’t Wait To Say ‘I’m Back’ 60” (USBK-2400890)",
+"audience": "DTC",
+"company": "UCB, Inc.",
+"regs_in_letter": "FD&C Act (no CFR section cited in letter text)",
+"status": "processed",
+"cases": [
+{
+"cat": "Overstatement of efficacy",
+"claim": "“I’ve always known how to fix things. … But with psoriatic arthritis, … My body felt broken. … Mornings were a nightmare. … But it’s not going to control me anymore.” | “BIMZELX can deliver transformative relief of joint pain, and stiffness.” | “I’m back to what moves me. … I’m back to reaching for new heights.” | “I’m back to what inspires me.”",
+"context": "PI primary endpoint: ACR50 at Week 16 (50 percent improvement in disease activity).",
+"rationale": "Magnitude of change implied is greater than demonstrated in clinical trials.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Judge: before/after narrative magnitude ('broken' → 'new heights') vs. PI responder thresholds (e.g., ACR50 proportions)."
+}
+],
+"note": "PARTIAL: extracted text is missing the middle page(s) of the letter (jumps from the start of the PsA-1/PsA-2 results to the closing). Only the first violation's claims and rationale are recorded; any further violations on the missing page are not captured."
+}

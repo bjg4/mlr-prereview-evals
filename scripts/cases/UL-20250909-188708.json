@@ -1,0 +1,28 @@
+{
+"id": "UL-20250909-188708",
+"piece_type": "DTC TV ad (1506-US-2400730) for Opdivo + Yervoy",
+"audience": "DTC",
+"company": "Bristol-Myers Squibb",
+"regs_in_letter": "FD&C Act (no CFR section cited in letter text)",
+"status": "processed",
+"cases": [
+{
+"cat": "Overstatement of efficacy",
+"claim": "“Lung cancer isn’t me. This is me” | “Your life comes first…” | “This is me…”",
+"context": "'Heroes' zoom out from clinic to amusement park, picnic, making pizza. PI ARs: fatigue 44%, decreased appetite 31%, musculoskeletal pain 27%, diarrhea/colitis 26%, dyspnea 26%, nausea 21%; serious ARs 58%.",
+"rationale": "Implies all patients remain fully functional; also implies HRQoL improvement (emotional/social functioning, return to original self) without data.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Judge: oncology lifestyle imagery vs PI AR rates; flag 'return to self' HRQoL implications without PRO data."
+},
+{
+"cat": "Distracting presentation during risk/major statement (TV)",
+"claim": "[Visual] grandmother at amusement park with grandson, man playing frisbee with dog, family making pizza — during the major statement",
+"context": "DTC TV major statement.",
+"rationale": "Interferes with comprehension.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Storyboard check: flag activity scenes and frequent scene changes during major statement audio."
+}
+]
+}

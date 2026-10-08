@@ -1,0 +1,19 @@
+{
+"id": "UL-20250909-188908",
+"piece_type": "HCP branded website “SKYRIZI VS STELARA (ustekinumab)” webpage (US-SKZG-241257)",
+"audience": "HCP",
+"company": "AbbVie, Inc.",
+"regs_in_letter": "FD&C Act (no CFR section cited in letter text)",
+"status": "processed",
+"cases": [
+{
+"cat": "Unsubstantiated superiority / comparative claims",
+"claim": "“SKYRIZI vs STELARA® (ustekinumab)[;] SKYRIZI ACHIEVED SUPERIORITY ACROSS SEVERAL RANKED ENDPOINTS IN A HEAD-TO-HEAD STUDY” | “FIRST APPROVED CROHN’S DISEASE THERAPY THAT MET ENDOSCOPIC SUPERIORITY ENDPOINTS IN A HEAD-TO-HEAD TRIAL” | “~2X MORE PATIENTS ON SKYRIZI DEMONSTRATED ENDOSCOPIC REMISSION VS STELARA AT WEEK 48” | “SUPERIORITY MET ACROSS ENDOSCOPIC OUTCOMES” | “~2X MORE PATIENTS ON SKYRIZI WERE IN ENDOSCOPIC REMISSION WITHOUT STEROIDS (STEROID-FREE ENDOSCOPIC REMISSION) VS STELARA AT WEEK 48”",
+"context": "Phase 3b SEQUENCE open-label head-to-head; completion 90.2% vs 72.8%; missing week-48 endoscopy 16% vs 34%; unblinded endoscopist. Disclaimer: “DATA LIMITATION: The open-label nature of this study may have influenced these results”.",
+"rationale": "Open-label design with differential dropout/missingness cannot support conclusory superiority; disclaimer does not cure.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Judge: head-to-head superiority claims — check blinding, differential dropout/missing data; open-label comparator studies need strong caution; disclaimer is not a fix."
+}
+]
+}

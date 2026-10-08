@@ -1,0 +1,19 @@
+{
+"id": "UL-20250909-188712",
+"piece_type": "DTC TV ad “2025 TRUQAP Branded Patient TV Spot”",
+"audience": "DTC",
+"company": "AstraZeneca Pharmaceuticals LP",
+"regs_in_letter": "FD&C Act (no CFR section cited in letter text)",
+"status": "processed",
+"cases": [
+{
+"cat": "Distracting presentation during risk/major statement (TV)",
+"claim": "[Visual] 0:32–1:13: woman approaching an outdoor concert, walking through a park, attending a party at the end of a pier, while objects “unfold” from the page and pages turn — during the major statement",
+"context": "DTC TV major statement.",
+"rationale": "Frequent scene changes and attention-grabbing visuals interfere with comprehension.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Storyboard check: flag activity scenes and frequent scene changes during major statement audio."
+}
+]
+}

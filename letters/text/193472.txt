@@ -1,0 +1,168 @@
+Author: FDA/CDER
+
+DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+
+Food and Drug Administration Silver Spring, MD 20993
+
+Rebekah Snyder Logan, V.P. of U.S. Regulatory Affairs 
+Lundbeck Seattle Biopharmaceuticals, Inc. 
+6 Parkway North, Suite 400 
+Deerfield, IL 60015 
+RE: BLA 761119 
+Vyepti® (eptinezumab-jjmr) injection, for intravenous use 
+MA 684 
+Dear Rebekah Snyder Logan: 
+The U.S. Food and Drug Administration (FDA) has reviewed the promotional communication, 
+the “Efficacy and 2-year patient outcomes” and “Real VYEPTI experience” webpages1 of the 
+Healthcare Provider Branded Website (EPT-B-101196v4) (webpages) for Vyepti® 
+(eptinezumab-jjmr) injection, for intravenous use (Vyepti) submitted by Lundbeck Seattle 
+Biopharmaceuticals, Inc. (Lundbeck) under cover of Form FDA 2253. FDA has determined 
+that the webpages are false or misleading. Thus, the webpages misbrand Vyepti and make 
+the distribution of the drug in violation of the Federal Food, Drug, and Cosmetic Act (FD&C 
+Act). 
+The “Efficacy and 2-year patient outcomes” webpage includes claims and presentations 
+based on the results of the PREVAIL trial2, an open-label, single arm trial, a post-hoc 
+analysis of the PREVAIL trial3, and a post-hoc analysis of the PROMISE trials4. We note 
+several significant limitations to the cited references that preclude the drawing of conclusory 
+claims regarding the benefits of Vyepti. 
+Specifically, the “Efficacy and 2-year patient outcomes” webpage includes the following 
+claims and presentations (emphasis original): 
+
+o “During a 6-month chronic migraine pivotal study, 40% of patients treated with VYEPTI 300 mg were 100% migraine free for a month or more vs 22% with
+
+1 The “Efficacy and 2-year patient outcomes” webpage located at https://www.vyeptihcp.com/efficacy-and 
+patient-outcomes and “Real VYEPTI experience” webpage located at https://www.vyeptihcp.com/real-vyepti 
+experience (last accessed June 24, 2026). 
+2 Kudrow D, Cady R, Allan B, et al., 2021, Long-term safety and tolerability of eptinezumab in patients with 
+chronic migraine: a 2-year, open-label, phase 3 trial, BMC Neurology, 21(126):1-12. 
+3 Blumenfeld A, Ettrup A, Hirman J, et al., 2022, Long-term reductions in disease impact in patients with chronic 
+migraine following preventive treatment with eptinezumab, BMC Neurology, 22(251):1-9. 
+4 Winner P, McAllister P, Cady R, et al, 2019, Migraine-free months in patients with episodic or chronic migraine 
+treated with eptinezumab: results from the PROMISE-1 and PROMISE-2 trials, Poster presented at: 61st Annual 
+Scientific Meeting of the American Headache Society (AHS), Philadelphia, PA. 
+
+Rebekah Snyder Logan Page 2 
+Lundbeck Seattle Biopharmaceuticals, Inc. 
+BLA 761119 / MA 684 
+
+placebo” in conjunction with a prominent graphic of a woman standing in front of a large 100% image. o “Give your patients the chance for 100% migraine freedom for a month or more” o “During the same period, 35% of patients treated with VYPETI 100 mg were 100% migraine free for a month or more vs 22% with placebo.” These claims and presentations create the misleading impression that patients treated with Vyepti will be 100% migraine-free for a month or more, when this has not been demonstrated. The webpage cites the post-hoc analysis of the data from PROMISE-1 and PROMISE-2 in support of these claims. However, because these analyses were conducted post hoc and there was no prespecified statistical procedure controlling for type 1 error rate (false positive rate), it is not possible to ascertain whether the findings were attributable to treatment with Vyepti, or merely due to chance. As a result, these findings are exploratory (i.e., hypothesis-generating). Therefore, claims that draw conclusions based on these data suggesting a substantial treatment benefit of “100% migraine freedom” in patients are not supported and are misleading. We acknowledge the statement, “Post hoc analysis” is included as a less prominent footnote for these claims. However, this does not mitigate the misleading impression. The “Efficacy and 2-year patient outcomes” webpage also includes the following claims and presentations (emphasis original):
+
+• “Reduce the impact of migraine for your patients” 
+• “Meaningful improvement in migraine severity” o “Patients on VYEPTI 300 mg experienced SUSTAINED REDUCTION in average headache pain severity over 2 years” o A graph depicting the mean change in MIDAS headache pain severity for patients receiving Vyepti 300 mg from week 0 to week 104. 
+• “>70% of patients on VYEPTI 300 mg reported their migraine symptoms were MUCH IMPROVED or VERY MUCH IMPROVED through 2 years” o A graph depicting the “Reported improvement through 2 years based on PGIC” for patients receiving Vyepti 300 mg from week 0 to week 104 
+• “Increase potential for patient productivity and engagement in everyday life” 
+• “>60% of patients on VYEPTI 300 mg reported IMPROVEMENT IN MIGRAINE ASSOCIATED DISABILITY through 2 years” o A graph depicting the percent improvement in MIDAS score for patients receiving Vyepti 300 mg from week 0 to week 104 
+• “Patients saw improvement in disability from first dose through 2 years, which resulted in more engagement at home, work, and in their social life” These claims and presentations create a misleading impression that Vyepti has demonstrated a benefit on patient reported outcomes (PROs), such as long-term improvement in migraine severity, migraine-associated disability, and Health Related Quality of Life (HRQoL), when this is not the case. Specifically, while the PROs for migraine severity, migraine-related disability, and HRQoL were included in PREVAIL as outcomes, there was no alpha-allocation to these outcomes. Since there was no alpha-allocation and, therefore, no 
+
+Rebekah Snyder Logan Page 3 
+Lundbeck Seattle Biopharmaceuticals, Inc. 
+BLA 761119 / MA 684 
+specified false positive error rate, these data are considered exploratory (i.e., hypothesis 
+generating) and it is not known whether the outcome data were due to chance. Additionally, 
+because PREVAIL was an open-label, single arm trial, it did not establish that any of the PRO 
+outcomes seen were attributable to the effect of the drug. 
+Furthermore, PREVAIL collected PRO data utilizing the Headache Impact Test (HIT-6) and 
+the Migraine Disability Assessment (MIDAS). However, the HIT-6 is a questionnaire 
+developed for use in general headache patients and is not specific to migraine headaches; 
+therefore, this tool lacks content validity for the purpose of evaluating outcomes in migraine 
+patients. The HIT-6 also fails to specify a recall period in the instrument instructions, and 
+without a standard recall period, results will yield inconsistent, inaccurate, and unpredictable 
+data. The MIDAS, which measures HRQoL, utilizes a recall period of 3 months, rendering it 
+prone to recall bias and errors related to number of headache days, average severity of 
+headaches, and number of days absent/present at work. This limitation of the MIDAS impacts 
+the interpretability of the results. Lastly, the Patient Global Impression of Change (PGIC) is 
+also prone to recall bias as a patient is expected to compare their current state to a baseline 
+months or years prior. Depending on the length of the recall period, recent events may have 
+a disproportionate influence. 
+Therefore, due to the limitations and biases described above regarding the PRO data from 
+PREVAIL and, consequently, its associated post-hoc analysis, conclusory claims and 
+presentations based on these data are not supported and are misleading5. 
+The “Real VYEPTI experience” webpage includes the following claims and presentations 
+(emphasis original): 
+• “~70% of patients reported increased satisfaction with their ability TO PLAN, BE PRODUCTIVE, AND PARTICIPATE in their daily lives” o A graph depicting patient satisfaction with impact on elements of daily living after starting Vyepti 
+• “After starting VYEPTI, patients reported >2x THE AMOUNT OF MONTHLY GOOD DAYS” o A graph depicting the mean number of good days per month before and after starting Vyepti 
+• “Of the 74 patients who stated they experience brain fog, 86% REPORTED IMPROVEMENT IN BRAIN FOG” o A graph depicting the degree to which brain fog symptoms improved after starting Vyepti These claims and presentations are presented in conjunction with attention-grabbing, colorful, bold graphics and charts with large font. These claims and presentations create a misleading impression that Vyepti has demonstrated a benefit on PROs such as patient 
+
+5 We note that FDA encourages thoughtful inclusion of patient-reported outcomes in the design and conduct of clinical trials, where appropriate. See, for example, FDA’s Guidance for Industry: Patient-Reported Outcome Measures: Use in Medical Product Development to Support Labeling Claims; FDA Patient-Focused Drug Development Guidance Series for Enhancing the Incorporation of the Patient’s Voice in Medical Product Development and Regulatory Decision Making; and the Draft Guidance for Industry: Core Patient-Reported Outcomes in Cancer Clinical Trials.
+
+Rebekah Snyder Logan Page 4 
+Lundbeck Seattle Biopharmaceuticals, Inc. 
+BLA 761119 / MA 684 
+satisfaction with daily living, increased number of “good days,” and improved “brain fog,” 
+when this is not the case. Similar to the discussion above, we note significant limitations to 
+the REVIEW study6, an observational, single-arm trial, which precludes the drawing of 
+conclusions regarding Vyepti’s benefits related to these PROs. Specifically, this study has 
+inherent selection bias due to the study inclusion criteria. We note that the protocol required 
+patients to have completed ≥ 2 consecutive Vyepti infusion cycles (≥ 6 months exposure) in 
+order to be included in the study. Requiring patients to have successfully completed 2 cycles 
+of Vyepti treatment, in addition to the lack of an active control arm, may have created a 
+favorable bias in the results, as patients who discontinued treatment due to lack of efficacy or 
+adverse events were systematically excluded. 
+In addition to the above concern, the REVIEW study’s chosen endpoints (i.e., patient 
+satisfaction, “good days,” and “brain fog”) are associated with interpretational limitations and a 
+lack of validity evidence. For example, the clinical meaningfulness of the scale (e.g., higher, 
+much higher, about the same, etc.) used to measure social and functional domains is unclear 
+due to a lack of standardized definitions. “Brain fog” and “good days” also lack standardized 
+definitions and have no objective correlates, which can lead to inconsistencies in how patients 
+perceive and report these symptoms. Additionally, due to the lack of an active control arm, it 
+cannot be established if improvements in these PRO measures are attributable to treatment 
+with Vyepti. It also cannot be established if improvements on any of these PRO outcomes 
+resulted from confounding factors unrelated to the drug’s effectiveness, including patient 
+expectations or socioeconomic variables, rather than true clinical benefit. Furthermore, the 
+REVIEW study required patients to retrospectively recall symptoms from several months 
+before treatment initiation, with some patients recalling experiences from 15 or more months 
+prior, raising concerns about recall bias. Lastly, inconsistent data collection methods across 
+sites created additional variability that was not evaluated in terms of its potential impact on 
+data quality or study outcomes. Therefore, due to these limitations to the REVIEW study, 
+conclusory claims regarding PROs such as patient satisfaction with daily living, increased 
+number of “good days,” and improved “brain fog” are not supported and are misleading. 
+Conclusion and Requested Action 
+For the reasons described above, the webpages misbrand Vyepti and makes the distribution 
+of the drug in violation of the Federal Food, Drug, and Cosmetic Act (FD&C Act). 
+This letter notifies you of our concerns and provides you with an opportunity to address them. 
+FDA requests that Lundbeck take immediate action to address any violations (including, for 
+example, ceasing and desisting promotional communications that are misleading as 
+described above). Please submit a written response to this letter within 15 working days from 
+the date of receipt, addressing the concerns described in this letter, listing all promotional 
+communications (with the 2253 submission date) for Vyepti that contain representations like 
+those described above, and explaining your plan for the discontinuation of such 
+communications, or for ceasing distribution of Vyepti. 
+
+6 Argoff C, Herzog SP, Smith RM, Kotak SV, Sopina L, et al., 2024, Real-world effectiveness and satisfaction with intravenous eptinezumab treatment in patients with chronic migraine: REVIEW, an observational, multi-site, US-based study, J Headache Pain, 25:65:1-13.
+
+Rebekah Snyder Logan Page 5 
+Lundbeck Seattle Biopharmaceuticals, Inc. 
+BLA 761119 / MA 684 
+If you believe that your products are not in violation of the FD&C Act, please include in your 
+submission to us your reasoning and any supporting information for our consideration within 
+15 working days from the date of receipt of this letter. 
+The concerns discussed in this letter do not necessarily constitute an exhaustive list of 
+potential violations. It is your responsibility to ensure compliance with each applicable 
+requirement of the FD&C Act and FDA implementing regulations. 
+Please direct your response to the Food and Drug Administration, Center for Drug 
+Evaluation and Research, Office of Prescription Drug Promotion, 5901-B Ammendale 
+Road, Beltsville, Maryland 20705-1266. A courtesy copy can be sent by facsimile to (301) 
+847-8444. Please refer to MA 684 in addition to the BLA number in all future correspondence 
+relating to this particular matter. All correspondence should include a subject line that clearly 
+identifies the submission as a Response to Untitled Letter. You are encouraged, but not 
+required, to submit your response in eCTD format. All correspondence submitted in response 
+to this letter should be placed under eCTD Heading 1.15.1.6. Additionally, the response 
+submission should be coded as an Amendment to eCTD Sequence 0807 under BLA 761119. 
+Questions related to the submission of your response letter should be emailed to CDER 
+OPDP-RPM@fda.hhs.gov. 
+Sincerely, 
+{See appended electronic signature page} 
+Taylor Burnett Mmagu, PharmD, RAC 
+Team Lead 
+Division of Advertising & Promotion Review 1 
+Office of Prescription Drug Promotion 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Signature Page 1 of 1
+
+This is a representation of an electronic record that was signed electronically. Following this are manifestations of any and all electronic signatures for this electronic record.
+
+TAYLOR B BURNETT MMAGU 06/24/2026 12:55:00 PM
+
+

@@ -1,0 +1,45 @@
+{
+"id": "UL-20260512-192467",
+"piece_type": "DTC broadcast TV ad",
+"audience": "DTC",
+"regs_in_letter": "FD&C Act misbranding (false or misleading); no CFR section cited in letter text",
+"status": "processed",
+"cases": [
+{
+"cat": "Unsupported PRO / quality-of-life claims",
+"claim": "“There’s a lot to consider when finding the best CLL [chronic lymphocytic leukemia] treatment for you. Brukinsa brings clarity to your path ahead.” | “See your future clearly again” | SUPER “. . . CLEARLY BRUKINSA.”",
+"context": "Worried woman crosses a bridge then smiles on a mountaintop; PRO data from open-label SEQUOIA/ALPINE not prespecified or multiplicity-controlled.",
+"rationale": "Implies improved emotional/physical functioning (HRQoL) not demonstrated; PRO data descriptive only.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Does the narrative/visual arc imply quality-of-life or emotional-functioning benefits not supported by controlled PRO data?"
+},
+{
+"cat": "Unsubstantiated superiority / comparative safety claim",
+"claim": "“the only BTKi [Bruton’s tyrosine kinase inhibitor] proven superior to both another BTKi and to chemotherapy” | “And Brukinsa had low rates of cardiovascular events including afib [atrial fibrillation]” | SUPER “Cardiovascular side effects ~2 years: 10% BRUKINSA vs 6% BR [bendamustine + rituximab] (grade 1-2); 21% BRUKINSA vs 30% ibrutinib (overall). Rate of atrial fibrillation (all grades): 3% BRUKINSA and BR (~2 years) 7% BRUKINSA vs 17% ibrutinib (42.5 months).” | patients “might do better with Brukinsa.”",
+"context": "Onscreen concerns like 'Cardiac complications concern me'; ALPINE not powered to show clinically meaningful AF difference.",
+"rationale": "Implies superior cardiovascular safety vs ibrutinib and 'best' treatment, not demonstrated.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Are comparative safety claims vs a named competitor based on an adequately powered, prespecified comparison?"
+},
+{
+"cat": "Major statement not in dual modality (TV)",
+"claim": "The major statement includes presentations where the verbatim complete transcript or verbatim key terms or phrases from the corresponding audio do not appear in dual modality, along with presentations where there is information in the SUPERs that is not from the corresponding audio.",
+"context": "",
+"rationale": "Fails to present the major statement concurrently in audio and text (dual modality).",
+"reg": "FD&C Act (false or misleading)",
+"ct": "deterministic",
+"check": "Rule: compare TV ad audio transcript of the major statement with on-screen SUPER text; flag mismatches or missing key terms."
+},
+{
+"cat": "Distracting visuals during major statement",
+"claim": "Major statement is presented when the TV ad’s emotional story arc reaches its peak: the woman confidently crosses the bridge, high-fives her friend, browses a gift shop, and poses for a picture on the mountaintop.",
+"context": "",
+"rationale": "Compelling, attention-grabbing visuals interfere with comprehension of the major statement.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "During the major statement, are visuals neutral, or do they show emotional peaks/scene changes that compete for attention?"
+}
+]
+}

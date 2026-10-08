@@ -1,0 +1,37 @@
+{
+"id": "WL-20250909-aytu-716599",
+"piece_type": "Search-engine sponsored links (identified via FDA monitoring/surveillance)",
+"audience": "DTC",
+"company": "Aytu BioPharma",
+"regs_in_letter": "21 U.S.C. 352(a), (e)(1)(B), (n); 321(n); 331(a); 21 CFR 201.10(g)(1); 202.1(b)(1); 202.1(e)(5); 314.81(b)(3)(i)",
+"status": "processed",
+"cases": [
+{
+"cat": "Omission of risk information",
+"claim": "“Adzenys XR-ODT for ADHD.” | sitelinks: “Medication Guide”, “Important Safety Info”, “Side Effects”",
+"context": "CII stimulant with boxed warning for abuse, misuse, addiction.",
+"rationale": "Efficacy representation with no risk information; sitelink labels do not mitigate.",
+"reg": "21 U.S.C. 352(n); 21 CFR 202.1(e)(5)",
+"ct": "deterministic",
+"check": "Rule: sponsored links/paid search with product name + indication must carry risk info or be reminder-compliant; sitelink labels are not risk information."
+},
+{
+"cat": "Failure to use established name / required labeling elements",
+"claim": "“Adzenys XR-ODT for ADHD.” [no established name]",
+"context": "Established name must appear prominently in direct conjunction with proprietary name.",
+"rationale": "Fails to present the established name (amphetamine).",
+"reg": "21 U.S.C. 352(e)(1)(B); 21 CFR 201.10(g)(1); 202.1(b)(1)",
+"ct": "deterministic",
+"check": "Rule: every proprietary-name mention requires the established name in direct conjunction."
+},
+{
+"cat": "Failure to submit at first use (Form FDA 2253)",
+"claim": "[Process] sponsored links not submitted under Form FDA 2253 at initial publication",
+"context": "FDA monitoring found the links.",
+"rationale": "Violates 2253 submission requirement.",
+"reg": "21 CFR 314.81(b)(3)(i)",
+"ct": "deterministic",
+"check": "Process rule: confirm 2253 submission ID for every disseminated asset, incl. paid search."
+}
+]
+}

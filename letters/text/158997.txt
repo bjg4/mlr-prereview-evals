@@ -1,0 +1,327 @@
+            James H. Medley                                                                           Page 2
+            Althera Pharmaceuticals LLC
+            NDA 213072 MA 4
+
+                              homozygous familial hypercholesterolemia (HoFH) to reduce LDL-C.
+
+            Roszet is contraindicated in patients with acute liver failure or decompensated cirrhosis and
+            in patients with hypersensitivity to rosuvastatin, ezetimibe, or any excipients in Roszet. The
+            PI for Roszet includes warnings and precautions regarding myopathy and rhabdomyolysis,
+            immune-mediated necrotizing myopathy, hepatic dysfunction, proteinuria and hematuria,
+            and increases in HbA1c and fasting serum glucose levels. The most common adverse
+            reactions reported with rosuvastatin were headache, nausea, myalgia, arthralgia, dizziness,
+            asthenia, constipation, and abdominal pain; and with ezetimibe were upper respiratory tract
+            infection, diarrhea, arthralgia, sinusitis, pain in extremity, fatigue, and influenza. The most
+            common adverse reactions reported with ezetimibe co-administered with a statin were
+            nasopharyngitis, myalgia, upper respiratory tract infection, arthralgia, diarrhea, back pain,
+            influenza, pain in extremity, and fatigue.
+
+            False or Misleading Claims about Efficacy
+
+            Prescription drug advertisements and labeling (promotional communications) misbrand a
+            drug if they are false or misleading with respect to efficacy. The determination of whether a
+            promotional communication is misleading includes, among other things, not only
+            representations made or suggested in the promotional communication, but also the extent to
+            which the promotional communication fails to reveal facts material in light of the
+            representations made or with respect to consequences that may result from the use of the
+            drug as recommended or suggested in the promotional communication.
+
+            The promotional communication includes the following claims (emphasis original):
+
+                •       “TOTAL* LDL-C REDUCTIONS
+                           o Roszet 10 mg/10 mg 64%
+                           o Roszet 20 mg/10 mg 66%
+                           o Roszet 40 mg/10 mg 72%”
+
+                •       “Roszet 5 mg/10 mg total LDL-C reduction is 59%.”
+                                                                       ⃰
+
+
+            These claims about the effect of Roszet, attributing specific levels of LDL-C reductions to the
+            drug product at various dosages, are misleading. Specifically, as reflected in an asterisked
+            note on these claims, 2 the LDL-C reductions claimed in the promotional communication are
+            not the findings of any study of Roszet. Rather, the analysis used to generate these
+            percentages combines the results of two separate and unrelated studies from the CLINICAL
+
+            2 The asterisk on the claims cited above refers to a note that states: “*Roszet LDL-C reductions calculated from
+
+            baseline. E.g. 64% reduction indicates final LDL-C is at 36% of the original baseline level i.e. (1-52%)*(1-25%)
+            = 36%. [LDL-C reductions: rosuvastatin 10 mg = 52%; ezetimibe 10 mg = incremental 25% reduction].” Inclusion
+            of this note does not mitigate the misleading claims given that they are based on a scientifically unsound
+            analysis as discussed above.
+
+
+
+
+Reference ID: 4993452
+            James H. Medley                                                                       Page 3
+            Althera Pharmaceuticals LLC
+            NDA 213072 MA 4
+
+            STUDIES section of the Roszet PI: 1) a monotherapy study that evaluated rosuvastatin in
+            patients with hyperlipidemia and 2) a combination study that evaluated ezetimibe added to
+            ongoing statin therapy in patients with primary hyperlipidemia, known coronary heart disease
+            or multiple cardiovascular risk factors who were already receiving statin monotherapy, but
+            who had not met their target LDL-C goal. The LDL-C reductions represented in the claims
+            above that are attributed to Roszet actually depict numbers that were retrospectively
+            calculated by combining the results of these two unrelated studies, neither of which evaluated
+            the specific combination of rosuvastatin and ezetimibe (i.e., Roszet). In fact, rosuvastatin
+            was not actually one of the statins used in the study of ezetimibe added to ongoing statin
+            therapy. The LDL-C reductions claimed in the promotional communication for each dose of
+            Roszet were calculated by taking the percent change from baseline LDL-C reduction
+            observed in the rosuvastatin monotherapy study and then applying an additional 25% LDL-C
+            reduction which was observed in the separate ezetimibe added to ongoing statin therapy
+            study. FDA is not aware of a scientific basis for combining study results in this manner.
+
+            Furthermore, these studies differed in patient population and type and dose of statin(s), as
+            well as duration (i.e., 6 weeks for the rosuvastatin monotherapy study and 8 weeks for the
+            ezetimibe added to ongoing statin therapy study). Such differences between studies limit the
+            interpretability of any cross-study comparisons and any analysis combining the results of
+            these studies. Thus, such an analysis does not support these claims that attribute specific
+            levels of LDL-C reductions to each dose of Roszet. The clinical studies described in the
+            Roszet PI and cited in the promotional communication support FDA’s finding of safety and
+            efficacy of the drug with respect to its labeled indication, involving the reduction of LDL-C in
+            certain patients, but not in achieving the specific levels of LDL-C reductions claimed. Thus,
+            the promotional communication creates a misleading impression regarding the effect of
+            Roszet.
+
+            The promotional communication also includes the following claims and presentations
+            (emphasis original):
+
+                •       “Patients Can Get Below 70 mg/dL with One Pill Daily”
+
+                •       “Mean LDL-C Reductions Achieved in Clinical Trials”
+
+                           o “GRAVITY 3 Study
+                                 Baseline LDL-C 163 mg/dl  Final LDL-C 65 mg/dl after 12 weeks
+                                  (Dose: rosuvastatin/ezetimibe 10 mg/10 mg)
+                                 Baseline LDL-C 165 mg/dl  Final LDL-C 59 mg/dl after 12 weeks
+                                  (Dose: rosuvastatin/ezetimibe 20 mg/10 mg)”
+
+
+
+            3
+              Ballantyne CM, et al. Efficacy, safety and effect on biomarkers related to cholesterol and lipoprotein
+            metabolism of rosuvastatin 10 or 20 mg plus ezetimibe 10 mg vs. simvastatin 40 or 80 mg plus ezetimibe 10 mg
+            in high risk patients: Results of the GRAVITY randomized study. Atherosclerosis 2014; 232:86-93.
+
+
+
+
+Reference ID: 4993452
+            James H. Medley                                                                        Page 4
+            Althera Pharmaceuticals LLC
+            NDA 213072 MA 4
+
+                        o “EXPLORER 4 Study
+                              Baseline LDL-C 189 mg/dl  Final LDL-C 57 mg/dl after 6 weeks
+                               (Dose: rosuvastatin/ezetimibe 40 mg/10 mg)”
+
+            These claims and presentations create a misleading impression regarding the efficacy of
+            Roszet in achieving specific levels of LDL-C reduction over specific periods of time. There
+            are multiple limitations to the cited studies3,4 that preclude drawing conclusions regarding the
+            quantitative treatment effect of Roszet on LDL-C based on these studies.
+
+            For example, both the GRAVITY and EXPLORER studies conducted analyses in a modified
+            intent-to-treat population (mITT) that excluded subjects with no post-baseline measurements
+            from the efficacy analyses and only used the last observation carried forward (LOCF) method
+            to impute missing data. Both LOCF and mITT introduce bias in the estimation of the
+            treatment effect and increase the chance of committing a Type I error (i.e., falsely concluding
+            a treatment effect). The use of the mITT population biases the estimate of the treatment
+            effect of the drug because excluding patients after randomization could undermine the
+            integrity of randomization. Similarly, the use of LOCF to account for patients with missing
+            data further biases the estimate of the treatment effect of the drug because it relies on the
+            unlikely assumption that outcomes after treatment discontinuation remain constant. Also, the
+            use of LOCF does not account for the uncertainty of the imputed values for missing data.
+            Thus, the use of the mITT population and LOCF introduce bias into the study results and limit
+            the conclusions that can be drawn regarding the quantitative treatment effect based on these
+            studies.
+
+            Additionally, the promotional communication includes claims and presentations that
+            misleadingly imply that the GRAVITY and EXPLORER studies establish that patients can get
+            their LDL-C below 70 mg/dL with Roszet. The primary endpoints in GRAVITY and
+            EXPLORER studies were mean percent reduction in LDL-C from baseline to week 12 and the
+            proportion of patients who achieved LDL-C <100 mg/dL at week 6, respectively. However,
+            the proportion of patients achieving LDL-C <70 mg/dL was only one of numerous secondary
+            endpoints in these studies and, the study publications do not discuss, and the FDA is not
+            aware of, any methods taken to control for multiplicity testing of secondary endpoints in these
+            studies. As the number of endpoints analyzed in a single study increases, the likelihood of
+            making false conclusions about a drug’s effects with respect to one or more of those
+            endpoints becomes a concern if there is not appropriate adjustment for multiplicity. Basing a
+            conclusion on an analysis where the risk of false conclusions has not been appropriately
+            controlled can lead to false or misleading representations regarding a drug’s effects. If you
+            have information on any methods taken to control for multiplicity testing of secondary
+            endpoints in these studies, please submit to FDA for review.
+
+
+
+            4
+             Ballantyne CM, et al. Efficacy and safety of rosuvastatin 40 mg alone or in combination with ezetimibe in
+            patients at high risk of cardiovascular disease (results from the EXPLORER study). Am J Cardiol 2007; 99:673-
+            80.
+
+
+
+
+Reference ID: 4993452
+            James H. Medley                                                             Page 5
+            Althera Pharmaceuticals LLC
+            NDA 213072 MA 4
+
+            Lastly, the promotional communication misleadingly implies that the results for the GRAVITY
+            study represent 12 weeks of treatment with ROSZET. However, this study was not designed
+            to demonstrate the effect of the combination of rosuvastatin and ezetimibe on LDL-C after 12
+            weeks of treatment. Rather, patients were first treated with 6 weeks of rosuvastatin 10 mg or
+            20 mg monotherapy (Weeks 0 to 6) followed by 6 weeks of rosuvastatin plus ezetimibe 10
+            mg (Weeks 7 to 12). The effects on LDL-C seen at Week 12 are the result of 6 weeks of
+            monotherapy followed by 6 weeks of combination therapy, not 12 weeks of combination
+            therapy. Therefore, this study does not support the claimed efficacy of the combination of
+            rosuvastatin plus ezetimibe after 12 weeks of treatment.
+
+            Therefore, due to multiple limitations of design and analytic strategy, these studies do not
+            support claims and presentations regarding the magnitude of treatment effect of Roszet on
+            LDL-C.
+
+            The claims and presentations regarding Roszet’s effect on LDL-C such as, “Roszet Delivers
+            Powerful LDL-C Reductions” and “Patients Can Get Below 70 mg/dL with One Pill
+            Daily,” are also misleading because they omit material information from the full indication
+            about the relative effect of diet (emphasis original). According to the INDICATIONS AND
+            USAGE section of the PI, one of Roszet’s indications is as an adjunct to diet to reduce LDL-C
+            in patients with primary non-familial hyperlipidemia. OPDP acknowledges that the full
+            indication is included at the bottom of page one of the promotional communication. However,
+            unlike the benefit claims in the promotional communication, which utilize significant white
+            space and large colorful font, the full indication is included under an “Important Safety
+            Information” header in paragraph format in a much smaller font size and with minimal white
+            space at the bottom of the page (emphasis original). Therefore, this does not mitigate the
+            misleading impression. By omitting this information from these claims, this presentation
+            misleadingly suggests that Roszet alone, in the absence of diet, provides these benefits to
+            patients with primary non-familial hyperlipidemia when this has not been demonstrated.
+
+            False or Misleading Risk Presentation
+
+            Promotional communications misbrand a drug if they are false or misleading with respect to
+            risk. The determination of whether a promotional communication is misleading includes,
+            among other things, not only representations made or suggested in the promotional
+            communication, but also the extent to which the promotional communication fails to reveal
+            facts material in light of the representations made or with respect to consequences that may
+            result from the use of the drug as recommended or suggested in the promotional
+            communication.
+
+            The promotional communication is misleading because it fails to present information relating
+            to the contraindications and warnings and precautions for Roszet with a prominence and
+            readability reasonably comparable with the presentation of information relating to the benefits
+            of Roszet. Factors impacting prominence and readability include typography, layout,
+            contrast, headlines, paragraphing, white space, and other techniques apt to achieve
+
+
+
+
+Reference ID: 4993452
+            James H. Medley                                                             Page 6
+            Althera Pharmaceuticals LLC
+            NDA 213072 MA 4
+
+            emphasis. Specifically, benefit claims for Roszet are presented in conjunction with colorful
+            graphics and large bolded headlines, with significant white space. However, risk information
+            regarding some of the contraindications is relegated to the bottom of the first page and the
+            remaining contraindications and warnings and precautions are presented on a subsequent
+            page. This risk information is also presented in small font and in paragraph format. We note
+            that some of the most common adverse reactions are presented in the body of the
+            promotional communication in table format under the header “Safety and Tolerability”
+            (emphasis original). However, only presenting common adverse reactions associated with
+            Roszet under this header and relegating the serious risks (i.e., contraindications and
+            warnings and precautions) to the bottom of the page and subsequent page in small font and
+            paragraph format creates a misleading impression regarding the risk profile of Roszet. For
+            example, event rates for myalgia are prominently presented under the header “Safety and
+            Tolerability,” however the warning and precaution for myopathy and rhabdomyolysis is
+            relegated to the subsequent page in small font and paragraph format (emphasis original).
+            The overall effect of disclosing risk information in this manner undermines the communication
+            of risk information and thereby misleadingly minimizes the risks associated with the use of
+            Roszet.
+
+            Conclusion and Requested Action
+
+            For the reasons discussed above, the letter misbrands Roszet within the meaning of the
+            FD&C Act and makes its distribution violative. 21 U.S.C. 352(a); 321(n); 331(a). C.f. 21 CFR
+            202.1 (e)(3)(i); (e)(5); (e)(7)(viii).
+
+            This letter notifies you of our concerns and provides you with an opportunity to address them.
+            OPDP requests that Althera cease any violations of the FD&C Act. Please submit a written
+            response to this letter within 15 working days from the date of receipt, addressing the
+            concerns described in this letter, listing all promotional communications (with the 2253
+            submission date) for Roszet that contain representations like those described above, and
+            explaining any plan for discontinuing use of such communications, or for ceasing distribution
+            of Roszet.
+
+            If you believe that your product is not in violation of the FD&C Act, please include in your
+            submission to us your reasoning and any supporting information for our consideration within
+            15 working days from the date of receipt of this letter.
+
+            The concerns discussed in this letter do not necessarily constitute an exhaustive list of
+            potential violations. It is your responsibility to ensure compliance with each applicable
+            requirement of the FD&C Act and FDA implementing regulations.
+
+            Please direct your response to the undersigned at the Food and Drug Administration,
+            Center for Drug Evaluation and Research, Office of Prescription Drug Promotion, 5901-
+            B Ammendale Road, Beltsville, Maryland 20705-1266. A courtesy copy can be sent by
+            facsimile to (301) 847-8444. Please refer to MA 4 in addition to the NDA number in all future
+
+
+
+
+Reference ID: 4993452
+            James H. Medley                                                            Page 7
+            Althera Pharmaceuticals LLC
+            NDA 213072 MA 4
+
+            correspondence relating to this particular matter. All correspondence should include a
+            subject line that clearly identifies the submission as a Response to Untitled Letter. You are
+            encouraged, but not required, to submit your response in eCTD format. All correspondence
+            submitted in response to this letter should be placed under eCTD Heading 1.15.1.6.
+            Additionally, the response submission should be coded as an Amendment to eCTD
+            Sequence 0044 under NDA 213072. Questions related to the submission of your response
+            letter should be emailed to the OPDP RPM at CDER-OPDP-RPM@fda.hhs.gov.
+
+                                                            Sincerely,
+
+                                                            {See appended electronic signature page}
+
+                                                            Ankur Kalola, PharmD, RAC
+                                                            Regulatory Review Officer
+                                                            Division of Advertising & Promotion Review 2
+                                                            Office of Prescription Drug Promotion
+
+
+                                                            {See appended electronic signature page}
+
+                                                            Melinda Wilson, PharmD, MPH, BCPS,
+                                                            RAC
+                                                            Team Leader
+                                                            Division of Advertising & Promotion Review 2
+                                                            Office of Prescription Drug Promotion
+
+
+
+
+Reference ID: 4993452
+                                                                                                    Signature Page 1 of 1
+
+          --------------------------------------------------------------------------------------------
+          This is a representation of an electronic record that was signed
+          electronically. Following this are manifestations of any and all
+          electronic signatures for this electronic record.
+          --------------------------------------------------------------------------------------------
+          /s/
+          ------------------------------------------------------------
+
+          ANKUR S KALOLA
+          06/02/2022 02:50:30 PM
+
+          MELINDA M WILSON
+          06/02/2022 02:52:18 PM
+
+
+
+
+Reference ID: 4993452
+

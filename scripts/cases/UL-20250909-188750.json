@@ -1,0 +1,19 @@
+{
+"id": "UL-20250909-188750",
+"piece_type": "DTC TV ad (US-LIN-240235)",
+"audience": "DTC",
+"company": "AbbVie, Inc.",
+"regs_in_letter": "FD&C Act (no CFR section cited in letter text)",
+"status": "processed",
+"cases": [
+{
+"cat": "Distracting presentation during risk/major statement (TV)",
+"claim": "[Visual] frames 10–16: father brings home a surprise gift, playfully pulls it away, daughter spies on parents while dancing, opens present to reveal dancing shoes and runs to dad — during the major statement",
+"context": "DTC TV major statement.",
+"rationale": "Frequent scene changes and attention-grabbing visuals interfere with comprehension.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Storyboard check: flag narrative payoffs (gift reveals) and scene cuts during major statement."
+}
+]
+}

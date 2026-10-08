@@ -1,0 +1,194 @@
+                  DEPARTMENT OF HEALTH & HUMAN SERVICES                                  Public Health Service
+
+
+
+                                                                                         Food and Drug Administration
+                                                                                         Silver Spring, MD 20993
+
+             Chase Edwards
+             Director, Regulatory Affairs
+             Galderma Laboratories, L.P.
+             2001 Ross Avenue, Suite 1600
+             Dallas, TX 75201
+
+
+            RE:         BLA 761391
+                        NEMLUVIO® (nemolizumab-ilto) for injection, for subcutaneous use
+                        MA 57
+
+
+            Dear Chase Edwards:
+
+            The U.S. Food and Drug Administration (FDA) has reviewed the promotional communication,
+            a direct-to-consumer broadcast advertisement, “Scratch Resistance” (US-NAD-2400082
+            (v0.8)) (TV ad) for NEMLUVIO® (nemolizumab-ilto) for injection, for subcutaneous use
+            (Nemluvio) submitted by Galderma Laboratories, L.P. (Galderma) under cover of Form FDA
+            2253. FDA has determined that the TV ad is false or misleading. Thus, the TV ad misbrands
+            Nemluvio and makes the distribution of the drug in violation of the Federal Food, Drug, and
+            Cosmetic Act (FD&C Act).
+
+            The TV ad includes the following claims and presentations:
+
+                •       VO: “…when moderate-to-severe eczema is uncontrolled despite treatment...”
+                        SUPER: “For adults and children 12+ years with moderate-to-severe eczema (atopic
+                        dermatitis) that is not well controlled with topical prescriptions. NEMLUVIO can be
+                        used with certain prescription topicals.”
+                •       VO: “So when eczema is out-of-hand show it who’s boss with Nemluvio, Nemluvio”
+
+            The TV ad is misleading because it creates a misleading impression regarding the use of
+            Nemluvio. Specifically, the claims and presentations above suggest that Nemluvio can be
+            used alone for the treatment of moderate-to-severe atopic dermatitis, when this is not the
+            case. While the TV ad presents information from the Patient Package Insert (PPI) regarding
+            “What is NEMLUVIO?”, it fails to clearly convey that Nemluvio is indicated in combination with
+            other topical treatments. According to the INDICATIONS AND USAGE section of the
+            Prescribing Information (PI)(in pertinent part):
+
+                        “NEMLUVIO is indicated…in combination with topical corticosteroids and/or
+                        calcineurin inhibitors when the disease is not adequately controlled with topical
+                        prescription therapies.”
+
+
+
+
+Reference ID: 5655680
+            Chase Edwards                                                                Page 2
+            Galderma Laboratories, L.P.
+            BLA 761391/MA 57
+
+            In addition, the numerous benefit claims and data presentations regarding Nemluvio
+            throughout the TV ad fail to reveal that the efficacy of Nemluvio is based on concomitant use
+            with topical prescription treatments. Claims and presentations suggesting Nemluvio can be
+            used, or has demonstrated efficacy, as a single agent in the treatment of moderate-to-severe
+            atopic dermatitis are misleading.
+
+            The TV ad includes the following claims and presentations (emphasis original):
+
+                •       VO: “Get itch relief fast, as soon as 48 hours.”
+                        Graphic: “ITCH RELIEF as soon as 48 HRS”
+                        SUPER: “…In a follow-up analysis, results were observed as soon as 48 hours…”
+                •       VO: “Get over your itch fast…”
+                        GRAPHIC: “Get over itch fast…”
+
+            The TV ad is misleading because it creates a misleading impression regarding the efficacy of
+            Nemluvio. Specifically, the claims and presentations above imply that treatment with
+            Nemluvio provides itch relief as soon as 48 hours after treatment initiation, when this has not
+            been demonstrated. According to the pivotal studies ARCADIA 1 and ARCADIA 2, Nemluvio
+            showed an improvement in itch through a key secondary endpoint, a Peak Pruritus Numeric
+            Rating Scale (PP-NRS) improvement greater than or equal to 4 points from baseline at Week
+            16 versus placebo (33% versus 15% and 36% versus 15%, respectively). However, daily PP-
+            NRS response was a post-hoc, descriptive analysis for both ARCADIA 1 and ARCADIA 2. It
+            was not a prespecified endpoint included in the Statistical Analysis Plan for these studies,
+            was not adjusted for multiplicity, and no statistical procedures were in place for controlling
+            inflation of the overall Type 1 error rate (false positive rate). As a result, alpha was not
+            allocated for this analysis and it is not possible to determine the probability that the findings
+            were attributable to treatment with Nemluvio rather than merely due to chance. The claims
+            and presentations that draw benefit conclusions on this data are misleading.
+
+            The TV ad includes the following claims and presentations (emphasis original):
+
+                •       VO: “…and get clear skin that lasts.”
+                        GRAPHIC: “CLEAR SKIN that lasts”
+                        SUPER: “…At 16 and 48 weeks, many on NEMLUVIO saw clear or almost clear
+                        skin…”
+                •       VO: “and get skin clearance that lasts.”
+                        GRAPHIC: “…with skin clearance that lasts”
+
+            The TV ad is misleading because it creates a misleading impression regarding the efficacy of
+            Nemluvio. Specifically, the claims and presentations above suggest that patients with
+            moderate-to-severe eczema (atopic dermatitis) will “get” complete clearing of their skin with
+            Nemluvio, and many will maintain results “that last” through 48 weeks. According to the
+            CLINICAL STUDIES section of the PI, the primary endpoint was the proportion of subjects
+            who achieved an Investigator’s Global Assessment (IGA) score of 0 (clear) or 1 (almost clear)
+            and at least a 2-point improvement from baseline at Week 16. The results of IGA success for
+            Nemluvio at Week 16 were 36% and 38% versus 25% and 26% for placebo in ARCADIA 1
+            and ARCADIA 2, respectively. IGA response was also evaluated between 16 and 48 weeks
+            in the combined trial maintenance period with 63% and 64% of Nemluvio patients from two
+
+Reference ID: 5655680
+            Chase Edwards                                                                Page 3
+            Galderma Laboratories, L.P.
+            BLA 761391/MA 57
+
+            differing dosing regimens demonstrating IGA success versus 55% of placebo patients.
+            However, contrary to the claims and presentations in the TV ad, experiencing clear skin and
+            maintaining it is not a guarantee for any, let alone “many” patients at any timepoint. The
+            proportion of Nemluvio patients with IGA success was well less than 50% at Week 16 and
+            only represented a 12% difference from placebo across the two studies. Furthermore, the
+            maintenance period data represents a subset of IGA responders at Week 48 out of the IGA
+            responder subset from Week 16. Thus, the interpretability of the 48-week IGA data is only
+            applicable to a limited population and does not support broad efficacy claims for “many”
+            patients.
+
+            Conclusion and Requested Action
+
+            For the reasons described above, the TV Ad misbrands, Nemluvio and makes the distribution
+            of the drug in violation of the FD&C Act.
+
+            This letter notifies you of our concerns and provides you with an opportunity to address them.
+            FDA requests that Galderma take immediate action to address any violations (including, for
+            example, ceasing and desisting promotional communications that are misleading as
+            described above). Please submit a written response to this letter within 15 working days from
+            the date of receipt, addressing the concerns described in this letter, listing all promotional
+            communications (with the 2253 submission date) for Nemluvio that contain representations
+            like those described above, and explaining your plan for the timely discontinuation of such
+            communications, or for ceasing distribution of Nemluvio.
+
+            If you believe that your products are not in violation of the FD&C Act, please include in your
+            submission to us your reasoning and any supporting information for our consideration within
+            15 working days from the date of receipt of this letter.
+
+            The concerns discussed in this letter do not necessarily constitute an exhaustive list of
+            potential violations. It is your responsibility to ensure compliance with each applicable
+            requirement of the FD&C Act and FDA implementing regulations.
+
+            Please direct your response to the Food and Drug Administration, Center for Drug
+            Evaluation and Research, Office of Prescription Drug Promotion, 5901-B Ammendale
+            Road, Beltsville, Maryland 20705-1266. A courtesy copy can be sent by facsimile to (301)
+            847-8444. Please refer to MA 57 in addition to the BLA number in all future correspondence
+            relating to this particular matter. All correspondence should include a subject line that clearly
+            identifies the submission as a Response to Untitled Letter. You are encouraged, but not
+            required, to submit your response in eCTD format. All correspondence submitted in response
+            to this letter should be placed under eCTD Heading 1.15.1.6. Additionally, the response
+            submission should be coded as an Amendment to eCTD Sequence 6054 under BLA 761391.
+            Questions related to the submission of your response letter should be emailed to CDER-
+            OPDP-RPM@fda.hhs.gov.
+
+
+
+
+Reference ID: 5655680
+            Chase Edwards                                          Page 4
+            Galderma Laboratories, L.P.
+            BLA 761391/MA 57
+
+                                          Sincerely,
+
+                                          {See appended electronic signature page}
+
+                                          George Tidmarsh, M.D., Ph.D.
+                                          Director
+                                          Center for Drug Evaluation and Research
+
+
+
+
+Reference ID: 5655680
+                                                                                                    Signature Page 1 of 1
+
+          --------------------------------------------------------------------------------------------
+          This is a representation of an electronic record that was signed
+          electronically. Following this are manifestations of any and all
+          electronic signatures for this electronic record.
+          --------------------------------------------------------------------------------------------
+          /s/
+          ------------------------------------------------------------
+
+          CARTER M BEACH
+          09/09/2025 05:12:01 PM
+          On behalf of George Tidmarsh, M.D., Ph.D
+
+
+
+
+Reference ID: 5655680
+

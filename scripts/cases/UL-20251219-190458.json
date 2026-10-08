@@ -1,0 +1,1 @@
+{"id": "UL-20251219-190458", "status": "skipped", "company": "Esperion Therapeutics, Inc.", "note": "PDF not extractable: fda.gov blocks the box (Akamai 401); WebFetch/Exa returned raw PDF bytes truncated at the 1,000,000-char fetch cap (~750 KB of a larger file), so pdftotext/PyMuPDF found no readable pages. Needs manual download from fda.gov.", "cases": []}

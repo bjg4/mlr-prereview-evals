@@ -1,0 +1,28 @@
+{
+"id": "UL-20250909-188713",
+"piece_type": "DTC TV ad “Tzield ‘WHEN’ Anthem OLV/CTV: 60s Spot-Family History” (MAT-US-2410394 (v1.0))",
+"audience": "DTC",
+"company": "Sanofi",
+"regs_in_letter": "FD&C Act (no CFR section cited in letter text)",
+"status": "processed",
+"cases": [
+{
+"cat": "Unsupported PRO / quality-of-life claims",
+"claim": "“Everyone with type 1 diabetes has a moment of WH:EN” | “WHEN I realized my life was about to change.” | “My biggest WH:EN? Discovering Tzield . . . . ” | “Our WHEN . . . . ” | “SEIZE YOUR WH:EN.”",
+"context": "MG: “TZIELD is a prescription medicine used to delay the onset of Stage 3 type 1 diabetes”. Word play between “when” and “win”.",
+"rationale": "Implies HRQoL/emotional/social improvement and that patients can 'win' or overcome T1D — not demonstrated.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Judge: wordplay/taglines implying cure or 'winning' over disease when indication is delay of onset."
+},
+{
+"cat": "Distracting presentation during risk/major statement (TV)",
+"claim": "[Visual] frequent scene changes and attention-grabbing visuals (e.g., the dog skating on a skateboard) during the major statement",
+"context": "DTC TV major statement.",
+"rationale": "Interferes with comprehension.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Storyboard check: flag activity scenes and frequent scene changes during major statement audio."
+}
+]
+}

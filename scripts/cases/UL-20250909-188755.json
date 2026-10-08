@@ -1,0 +1,19 @@
+{
+"id": "UL-20250909-188755",
+"piece_type": "DTC celebrity spokesperson interview video (Kenan Thompson) on The Culture Shift (Apr 10, 2025; Black Enterprise YouTube)",
+"audience": "DTC",
+"company": "Phathom Pharmaceuticals, Inc.",
+"regs_in_letter": "FD&C Act (no CFR section cited in letter text)",
+"status": "processed",
+"cases": [
+{
+"cat": "Omission of risk information",
+"claim": "“…then along the way I was able to partner with Phathom Pharmaceuticals…” | “GERDisnojoke.com has, you know, pretty much all the information that you may need and if you need more probably just, you know, talk to your professional, talk to your medical provider...” | “…and if you are prescribed Voquezna I hope it works for you like it did for me.”",
+"context": "Paid spokesperson interview on third-party media; no risk information.",
+"rationale": "Presents efficacy claims but entirely omits risk information.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "deterministic",
+"check": "Rule: any spokesperson/influencer/earned-media content where the sponsor's product is named with a benefit or experience ('it worked for me') must include risk information."
+}
+]
+}

@@ -1,0 +1,60 @@
+{
+ "note": "Field set manifest only. Captured pages, screenshots and manufacturer labeling are third-party copyrighted and are NOT included. Re-capture locally with scripts/capture_pieces.py (see README \"Field set\").",
+ "method": "raw HTML via curl (Chrome UA); rendered DOM, text and screenshots via headless Google Chrome 154 (Playwright, channel=chrome), desktop 1440px and mobile 390px. No forms submitted, no cookie consent clicked, no HCP attestation clicked: gates/cookie banners hidden with CSS for the clean shots and kept in screenshot_as_landed.png. Only interaction: clicking an ISI tray expand toggle for screenshot_isi_expanded.png where one existed.",
+ "pieces": [
+  {
+   "slug": "eliquis_consumer",
+   "brand": "ELIQUIS",
+   "established_name": "apixaban",
+   "audience": "consumer",
+   "url_requested": "https://www.eliquis.com/",
+   "url_final": "https://www.eliquis.bmscustomerconnect.com/",
+   "capture_timestamp_pt": "2026-10-07T22:44:03-07:00"
+  },
+  {
+   "slug": "eliquis_hcp",
+   "brand": "ELIQUIS",
+   "established_name": "apixaban",
+   "audience": "hcp",
+   "url_requested": "https://www.eliquis.com/eliquis/hcp",
+   "url_final": "https://www.eliquis.com/eliquis/hcp",
+   "capture_timestamp_pt": "2026-10-07T22:44:52-07:00"
+  },
+  {
+   "slug": "keytruda_consumer",
+   "brand": "KEYTRUDA",
+   "established_name": "pembrolizumab",
+   "audience": "consumer",
+   "url_requested": "https://www.keytruda.com/",
+   "url_final": "https://www.keytruda.com/",
+   "capture_timestamp_pt": "2026-10-07T22:38:46-07:00"
+  },
+  {
+   "slug": "keytruda_hcp",
+   "brand": "KEYTRUDA",
+   "established_name": "pembrolizumab",
+   "audience": "hcp",
+   "url_requested": "https://www.keytrudahcp.com/",
+   "url_final": "https://www.keytrudahcp.com/",
+   "capture_timestamp_pt": "2026-10-07T22:39:24-07:00"
+  },
+  {
+   "slug": "mounjaro_consumer",
+   "brand": "MOUNJARO",
+   "established_name": "tirzepatide",
+   "audience": "consumer",
+   "url_requested": "https://mounjaro.lilly.com/",
+   "url_final": "https://mounjaro.lilly.com/",
+   "capture_timestamp_pt": "2026-10-07T22:41:49-07:00"
+  },
+  {
+   "slug": "mounjaro_hcp",
+   "brand": "MOUNJARO",
+   "established_name": "tirzepatide",
+   "audience": "hcp",
+   "url_requested": "https://mounjaro.lilly.com/hcp",
+   "url_final": "https://mounjaro.lilly.com/hcp",
+   "capture_timestamp_pt": "2026-10-07T22:42:34-07:00"
+  }
+ ]
+}

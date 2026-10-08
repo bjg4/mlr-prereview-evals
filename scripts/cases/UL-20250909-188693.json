@@ -1,0 +1,28 @@
+{
+"id": "UL-20250909-188693",
+"piece_type": "DTC TV ad “Fade Cut” (US-BK-2401669)",
+"audience": "DTC",
+"company": "UCB, Inc.",
+"regs_in_letter": "FD&C Act (no CFR section cited in letter text)",
+"status": "processed",
+"cases": [
+{
+"cat": "Unsupported PRO / quality-of-life claims",
+"claim": "“I was known for showing up and showing out, … But psoriasis shut me down.” | “With Bimzelx, I can’t wait to say … I’m back.” | “Bimzelx can deliver transformative relief.” | “I’m back to liking what I see looking back at me.” | “Give yourself a chance to say … I’m back.”",
+"context": "Patient alone reminiscing → barber, friends, selfies. Trials measured symptom diary (itching, pain, scaling); HRQoL not evaluated. W&P: suicidal ideation and behavior. SUPER: “Results may vary.”",
+"rationale": "Suggests transformative emotional/social improvement not demonstrated.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Judge: emotional/social transformation narratives ('I'm back', melancholy→socially active) where PI has no validated HRQoL support; heightened concern if W&P on suicidal ideation."
+},
+{
+"cat": "Distracting presentation during risk/major statement (TV)",
+"claim": "[Visual] man walks in front of a store with flashing lights while checking his reflection in the glass; greeted by friends with light jostling and touching his head; takes a selfie with friends during a screen-in-screen view — during the major statement",
+"context": "DTC TV major statement.",
+"rationale": "Attention-grabbing visuals and frequent scene changes interfere with comprehension.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Storyboard check: flag attention-grabbing visuals and frequent scene changes during major statement audio."
+}
+]
+}

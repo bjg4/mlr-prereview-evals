@@ -1,0 +1,37 @@
+{
+"id": "WL-20250909-lilly-716475",
+"piece_type": "DTC online video interview with company executives (Dr. Clare Lee, Rhonda Pacheco) on dayton247now.com (Dayton247 Now “Your Day”, July 9, 2025)",
+"audience": "DTC",
+"company": "Eli Lilly and Company",
+"regs_in_letter": "21 U.S.C. 352(a), (n); 321(n); 331(a); 21 CFR 202.1(e)(3)(i); (e)(5); 314.81(b)(3)(i)",
+"status": "processed",
+"cases": [
+{
+"cat": "Omission of risk information",
+"claim": "“if pharmacotherapy is indicated, . . . make sure they have access to the FDA-approved, authentic and safe medicines . . . . ” | “We at Lilly are providing options. We know different patients have different needs and we have access to Zepbound on Lilly Direct. You can go to Lilly Direct, it’s our self-pay option. . . . This is the option for patients living with obesity that have a way to get that access to that safe and authentic medication . . . . ”",
+"context": "Company medical affairs and commercial executives in a TV-station interview segment; Boxed Warning for thyroid C-cell tumors.",
+"rationale": "Benefit claims ('safe and effective') with no risk information.",
+"reg": "21 U.S.C. 352(n); 21 CFR 202.1(e)(3)(i), (e)(5)",
+"ct": "deterministic",
+"check": "Rule: executive/spokesperson media appearances naming the product with benefit or 'safe and effective' language require risk information."
+},
+{
+"cat": "Broadening of indication / omission of material indication information",
+"claim": "[Omission] limitations of use: “ZEPBOUND contains tirzepatide. Coadministration with other tirzepatide containing products or with any glucagon-like peptide-1 (GLP-1) receptor agonist is not recommended.”",
+"context": "Indication in combination with reduced-calorie diet and increased physical activity.",
+"rationale": "Omits limitations of use.",
+"reg": "21 U.S.C. 352(a); 21 CFR 202.1(e)(5)",
+"ct": "deterministic",
+"check": "Rule: indication mentions must include PI limitations of use."
+},
+{
+"cat": "Failure to submit at first use (Form FDA 2253)",
+"claim": "[Process] video not submitted under Form FDA 2253 at initial publication",
+"context": "Earned/sponsored media segment.",
+"rationale": "Violates 2253 requirement.",
+"reg": "21 CFR 314.81(b)(3)(i)",
+"ct": "deterministic",
+"check": "Process rule: media appearances by company reps promoting a product need 2253 submission."
+}
+]
+}

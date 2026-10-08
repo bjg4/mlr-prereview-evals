@@ -1,0 +1,28 @@
+{
+"id": "UL-20250909-188727",
+"piece_type": "DTC TV ad “Flying Colors” (QBE.2023-0056)",
+"audience": "DTC",
+"company": "Supernus Pharmaceuticals, Inc.",
+"regs_in_letter": "FD&C Act (no CFR section cited in letter text)",
+"status": "processed",
+"cases": [
+{
+"cat": "Overstatement of efficacy",
+"claim": "“To do lists…more like to done lists!” | [Visual] after Qelbree, man makes daughter's lunch, finishes laundry, works at tidy desk; woman completes work at organized desk, attentive all day | “[Qelbree] helps make symptoms manageable,” | SUPER: “Individual results may vary.”",
+"context": "PI adult study: AISRS -15.5 vs -11.7 placebo from baseline ~38.",
+"rationale": "Implies complete resolution of adult ADHD symptoms.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Judge: complete-resolution imagery vs partial score reduction in PI."
+},
+{
+"cat": "Distracting presentation during risk/major statement (TV)",
+"claim": "[Visual] frequent scene changes during major statement; serious risks juxtaposed with happy, smiling protagonists",
+"context": "DTC TV major statement.",
+"rationale": "Interferes with comprehension and minimizes risks.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Storyboard check: flag activity scenes and frequent scene changes during major statement audio."
+}
+]
+}

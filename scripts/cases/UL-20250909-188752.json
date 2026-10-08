@@ -1,0 +1,28 @@
+{
+"id": "UL-20250909-188752",
+"piece_type": "DTC TV ad (US-FRZ-0501v1.0)",
+"audience": "DTC",
+"company": "Takeda Pharmaceuticals USA, Inc.",
+"regs_in_letter": "FD&C Act (no CFR section cited in letter text)",
+"status": "processed",
+"cases": [
+{
+"cat": "Omission of risk information",
+"claim": "[Omission] TV ad omits the gastrointestinal perforation warning and precaution",
+"context": "DTC TV ad with efficacy claims.",
+"rationale": "Omits a W&P, creating misleading safety impression.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "deterministic",
+"check": "Rule: diff major statement against all W&P headings."
+},
+{
+"cat": "Distracting presentation during risk/major statement (TV)",
+"claim": "[Visual] zooming effect toward and through a vase of flowers transitioning to a man playing fetch with a dog — during the major statement",
+"context": "DTC TV major statement.",
+"rationale": "Interferes with comprehension.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Storyboard check: flag zoom/transition effects and activity scenes during major statement."
+}
+]
+}

@@ -1,0 +1,157 @@
+Author: FDA/CDER
+
+DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+
+Food and Drug Administration Silver Spring, MD 20993
+
+Petya Krasteva, Assistant General Counsel 
+Commercial Legal and Corporate Affairs 
+Daiichi Sankyo, Inc. 
+211 Mt. Airy Road 
+Basking Ridge, NJ 07920 
+RE: NDA 211810 
+TURALIO® (pexidartinib) capsules, for oral use 
+MA 253 
+Dear Petya Krasteva: 
+The Office of Prescription Drug Promotion (OPDP) of the U.S. Food and Drug Administration 
+(FDA) has reviewed the promotional communication, a direct-to-consumer (DTC) Turalio 
+“Patient Ambassador Video_2025 BW Label Update” (PP-US-TU-1308) (video) for 
+TURALIO® (pexidartinib) capsules, for oral use (Turalio) submitted by Daiichi Sankyo, Inc. 
+(Daiichi Sankyo) under cover of Form FDA 2253. FDA has determined that the video is false 
+or misleading. Thus, the video misbrands Turalio and makes the distribution of the drug in 
+violation of the Federal Food, Drug, and Cosmetic Act (FD&C Act). 
+The video includes a patient testimonial, which starts with the patient “Siobhan” sitting on a 
+deck near her garden. She reflects on how much she enjoys gardening, stating that it “brings 
+me a lot of joy,” then a blue and green animated dragonfly transitions the viewer to an 
+animated flashback. In this animated flashback, Siobhan is seen kneeling and picking 
+strawberries in a bright and colorful garden. She describes how she started to have difficulty 
+standing up after kneeling in the garden, then vines are shown wrapping around her leg and 
+arm and pulling her to the ground as the music tenses and the garden dies. The next scenes 
+include a dark and muted garden, cold wintery weather, and suspenseful music. After her 
+diagnosis of tenosynovial giant cell tumor (TGCT), she describes her challenges with daily 
+activities such as getting into a car, getting up from a chair, and kneeling down to garden, 
+while stating, “Everything was difficult.” The scene starts to shift, and she’s in a dark tunnel 
+with a bright light shining through the entrance while being held in place by numerous vines. 
+The blue and green dragonfly reappears and helps release her from the vines while Siobhan 
+states, “… I learned about an FDA approved treatment called Turalio.” In addition, the scene 
+includes the indication in SUPER (i.e., “For adult patients with symptomatic TGCT associated 
+with severe morbidity or functional limitations and not amenable to improvement with 
+surgery.”). The dragonfly guides her towards the light, while she smiles and skips, and 
+states, “It really made me feel beyond hopeful.” The vines still try to attack her as she leaves 
+the tunnel, but they are not able to hold on to her or hold her back like before. In addition, the 
+music during this scene shifts to a light and airy sound. In the final animated scene, Siobhan 
+
+Petya Krasteva Page 2 
+Daiichi Sankyo, Inc. 
+NDA 211810/MA 253 
+is out of the tunnel and back into the bright and colorful garden. The music is upbeat, flowers 
+are blooming, and the vines retreat and disappear completely. The dragonfly guides her 
+forward through the garden and she picks up her gardening basket again. The patient 
+testimonial in the video concludes with Siobhan sitting on the deck while the blue and green 
+dragonfly rests on a branch in front of her, and she states, “I don’t know what the future 
+holds, but I’m optimistic.” 
+The totality of these claims and contrasting before and after presentations misleadingly 
+suggests that treatment with Turalio will allow all patients to live as they did prior to their 
+TGCT diagnosis, when this has not been demonstrated. Specifically, these claims and 
+presentations suggest that all patients with TGCT treated with Turalio will experience a 
+complete resolution of disease and will be able to return to daily activities (e.g., gardening), 
+without limitations from TGCT stopping them. While the patient testimonial in this video may 
+be an accurate reflection of this patient’s own personal experience with Turalio, the 
+testimonial does not adequately support the suggestion that other patients starting Turalio will 
+experience a similar response. 
+According to the CLINICAL STUDIES section of the Turalio FDA-approved Prescribing 
+Information (PI), in the ENLIVEN study, the Overall Response Rate (ORR) was 38% (95% CI: 
+27%, 50%) at Week 25 in the Turalio arm (n=61). Of the 38% of Turalio patients who 
+responded, 15% had a complete response (CR) and 23% had a partial response. We 
+acknowledge that “[a]t completion of the open-label extension part of the [ENLIVEN] study … 
+the ORR using RECIST v1.11 was 61% (95% CI: 48%, 72%) in the 61 patients originally 
+randomized to the TURALIO arm.” However, overall, the CR is only a portion of the ORR 
+and does not adequately support the suggestion that all patients would be able to live as they 
+did prior to their TGCT diagnosis. 
+Furthermore, the totality of these claims and presentations also misleadingly suggests that 
+treatment with Turalio will positively impact a patient’s health-related quality of life by 
+improving their emotional functioning (i.e., from feeling that “everything was difficult” to “it 
+really made me feel beyond hopeful”) and physical functioning (i.e., from vines grabbing her 
+leg and arm to pull her down to vines not being able to grab her), and may allow a patient to 
+return to their original self (i.e., the vines disappear and she picks up the basket to return to 
+gardening after the dragonfly breaks her free of the TGCT vines), when this has not been 
+demonstrated. This impression is furthered by the change in the video’s mood, lighting, and 
+music. It starts bright and colorful with light airy music. After her TGCT diagnosis, the patient 
+has a melancholic appearance, there is suspenseful music, and the scenes are dark, cold, 
+and muted. Then, when the dragonfly reappears and breaks her free, the patient appears 
+happy, the music is light and airy, and the scenes are bright and colorful, similar to the 
+beginning of the flashback. We note that the ENLIVEN study utilized PRO instruments, such 
+
+1 Response was measured using the Response Evaluation Criteria in Solid Tumors (RECIST) v 1.1., which defines the evaluation of target lesions as the following: Complete Response (CR): Disappearance of all target lesions. Partial Response (PR): At least a 30% decrease in the sum of diameters of target lesions, taking as reference the baseline sum diameters. Progressive Disease (PD): At least a 20% increase in the sum of diameters of target lesions, taking as reference the smallest sum on study. In addition to the relative increase of 20%, the sum must also demonstrate an absolute increase of at least 5 mm. Stable Disease (SD): Neither sufficient shrinkage to qualify for PR nor sufficient increase to qualify for PD, taking as reference the smallest sum diameters while on study. See: https://ctep.cancer.gov/protocoldevelopment/docs/recist guideline.pdf.
+
+Petya Krasteva Page 3 
+Daiichi Sankyo, Inc. 
+NDA 211810/MA 253 
+as Patient-Reported Outcomes Measure Information System – Physical Function (PROMIS 
+PF) and Worst Stiffness Numeric Rating Scale to assess patient functionality as pre-specified 
+secondary endpoints from baseline to Week 25. However, these PRO data for PROMIS-PF 
+and worst stiffness were uninterpretable due to the high extent of missing data (i.e., 43% for 
+PROMIS-PF and 43% for worst stiffness) for these endpoints. Given the proportion of 
+missing data, the results of these analyses may not reliably estimate treatment effects, and 
+thus, valid inference cannot be made. 
+Therefore, these data do not support suggestions that treatment with Turalio will provide full 
+relief from the limitations of TGCT that impact patients’ daily lives or return them to a state 
+prior to their diagnosis with TGCT. This misleading impression is especially concerning 
+considering Turalio is associated with a Boxed Warning regarding hepatotoxicity. We 
+acknowledge the disclaimer, “Outcomes may vary and are dependent on each patient’s 
+clinical profile and history” throughout the patient testimonial. However, inclusion of this 
+statement in this promotional communication does not correct or mitigate the misleading 
+suggestions regarding Turalio treatment described above. 
+Conclusion and Requested Action 
+For the reasons described above, the video misbrands Turalio and makes the distribution of 
+the drug in violation of the FD&C Act. 
+This letter notifies you of our concerns and provides you with an opportunity to address them. 
+FDA requests that Daiichi Sankyo take immediate action to address any violations (including, 
+for example, ceasing and desisting promotional communications that are misleading as 
+described above). 
+Please submit a written response to this letter within 15 working days from the date of receipt, 
+addressing the concerns described in this letter, listing all promotional communications (with 
+the 2253 submission date) for Turalio that contain representations like those described 
+above, and explaining your plan for the discontinuation of such communications, or for 
+ceasing distribution of Turalio. 
+If you believe that your product is not in violation of the FD&C Act, please include in your 
+submission to us your reasoning and any supporting information for our consideration within 
+15 working days from the date of receipt of this letter. 
+The concerns discussed in this letter do not necessarily constitute an exhaustive list of 
+potential violations. It is your responsibility to ensure compliance with each applicable 
+requirement of the FD&C Act and FDA implementing regulations. 
+Please direct your response to the undersigned at the Food and Drug Administration, 
+Center for Drug Evaluation and Research, Office of Prescription Drug Promotion, 5901- 
+B Ammendale Road, Beltsville, Maryland 20705-1266. A courtesy copy can be sent by 
+facsimile to (301) 847-8444. Please refer to MA 253 in addition to the NDA number in all 
+future correspondence relating to this particular matter. All correspondence should include a 
+subject line that clearly identifies the submission as a Response to Untitled Letter. You are 
+encouraged, but not required, to submit your response in eCTD format. All correspondence 
+
+Petya Krasteva Page 4 
+Daiichi Sankyo, Inc. 
+NDA 211810/MA 253 
+submitted in response to this letter should be placed under eCTD Heading 1.15.1.6. 
+Additionally, the response submission should be coded as an Amendment to eCTD 
+Sequence 3225 under NDA 211810. Questions related to the submission of your response 
+letter should be emailed to CDER-OPDP-RPM@fda.hhs.gov. 
+Sincerely, 
+{See appended electronic signature page} 
+Rebecca Falter, PharmD, BCACP 
+Regulatory Review Officer 
+Division of Advertising & Promotion Review 1 
+Office of Prescription Drug Promotion 
+
+{See appended electronic signature page} Emily Dvorsky, PharmD, RAC Team Leader Division of Advertising & Promotion Review 1 Office of Prescription Drug Promotion
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Signature Page 1 of 1
+
+## This is a representation of an electronic record that was signed electronically. Following this are manifestations of any and all electronic signatures for this electronic record.
+
+REBECCA A FALTER 11/24/2025 02:49:15 PM
+
+EMILY M DVORSKY 11/24/2025 04:00:45 PM
+
+

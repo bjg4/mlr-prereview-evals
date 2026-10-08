@@ -1,0 +1,59 @@
+{
+"id": "UL-20220331-159926",
+"piece_type": "DTC video (sponsored TV segment) and HCP efficacy webpage",
+"audience": "DTC and HCP",
+"regs_in_letter": "21 U.S.C. 352(a), (n); 321(n); 331(a). See 21 CFR 202.1(e)(3)(i); (e)(5); (e)(7)(viii)",
+"status": "processed",
+"cases": [
+{
+"cat": "Omission of risk information",
+"heading": "False or Misleading Risk Presentation",
+"claim": "“I've been using DUOBRII for 2 years, it works into my routine. I have cleared my plaque psoriasis on my elbows. I didn’t have flaky skin, it wasn’t sore, it wasn’t red.”",
+"context": "Female patient of childbearing age shown with two young children; video omits pregnancy test within 2 weeks, initiation during menses, and contraception; also omits photosensitivity (patient shown outdoors with exposed arms) and ophthalmic adverse reactions.",
+"rationale": "Omits material facts about embryofetal risk mitigation, photosensitivity, and ophthalmic risks; suggests use without precautions.",
+"reg": "21 CFR 202.1(e)(3)(i); (e)(5)",
+"ct": "deterministic",
+"check": "Rule: each W&P (incl. required actions such as pregnancy testing, contraception, sun protection) must appear in the piece."
+},
+{
+"cat": "Lack of fair balance (risk presentation prominence)",
+"heading": "False or Misleading Risk Presentation",
+"claim": "Risk information regarding HPA-axis suppression and other unwanted systemic glucocorticoid effects is presented in text-only format in small font relegated to the bottom of the screen, while benefit claims are in large print and simultaneously narrated.",
+"context": "",
+"rationale": "Risk not comparable in prominence to benefits.",
+"reg": "21 CFR 202.1(e)(5); (e)(7)(viii)",
+"ct": "deterministic",
+"check": "Rule: in video, flag risk text that is not narrated while benefit claims are narrated."
+},
+{
+"cat": "Unsubstantiated superiority / 'only' claim",
+"heading": "False or Misleading Claims about Efficacy",
+"claim": "“Adults with plaque psoriasis now have another topical treatment option. Approved by the FDA in 2019, DUOBRII is the first and only topical that combines two active ingredients, both with anti-inflammatory benefits that limit plaque growth.”",
+"context": "Other topical combinations (e.g., betamethasone and calcipotriene) were approved earlier.",
+"rationale": "'First and only' claim is false.",
+"reg": "21 CFR 202.1(e)(5)",
+"ct": "deterministic",
+"check": "Rule: flag 'first and only' claims for verification against approved products."
+},
+{
+"cat": "Unsubstantiated superiority / comparative claims",
+"heading": "False or Misleading Claims about Efficacy",
+"claim": "“I have seen many doctors over the last 11 years for my psoriasis. The creams I was prescribed were thick, and greasy, and they had an odor and they did not work for me.” | “When I first started using DUOBRII, I noticed how light and non-greasy it was. Within days, I started to see results.”",
+"context": "Pivotal trials were vehicle-controlled and excluded patients who failed prior prescription treatment; 'Individual results may vary' SUPER does not mitigate.",
+"rationale": "Testimonial implies superiority over other treatments and efficacy in treatment failures.",
+"reg": "21 CFR 202.1(e)(5)",
+"ct": "judgment",
+"check": "Does a testimonial imply superiority over prior therapies or efficacy in prior non-responders not studied in trials?"
+},
+{
+"cat": "Misleading presentation of study data (post hoc / exploratory)",
+"heading": "False or Misleading Claims about Efficacy",
+"claim": "“Demonstrated synergy: superior efficacy vs the aggregated results of two monotherapies” | “More patients experienced treatment success with DUOBRII Lotion than the aggregated success rates of both monotherapies” | “DUOBRII Lotion exceeded the clinical definition of synergy by 31.7% at 8 weeks” | bar graph “Treatment success at 8 weeks with the effect of the vehicle removed.” (42.8% vs 32.5%)",
+"context": "Post hoc analysis of a small phase 2 trial; vehicle effect removed; actual absolute difference 0.6% (52.5% vs 51.9%). 'Post hoc analysis of a phase 2 clinical trial' statement does not mitigate.",
+"rationale": "Exploratory post hoc data cannot support 'demonstrated synergy'/'superior efficacy'; vehicle subtraction inflates difference.",
+"reg": "21 CFR 202.1(e)(5)",
+"ct": "judgment",
+"check": "Do claims of synergy/superiority rely on post hoc analyses or manipulated baselines (e.g., vehicle subtraction) rather than prespecified endpoints?"
+}
+]
+}

@@ -1,0 +1,36 @@
+{
+"id": "UL-20260327-191875",
+"piece_type": "Consumer website homepage",
+"audience": "DTC",
+"regs_in_letter": "FD&C Act misbranding (false or misleading); Form FDA-2253 submission requirement (no CFR section number cited in letter text)",
+"status": "processed",
+"cases": [
+{
+"cat": "Unsubstantiated superiority / 'only' claim",
+"claim": "“LUCEMYRA® IS THE ONLY FDA-APPROVED, NON OPIOID MEDICINE PROVEN TO HELP WITH SYMPTOMS OF OPIOID WITHDRAWAL.”",
+"context": "Other FDA-approved lofexidine products exist for the same indication.",
+"rationale": "'Only FDA-approved' exclusivity claim is false.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "deterministic",
+"check": "Rule: flag 'the only' / 'first and only' / 'only FDA-approved' claims for mandatory verification against current approvals (incl. generics)."
+},
+{
+"cat": "Lack of fair balance (risk presentation prominence)",
+"claim": "“Demonstrated safety profile in studies” | “Lofexidine should therefore be the preferred choice for withdrawal management in an outpatient setting, where monitoring of blood pressure and management of hypotension is more difficult”",
+"context": "Risk info only under collapsed header 'Click to see full Important Safety Information & Prescribing Information'; requires manual click to expand.",
+"rationale": "Benefit claims prominent while risk info is hidden behind an expandable header, minimizing risk.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "deterministic",
+"check": "Rule: on webpages, flag when ISI/risk content is only in a collapsed/expandable element or behind a click while benefit claims are visible."
+},
+{
+"cat": "Failure to submit at time of initial dissemination (Form FDA 2253)",
+"claim": "A copy of the webpage was not submitted to FDA under cover of Form FDA-2253 at the time of initial publication as required.",
+"context": "",
+"rationale": "Promotional materials must be submitted at first use with Form FDA-2253 and current labeling.",
+"reg": "Form FDA-2253 submission requirement (21 CFR 314.81(b)(3)(i) per other OPDP letters; not numerically cited here)",
+"ct": "deterministic",
+"check": "Rule: before release, confirm a Form FDA 2253 submission record exists for the piece."
+}
+]
+}

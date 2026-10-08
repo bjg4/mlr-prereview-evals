@@ -1,0 +1,45 @@
+{
+"id": "UL-20260422-192125",
+"piece_type": "DTC branded website (landing page and 'Responses' webpage)",
+"audience": "DTC",
+"regs_in_letter": "FD&C Act misbranding (false or misleading); no CFR section cited in letter text",
+"status": "processed",
+"cases": [
+{
+"cat": "Overstatement of efficacy",
+"claim": "“Most people achieved a response with Niktimvo” | “75% of people (59 out of 79) experienced a response”",
+"context": "PI: no complete responses; all 59 responders were partial responses; CR/PR definitions shown but do not mitigate.",
+"rationale": "Implies complete responses when 0% CR was observed.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Do response-rate claims disclose response type (e.g., all partial) when unqualified 'response' could imply complete response?"
+},
+{
+"cat": "Overstatement of efficacy",
+"claim": "“Niktimvo may offer fast and lasting responses” | “In a study of people experiencing chronic GVHD symptoms after taking at least 2 therapies, Niktimvo™ (axatilimab-csfr) delivered fast and lasting responses” | “Niktimvo provided lasting responses o More than half (60%) of the people who showed a response to Niktimvo continued to respond for at least 1 year” (next to a flipping calendar image)",
+"context": "PI: median time to response 1.5 months (range 0.9-5.1); median duration of response 1.9 months; 60% measure excludes progression.",
+"rationale": "'Fast' and 'lasting' overstate onset and durability; alternative durability metric conflates measures.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "deterministic",
+"check": "Rule: flag 'fast'/'rapid'/'lasting'/'durable' descriptors and require them to be checked against label median time-to-response and duration-of-response."
+},
+{
+"cat": "Misleading presentation of study data (organ-level responses)",
+"claim": "“People achieved responses in multiple affected organs” | “Niktimvo may provide fast and lasting responses across a range of affected organs” with a body diagram of organ-specific response rates",
+"context": "Efficacy based on ORR across all organs, not individual organs.",
+"rationale": "Organ-level response rates inflate perceived benefit and ignore progression in other organs.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Does the piece present subcomponent/organ-level results that were not the basis of approval as standalone efficacy?"
+},
+{
+"cat": "Unsupported PRO / quality-of-life claims",
+"claim": "“Niktimvo offered symptom improvement” | “44 out of 79 people who received Niktimvo (56%) reported improvement in the specific chronic GVHD symptoms assessed in the study.” | “Symptom improvement was defined as a reduction in chronic GVHD symptoms compared to the start of the study.”",
+"context": "PI: exploratory analysis of modified Lee Symptom Scale (symptom bother), not number of symptoms.",
+"rationale": "Mischaracterizes an exploratory symptom-bother measure as reduction in symptoms.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Does the description of a PRO endpoint match what the instrument actually measures, and is its exploratory status respected?"
+}
+]
+}

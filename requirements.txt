@@ -1,0 +1,2 @@
+PyYAML>=6.0
+# poppler-utils (pdftotext) is a system dependency for converting letter/PI PDFs to text

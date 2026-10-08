@@ -1,0 +1,9 @@
+{
+ "_note": "Template. Copy to pieces/pi_facts.json and fill one entry per product (key = brand in UPPER CASE, matching pieces/<slug>/meta.json 'brand'). Excerpt from the CURRENT prescribing information and have a human reviewer confirm. This example product is fictional.",
+ "EXAMPLIA": {
+  "pi_file": "pieces/pi/examplia_pi.txt",
+  "label_facts": "EXAMPLIA (examplimab) is indicated for ... in adults with ... BOXED WARNING: ... Contraindications: ... Warnings and precautions: ...",
+  "required_risk_terms": [["serious infection", "infections"], ["liver"]],
+  "indication_qualifiers": [["adults"], ["moderate to severe"]]
+ }
+}

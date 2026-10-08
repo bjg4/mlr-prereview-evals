@@ -1,0 +1,64 @@
+{
+"id": "WL-20260313-immunitybio-725468",
+"piece_type": "DTC TV ad (US-ANK-250065-v1) and DTC podcast “Is the FDA BLOCKING Life Saving Cancer Treatments?” (The Sean Spicer Show, Jan 19, 2026) featuring company executive",
+"audience": "DTC",
+"company": "ImmunityBio, Inc.",
+"regs_in_letter": "21 U.S.C. 352(a), (n), (f)(1); 321(n); 331(a); 21 CFR 202.1(e)(5); (e)(7)(viii); 201.5; 201.100; 201.115; 201.128; 314.81(b)(3)(i)",
+"status": "processed",
+"cases": [
+{
+"cat": "Overstatement of efficacy",
+"claim": "“...There's an ability to actually create a cancer vaccine so that we can treat the tumor, and it doesn't come back.” | “[IL-15]...the most important molecule that could cure cancer…nobody could figure out how to get IL-15 into your body with a single jab, and that is Anktiva.” | “ANKTIVA BioShield” | “...this little vial that you inject subcutaneously that really is on the path to curing the cancer.” | “Cancer Therapeutic Vaccine (BioShield).”",
+"context": "PI QUILT-3.032 single-arm (n=77, with BCG): CR 62%; of responders 58% DoR ≥12 mo, 40% ≥24 mo. Single-agent Cohort C stopped for futility. DFS uninterpretable (single-arm). MoA: IL-15 receptor agonist, not a vaccine. Bad Ad complaints.",
+"rationale": "Suggests long-term cancer-free status/cure for all patients, single-agent effect, and vaccine/preventive properties — not demonstrated; 'vaccine' is false.",
+"reg": "21 U.S.C. 352(a); 21 CFR 202.1(e)(5)",
+"ct": "deterministic",
+"check": "Rule: lexicon flag 'cure', 'doesn't come back', 'vaccine', 'prevent' vs PI; flag single-agent framing when PI indication is combination."
+},
+{
+"cat": "Promotion of investigational / unapproved use",
+"claim": "“It’s approved for bladder cancer, but it actually can treat all cancers.” | “This thing called checkpoint inhibitors…It fails. The only thing that can rescue it is Anktiva…If you have lung cancer, ...” | “We have the therapy to prevent cancer if you were exposed to radiation and that’s Anktiva.” | “single jab” | “little vial that you inject subcutaneously” | [Visual] TV ad shows vial removed from carton, HCP preparing a dose, patients injected in the arm",
+"context": "PI: intravesical use only; not for SC/IV/IM. Approved only for BCG-unresponsive NMIBC with CIS in combination with BCG.",
+"rationale": "Evidence of intended new uses (all cancers, lung cancer, prevention, injectable routes) lacking adequate directions for use.",
+"reg": "21 U.S.C. 352(f)(1); 21 CFR 201.5, 201.100, 201.115, 201.128",
+"ct": "deterministic",
+"check": "Rule: flag any disease, population, or route of administration not in PI Indications / D&A (e.g., 'subcutaneous' for an intravesical product)."
+},
+{
+"cat": "Lack of fair balance / risk prominence",
+"claim": "[Format] TV ad risk information appears only after VO “To learn more, visit immunitybio.com” and the screen fades to black, with no signal that risk follows",
+"context": "Benefit visuals: vials, patients receiving treatment, “treat the tumor”, “cancer free”.",
+"rationale": "Risk not comparable in prominence to benefits; minimizes risks.",
+"reg": "21 CFR 202.1(e)(5); (e)(7)(viii)",
+"ct": "deterministic",
+"check": "Rule: flag risk content placed after closing cues (fade to black, URL sign-off); require pre-signal."
+},
+{
+"cat": "Omission of risk information",
+"claim": "“Think 53+ months duration of response.” | “If you have CIS and papillary, I can treat you. It’s approved.” | [Omission] podcast includes no risk information",
+"context": "Podcast displays consumer website landing page.",
+"rationale": "Benefit claims with no risk information.",
+"reg": "21 U.S.C. 352(n); 21 CFR 202.1(e)(5)",
+"ct": "deterministic",
+"check": "Rule: executive podcasts/interviews naming product with benefit claims require risk information."
+},
+{
+"cat": "Broadening of indication / omission of material indication information",
+"claim": "[Omission] TV ad and podcast do not specify use in combination with BCG for adults with BCG-unresponsive NMIBC with CIS with or without papillary tumors; full indication shown only after fade to black",
+"context": "Podcast: “for CIS with or without papillary”.",
+"rationale": "Fails to disclose full indication.",
+"reg": "21 U.S.C. 352(a); 21 CFR 202.1(e)(5)",
+"ct": "deterministic",
+"check": "Rule: indication must include combination partner and BCG-unresponsive qualifier, before closing cues."
+},
+{
+"cat": "Failure to submit at first use (Form FDA 2253)",
+"claim": "[Process] podcast not submitted under Form FDA 2253 at initial publication",
+"context": "Executive podcast appearance hosted on company website.",
+"rationale": "Violates 2253 requirement.",
+"reg": "21 CFR 314.81(b)(3)(i)",
+"ct": "deterministic",
+"check": "Process rule: executive media appearances require 2253."
+}
+]
+}

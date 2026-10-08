@@ -1,0 +1,28 @@
+{
+"id": "UL-20250909-188715",
+"piece_type": "DTC TV ad (PP-V1A-USA-1028)",
+"audience": "DTC",
+"company": "Pfizer, Inc.",
+"regs_in_letter": "FD&C Act (no CFR section cited in letter text)",
+"status": "processed",
+"cases": [
+{
+"cat": "Overstatement of efficacy",
+"claim": "[Visual] UC creature turns from red and out of control (before Velsipity) to blue and calm; main character no longer bothered by its disruptive actions",
+"context": "PI: clinical remission 27% (Wk 12) and 32% (Wk 52) in UC-1; 26% (Wk 12) in UC-2.",
+"rationale": "Magnitude of change depicted implies greater improvement than demonstrated.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Judge: disease-personification before/after transformation vs PI remission rates (~25–32%)."
+},
+{
+"cat": "Distracting presentation during risk/major statement (TV)",
+"claim": "[Visual] the creature shaking the main character’s leg, rolling on the ground, chewing on something it found outside — during the major statement",
+"context": "DTC TV major statement.",
+"rationale": "Interferes with comprehension.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Storyboard check: flag activity scenes and frequent scene changes during major statement audio."
+}
+]
+}

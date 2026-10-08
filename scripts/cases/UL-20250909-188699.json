@@ -1,0 +1,55 @@
+{
+"id": "UL-20250909-188699",
+"piece_type": "DTC TV ad “TV 0:60 STORYBOARD: FEEL/SEE BASKETBALL” (3500-US-2500152)",
+"audience": "DTC",
+"company": "Bristol Myers Squibb",
+"regs_in_letter": "FD&C Act (no CFR section cited in letter text)",
+"status": "processed",
+"cases": [
+{
+"cat": "Overstatement of efficacy",
+"claim": "“Back to the game I love.” | “It’s great to be able to keep up with the guys again.” | “With CAMZYOS my symptoms have improved and I can be more active now.” | “It’s a difference I can feel…” | “… and they can see.” | “And she can too.” | “It’s great to be playing again.”",
+"context": "Basketball, being lightly tackled, lifting child overhead. PI EXPLORER-HCM: 37% vs 17% met primary endpoint at Week 30. Disclaimer “Individual results may vary.”",
+"rationale": "Implies all oHCM patients can expect this activity level with little to no restriction — not demonstrated.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Judge: depicted activity level vs. responder rate in PI; flag implication that 'all patients' achieve it."
+},
+{
+"cat": "Unsubstantiated efficacy / mechanism claims",
+"claim": "“CAMZYOS works by targeting what’s causing oHCM”",
+"context": "PI: “Mavacamten is an allosteric and reversible inhibitor selective for cardiac myosin”.",
+"rationale": "Vague phrase suggests correction of underlying genetic defects.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Judge: 'targets the cause/root cause' MoA language vs. PI Clinical Pharmacology wording."
+},
+{
+"cat": "Omission of risk information",
+"claim": "[Omission] Major statement omits MG: “Are pregnant or plan to become pregnant. CAMZYOS may harm your unborn baby . . . . ”",
+"context": "W&P embryo-fetal toxicity.",
+"rationale": "Omission minimizes embryo-fetal toxicity W&P.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "deterministic",
+"check": "Rule: diff major statement against W&P list and MG 'tell your HCP' items."
+},
+{
+"cat": "Lack of fair balance / risk prominence",
+"claim": "[Format] text portion of major statement: size and style of font, contrast with background, and placement on screen do not allow easy reading",
+"context": "DTC TV SUPER legibility.",
+"rationale": "Risk text not readable easily.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "deterministic",
+"check": "Rule: measure SUPER font size, contrast ratio and placement against legibility thresholds."
+},
+{
+"cat": "Distracting presentation during risk/major statement (TV)",
+"claim": "[Visual] friends stretching and moving, greeting friends in the park, wife and daughter petting a dog, playing basketball with daughter — with frequent scene changes during the major statement",
+"context": "DTC TV major statement.",
+"rationale": "Interferes with comprehension.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Storyboard check: flag attention-grabbing visuals and frequent scene changes during major statement audio."
+}
+]
+}

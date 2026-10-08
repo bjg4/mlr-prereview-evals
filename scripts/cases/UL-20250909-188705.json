@@ -1,0 +1,28 @@
+{
+"id": "UL-20250909-188705",
+"piece_type": "DTC TV ad (NEF-US-0507-1)",
+"audience": "DTC",
+"company": "ARS Pharmaceutical Operations, Inc.",
+"regs_in_letter": "FD&C Act (no CFR section cited in letter text)",
+"status": "processed",
+"cases": [
+{
+"cat": "Overstatement of efficacy",
+"claim": "“No needles! Goodbye!” | “Goodbye, needle fear.” | SUPER: “Goodbye needles.”",
+"context": "Patient Information: get emergency medical help for further treatment after using neffy, which may require injectables. No evidence on needle fear.",
+"rationale": "Suggests patients can completely avoid injectable treatments and that needle fear is eliminated — not demonstrated.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Judge: absolute 'goodbye/no more' claims vs labeled need for follow-up emergency care; emotional-benefit claims without data."
+},
+{
+"cat": "Minimization of risk",
+"claim": "“Hello, dining out. Goodbye, missing out.” | “Hello, celebration. Goodbye, hesitation.” | images of potential food allergens (e.g., birthday cake)",
+"context": "Patients with severe allergies must still avoid allergens.",
+"rationale": "Suggests Neffy alone removes the need for precautions and worry about anaphylaxis.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Judge: claims implying a rescue drug removes the need for allergen avoidance/precautions."
+}
+]
+}

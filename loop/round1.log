@@ -1,0 +1,8 @@
+baseline dev BA 0.8232 holdout BA 0.8411
+triage rows 76 {'input_gap': 13, 'judge_prompt': 37, 'eval_data': 5, 'det_check': 21}
+C1-reminder-boxed-warning accepted_pending_human_review | dev judge_balanced_accuracy +0.0034; no holdout/slice regression beyond noise
+C2-pair-category-match rejected | holdout pairwise_accuracy regressed -0.0084 (noise 0.0083)
+C3-tighten-soft-claims rejected | dev judge_balanced_accuracy regressed -0.0511 (noise 0.0312); holdout judge_balanced_accuracy regressed -0.0496 (noise 0.0476); holdout pairwise_accuracy regressed -0.0167 (noise 0.0083); dev family A dropped -0.0865
+C4-loosen-trigger-only rejected | holdout pairwise_accuracy regressed -0.0084 (noise 0.0083)
+final dev BA 0.8266 holdout BA 0.8411 phase spend 1.23659
+done

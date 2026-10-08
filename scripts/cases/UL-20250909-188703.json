@@ -1,0 +1,37 @@
+{
+"id": "UL-20250909-188703",
+"piece_type": "TV skin/background (PP-DAN-US-0177) and video (PP-DAN-US-0172), professional and DTC",
+"audience": "DTC+HCP",
+"company": "Azurity Pharmaceuticals, Inc.",
+"regs_in_letter": "FD&C Act (no CFR section cited in letter text)",
+"status": "processed",
+"cases": [
+{
+"cat": "Omission of risk information",
+"claim": "[Omission] Background and video omit W&Ps for cardiac and arterial vascular occlusive events, tumor lysis syndrome, hemorrhage, fluid retention, embryo-fetal toxicity; video fails to say low blood cell counts are common but also severe. Video: “Ask your doctor about Danziten™ and review the full Prescribing Information, including the Boxed WARNING.”",
+"context": "Product with Boxed Warning and multiple W&Ps.",
+"rationale": "Omits important risks; PI reference does not mitigate.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "deterministic",
+"check": "Rule: diff risk content vs all W&P headings."
+},
+{
+"cat": "Minimization of risk",
+"claim": "[Ordering] “high blood sugar” (Adverse Reactions) presented before “elevated liver enzymes, low blood counts, or pancreatitis” (W&P)",
+"context": "Video risk sequence.",
+"rationale": "Risks not presented in order of severity, framing W&P risks as less serious.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "deterministic",
+"check": "Rule: risk items must be ordered Boxed Warning → Contraindications → W&P → ARs; flag inversions."
+},
+{
+"cat": "Broadening of indication / omission of material indication information",
+"claim": "[Omission] Background suggests Danziten is for adult patients taking Tasigna; video suggests use after intolerance or resistance to any prior therapy",
+"context": "PI: Ph+ CML chronic/accelerated phase resistant or intolerant to prior therapy that included imatinib.",
+"rationale": "Fails to specify imatinib-containing prior therapy requirement.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "deterministic",
+"check": "Rule: indication statement must include all PI qualifiers (prior therapy specifics)."
+}
+]
+}

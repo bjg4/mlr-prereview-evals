@@ -1,0 +1,37 @@
+{
+"id": "UL-20250909-188746",
+"piece_type": "DTC TV ad “jardiancetdtvspot6movienight-cm” (PC-US-137344)",
+"audience": "DTC",
+"company": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+"regs_in_letter": "FD&C Act (no CFR section cited in letter text)",
+"status": "processed",
+"cases": [
+{
+"cat": "Distracting presentation of material efficacy qualifier (indication/limitations of use)",
+"claim": "[Visual] man singing a jingle and choreographed dancing at a “movie night” event with enlarged popcorn bucket props, a ticket booth, a movie screen, lawn blankets, flashing cameras — during indication and limitations of use",
+"context": "Indications and limitations of use communicated via audio, SUPERs and visuals amid fast-paced choreography, music and scene changes.",
+"rationale": "Competing presentational aspects undermine the indication/limitations of use, misleading about efficacy.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Storyboard check: flag choreography/music/scene changes during indication and limitations-of-use content."
+},
+{
+"cat": "Lack of fair balance / risk prominence",
+"claim": "[Format] text portion of major statement: size and style of font, contrast with background, and placement on screen do not allow easy reading",
+"context": "DTC TV SUPER legibility.",
+"rationale": "Risk text not readable easily.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "deterministic",
+"check": "Rule: measure SUPER font size, contrast ratio and placement against legibility thresholds."
+},
+{
+"cat": "Distracting presentation during risk/major statement (TV)",
+"claim": "[Visual] photo stand-in with face holes, a movie screen, a man throwing up popcorn and catching in mouth, enlarged popcorn bucket props, a man operating a film projector with flashing lights, a dog wearing 3D glasses — during major statement",
+"context": "Frequent scene changes.",
+"rationale": "Interferes with comprehension of the major statement.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Storyboard check: flag props, gags, animals and scene cuts during major statement."
+}
+]
+}

@@ -1,0 +1,28 @@
+{
+"id": "UL-20250909-188903",
+"piece_type": "HCP sales aid “CCA CVA Update Print 8.5x11” (MAT-PEM-00577-v2)",
+"audience": "HCP",
+"company": "Incyte Corporation",
+"regs_in_letter": "FD&C Act (no CFR section cited in letter text)",
+"status": "processed",
+"cases": [
+{
+"cat": "Misleading presentation of study data (single-arm/uncontrolled)",
+"claim": "“82% DCR (95% CI, 74-89)” | “DCR was defined as CR+PR+SD” | “82.4% DCR (95% CI, 74-89)”",
+"context": "Pages 8 and 10 (“FIGHT-202: ADDITIONAL ENDPOINTS”, “4-YEAR FOLLOW-UP ANALYSIS”); approval on ORR/DOR in single-arm FIGHT-202; disclaimers present. Complaints also received.",
+"rationale": "SD/DCR not attributable to drug in single-arm trial; disclaimers do not cure.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "deterministic",
+"check": "Rule: in single-arm-trial products, flag stable disease / DCR / waterfall plots including SD; disclaimers do not count as a fix."
+},
+{
+"cat": "Misleading presentation of study data (single-arm/uncontrolled)",
+"claim": "“Median PFS=6.9 months (95% CI, 6.2-9.6)” | “Median OS = 21.1 months (95% CI, 14.8-NE)” | “Median PFS = 7.0 months (95% CI, 6.1-10.5)” | “Median OS = 17.5 months (95% CI, 14.4-22.9)”",
+"context": "Kaplan-Meier graphs from single-arm FIGHT-202 incl. 4-year follow-up.",
+"rationale": "PFS/OS from single-arm trial are uninterpretable.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "deterministic",
+"check": "Rule: flag PFS/OS/survival/time-to-event claims (incl. cystectomy-free, DSS) when the source trial is single-arm; disclaimers do not count as a fix."
+}
+]
+}

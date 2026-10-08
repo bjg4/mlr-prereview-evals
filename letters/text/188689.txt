@@ -1,0 +1,166 @@
+                  DEPARTMENT OF HEALTH & HUMAN SERVICES                                Public Health Service
+
+
+
+                                                                                       Food and Drug Administration
+                                                                                       Silver Spring, MD 20993
+
+             Daniel Bigelow
+             Director, Regulatory Affairs
+             Axsome Therapeutics, Inc.
+             One World Trade Center, 22nd Floor
+             New York, NY 10007
+
+            RE:         NDA 215430
+                        AUVELITY® (dextromethorphan hydrobromide and bupropion hydrochloride)
+                        extended-release tablets, for oral use
+                        MA 148
+
+            Dear Daniel Bigelow:
+
+            The U.S. Food and Drug Administration (FDA) has reviewed the promotional communication,
+            a direct to consumer (DTC) print advertisement (PP-AUV-US-2400051) (print ad) for
+            AUVELITY® (dextromethorphan hydrobromide and bupropion hydrochloride) extended-
+            release tablets, for oral use (Auvelity) submitted by Axsome Therapeutics, Inc. (Axsome)
+            under cover of Form FDA 2253. FDA has determined that the print ad is false or misleading.
+            Thus, the print ad misbrands Auvelity and makes the distribution of the drug in violation of the
+            Federal Food, Drug, and Cosmetic Act (FD&C Act).
+
+            The print ad includes the following claims and presentations (in pertinent part, emphasis
+            original, footnotes omitted):
+
+                        “Do you ever feel a bit “meh”?”
+
+                        “Not experiencing the same joy or pleasure in the things you used to could be a
+                        major symptom of depression, called anhedonia.”
+
+                        “~75% of people with depression may experience lingering effects of anhedonia,
+                        even on treatment” preceded by a prominent graphic of a pie chart depicting a
+                        corresponding percentage.
+
+                        “In a review of an AUVELITY study:”
+                        “People taking Auvelity experienced a greater reduction in their anhedonia
+                        scores over 6 weeks vs placebo” preceded by a prominent graphic of a yellow arrow
+                        pointing down.
+
+                        “More people taking AUVELITY achieved a 50% or greater improvement in their
+                        anhedonia scores over 6 weeks vs placebo” preceded by a prominent graphic of a
+                        white arrow pointing up.
+
+
+
+
+Reference ID: 5655594
+            Daniel Bigelow                                                             Page 2
+            Axsome Therapeutics, Inc.
+            NDA 215430 MA 148
+
+            These claims and presentations, which appear next to an image of a woman smiling and
+            appearing happy and joyous, create a misleading representation that treatment with Auvelity
+            will provide a specific benefit of improving symptoms of anhedonia in patients with MDD,
+            allowing patients to feel pleasure and joy, when this benefit has not been demonstrated.
+            Axsome points to results from a 6-week post hoc analysis evaluating the effect of Auvelity vs.
+            placebo in improving anhedonic symptoms in 327 adult patients with MDD to support their
+            representation. This post hoc analysis utilized an “anhedonia rating sub-scale” to assess
+            improvement in anhedonia, which is described in the footnotes to the above claims, as
+            including five items: apparent sadness, reported sadness, concentration difficulties, physical
+            or mental weariness, and inability to feel. These 5 items are a subset of the 10-item
+            Montgomery-Åsberg Depression Rating Scale (MADRS). The MADRS is an instrument that is
+            validated for use for the assessment of severity of symptoms of major depressive disorder
+            (MDD). The change from baseline to Week 6 in the total score of the MADRS was the
+            primary endpoint in the pivotal trials supporting the approval of Auvelity for the treatment of
+            MDD.
+
+            However, the pivotal trials supporting the MDD indication for Auvelity were not designed to
+            capture changes in anhedonia. In addition, there are significant limitations to this post hoc
+            analysis where 5 of the 10 items of the MADRS were used to create an “anhedonia rating
+            sub-scale” that would preclude the drawing of any conclusions regarding treatment of Auvelity
+            resulting in improvement in anhedonia in patients with MDD. First, the “anhedonia rating sub-
+            scale” is not validated to assess the efficacy of Auvelity in the treatment of anhedonia.
+            Second, this analysis was conducted post hoc and there was no prespecified statistical
+            procedure controlling for type 1 error, so it is not possible to ascertain whether the findings
+            from the analysis were attributable to treatment with Auvelity or merely due to chance. As a
+            result, these findings are exploratory (hypothesis-generating). Moreover, most of the items
+            selected for the “anhedonia rating sub-scale” do not actually assess changes in anhedonia,
+            and the subscale does not reflect the entire concept of anhedonia. Therefore, drawing
+            conclusions or making representations that treatment with Auvelity improves anhedonia in
+            patients with MDD based on this analysis of the five-item subset of the MADRS is misleading.
+
+            We acknowledge the inclusion of the statement, “The data was reviewed after the conclusion
+            of a 6-week trial of AUVELITY; the results could have occurred at random because the
+            review of anhedonia data was not planned at the start of the study” relegated below the
+            representations described above. However, inclusion of this statement in this promotional
+            communication does not correct or mitigate the misleading representations or suggestions of
+            efficacy in improving anhedonia with Auvelity treatment.
+
+            Conclusion and Requested Action
+
+            For the reasons described above, the print ad misbrands Auvelity and makes the distribution
+            of the drug in violation of the Federal Food, Drug, and Cosmetic Act (FD&C Act).
+
+            This letter notifies you of our concerns and provides you with an opportunity to address them.
+            FDA requests that Axsome take immediate action to address any violations (including, for
+            example, ceasing and desisting promotional communications that are misleading as
+
+Reference ID: 5655594
+            Daniel Bigelow                                                              Page 3
+            Axsome Therapeutics, Inc.
+            NDA 215430 MA 148
+
+            described above). Please submit a written response to this letter within 15 working days from
+            the date of receipt, addressing the concerns described in this letter, listing all promotional
+            communications (with the 2253 submission date) for Auvelity that contain representations like
+            those described above, and explaining your plan for the discontinuation of such
+            communications, or for ceasing distribution of Auvelity.
+
+            If you believe that your products are not in violation of the FD&C Act, please include in your
+            submission to us your reasoning and any supporting information for our consideration within
+            15 working days from the date of receipt of this letter.
+
+            The concerns discussed in this letter do not necessarily constitute an exhaustive list of
+            potential violations. It is your responsibility to ensure compliance with each applicable
+            requirement of the FD&C Act and FDA implementing regulations.
+
+            Please direct your response to the Food and Drug Administration, Center for Drug
+            Evaluation and Research, Office of Prescription Drug Promotion, 5901-B Ammendale
+            Road, Beltsville, Maryland 20705-1266. A courtesy copy can be sent by facsimile to (301)
+            847-8444. Please refer to MA 148 in addition to the NDA number in all future
+            correspondence relating to this particular matter. All correspondence should include a subject
+            line that clearly identifies the submission as a Response to Untitled Letter. You are
+            encouraged, but not required, to submit your response in eCTD format. All correspondence
+            submitted in response to this letter should be placed under eCTD Heading 1.15.1.6.
+            Additionally, the response submission should be coded as an Amendment to eCTD
+            Sequence 0233 under NDA 215430. Questions related to the submission of your response
+            letter should be emailed to CDER-OPDP-RPM@fda.hhs.gov.
+
+
+                                                            Sincerely,
+                                                            {See appended electronic signature page}
+                                                            George Tidmarsh, M.D., Ph.D.
+                                                            Director
+                                                            Center for Drug Evaluation and
+                                                            Research
+
+
+
+
+Reference ID: 5655594
+                                                                                                    Signature Page 1 of 1
+
+          --------------------------------------------------------------------------------------------
+          This is a representation of an electronic record that was signed
+          electronically. Following this are manifestations of any and all
+          electronic signatures for this electronic record.
+          --------------------------------------------------------------------------------------------
+          /s/
+          ------------------------------------------------------------
+
+          CARTER M BEACH
+          09/09/2025 05:09:46 PM
+          On behalf of George Tidmarsh, M.D., Ph.D
+
+
+
+
+Reference ID: 5655594
+

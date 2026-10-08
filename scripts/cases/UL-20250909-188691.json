@@ -1,0 +1,28 @@
+{
+"id": "UL-20250909-188691",
+"piece_type": "DTC TV ad “Chaquira” (US-BK-2400762)",
+"audience": "DTC",
+"company": "UCB, Inc.",
+"regs_in_letter": "FD&C Act (no CFR section cited in letter text)",
+"status": "processed",
+"cases": [
+{
+"cat": "Unsupported PRO / quality-of-life claims",
+"claim": "“Life with hidradenitis suppurativa. It’s a lot about bandages. …But they can’t hide everything.” | “Then I started Bimzelx. I’m starting to feel like… I’m back.” | “Bimzelx can deliver transformative relief of HS symptoms.” | “I’m back to making a difference.” | “Give yourself a chance to say … I’m back.”",
+"context": "Patient unwraps bandages, wears sleeveless clothes, dances, yoga, hugs friend; tear at start → cheerful at end. DLQI not adequately content-valid in moderate-to-severe HS. W&P: suicidal ideation and behavior. SUPER: “Results may vary.”",
+"rationale": "Suggests transformative improvement in emotional/social functioning (HRQoL) not demonstrated.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Judge: emotional/social transformation narratives ('I'm back', melancholy→socially active) where PI has no validated HRQoL support; heightened concern if W&P on suicidal ideation."
+},
+{
+"cat": "Distracting presentation during risk/major statement (TV)",
+"claim": "[Visual] attention-grabbing visuals (e.g., patient amidst an industrious office scene and a busy restaurant engagement), some with frequent scene changes, during the major statement",
+"context": "DTC TV major statement.",
+"rationale": "Interferes with comprehension of the major statement.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Storyboard check: flag attention-grabbing visuals and frequent scene changes during major statement audio."
+}
+]
+}

@@ -1,0 +1,163 @@
+{
+ "backend": "openrouter",
+ "at": "2026-10-07T22:45:13-07:00",
+ "ran": true,
+ "model_selection_log": [],
+ "note": "Free attempt first: nvidia/nemotron-3-ultra-550b-a55b:free passed the 5/5 probe and a 12-call smoke run, then throughput collapsed to ~1 call/min under OpenRouter free-tier limits (429 'free-models-per-min', limit 20/min). Killed after ~79 cached answers; full run redone on a cheap paid fallback (first model in the runner paid-preference list, under $1/M input, that passed the probe) so all verdicts come from one model. Rerun after lenient-parser fix: only previously unparseable answers were re-requested.",
+ "model": "anthropic/claude-haiku-5.5",
+ "pricing_per_million": {
+  "input": 0.1,
+  "output": 0.5
+ },
+ "free": false,
+ "projected_cost_usd": 0.0,
+ "jobs": 732,
+ "uncached_jobs": 0,
+ "cumulative_cost_usd_by_model": {
+  "nvidia/nemotron-3-ultra-550b-a55b:free": 0.0,
+  "anthropic/claude-haiku-5.5": 0.2948
+ },
+ "cumulative_cost_usd": 0.2948,
+ "cost_usd_this_run": 0.0,
+ "api_calls_this_run": 0,
+ "cache_hits": 732,
+ "errors": {},
+ "summary": {
+  "calibrate": {
+   "overall": {
+    "n": 310,
+    "correct": 308
+   },
+   "errors": 2,
+   "when_correct_is_A": {
+    "n": 155,
+    "correct": 154
+   },
+   "when_correct_is_B": {
+    "n": 155,
+    "correct": 154
+   },
+   "chose_A": 155,
+   "n_answered": 310,
+   "pairs_both_orders": {
+    "n": 155,
+    "both_correct": 153,
+    "order_flip": 2
+   },
+   "by_family": {
+    "A": {
+     "n": 174,
+     "correct": 173
+    },
+    "B": {
+     "n": 126,
+     "correct": 125
+    },
+    "C": {
+     "n": 6,
+     "correct": 6
+    },
+    "E": {
+     "n": 4,
+     "correct": 4
+    }
+   },
+   "by_check_type": {
+    "deterministic": {
+     "n": 76,
+     "correct": 75
+    },
+    "judgment": {
+     "n": 234,
+     "correct": 233
+    }
+   },
+   "approvable_flags": {
+    "violating_flagged_not_approvable": 309,
+    "violating_n": 310,
+    "compliant_marked_approvable": 186,
+    "compliant_n": 310
+   }
+  },
+  "nearmiss": {
+   "overall": {
+    "n": 54,
+    "correct": 54
+   },
+   "errors": 0,
+   "when_correct_is_A": {
+    "n": 27,
+    "correct": 27
+   },
+   "when_correct_is_B": {
+    "n": 27,
+    "correct": 27
+   },
+   "chose_A": 27,
+   "n_answered": 54,
+   "pairs_both_orders": {
+    "n": 27,
+    "both_correct": 27,
+    "order_flip": 0
+   },
+   "by_family": {
+    "A": {
+     "n": 32,
+     "correct": 32
+    },
+    "B": {
+     "n": 10,
+     "correct": 10
+    },
+    "C": {
+     "n": 6,
+     "correct": 6
+    },
+    "D": {
+     "n": 4,
+     "correct": 4
+    },
+    "E": {
+     "n": 2,
+     "correct": 2
+    }
+   },
+   "by_check_type": {
+    "deterministic": {
+     "n": 42,
+     "correct": 42
+    },
+    "judgment": {
+     "n": 12,
+     "correct": 12
+    }
+   },
+   "approvable_flags": {
+    "violating_flagged_not_approvable": 54,
+    "violating_n": 54,
+    "compliant_marked_approvable": 44,
+    "compliant_n": 54
+   }
+  },
+  "single": {
+   "easy_violating": {
+    "n": 155,
+    "correct": 141
+   },
+   "easy_compliant": {
+    "n": 155,
+    "correct": 94
+   },
+   "near_miss_violating": {
+    "n": 27,
+    "correct": 27
+   },
+   "near_miss_compliant": {
+    "n": 27,
+    "correct": 21
+   },
+   "errors": 2,
+   "missing_context_flagged": 131
+  }
+ }
+}

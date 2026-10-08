@@ -1,0 +1,19 @@
+{
+"id": "UL-20250909-188906",
+"piece_type": "HCP website landing page, “Efficacy” and “Study Design” webpages (US-RZ-2500157)",
+"audience": "HCP",
+"company": "UCB, Inc.",
+"regs_in_letter": "FD&C Act (no CFR section cited in letter text)",
+"status": "processed",
+"cases": [
+{
+"cat": "Overstatement of efficacy",
+"claim": "“RAPID EFFICACY IN ACTION” | “. . . with improvements observed as early as Week 1,” | animated man with normal gait walking unassisted up a floating staircase with no railing; two women walking in a crosswalk holding coffee; man riding a bike",
+"context": "PI: MG-ADL change -3.4 vs -0.8 at day 43; separation at day 8 minimal and not significant.",
+"rationale": "Rapid, near-complete symptom resolution portrayed is not supported; overstates magnitude and onset.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Judge: onset claims ('rapid', 'as early as Week X') vs. the earliest statistically significant timepoint in PI; imagery implying full functional recovery vs. modest score change."
+}
+]
+}

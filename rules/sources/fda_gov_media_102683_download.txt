@@ -1,0 +1,983 @@
+SOURCE_URL: https://www.fda.gov/media/102683/download
+
+Drug and Device Manufacturer 
+Communications With Payors, 
+Formulary Committees, 
+and Similar Entities —
+Questions and Answers
+Guidance for Industry
+and Review Staff
+U.S. Department of Health and Human Services
+Food and Drug Administration
+Center for Drug Evaluation and Research (CDER)
+Center for Biologics Evaluation and Research (CBER)
+Center for Devices and Radiological Health (CDRH)
+Office of the Commissioner (OC)
+June 2018
+Procedural
+OMB Control No. 0910-0857
+Expiration Date: 08/31/2021
+(Note: OMB control number and expiration date added 11/02/2018.)
+See additional PRA statement in section IV of this guidance.
+Drug and Device Manufacturer 
+Communications With Payors, Formulary 
+Committees, and Similar Entities —
+Questions and Answers
+Guidance for Industry and Review Staff
+Additional copies are available from:
+Office of Communications, Division of Drug Information
+Center for Drug Evaluation and Research
+Food and Drug Administration
+10001 New Hampshire Ave., Hillandale Bldg., 4th Floor
+Silver Spring, MD 20993-0002
+Phone: 855-543-3784 or 301-796-3400; Fax: 301-431-6353
+Email: druginfo@fda.hhs.gov
+http://www.fda.gov/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/default.htm
+and/or
+Office of Communication, Outreach and Development
+Center for Biologics Evaluation and Research
+Food and Drug Administration
+10903 New Hampshire Ave., Bldg. 71, Room 3128
+Silver Spring, MD 20993-0002
+Phone: 800-835-4709 or 240-402-8010
+Email: ocod@fda.hhs.gov
+http://www.fda.gov/BiologicsBloodVaccines/GuidanceComplianceRegulatoryInformation/Guidances/default.htm 
+and/or
+Office of the Center Director
+Center for Devices and Radiological Health
+Food and Drug Administration
+10903 New Hampshire Ave., Bldg. 66, Room 5431
+Silver Spring, MD 20993-0002
+Email: CDRH-Guidance@fda.hhs.gov
+https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/default.htm
+and/or
+Office of Policy
+Office of the Commissioner
+Food and Drug Administration
+10903 New Hampshire Ave., Bldg. 32, Room 4232
+Silver Spring, MD 20993-0002
+Phone: 301-796-4830
+U.S. Department of Health and Human Services
+Food and Drug Administration
+Center for Drug Evaluation and Research (CDER)
+Center for Biologics Evaluation and Research (CBER)
+Center for Devices and Radiological Health (CDRH)
+Office of the Commissioner (OC)
+June 2018
+Procedural
+Contains Nonbinding Recommendations
+TABLE OF CONTENTS
+I. INTRODUCTION............................................................................................................. 1
+II. BACKGROUND ............................................................................................................... 2
+III. QUESTIONS AND ANSWERS....................................................................................... 4
+A. Communications of HCEI by Firms to Payors Regarding Approved Drugs...........................4
+B. Communications of HCEI by Firms to Payors Regarding Approved or Cleared Medical 
+Devices...................................................................................................................................................17
+C. Communications by Firms to Payors Regarding Unapproved Products and Unapproved 
+Uses of Approved/Cleared Products...................................................................................................18
+IV. PAPERWORK REDUCTION ACT OF 1995.............................................................. 22
+Contains Nonbinding Recommendations
+1
+Drug and Device Manufacturer Communications With Payors, 
+Formulary Committees, and Similar Entities —
+Questions and Answers
+Guidance for Industry and Review Staff1
+This guidance represents the current thinking of the Food and Drug Administration (FDA or Agency) on 
+this topic. It does not establish any rights for any person and is not binding on FDA or the public. You 
+can use an alternative approach if it satisfies the requirements of the applicable statutes and regulations. 
+To discuss an alternative approach, contact the FDA office responsible for this guidance as listed on the 
+title page. 
+I. INTRODUCTION 
+This guidance provides answers to common questions regarding firms’2 communication of health 
+care economic information (HCEI)3 regarding their prescription drugs4 and medical devices5 to 
+payors, formulary committees, or other similar entities6 with knowledge and expertise in the area 
+of health care economic analysis (collectively referred to as payors). This guidance also 
+addresses common questions relating to dissemination to payors of information about medical 
+products7 that are not yet approved or cleared for any use and dissemination to payors of 
+information about unapproved uses of approved/cleared medical products.
+ 1 This guidance has been prepared by the Office of Prescription Drug Promotion in the Center for Drug Evaluation 
+and Research in cooperation with the Center for Biologics Evaluation and Research, the Center for Devices and 
+Radiological Health, and the Office of the Commissioner at the Food and Drug Administration.
+2 The term “firms” refers to medical product manufacturers, packers, and distributors, including representatives of 
+these entities.
+3 See Q.A.1/A.A.1 for a definition of HCEI.
+4 Each biological product that also meets the definition of “drug” under the Federal Food, Drug, and Cosmetic Act 
+(FD&C Act) is subject to provisions of the FD&C Act applicable to drugs, except that a biological product licensed 
+under section 351 of the Public Health Service Act (PHS Act) is not required to have an approved new drug 
+application under section 505 of the FD&C Act (21 U.S.C. 355). See section 351(j) of the PHS Act (42 U.S.C. 
+262(j)). For the purposes of this guidance, the term “drugs” means human prescription drugs, including those that 
+are licensed as biological products.
+5 The term “device” refers to a medical device intended for human use, including a device that is licensed as a 
+biological product.
+6 The terms “payors, formulary committees, or other similar entities” are discussed in Q.A.2/A.A.2 of this guidance.
+7 The term “medical products” refers to both drugs and devices.
+Contains Nonbinding Recommendations
+2
+The questions and answers are grouped in the following categories:
+• Communications of HCEI to payors regarding approved drugs;
+• Communications of HCEI to payors regarding approved/cleared devices;
+8
+• Communications to payors about unapproved drugs/devices (unapproved products9); and 
+about unapproved uses of approved/cleared medical products.
+In general, FDA’s guidance documents do not establish legally enforceable responsibilities. 
+Instead, guidances describe the Agency’s current thinking on a topic and should be viewed only 
+as recommendations, unless specific regulatory or statutory requirements are cited. The use of 
+the word should in Agency guidances means that something is suggested or recommended, but 
+not required.
+II. BACKGROUND
+A number of FDA’s statutory and regulatory provisions potentially impact firms’ 
+communications with payors.10 This guidance provides FDA’s thinking on frequently asked 
+questions regarding such communications in order to provide clarity to firms and payors. 
+ 8 As used in this guidance, the term “approved/cleared device,” and similar terms, includes devices that are legally 
+on the market as a result of premarket approval, 510(k) clearance, De Novo marketing authorization, a humanitarian 
+device exemption (HDE) approval, or an exemption from premarket notification.
+9 As used in this guidance, the term “unapproved products” refers to drugs and devices that are not yet 
+approved/cleared by FDA for any use (but which must be approved/cleared to be legally marketed), including 
+products for which firms have submitted or plan to submit a new drug application (NDA), a biologics license 
+application (BLA) (including an application submitted under the 351(k) pathway), an abbreviated new drug 
+application (ANDA), a premarket approval application (PMA), a 510(k) submission, a De Novo submission under 
+section 513(f)(2) of the FD&C Act (21 U.S.C. 360c(f)(2)), or a HDE application. 
+10 For example, section 502(a) of the FD&C Act, (section 502(a)), as amended by section 114 of the Food and Drug 
+Administration Modernization Act of 1997 (FDAMA) (Public Law 105-115) and section 3037 of the 21st Century 
+Cures Act (Public Law 114-255), includes the following provision regarding communication of HCEI to payors 
+about approved drugs: 
+“Health care economic information provided to a payor, formulary committee, or other similar entity
+with knowledge and expertise in the area of health care economic analysis, carrying out its 
+responsibilities for the selection of drugs for coverage or reimbursement, shall not be considered to be 
+false or misleading under this paragraph if the health care economic information relates to an 
+indication approved under section 505 or under section 351(a) of the Public Health Service Act [42 
+U.S.C. 262(a)] for such drug, is based on competent and reliable scientific evidence, and includes, 
+where applicable, a conspicuous and prominent statement describing any material differences between 
+the health care economic information and the labeling approved for the drug under section 505 or 
+under section 351 of the Public Health Service Act. The requirements set forth in section 505(a) or in 
+subsections (a) and (k) of section 351 of the Public Health Service Act shall not apply to health care 
+economic information provided to such a payor, committee or entity in accordance with this 
+paragraph. Information that is relevant to the substantiation of the health care economic information 
+Contains Nonbinding Recommendations
+3
+Payors are a sophisticated audience with a range of expertise in multiple disciplines, as well as 
+established procedures for carefully considering evidence about medical products. Generally, 
+payors possess financial resources and motivation to closely scrutinize information about 
+medical products as part of their decision-making process, including an evaluation of the 
+limitations and reliability of that information. Payors seek a range of information on 
+effectiveness, safety, and cost-effectiveness of approved/cleared medical products, including 
+information from firms, to help support their product selection, formulary management, and/or 
+coverage and reimbursement decisions on a population basis. Often, this information differs
+from – and can be provided in addition to – the information FDA reviews in making
+approval/clearance decisions. 
+Because coverage and reimbursement decisions by payors impact many patients, FDA believes it 
+is critical that information provided by firms to payors about their medical products be truthful 
+and non-misleading and that appropriate background and contextual information be provided to 
+enable payors to make informed decisions. This guidance provides FDA’s recommendations for 
+firms to help them ensure that their communication of HCEI to payors about approved/cleared 
+medical products is truthful and non-misleading. Specifically, section III.A provides FDA’s 
+thinking on frequently asked questions regarding communication of HCEI to payors about 
+approved prescription drugs under section 502(a) of the FD&C Act (21 U.S.C. 352(a)). Section 
+III.B provides FDA’s thinking on frequently asked questions regarding communication of HCEI 
+to payors about approved/cleared devices. As noted in section III.B, although the language in 
+section 502(a) addressing HCEI applies only to drugs, the general requirement in section 502(a) 
+that labeling not be false or misleading applies to devices as well as to drugs. FDA considers 
+firms’ communications of HCEI to payors that otherwise meet the definition in section 201(m) of 
+the FD&C Act (21 U.S.C. 321(m)) to be labeling.
+11 Thus, FDA believes the recommendations 
+ presented pursuant to this paragraph shall be made available to the Secretary [of Health and Human 
+Services] upon request . . . For purposes of this paragraph, the term ‘health care economic 
+information’ means any analysis (including the clinical data, inputs, clinical or other assumptions, 
+methods, results, and other components underlying or comprising the analysis) that identifies, 
+measures, or describes the economic consequences, which may be based on the separate or aggregated 
+clinical consequences of the represented health outcomes, of the use of a drug. Such analysis may be 
+comparative to the use of another drug, to another health care intervention, or to no intervention…. 
+Such term does not include any analysis that relates only to an indication that is not approved under 
+section 505 or under section 351 of the Public Health Service Act for such drug.”
+11 The first sentence of section 502(a)(1) of the FD&C Act provides that a drug or device is deemed to be 
+misbranded “[i]f its labeling is false or misleading in any particular.” Under longstanding FDA practice and FDA’s 
+statute, regulations, and case law, “labeling” encompasses more than merely the label of the drug, but extends to 
+other written, printed, or graphic matter “accompanying such article” (section 201(m) of the FD&C Act; see also 21 
+CFR 1.3(a)). According to Kordel v. United States, 335 U.S. 345, 350 (1948), the language “accompanying such 
+article” in the labeling definition in the FD&C Act includes materials that supplement or explain an article, “[n]o 
+physical attachment one to the other is necessary. It is the textual relationship that is significant.” When Congress 
+first amended section 502(a) to include a provision about communication of HCEI, it indicated this provision 
+established that health care economic information “may be included in … labeling or advertising submitted to a 
+formulary committee, managed care organization, or similar entity” (see pages 87-88 of the Senate Report on the 
+Food and Drug Administration Modernization and Accountability Act of 1997 (S. 830), S. Rep. No. 105-43, 
+available at https://www.congress.gov/congressional-report/105th-congress/senate-report/43/1), and that under 
+“FDA’s current postmarketing reporting regulations, health care economic information as defined in this section 
+Contains Nonbinding Recommendations
+4
+provided in section III.A are generally applicable to firms’ communication of HCEI to payors 
+about devices as well, and can help ensure these communications are not false or misleading. 
+Payors have also indicated that due, in part, to their need to, in some situations, plan for and 
+make coverage and reimbursement decisions far in advance of the effective date of such 
+decisions, they are also interested in receiving information from firms about medical products 
+that are not yet approved/cleared by FDA for any use, and about unapproved uses of 
+approved/cleared medical products. For the reasons described previously, it is critical that 
+information provided by firms about their unapproved products and about unapproved uses of 
+approved/cleared products be truthful and non-misleading. Section III.C provides FDA’s 
+thinking on frequently asked questions regarding communications to payors about unapproved 
+products and about unapproved uses of approved/cleared products. 
+III. QUESTIONS AND ANSWERS
+A. Communications of HCEI by Firms to Payors Regarding Approved Drugs 
+Q.A.1. What is HCEI, and how can it be presented?
+A.A.1. HCEI is defined in section 502(a) as “any analysis (including the clinical data, 
+inputs, clinical or other assumptions, methods, results, and other components 
+underlying or comprising the analysis) that identifies, measures, or describes the
+economic consequences, which may be based on the separate or aggregated 
+clinical consequences of the represented health outcomes, of the use of a drug. 
+Such analysis may be comparative to the use of another drug, to another health 
+care intervention, or to no intervention.”12 HCEI pertains to the economic 
+consequences (including, but not limited to, monetary costs or resource 
+utilization) related to the clinical outcomes of treating a disease (or specific aspect 
+of a disease) or of preventing or diagnosing a disease.13 HCEI may include 
+ must be submitted to the FDA at the time it is initially provided to a formulary committee or other similar entity” 
+(see page 67 of the House Report on the Prescription Drug User Fee Reauthorization and Drug Regulatory 
+Modernization Act of 1997 (H.R. 1411), H.R. Rep. No. 105-310, available at 
+https://www.congress.gov/congressional-report/105/house-report/310). The referenced postmarketing reporting 
+requirements apply to promotional labeling (as well as to advertisements) (see 21 CFR 314.81(b)(3)(i)). Since 
+Congress sought to address the use of HCEI in the context of these promotional materials, and firms have 
+disseminated this information through promotional labeling materials, FDA’s longstanding approach has been to 
+consider communication of HCEI about drugs under this section to be promotional labeling. See also Q.A.9/A.A.9. 
+The Agency similarly considers communications of HCEI about devices to be promotional labeling.
+12 See section 502(a), as amended by section 114 of FDAMA and section 3037 of the 21st Century Cures Act. As 
+used in this guidance, the term “section 502(a)” refers to the part of that section specific to HCEI.
+13 See footnote 12. Section 502(a) further provides that HCEI provided to “a payor, formulary committee, or other 
+similar entity” (payors) that “relates” to an approved indication and is based on “competent and reliable scientific 
+evidence” shall not be considered false or misleading. Those terms are discussed in Q.A.2/A.A.2, Q.A.4/A.A.4, and 
+Q.A.5/A.A.5 of this guidance. 
+Contains Nonbinding Recommendations
+5
+comparative analyses of the economic consequences of a drug’s clinical outcomes 
+to alternative options (including the use of another drug) or to no intervention. 
+HCEI can be presented in a variety of ways that can include, but are not limited 
+to, an evidence dossier, a reprint of a publication from a peer-reviewed journal, a 
+software package comprising a model with a user manual, a budget-impact model, 
+a slide presentation, or a payor brochure. 
+Q.A.2. What is the appropriate scope of the audience for the communication of HCEI 
+about approved drugs under section 502(a)?
+A.A.2. Section 502(a) specifies that HCEI can be provided to “a payor, formulary 
+committee, or other similar entity with knowledge and expertise in the area of 
+health care economic analysis, carrying out its responsibilities for the selection of 
+drugs for coverage or reimbursement.”14 
+This audience includes public and private sector payors,
+15 formulary committees16
+(e.g., pharmacy and therapeutics committees), drug information centers, 
+technology assessment committees, pharmacy benefit managers, third party 
+administrators, and other multidisciplinary entities that, on behalf of health care 
+organizations,17 review scientific and/or technology assessments to make drug or 
+device selection or acquisition, formulary management, and/or coverage and 
+reimbursement decisions on a population basis.18 
+Such entities are constituted to consider HCEI (and other types of information) 
+through a “deliberative process” and should have the appropriate range of 
+“knowledge and expertise in the area of health care economic analysis” needed to 
+interpret HCEI presented to them to inform their population-based decisionmaking process.19,20 Expertise in this area is critical to understand and evaluate 
+health care economic analyses and their limitations. 
+ 
+14 See footnote 13.
+15 The term “payors” refers to entities who are responsible for the financing or reimbursement of costs associated 
+with health care services (e.g., third-party payors, health plan sponsors, state Medicaid programs).
+16 The term “formulary committees” refers to multidisciplinary committees that have the responsibility for the 
+selection of drugs and the management of a drug formulary.
+17 The term “health care organizations” may include entities such as integrated health care delivery networks, 
+hospitals, and hospital systems.
+18 See page 65 of H.R. Rep. No. 105-310.
+19 See footnote 18.
+20 See section 502(a).
+Contains Nonbinding Recommendations
+6
+Because section 502(a) provides for communication of HCEI only to particular 
+audiences, dissemination of HCEI to other audiences is not covered by the 
+recommendations of this guidance.21 Thus, this guidance does not apply to
+dissemination of HCEI to other audiences, such as health care providers who are 
+making individual patient prescribing decisions or consumers (e.g., dissemination 
+directed toward prescribers or consumers via a public website). This is not meant 
+to suggest that individuals who have multiple roles, such as a health care 
+professional who serves on a formulary committee and also provides care for 
+individual patients, would not fall within the scope of the appropriate audience for 
+this guidance when they are carrying out their professional responsibilities for 
+selection of drugs for coverage or reimbursement for a payor, formulary 
+committee, or similar entity. 
+Q.A.3. How does FDA intend to implement this guidance for HCEI disseminated in 
+accordance with section 502(a)?
+A.A.3. If a firm disseminates to an appropriate audience HCEI that is the type of 
+information within the scope of section 502(a) (i.e., HCEI that relates to an 
+approved indication and is based on competent and reliable scientific evidence
+(CARSE), as each of these elements is described in this guidance), FDA does not 
+intend to consider such information false or misleading. HCEI should clearly and 
+prominently present the information discussed in Q.A.7/A.A.7 and Q.A.8/A.A.8
+of this section, including study design and methodology, generalizability, 
+limitations, sensitivity analyses, and information relevant to providing a balanced 
+and complete presentation. If HCEI includes material differences from the FDAapproved labeling (e.g., new or increased risks, different dosing/use regimens, 
+different endpoints, more-limited/targeted patient populations), it must present “a 
+conspicuous and prominent statement describing any material differences between 
+the health care economic information and the labeling approved for the drug,”22
+as discussed in Q.A.7/A.A.7. 
+In addition, FDA does not intend to use HCEI that is disseminated consistent with 
+this guidance as evidence of a new intended use. 
+ 
+21 Congress believed that limiting the scope of the audience for HCEI is important because “it will ensure that the 
+information is presented only to parties who have established procedures and skills to interpret the methods and 
+limitations of economic studies. [Section 502(a)] is not intended to permit manufacturers to provide such health 
+care economic information to medical practitioners who are making individual prescribing decisions nor is it 
+intended to permit the provision of such information in the context of medical education.” See page 65 of H.R. Rep. 
+No. 105-310.
+22 See section 502(a).
+Contains Nonbinding Recommendations
+7
+Q.A.4. Section 502(a) provides that HCEI shall not be considered false or misleading 
+if, among other things, it “relates to an [approved] indication.”23 What types of 
+information does FDA consider to relate to an approved indication? 
+A.A.4. To be considered related to an approved indication, HCEI analyses should relate 
+to the disease or condition, the manifestation of the disease or condition, or 
+symptoms associated with the disease or condition in the patient population for 
+which the drug is indicated in the FDA-approved labeling. 
+The table below provides examples of HCEI analyses that FDA believes could 
+be considered related to an approved indication of a drug, despite 
+incorporating information that does not appear within, and may vary in 
+certain respects from, information presented in the FDA-approved labeling. 
+These examples are for illustrative purposes only and are not intended to be 
+comprehensive or restrictive.
+Examples of HCEI Analyses That Relate to an Approved Indication
+Example Description
+Duration of Treatment Where the approved indication for a drug does not 
+limit the duration of use, HCEI analyses may 
+incorporate information about the long-term use of 
+the drug for that indication over a period that is 
+different from that addressed in the studies described 
+in the FDA-approved labeling (e.g., if a drug is 
+approved for a chronic condition with no limitation 
+on its duration of use based on 24-week studies, 
+economic consequences beyond 24 weeks can be 
+modeled).
+Health Care Setting HCEI analyses may be based on use of the drug for 
+its approved indication in health care settings that 
+differ from the settings of the clinical trials 
+submitted to FDA in the application (e.g., results of 
+clinical trials conducted only in a fee-for-service 
+setting could be extrapolated to a managed care or 
+ 23 Section 502(a)(2)(B) of the FD&C Act also provides that the term HCEI “does not include any analysis that 
+relates only to an indication that is not approved under section 505 or under section 351 of the Public Health Service 
+Act. . .” If an analysis is consistent with the recommendations in Q.A.4/A.A.4, FDA would consider it to be within 
+the scope of HCEI as defined in section 502(a). If an analysis is based on data that includes both patients who are 
+within the indicated patient population and patients who are outside of the indicated patient population (e.g., a drug 
+is approved to treat condition X in adults and a data source used for an analysis only can provide aggregate 
+information for all patients who are using the drug to treat condition X, including pediatric patients), FDA would 
+also consider that to be within the scope of HCEI as defined in section 502(a). On the other hand, if an analysis does 
+not relate at all to an approved indication for a drug, as illustrated by the examples at the end of Q.A.4/A.A.4, FDA 
+would not consider it to be within the scope of HCEI as defined in this section.
+Contains Nonbinding Recommendations
+8
+Example Description
+other setting, or results of clinical trials conducted 
+in a hospital center could be extrapolated to an 
+ambulatory care setting). 
+Burden of Illness HCEI analyses may be derived from studies of the 
+burden of a disease for which the drug is 
+indicated, including economic consequences of the 
+effect the treatment has on clinical outcomes (e.g., 
+economic consequences of absent work days as a 
+result of signs and symptoms associated with a 
+disease).
+Dosing/Use Regimen HCEI analyses may be based on data or studies of 
+approved dosage forms and strengths of a drug for 
+its approved indication, where the dosing/use
+regimen varies from the FDA-approved labeling 
+(e.g., an observational study based on real-world 
+drug utilization data from a health plan database
+or the electronic health records of a hospital 
+system), where actual patient use of an approved 
+dosage form and strength of a drug for an 
+approved indication falls outside the 
+recommended dosing/use regimen in the label, 
+such as by taking at a different frequency or a 
+different total dose than recommended).
+Patient Subgroups HCEI analyses may be derived from analyses of 
+treatment effects in patient subgroups (e.g., 
+demographics, disease severity, co-morbidities), 
+including subgroups with response rates that may 
+vary from the rates reflected in the FDA-approved 
+labeling, that are within the patient population for 
+the approved indication, even if these subgroup 
+analyses were not pre-specified in the studies that 
+formed the basis for approval of the drug.
+Length of Hospital Stay HCEI analyses may be derived from studies of 
+treatment impacts on length of hospital stay.
+Surrogate or Intermediate
+Endpoints
+HCEI analyses may be derived from clinical data 
+demonstrating an effect on a surrogate endpoint 
+that is known to predict clinical benefit (i.e., a 
+validated surrogated endpoint) or on a surrogate
+or intermediate clinical endpoint that is 
+Contains Nonbinding Recommendations
+9
+Example Description
+reasonably likely to predict clinical benefit.
+24
+Clinical Outcome 
+Assessments (COAs)25 or 
+Other Health Outcome 
+Measures (e.g., QualityAdjusted Life Year 
+(QALY))26
+HCEI analyses may be derived from studies 
+involving the approved indication of a drug that 
+assess COAs (e.g., patient-reported outcomes 
+(PROs), such as work productivity, basic activities 
+of daily living) or other health outcome measures 
+(e.g., QALY) when they are evaluated using valid 
+and reliable measures (as determined by experts 
+who are familiar with evaluating the merits of a 
+particular COA or other health outcome measure).
+Compliance/Adherence27 HCEI analyses may be derived from studies 
+assessing patient compliance/adherence with a 
+drug for its approved indication.
+Persistence28 HCEI analyses may be based on data estimating 
+patient persistence on a drug for its approved 
+indication (e.g., estimates based on drug 
+utilization data from a health plan database). 
+Comparisons HCEI analyses may be derived from studies 
+comparing the safety or effectiveness of a drug for 
+its approved indication to another drug or 
+ 24 For more information on surrogate and intermediate clinical endpoints, see FDA’s guidance for industry 
+Expedited Programs for Serious Conditions – Drugs and Biologics, and, for devices, see FDA’s guidance for 
+industry, tool developers, and Food and Drug Administration staff Qualification of Medical Device Development 
+Tools. We update guidances periodically. For the most recent version of a guidance, check the FDA guidance web 
+page at http://www.fda.gov/RegulatoryInformation/Guidances/default.htm.
+25 A COA is any assessment of a patient’s clinical state by the patient or a clinician. There are four types of COA 
+measures (i.e., patient-reported outcomes, clinician-reported outcomes, observer-reported outcomes, and 
+performance outcomes). See FDA’s guidance for industry Patient-Reported Outcome Measures: Use in Medical 
+Product Development to Support Labeling Claims.
+26 A QALY is a measure of the value of a health outcome that is typically scored on a scale from zero (corresponds 
+to death) to one (corresponds to perfect or optimal health), integrating the life expectancy and treatment impact on 
+morbidity of the compared interventions that may be used in HCEI. 
+27 The terms “compliance” and “adherence” refer to “the extent to which a patient acts in accordance with the 
+prescribed interval, and dose of a dosing regimen.” See Cramer JA, Roy A, Burrell A, et al., Medication 
+Compliance and Persistence: Terminology and Definitions, Value in Health, 2008;11(1):44-47. 
+28 The term “persistence” refers to “the duration of time from initiation to discontinuation of therapy.” See footnote 
+27.
+ 
+Contains Nonbinding Recommendations
+10
+Example Description
+intervention or to no treatment.
+The following are examples of HCEI analyses that are not considered to relate to an 
+approved indication:
+• If a drug is approved only to relieve the symptoms of a disease, HCEI analyses 
+regarding use of the drug to prevent, cure, or mitigate/change the course of the 
+disease would not be considered related to the drug’s approved indication.
+29 
+Thus, for example, if an analysis for a drug indicated for the management of pain 
+in cancer patients discussed the effect of the drug on delaying the progression of 
+cancer or on prolonging patient survival (disease course modification), FDA 
+would not consider this to relate to the approved indication. 
+• HCEI analyses derived from studies limited to patient populations that are not 
+within the indicated patient population are not related to the approved indication 
+of the drug. For example, if a drug is approved only for use in patients in a 
+certain age group, an analysis regarding the treatment of only patients outside of 
+that age group would not be considered to relate to the approved indication for the
+drug.
+Q.A.5. What evidentiary support should firms have for their HCEI under section 
+502(a)?
+A.A.5. Section 502(a) states that HCEI shall not be considered false or misleading if, 
+among other things, it is “based on competent and reliable scientific evidence.” 
+FDA considers HCEI to be based on CARSE if the HCEI has been developed 
+using generally accepted scientific standards, appropriate for the information 
+being conveyed, that yield accurate and reliable results. In evaluating whether the 
+amount and type of evidence that forms the basis for a particular communication 
+of HCEI meets the generally accepted scientific standards for such information, 
+FDA will consider existing current good research practices for substantiation 
+developed by authoritative bodies (examples of such bodies include, but are not 
+limited to, International Society for Pharmacoeconomic and Outcomes Research 
+(ISPOR), International Society for Pharmacoepidemiology (ISPE), PatientCentered Outcomes Research Institute (PCORI), and Agency for Healthcare 
+Research and Quality (AHRQ)). For example, when evaluating HCEI based on 
+indirect treatment comparisons in the absence of data from head-to-head 
+ 29 See generally section 502(a)(1) and (a)(2)(B) of the FD&C Act. As a clinical matter, a drug that is approved only 
+to relieve symptoms of a disease cannot be assumed to prevent, cure or change the course of the disease; therefore, 
+assumptions about the health care economic consequences of use of such a product for preventing, curing, or 
+changing the course of the disease would not be considered to relate to the product’s approved indication. See also 
+page 66 of H.R. Rep. No. 105-310 for additional discussion.
+Contains Nonbinding Recommendations
+11
+controlled clinical trials, FDA may refer to guidelines issued by external expert 
+bodies regarding current rigorous methodologies and best practices for such 
+comparisons (e.g., network meta-analyses). 
+HCEI should clearly and prominently present the applicable information 
+discussed in Q.A.7/A.A.7 and Q.A.8/A.A.8 of this guidance, including study 
+design and methodology, generalizability, limitations, sensitivity analyses, and 
+information relevant to providing a balanced and complete presentation. 
+Q.A.6. Does the CARSE standard apply only to the economic components of HCEI, or
+does it also apply to the other components?
+A.A.6. Under section 502(a), HCEI includes the clinical data, inputs, clinical or other 
+assumptions, methods, results, and other components underlying or comprising 
+the analysis of a drug’s economic consequences. FDA considers the CARSE 
+standard in section 502(a) to apply to all components of HCEI, including inputs 
+and assumptions related to both economic consequences and clinical outcomes 
+(i.e., safety and/or effectiveness). As discussed previously in Q.A.4/A.A.4, such 
+information must also relate to an approved indication in order to fall within the 
+provisions of section 502(a) regarding HCEI.
+Q.A.7. What information should firms include when disseminating HCEI? 
+A.A.7. To enable payors to make informed coverage and reimbursement decisions, firms 
+should include appropriate background and contextual information when 
+disseminating HCEI. Included below are examples of the types of background 
+and contextual information that may be material to HCEI presentations; some of 
+these categories of information may not be applicable to particular HCEI 
+presentations. This information, where relevant, should be presented clearly and 
+prominently. The disclosure of the pertinent information can be concise so long 
+as all material information (such as the source(s) of data used, the outcome 
+measures used, the type of analysis, the limitations of the analysis, and the 
+generalizability of the findings) is provided, as further described below. FDA 
+recommends that this contextual information be presented in conjunction with the 
+information within the HCEI presentation to which it relates or that the HCEI 
+presentation include a prominent reference to where the information can be found 
+within the presentation. 
+FDA is aware that some authoritative bodies have developed format 
+recommendations for firms’ communications to payors, which include 
+recommendations for where firms should disclose the information described 
+below within their communications. The recommendations provided here are not 
+meant to suggest that firms should make duplicative disclosures of this 
+background/contextual information if it is already provided in accordance with 
+such format recommendations. 
+Contains Nonbinding Recommendations
+12
+1. Study Design and Methodology
+Firms should include an accurate overview of the design of the economic analysis, including a 
+statement of the study objectives. For example, a clear description of the hypothesis tested
+should be provided and potential biases and/or confounders should be acknowledged. In 
+addition, the following information about the study and/or methodology should be presented
+where relevant:
+Type of Analysis: The type of economic analysis selected (e.g., cost-minimization analysis, 
+cost-effective analysis, cost-utility analysis, cost-benefit analysis, cost-consequence analysis, 
+budget impact analysis) should be stated, and the reason for its choice should be explained.30 
+Modeling: The type of modeling technique should be disclosed, with an explanation of the 
+model choice, its scope, and its key variables/parameters.31 The rationale and consequences 
+of including and excluding specific variables in economic models should be discussed in the 
+analysis. 
+Patient Population: Details about the patient population should be specified, including the 
+number of patients and relevant demographic information, such as age, sex, race, clinical 
+characteristics, and socioeconomic status.32,33
+Perspective/Viewpoint: The perspective or viewpoint of the economic analysis should be 
+clearly stated so that payors can understand the rationale for the selection of inputs (e.g., 
+outcome measures, time periods, costs) and can, therefore, determine whether the HCEI is 
+relevant to their particular health care organizations. Possible viewpoints can include those 
+of the patient, employer, health care provider (e.g., clinician, institution), payor, regulatory 
+body (e.g., government agency), or society (i.e., everyone impacted by the treatment).34,35 
+Comparator: The choice of comparator (e.g., other drugs, other medical care, no treatment) 
+should be explained.36,37 
+ 30 Drummond MF, Jefferson TO, Guidelines for Authors and Peer Reviewers of Economic Submissions to the BMJ, 
+BMJ, 1996;313:(7052):275-283.
+31 Husereau D, Drummond M, Petrou S, et al., Consolidated Health Economic Evaluation Reporting Standards 
+(CHEERS) − Explanation and Elaboration: A Report of the ISPOR Health Economic Evaluation Publication 
+Guidelines Good Reporting Practices Task Force, Value in Health, 2013;16:231-250.
+32 Gold MR, Siegel JE, Russell LB, et. al., editors, Cost-Effectiveness in Health and Medicine, New York, NY: 
+Oxford University Press, 1996.
+33 See footnote 31.
+34 See footnote 32.
+35 See footnote 30.
+36 See footnote 32.
+Contains Nonbinding Recommendations
+13
+Time Horizon: The choice of time horizon should be clearly stated and explained, including 
+its relation to the major and relevant clinical outcomes (e.g., safety and effectiveness) and 
+economic consequences related to the treatment of interest and its comparators.38,39 
+Outcome Measures: The outcome measure(s) chosen should be described, as should the 
+sources of clinical and/or nonclinical data. For example, clinical outcomes chosen could 
+include PROs (e.g., work productivity, basic activities of daily living) or QALYs. Data 
+sources may include clinical and nonclinical studies or other sources, such as real-world data 
+from administrative databases (e.g., health plan databases), electronic health records (EHRs), 
+and registries.
+Cost Estimates: All of the relevant resource items for measurement and valuation for a 
+treatment pathway in an economic analysis should be identified. Reference should be made 
+to the source of cost data, including the date of the pricing.40 In addition, disclosure of and 
+explanation for any data manipulations and methods (e.g., discount rates, adjustments for 
+inflation, currency conversion) should be included.41
+Assumptions: A listing of all assumptions (clinical and nonclinical) and associated 
+rationales should be made explicit in the explanation of the methodology for the economic 
+analysis.42 Assumptions may include, for example, information related to patient 
+demographics or characteristics, natural disease course, disease management/clinical 
+practice, and cost of clinical events. A list of references for the evidence used to support 
+assumptions made should be provided. Copies of the references should be provided to 
+payors upon request.
+2. Generalizability
+Generalizability refers to the applicability of HCEI obtained in one health care setting or patient 
+population to another. Any factors that may limit the generalizability of the economic analysis 
+should be disclosed.43 
+ 
+37 See footnote 31.
+38 See footnote 32.
+39 See footnote 31.
+40 See footnote 31.
+41 See footnote 31.
+42 See footnote 31.
+43 Siegel JE, Weinstein MC, Russell LB, et al., Recommendations for Reporting Cost-Effectiveness Analyses, Panel 
+on Cost Effectiveness in Health and Medicine, JAMA, 1996;276(16):1339-1341.
+Contains Nonbinding Recommendations
+14
+3. Limitations
+A discussion of the limitations of the economic analysis should be made explicit.44 Factors that 
+may affect the interpretability and reliability of an economic analysis include, but are not limited 
+to, limitations of the study design and methodology.45 For example, limitations and 
+methodological issues associated with observational studies46 and indirect treatment 
+comparisons47 should be described as they may inform conclusions that can be reliably made 
+based on these analyses.
+4. Sensitivity Analysis
+Uncertainty may arise from data sources, extrapolation, or analytical methods employed in an 
+economic analysis. Therefore, uncertainties that could affect the conclusions in HCEI should be 
+identified, and a sensitivity analysis should be performed. HCEI should include adequate 
+disclosures and rationales regarding the method used for the sensitivity analysis, the variables 
+chosen, and the ranges for those variables.48
+5. Additional Material Information for a Balanced and Complete Presentation
+A balanced and complete presentation includes material information such as the following. FDA 
+believes the categories of information listed below are generally material to any presentation of 
+HCEI: 
+Conspicuous and Prominent Statement Describing Material Differences: If HCEI 
+includes material differences from the FDA-approved labeling (e.g., new or increased risks, 
+different dosing/use regimens, different endpoints, more-limited/targeted patient 
+populations), including assumptions that vary in certain respects from the information 
+presented in the FDA-approved labeling, “a conspicuous and prominent statement describing 
+any material differences between the health care economic information and the labeling 
+ 44 See footnote 32.
+45 Regarding study design limitations, firms should disclose whether the study lacked randomization, blinding, or a 
+control group; lacked assay sensitivity; failed to include pre-specified endpoints; failed to include endpoints that are 
+valid and reliable measures of the outcomes of interest; failed to identify dosing, patient population, patient drop 
+outs, selection and timing of endpoints; failed to meet the primary endpoint; etc.
+46 Berger ML, Martin BC, Husereau D, et al., A Questionnaire to Assess the Relevance and Credibility of 
+Observational Studies to Inform Health Care Decision Making: An ISPOR-AMCP-NPC Good Practice Task Force 
+Report, Value Health, 2014;17(2):143-156.
+47 Song F, Loke YK, Walsh T, et al., Methodological Problems in the Use of Indirect Comparisons for Evaluating 
+Healthcare Interventions: Survey of Published Systemic Reviews, BMJ, 2009;338:b1147.
+48 See footnote 31.
+Contains Nonbinding Recommendations
+15
+approved for the drug”49 must be presented. For example, if a particular HCEI presentation 
+is based on real-world data where actual patient use of the drug falls outside of the 
+recommended dosing/use regimen in the FDA-approved labeling, the firm could include a 
+statement such as, “The dosing regimen used in this study varies from the dosing regimen in 
+the FDA-approved labeling,” in conjunction with the HCEI presentation and in a font size 
+comparable to that used for the other information in the presentation. This example is not 
+intended to suggest this is the only way for this information to be presented. In evaluating 
+whether a statement is conspicuous and prominent, FDA considers factors such as the 
+location of the statement, the font size and style of the statement text, the contrast between 
+text and background, and the white space between and around text.
+Furthermore, firms should not misleadingly represent that the clinical assumptions that vary 
+from the FDA-approved labeling have been found by FDA to be safe and effective.
+FDA-Approved Indication/FDA-Approved Labeling: HCEI should include a statement of 
+the FDA-approved indication of the drug and be accompanied by the most current FDAapproved labeling. 
+Disclosure of Omitted Studies or Data Sources: As a general matter, the presentation of 
+HCEI would not be considered balanced and complete if data or information about a product 
+necessary to understand and contextualize the information is available, but was not 
+considered and included in the analysis. This is especially true if the omitted data or 
+information is from rigorous studies (e.g., adequate and well-controlled trials). It is,
+therefore, recommended that firms perform a literature search and that their HCEI include an 
+explanation of the methods used in the literature search (e.g., databases or sources used, time 
+period covered, and criteria/keywords used to search the databases and sources and to 
+determine what data or information to include/exclude). If certain studies or data sources 
+were omitted from the analysis, the HCEI should clearly explain the reasons they were not 
+included and how the omission of studies or data sources may change or affect the 
+conclusions. 
+Risk Information: HCEI should disclose important risk information associated with the 
+approved use of the drug and, under section 502(a), must disclose any additional risk
+information related to clinical assumptions in economic analyses that vary from the FDAapproved labeling (e.g., risks observed in a particular patient subgroup).
+Financial/Affiliation Biases: HCEI should disclose potential financial or affiliation biases, 
+such as the disseminating firm’s role in funding underlying research or in drafting underlying 
+publications or presentations or the names of any authors of studies or analyses who received 
+compensation from the firm or who had a significant financial interest in the firm, to the 
+extent reasonably known by the firm at the time of dissemination.
+ 49 See section 502(a). 
+Contains Nonbinding Recommendations
+16
+Q.A.8. If HCEI is based on COAs or other health outcome measures, are there any 
+additional considerations of which firms should be aware?
+A.A.8. When HCEI includes COAs (e.g., PROs, including work productivity, basic 
+activities of daily living) or other measures of health outcomes (e.g., QALYs), 
+information regarding the validity and reliability of the measures used in 
+assessments of the COA (as determined by experts familiar with evaluating the 
+merits of a particular COA)50 or the health outcome measure should be included. 
+Regarding health-outcome measures such as QALYs, the following should be 
+considered to facilitate interpretability and comprehensibility of the information: 
+(1) the methods by which the patient’s health status is captured should be 
+disclosed, and the rationale for the health status measures included in the analysis 
+(e.g., physical function, psychological function, social function, impairment, pain) 
+should be provided and (2) the methods for the valuation of health outcomes 
+should be disclosed, and their appropriateness for the patient population and the 
+disease or condition being studied should be explained.
+Q.A.9. Is HCEI for prescription drugs disseminated in accordance with section 502(a)
+considered to be promotion? Do FDA’s requirements for promotional 
+materials apply to HCEI?
+A.A.9. HCEI disseminated in accordance with section 502(a) is promotion51 and, 
+therefore, is subject to FDA’s requirements for submission of promotional 
+materials. These include, but are not limited to, the postmarketing requirement at 
+21 CFR 314.81(b)(3)(i) to submit such materials to FDA at the time of initial 
+publication or dissemination (using Form FDA 2253 (Transmittal of 
+Advertisements and Promotional Labeling for Drugs and Biologics for Human 
+Use)) and, for HCEI about drugs submitted for approval under the accelerated 
+approval pathway or about drugs approved based on animal studies,52 the 
+requirements regarding pre-dissemination submission of promotional materials. 
+All supporting information for HCEI should be referenced and be made available 
+upon request.53
+ 50 For further guidance regarding characteristics of valid and reliable assessments of COAs, please see FDA’s 
+guidance for industry Patient-Reported Outcome Measures: Use in Medical Product Development to Support 
+Labeling Claims.
+51 See footnote 11.
+52 See 21 CFR 314.550, 314.640, 601.45, and 601.94.
+53 In addition, under section 502(a), if FDA requests submission of information that is relevant to the substantiation 
+of HCEI, firms are required to provide FDA with such information, which may include the primary data and 
+analysis methods used to support the HCEI. 
+Contains Nonbinding Recommendations
+17
+Q.A.10. What are the Agency’s policies regarding risk-sharing and other value-based 
+contracts between firms and payors?
+A.A.10. This guidance addresses the communication of HCEI to payors, which may 
+include communication of HCEI in the course of discussions between firms and 
+payors related to risk-sharing and other value-based contracts. This guidance, 
+however, is not intended to address the terms of contracts between firms and 
+payors. FDA does not regulate the terms of contracts between firms and payors, 
+and such contracts are not subject to FDA reporting requirements.
+B. Communications of HCEI by Firms to Payors Regarding Approved or 
+Cleared Medical Devices
+Q.B.1. To what extent do the recommendations described in section III.A of this 
+guidance apply to devices?
+A.B.1. Following issuance of the draft of this guidance, several commenters suggested 
+that the recommendations describing appropriate communication of HCEI by 
+firms to payors about approved drugs in section III.A of the guidance could also 
+be applied to devices.54 Although the language in section 502(a) addressing 
+HCEI applies to drugs, not devices, FDA believes the recommendations provided 
+in section III.A are generally applicable to device firms’ communication of HCEI 
+to payors as well. Although section III.A refers to “drugs,” “approved 
+indications/approved uses,” and “FDA-approved labeling,” the recommendations 
+for “drugs” generally apply to “devices” and “approved/cleared indications/uses” 
+and “FDA-required labeling”55 as well. Although the HCEI language in section 
+502(a) is specific to drugs, the requirement in section 502(a) that information not 
+be false or misleading applies to both drugs and devices, and the 
+recommendations provided in section III.A can help ensure that device firms’ 
+communication of HCEI to payors is not false or misleading. We note, however,
+that device firms are not subject to the same postmarketing reporting requirements 
+to submit promotional materials as described in Q.A.9, so the information 
+provided in A.A.9 regarding submission of promotional materials does not apply 
+to devices.
+ 54 In the notice of availability of the draft version of this guidance that published in the Federal Register of
+January 19, 2017 (82 FR 6568), we specifically requested comments from interested parties on this issue (82 FR at 
+6568 at 6571). 
+55 The term “FDA-required labeling” includes the labeling approved during the premarket approval process for a 
+device, or, for products not subject to premarket approval but instead subject to De Novo marketing authorization, 
+premarket notification (510(k)) requirements, or exempt from premarket review, the labeling that provides adequate 
+directions for use and other information required to appear on the label or in labeling.
+Contains Nonbinding Recommendations
+18
+As stated in Q.A.3/A.A.3, if a device firm disseminates HCEI that complies with 
+the recommendations in section III.A, FDA does not intend to consider such 
+information false or misleading or evidence of a new intended use. 
+C. Communications by Firms to Payors Regarding Unapproved Products and 
+Unapproved Uses of Approved/Cleared Products56
+Medical product firms may wish to provide certain types of information to payors (as that 
+term, used to collectively refer to payors, formulary committees, and similar entities, is
+described in Q.A.2/A.A.2) regarding their unapproved products and regarding unapproved 
+uses of their approved/cleared/licensed products. Such information may help payors plan 
+and budget for future coverage and/or reimbursement decisions prior to FDA approval, 
+clearance, or licensure of unapproved products and may also inform coverage and/or
+reimbursement decisions for new uses of approved/cleared/licensed products. This section 
+provides answers to frequently asked questions on this topic.
+Q.C.1. What are the types of information covered in this section of the guidance, and 
+what is FDA’s approach with respect to firms that wish to provide such 
+information prior to FDA approval, clearance, or licensure of an unapproved
+product or to provide such information about an unapproved use of an 
+approved/cleared/licensed product? 
+A.C.1. When the following types of information about unapproved products (as defined 
+in this guidance) or unapproved uses of approved/cleared/licensed products
+provided by firms to payors are unbiased, factual, accurate, and non-misleading,
+and are presented with information discussed in Q.C.2/A.C.2, FDA does not 
+intend to object under 21 CFR 312.7(a) or 21 CFR 812.7(a) to such 
+communications, nor to use such communications as evidence of a new intended 
+use.57 FDA also does not intend to enforce any applicable postmarketing 
+submission requirements for these materials.
+58
+• Product information (e.g., drug class, device description and features).
+ 56 The draft version of this guidance contained recommendations for communications by firms to payors regarding 
+drugs and devices that are not yet approved or cleared for any use (referred to in the draft guidance as investigational 
+drugs and devices). FDA received many comments requesting that the Agency also provide recommendations for
+communications by firms to payors regarding unapproved uses of approved/cleared products. After consideration of 
+these comments, FDA has included recommendations for such communications in this guidance.
+57 With respect to unsolicited requests by payors to firms, this guidance is not intended to supersede FDA’s draft 
+guidance for industry Responding to Unsolicited Requests for Off-Label Information About Prescription Drugs and 
+Medical Devices. When final, this guidance will represent FDA’s current thinking on this topic.
+58 For example, see 21 CFR 314.81(b)(3)(i), 314.550, 314.640, 601.45, or 601.94.
+Contains Nonbinding Recommendations
+19
+• Information about the indication(s) sought, such as information from the 
+clinical study protocol(s) about endpoint(s) being studied and the patient 
+population under investigation (e.g., number of subjects enrolled, subject 
+enrollment criteria, subject demographics).
+• Anticipated timeline for possible FDA approval/clearance/licensure of the 
+product or of the new use.
+• Product pricing information.
+• Patient utilization projections (e.g., epidemiological data projection on 
+incidence and prevalence).
+• Product-related programs or services (e.g., patient support programs).
+• Factual presentations of results from studies, including clinical studies of 
+drugs or devices or bench tests that describe device performance (i.e., no 
+characterizations or conclusions should be made regarding the safety or 
+effectiveness of the unapproved product or the unapproved use). Below are 
+examples of appropriate, factual presentations contrasted with presentations 
+that inappropriately characterize or make conclusions regarding 
+safety/effectiveness. The examples illustrate just a few of the many ways 
+firms can appropriately present results from studies. Firms should also refer 
+to Q.C.2/A.C.2 for recommendations with respect to information they should 
+provide when communicating to payors about unapproved products or about 
+unapproved uses of approved/cleared/licensed products:
+− A firm intends to submit a marketing application for its product for the 
+management of severe pain. An appropriate communication by the firm
+to payors may include language such as “In a X-week randomized 
+controlled trial comparing PRODUCT to placebo, a statistically 
+significant improvement was observed on the primary endpoint of 
+reduction in mean pain scores from baseline” in conjunction with a graph
+and/or table summarizing the numerical study results. 
+ By contrast, it would not be appropriate for the firm’s communication 
+to contain language making characterizations or conclusions, such as 
+“PRODUCT allows health care providers to optimize pain relief” or 
+“PRODUCT has been demonstrated to provide potent pain relief.”
+− A firm recently completed a phase 3 trial evaluating its product, Drug X, 
+for the treatment of metastatic non-small cell lung cancer, and intends to 
+submit a marketing application for this use. An appropriate 
+communication by the firm to payors may include language such as “In a 
+randomized, multi-center trial of Drug X versus [active control] in 
+patients with metastatic non-small cell lung cancer, Drug X met its 
+Contains Nonbinding Recommendations
+20
+primary endpoint of improving progression-free survival compared to 
+[active control].”
+ By contrast, it would not be appropriate for the firm’s communication 
+to contain language making characterizations or conclusions, such as 
+“Drug X shows superior efficacy to [active control]” or “We expect 
+Drug X to be the drug of choice for non-small cell lung cancer.”
+Q.C.2. What other information should firms provide to payors when communicating 
+information about their unapproved products or about unapproved uses of 
+approved/cleared/licensed products?
+A.C.2. FDA recommends that firms provide the following information to payors when 
+communicating information about unapproved products or about unapproved uses 
+of approved/cleared/licensed products:
+• A clear statement that the product or use is not approved/cleared/licensed, and 
+that the safety or effectiveness of the product or use has not been established;
+• Information related to the stage of product development (e.g., the status of any 
+study(ies) in which a product/new use is being investigated and how it relates 
+to the overall product development plan, whether a marketing application for 
+the product or new use has been submitted to FDA or when such a submission 
+is planned); and
+• For communications that include factual presentations of results from studies,
+FDA recommends that firms describe material aspects of study design and 
+methodology and also disclose material limitations related to the study design, 
+methodology, and results. Firms should also ensure that results are not 
+selectively presented (e.g., both positive and negative or null findings should 
+be presented).
+In addition, for communications to payors about unapproved uses of 
+approved/cleared/licensed products, firms should provide:
+• A prominent statement disclosing the indication(s) for which FDA has 
+approved, cleared, or licensed the product and a copy of the most current 
+FDA-required labeling.
+FDA also suggests that firms provide follow-up information to payors if 
+previously communicated information becomes materially outdated as a result of
+significant changes or as a result of new information regarding the product (e.g., 
+failure to meet the primary effectiveness endpoint in the pivotal trial) or its review 
+status (e.g., an application is determined to not be ready for approval upon 
+completion of the review cycle, a study is placed on a clinical hold). 
+Contains Nonbinding Recommendations
+21
+Q.C.3. What types of information would be considered inappropriate to communicate 
+to payors about unapproved products or about unapproved uses of 
+approved/cleared/licensed products?
+A.C.3. Communications between firms and payors that represent that an unapproved 
+product is FDA-approved/cleared/licensed, or has otherwise been determined safe 
+or effective for the purpose(s) for which it is being studied would not be 
+appropriate. Similarly, communications between firms and payors that represent 
+that an unapproved use of an approved/cleared/licensed product is FDAapproved/cleared/licensed or that the product is safe or effective for the use(s) for 
+which it is being studied would not be appropriate. 
+Q.C.4. What additional considerations apply to communications to payors about 
+unapproved products and about unapproved uses of approved/cleared/licensed
+products?
+A.C.4. Firms’ communications regarding unapproved products and unapproved uses of 
+approved/cleared/licensed medical products raise a number of potentially 
+competing public health interests. FDA’s approach to implementation of its 
+authorities in this area seeks to balance these interests to best advance the public 
+health overall.
+Some firm communications regarding unapproved products or unapproved uses of 
+approved/cleared/licensed medical products may potentially undermine
+substantial government interests related to health and safety. These interests 
+include motivating the development of robust scientific data on safety and 
+efficacy; maintaining the premarket review process for safety and efficacy of each 
+intended use in order to prevent harm, to protect against fraud, misrepresentation, 
+and bias, and to develop appropriate instructions for use for medical products;
+protecting the integrity and reliability of promotional information regarding 
+medical product uses; and preventing the diversion of health care resources 
+toward ineffective treatments.
+FDA recognizes that there can be, in certain instances, tension between the public 
+health interests directly advanced by the premarket review requirements and other 
+important interests. For example, as discussed in section II of this guidance, FDA 
+recognizes that payors, in some situations, need to plan for and make coverage 
+and reimbursement decisions for medical products and uses far in advance of the 
+effective date of such decisions. As a result, FDA recognizes the value of payors 
+receiving unbiased, factual, accurate, and non-misleading information of the type 
+described in Q.C.1/A.C.1 about unapproved products and unapproved uses of 
+approved/cleared/licensed medical products in order to inform their decisionmaking. 
+FDA believes that the categories of information described in Q.C.1/A.C.1 are, on 
+the one hand, broad enough to encompass the information that payors may need to 
+Contains Nonbinding Recommendations
+22
+make informed coverage and reimbursement decisions and, on the other hand, 
+limited enough to maintain appropriate incentives for firms to conduct robust 
+studies to evaluate the safety and efficacy of unapproved products and 
+unapproved uses of approved/cleared/licensed medical products. In addition, if 
+firms follow the recommendations in Q.C.1/A.C.1 and provide unbiased, factual, 
+accurate, and non-misleading information, FDA believes that the risk that payors 
+will be misled is relatively low. Payors are a sophisticated audience with 
+established procedures to carefully consider the full range of relevant evidence 
+about new uses of medical products. Payors possess financial resources and 
+motivation to closely scrutinize information from firms. In making decisions on a 
+population basis, payors can draw on a range of expertise in multiple disciplines 
+that allows them to critically evaluate information presented to them by firms, 
+including an evaluation of the limitations and reliability of that information. 
+Thus, FDA believes the recommendations provided in this section of the guidance 
+appropriately balance the competing interests described above for firms’
+communications with payor audiences about unapproved products and 
+unapproved uses of approved/cleared/licensed products. Firms’ communications 
+to other audiences about unapproved products or unapproved uses of
+approved/cleared/licensed products could raise additional or different 
+considerations and are beyond the scope of this guidance.59 
+IV. PAPERWORK REDUCTION ACT OF 1995
+This guidance contains information collection provisions that are subject to review by the Office 
+of Management and Budget (OMB) under the Paperwork Reduction Act of 1995 (44 U.S.C. 
+3501-3520). Specifically, the guidance contains recommendations for information that should be 
+included when HCEI about approved prescription drugs and about approved or cleared devices is 
+disseminated to payors. FDA also recommends that certain information be included in firms’
+communications with payors about unapproved products and about unapproved uses of 
+approved/cleared products.
+FDA estimates that it will take firms approximately 20 hours to compile and draft the 
+information that this guidance recommends should be included when disseminating HCEI for 
+ 59 The Agency has issued other guidance documents that could apply to firms’ communications to other audiences. 
+For example, FDA has issued a draft guidance for industry describing its thinking on how firms can respond to 
+unsolicited requests for unapproved use information related to their FDA-approved prescription drugs and FDAapproved or cleared medical devices. See FDA’s draft guidance for industry Responding to Unsolicited Requests for 
+Off-Label Information About Prescription Drugs and Medical Devices. In addition, FDA has provided separate 
+guidances describing recommended practices for the dissemination by firms of scientific and medical publications 
+discussing unapproved uses of approved drugs or approved or cleared medical devices. See FDA’s guidance for 
+industry Good Reprint Practices for the Distribution of Medical Journal Articles and Medical or Scientific 
+Reference Publications on Unapproved New Uses of Approved Drugs and Approved or Cleared Medical Devices, 
+and FDA’s revised draft guidance Distributing Scientific and Medical Publications on Unapproved New Uses –
+Recommended Practices. 
+Contains Nonbinding Recommendations
+23
+approved prescription drugs and approved/cleared devices. FDA estimates it will take firms 
+approximately 30 minutes to compile and draft the information that this guidance recommends 
+should be provided with communications to payors about unapproved products or unapproved 
+uses of approved/cleared products, and that it will take about 2 hours for firms to compile and 
+provide communications of follow-up information regarding previously communicated 
+information to payors about their unapproved products or unapproved uses of approved/cleared 
+products. Send comments regarding this burden estimate or suggestions for reducing this burden 
+to:
+FDA PRA Staff
+Office of Operations
+Food and Drug Administration
+Three White Flint North
+11601 Landsdown Street, 10A-12M
+North Bethesda, MD 20852
+This guidance also refers to previously approved collections of information found in FDA 
+regulations. The collections of information in 21 CFR 314.81(b)(3)(i) (Form FDA 2253) have 
+been approved under OMB control number 0910-0001.
+An Agency may not conduct or sponsor, and a person is not required to respond to, a collection 
+of information unless it displays a currently valid OMB control number. The OMB control 
+number for this information collection is 0910-0857 (expires 08/31/2021). (Note: OMB control 
+number and expiration date added 11/02/2018.)

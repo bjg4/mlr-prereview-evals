@@ -1,0 +1,28 @@
+{
+"id": "UL-20250909-188723",
+"piece_type": "DTC TV ad “KSM DTC My Time My Way :60 TVC Campaign Expansion 11-24” (FA-11225957)",
+"audience": "DTC",
+"company": "Novartis Pharmaceuticals Corporation",
+"regs_in_letter": "FD&C Act (no CFR section cited in letter text)",
+"status": "processed",
+"cases": [
+{
+"cat": "Misleading administration / storage / handling presentation",
+"claim": "VO: “When ready, I take it at home in one minute a month.” | SUPER: “Treatment TIME Take it at home 1 MINUTE A MONTH.”",
+"context": "IFU has many detailed steps; PI: first injection under guidance of an HCP. Small SUPER: “…Typical administration time when ready to inject”.",
+"rationale": "Oversimplifies administration and omits first-dose HCP supervision.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Judge: convenience/time claims vs IFU complexity and PI D&A requirements (e.g., first dose supervised)."
+},
+{
+"cat": "Distracting presentation during risk/major statement (TV)",
+"claim": "[Visual] zooming effect under woman doing yoga and toward the teacher; through a train tunnel toward father and child; microphone moving toward Jamie Lynn Sigler; Jamie Lynn Sigler scoring the winning shot at air hockey — during the major statement",
+"context": "DTC TV major statement.",
+"rationale": "Interferes with comprehension.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Storyboard check: flag zoom effects and climactic moments during major statement."
+}
+]
+}

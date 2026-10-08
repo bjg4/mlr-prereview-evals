@@ -1,0 +1,29 @@
+# Margin MLR pre-review bot: configuration. Paths are relative to the repo root. No secrets in this file.
+judge:
+  backend: openrouter                      # openrouter | xai
+  model: anthropic/claude-haiku-5.5        # pin a model; leave empty to auto-select (free first, then cheap paid)
+  api_key_file: ~/.config/openrouter/api_key   # read at runtime only; or set OPENROUTER_API_KEY in the environment
+  temperature: 0
+  max_tokens: 3000
+  workers: 8
+budget:
+  phase_cap_usd: 3.00                      # hard stop for any single run of the loop or judge
+paths:
+  cases: evals/opdp_cases.jsonl
+  controls: evals/controls.jsonl
+  near_miss_src: evals/near_miss_src.py
+  rules_dir: rules
+  pieces_dir: pieces
+  results_dir: judge/results
+  splits: evals/splits.json
+  ledger: evals/ledger.jsonl
+  scoreboard_dir: evals/scoreboard
+  loop_dir: loop
+split:
+  seed: 20261008
+  holdout_fraction: 0.28
+loop:
+  # acceptance rule (see docs/HOW-IT-WORKS.md#acceptance-rule)
+  primary_metric: judge_balanced_accuracy
+  min_slice_n: 4
+  noise_floor_items: 1                     # a regression smaller than max(1 item, 1 standard error) counts as noise

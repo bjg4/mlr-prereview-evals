@@ -1,0 +1,37 @@
+{
+"id": "UL-20250909-188706",
+"piece_type": "DTC TV ad “Scratch Resistance” (US-NAD-2400082 (v0.8))",
+"audience": "DTC",
+"company": "Galderma Laboratories, L.P.",
+"regs_in_letter": "FD&C Act (no CFR section cited in letter text)",
+"status": "processed",
+"cases": [
+{
+"cat": "Broadening of indication / omission of material indication information",
+"claim": "VO: “…when moderate-to-severe eczema is uncontrolled despite treatment...” | SUPER: “...NEMLUVIO can be used with certain prescription topicals.” | VO: “So when eczema is out-of-hand show it who’s boss with Nemluvio, Nemluvio”",
+"context": "PI: indicated in combination with topical corticosteroids and/or calcineurin inhibitors; efficacy based on concomitant use.",
+"rationale": "Suggests use/efficacy as a single agent.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "deterministic",
+"check": "Rule: if PI indication says 'in combination with', promo must state combination use (not 'can be used with')."
+},
+{
+"cat": "Misleading presentation of study data (post hoc / exploratory)",
+"claim": "VO: “Get itch relief fast, as soon as 48 hours.” | Graphic: “ITCH RELIEF as soon as 48 HRS” | SUPER: “…In a follow-up analysis, results were observed as soon as 48 hours…” | “Get over your itch fast…”",
+"context": "Key secondary: PP-NRS ≥4 at Week 16 (33% vs 15%, 36% vs 15%). Daily PP-NRS was post hoc, descriptive, no alpha.",
+"rationale": "Onset conclusions from post hoc analysis are misleading.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "deterministic",
+"check": "Rule: flag 'as soon as X hours/days' onset claims whose source is post hoc/follow-up analysis."
+},
+{
+"cat": "Overstatement of efficacy",
+"claim": "VO: “…and get clear skin that lasts.” | GRAPHIC: “CLEAR SKIN that lasts” | SUPER: “…At 16 and 48 weeks, many on NEMLUVIO saw clear or almost clear skin…” | “and get skin clearance that lasts.”",
+"context": "IGA success Week 16: 36%/38% vs 25%/26%; 48-week data only in Week-16 responder subset.",
+"rationale": "Implies patients will get clear skin and maintain it; <50% responded and maintenance data apply to a limited subset.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "deterministic",
+"check": "Rule: flag 'get clear skin'/'many' when PI responder rate <50%; flag maintenance claims from randomized-withdrawal responder subsets without that qualifier."
+}
+]
+}

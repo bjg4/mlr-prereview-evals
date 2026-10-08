@@ -1,0 +1,19 @@
+{
+"id": "UL-20250909-188689",
+"piece_type": "DTC print ad (PP-AUV-US-2400051)",
+"audience": "DTC",
+"company": "Axsome Therapeutics, Inc.",
+"regs_in_letter": "FD&C Act (no CFR section cited in letter text)",
+"status": "processed",
+"cases": [
+{
+"cat": "Misleading presentation of study data (post hoc subscale)",
+"claim": "“Do you ever feel a bit “meh”?” | “~75% of people with depression may experience lingering effects of anhedonia, even on treatment” | “People taking Auvelity experienced a greater reduction in their anhedonia scores over 6 weeks vs placebo” | “More people taking AUVELITY achieved a 50% or greater improvement in their anhedonia scores over 6 weeks vs placebo”",
+"context": "Image of smiling woman. Post hoc 5-item MADRS 'anhedonia rating sub-scale' (not validated, no type 1 error control). Disclaimer: “...the results could have occurred at random because the review of anhedonia data was not planned at the start of the study”.",
+"rationale": "Implies a specific anhedonia benefit not demonstrated; post hoc unvalidated subscale; disclaimer does not cure.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "deterministic",
+"check": "Rule: flag symptom-domain claims derived from post hoc subscales of the primary instrument; flag 'not planned'/'could have occurred at random' disclaimers as a signal of an unsupported claim."
+}
+]
+}

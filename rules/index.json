@@ -1,0 +1,856 @@
+{
+ "families": {
+  "a_statute_regs": "Statute & core regulations (FD&C 502, 21 CFR 202.1, 201.57, 314.81)",
+  "b_fda_guidance": "FDA guidances & DTC TV/radio final rule",
+  "c_ftc": "FTC endorsement & health-claims guidance",
+  "d_oig_cia": "OIG speaker-program alert & CIA promotional controls",
+  "e_phrma": "PhRMA DTC Guiding Principles & PhRMA Code"
+ },
+ "sources": {
+  "21CFR202.1": {
+   "document": "21 CFR 202.1 Prescription-drug advertisements (eCFR current; read via LII)",
+   "url": "https://www.law.cornell.edu/cfr/text/21/202.1",
+   "status": "regulation",
+   "archived_text": "law_cornell_edu_cfr_text_21_202_1.txt"
+  },
+  "FDCA502": {
+   "document": "FD&C Act section 502, 21 U.S.C. 352 (Misbranded drugs and devices)",
+   "url": "https://www.law.cornell.edu/uscode/text/21/352",
+   "status": "statute",
+   "archived_text": "law_cornell_edu_uscode_text_21_352.txt"
+  },
+  "21CFR201.57": {
+   "document": "21 CFR 201.57 Specific requirements on content and format of labeling (PLR)",
+   "url": "https://www.law.cornell.edu/cfr/text/21/201.57",
+   "status": "regulation",
+   "archived_text": "law_cornell_edu_cfr_text_21_201_57.txt"
+  },
+  "21CFR314.81": {
+   "document": "21 CFR 314.81(b)(3)(i) (Form FDA 2253 at time of initial dissemination) - section as cited in the OPDP letters; regulation text not fetched in this pass",
+   "url": "https://www.law.cornell.edu/cfr/text/21/314.81",
+   "status": "regulation",
+   "archived_text": null
+  },
+  "PN2017": {
+   "document": "FDA Guidance: Product Name Placement, Size, and Prominence in Promotional Labeling and Advertisements (final, Dec 2017)",
+   "url": "https://www.fda.gov/media/87202/download",
+   "status": "final guidance",
+   "archived_text": "fda_gov_media_87202_download.txt"
+  },
+  "QE2023": {
+   "document": "FDA Guidance: Presenting Quantitative Efficacy and Risk Information in DTC Promotional Labeling and Advertisements (final; FR notice 88 FR 41966, Jun 28 2023)",
+   "url": "https://www.fda.gov/media/169803/download",
+   "status": "final guidance",
+   "archived_text": "fda_gov_media_169803_download.txt"
+  },
+  "CFL2018": {
+   "document": "FDA Guidance: Medical Product Communications That Are Consistent With the FDA-Required Labeling - Questions and Answers (final, Jun 2018)",
+   "url": "https://www.fda.gov/media/133619/download",
+   "status": "final guidance",
+   "archived_text": "fda_gov_media_133619_download.txt"
+  },
+  "BS2015": {
+   "document": "FDA Draft Guidance: Brief Summary and Adequate Directions for Use: Disclosing Risk Information in Consumer-Directed Print Advertisements and Promotional Labeling (revised draft, Aug 2015)",
+   "url": "https://www.fda.gov/media/70768/download",
+   "status": "draft guidance (not for implementation)",
+   "archived_text": null
+  },
+  "SM2014": {
+   "document": "FDA Draft Guidance: Internet/Social Media Platforms with Character Space Limitations - Presenting Risk and Benefit Information (draft, Jun 2014)",
+   "url": "https://www.fda.gov/media/88551/download",
+   "status": "draft guidance (not for implementation)",
+   "archived_text": "fda_gov_media_88551_download.txt"
+  },
+  "MI2014": {
+   "document": "FDA Draft Guidance: Internet/Social Media Platforms: Correcting Independent Third-Party Misinformation (draft, Jun 2014; FDA has since issued a revised draft 'Addressing Misinformation About Medical Devices and Prescription Drugs: Q&A' that replaces it - revised text not fetched in this pass)",
+   "url": "https://www.fda.gov/media/88545/download",
+   "status": "draft guidance (superseded by revised draft)",
+   "archived_text": "fda_gov_media_88545_download.txt"
+  },
+  "PAY2018": {
+   "document": "FDA Guidance: Drug and Device Manufacturer Communications With Payors, Formulary Committees, and Similar Entities - Q&A (final, Jun 2018; FDA guidance page lists a June 2026 draft revision, not fetched in this pass)",
+   "url": "https://www.fda.gov/media/102683/download",
+   "status": "final guidance",
+   "archived_text": "fda_gov_media_102683_download.txt"
+  },
+  "CCN2023": {
+   "document": "FDA Final Rule: DTC Prescription Drug Advertisements: Presentation of the Major Statement in a Clear, Conspicuous, and Neutral Manner in TV and Radio Format (88 FR 80958, Nov 21 2023; compliance date Nov 20 2024), codified at 21 CFR 202.1(e)(1)(ii)",
+   "url": "https://www.federalregister.gov/documents/2023/11/21/2023-25428/direct-to-consumer-prescription-drug-advertisements-presentation-of-the-major-statement-in-a-clear",
+   "status": "regulation",
+   "archived_text": "law_cornell_edu_cfr_text_21_202_1.txt"
+  },
+  "SIUU2025": {
+   "document": "FDA Guidance: Communications From Firms to Health Care Providers Regarding Scientific Information on Unapproved Uses of Approved/Cleared Medical Products: Q&A (final, Jan 2025)",
+   "url": "https://www.fda.gov/media/184871/download",
+   "status": "final guidance",
+   "archived_text": "fda_gov_media_184871_download.txt"
+  },
+  "FTC255": {
+   "document": "FTC Guides Concerning Use of Endorsements and Testimonials in Advertising, 16 CFR Part 255",
+   "url": "https://www.law.cornell.edu/cfr/text/16/part-255",
+   "status": "FTC guides (interpretive)",
+   "archived_text": "law_cornell_edu_cfr_text_16_255_5.txt"
+  },
+  "FTCHPCG": {
+   "document": "FTC Health Products Compliance Guidance (Dec 2022)",
+   "url": "https://www.ftc.gov/system/files/ftc_gov/pdf/Health-Products-Compliance-Guidance.pdf",
+   "status": "FTC staff guidance",
+   "archived_text": "ftc_gov_system_files_ftc_gov_pdf_Health_Products_Compliance_Guidance_pdf.txt"
+  },
+  "OIGSFA2020": {
+   "document": "HHS-OIG Special Fraud Alert: Speaker Programs (Nov 2020)",
+   "url": "https://oig.hhs.gov/documents/special-fraud-alerts/865/SpecialFraudAlertSpeakerPrograms.pdf",
+   "status": "OIG fraud alert",
+   "archived_text": "oig_hhs_gov_documents_special_fraud_alerts_865_SpecialFraudAlertSpeakerPrograms_pdf.txt"
+  },
+  "CIA-NVS2020": {
+   "document": "Corporate Integrity Agreement between HHS-OIG and Novartis Pharmaceuticals Corporation (Jun 30 2020) - used as a representative pharma CIA",
+   "url": "https://oig.hhs.gov/documents/cias/11122/Novartis_Corporation_06302020.pdf",
+   "status": "CIA (binding on that company only; typical of pharma CIAs)",
+   "archived_text": "oig_hhs_gov_documents_cias_11122_Novartis_Corporation_06302020_pdf.txt"
+  },
+  "PHRMA-DTC": {
+   "document": "PhRMA Guiding Principles: Direct to Consumer Advertisements About Prescription Medicines (revised Oct 2018, effective Apr 15 2019)",
+   "url": "https://cdn.aglty.io/phrma/global/resources/PhRMA_Guiding_Principles_2018.pdf",
+   "status": "voluntary industry code",
+   "archived_text": "cdn_aglty_io_phrma_global_resources_PhRMA_Guiding_Principles_2018_pdf.txt"
+  },
+  "PHRMA-CODE": {
+   "document": "PhRMA Code on Interactions with Health Care Professionals (2022 revision)",
+   "url": "https://cdn.aglty.io/phrma/global/resources/PhRMA%20Code%20-%20Final.pdf",
+   "status": "voluntary industry code",
+   "archived_text": "cdn_aglty_io_phrma_global_resources_PhRMA_20Code_20_20Final_pdf.txt"
+  }
+ },
+ "rules": [
+  {
+   "id": "A-502A-01",
+   "family": "a",
+   "check_type": "judgment",
+   "severity": "high",
+   "check_fn": null,
+   "n_opdp_cases": 0,
+   "quote_check": "verified"
+  },
+  {
+   "id": "A-502N-01",
+   "family": "a",
+   "check_type": "deterministic",
+   "severity": "high",
+   "check_fn": "established_name",
+   "n_opdp_cases": 1,
+   "quote_check": "verified"
+  },
+  {
+   "id": "A-502N-02",
+   "family": "a",
+   "check_type": "deterministic",
+   "severity": "medium",
+   "check_fn": "medwatch_statement",
+   "n_opdp_cases": 0,
+   "quote_check": "verified"
+  },
+  {
+   "id": "A-202-E1-01",
+   "family": "a",
+   "check_type": "deterministic",
+   "severity": "high",
+   "check_fn": "adequate_provision",
+   "n_opdp_cases": 1,
+   "quote_check": "verified"
+  },
+  {
+   "id": "A-202-E1-02",
+   "family": "a",
+   "check_type": "deterministic",
+   "severity": "high",
+   "check_fn": "risk_coverage",
+   "n_opdp_cases": 26,
+   "quote_check": "verified"
+  },
+  {
+   "id": "A-202-E2-01",
+   "family": "a",
+   "check_type": "deterministic",
+   "severity": "high",
+   "check_fn": "reminder_ad",
+   "n_opdp_cases": 1,
+   "quote_check": "verified"
+  },
+  {
+   "id": "A-202-E5-01",
+   "family": "a",
+   "check_type": "judgment",
+   "severity": "high",
+   "check_fn": null,
+   "n_opdp_cases": 30,
+   "quote_check": "verified"
+  },
+  {
+   "id": "A-202-E5-02",
+   "family": "a",
+   "check_type": "deterministic",
+   "severity": "high",
+   "check_fn": "risk_present",
+   "n_opdp_cases": 30,
+   "quote_check": "verified"
+  },
+  {
+   "id": "A-202-E5-03",
+   "family": "a",
+   "check_type": "deterministic",
+   "severity": "high",
+   "check_fn": "risk_coverage",
+   "n_opdp_cases": 37,
+   "quote_check": "verified"
+  },
+  {
+   "id": "A-202-E5-01D",
+   "family": "a",
+   "check_type": "deterministic",
+   "severity": "high",
+   "check_fn": "efficacy_absolutes",
+   "n_opdp_cases": 11,
+   "quote_check": "verified"
+  },
+  {
+   "id": "A-202-E5-01X",
+   "family": "a",
+   "check_type": "deterministic",
+   "severity": "medium",
+   "check_fn": "exclusivity_claim",
+   "n_opdp_cases": 10,
+   "quote_check": "no_quote"
+  },
+  {
+   "id": "B-CFL-03D",
+   "family": "b",
+   "check_type": "deterministic",
+   "severity": "medium",
+   "check_fn": "qol_claim",
+   "n_opdp_cases": 2,
+   "quote_check": "verified"
+  },
+  {
+   "id": "A-202-E6-01",
+   "family": "a",
+   "check_type": "deterministic",
+   "severity": "high",
+   "check_fn": "indication_qualifiers",
+   "n_opdp_cases": 20,
+   "quote_check": "verified"
+  },
+  {
+   "id": "A-202-E6-01J",
+   "family": "a",
+   "check_type": "judgment",
+   "severity": "high",
+   "check_fn": null,
+   "n_opdp_cases": 4,
+   "quote_check": "verified"
+  },
+  {
+   "id": "A-202-E6-02",
+   "family": "a",
+   "check_type": "deterministic",
+   "severity": "high",
+   "check_fn": "comparative_claim",
+   "n_opdp_cases": 15,
+   "quote_check": "verified"
+  },
+  {
+   "id": "A-202-E6-04",
+   "family": "a",
+   "check_type": "deterministic",
+   "severity": "high",
+   "check_fn": "minimization_lexicon",
+   "n_opdp_cases": 12,
+   "quote_check": "verified"
+  },
+  {
+   "id": "A-202-E6-04J",
+   "family": "a",
+   "check_type": "judgment",
+   "severity": "high",
+   "check_fn": null,
+   "n_opdp_cases": 15,
+   "quote_check": "verified"
+  },
+  {
+   "id": "A-202-E6-07",
+   "family": "a",
+   "check_type": "deterministic",
+   "severity": "medium",
+   "check_fn": "nonclinical_data",
+   "n_opdp_cases": 1,
+   "quote_check": "verified"
+  },
+  {
+   "id": "A-202-E6-09",
+   "family": "a",
+   "check_type": "deterministic",
+   "severity": "medium",
+   "check_fn": "guideline_citation",
+   "n_opdp_cases": 1,
+   "quote_check": "verified"
+  },
+  {
+   "id": "A-202-E6-16",
+   "family": "a",
+   "check_type": "deterministic",
+   "severity": "medium",
+   "check_fn": "not_a_class",
+   "n_opdp_cases": 1,
+   "quote_check": "verified"
+  },
+  {
+   "id": "A-202-E6-18",
+   "family": "a",
+   "check_type": "judgment",
+   "severity": "high",
+   "check_fn": null,
+   "n_opdp_cases": 14,
+   "quote_check": "verified"
+  },
+  {
+   "id": "A-202-E7-01",
+   "family": "a",
+   "check_type": "deterministic",
+   "severity": "high",
+   "check_fn": "single_arm_endpoints",
+   "n_opdp_cases": 17,
+   "quote_check": "verified"
+  },
+  {
+   "id": "A-202-E7-02",
+   "family": "a",
+   "check_type": "deterministic",
+   "severity": "medium",
+   "check_fn": "pvalue_exploratory",
+   "n_opdp_cases": 2,
+   "quote_check": "verified"
+  },
+  {
+   "id": "A-202-E7-03",
+   "family": "a",
+   "check_type": "deterministic",
+   "severity": "high",
+   "check_fn": "posthoc_language",
+   "n_opdp_cases": 12,
+   "quote_check": "verified"
+  },
+  {
+   "id": "A-202-E7-08",
+   "family": "a",
+   "check_type": "judgment",
+   "severity": "high",
+   "check_fn": null,
+   "n_opdp_cases": 17,
+   "quote_check": "verified"
+  },
+  {
+   "id": "A-202-E7-08D",
+   "family": "a",
+   "check_type": "deterministic",
+   "severity": "medium",
+   "check_fn": "risk_after_close",
+   "n_opdp_cases": 7,
+   "quote_check": "verified"
+  },
+  {
+   "id": "A-202-E7-08M",
+   "family": "a",
+   "check_type": "deterministic",
+   "severity": "medium",
+   "check_fn": "risk_modality_airtime",
+   "n_opdp_cases": 4,
+   "quote_check": "no_quote"
+  },
+  {
+   "id": "A-201-57-01",
+   "family": "a",
+   "check_type": "deterministic",
+   "severity": "high",
+   "check_fn": "indication_qualifiers",
+   "n_opdp_cases": 8,
+   "quote_check": "verified"
+  },
+  {
+   "id": "A-314-81-01",
+   "family": "a",
+   "check_type": "deterministic",
+   "severity": "high",
+   "check_fn": "form_2253",
+   "n_opdp_cases": 10,
+   "quote_check": "no_quote"
+  },
+  {
+   "id": "A-202-E4-01",
+   "family": "a",
+   "check_type": "deterministic",
+   "severity": "high",
+   "check_fn": "investigational_disclosure",
+   "n_opdp_cases": 2,
+   "quote_check": "verified"
+  },
+  {
+   "id": "A-202-E4-01J",
+   "family": "a",
+   "check_type": "judgment",
+   "severity": "high",
+   "check_fn": null,
+   "n_opdp_cases": 1,
+   "quote_check": "verified"
+  },
+  {
+   "id": "B-PN-01",
+   "family": "b",
+   "check_type": "deterministic",
+   "severity": "high",
+   "check_fn": "established_name",
+   "n_opdp_cases": 1,
+   "quote_check": "verified"
+  },
+  {
+   "id": "B-PN-02",
+   "family": "b",
+   "check_type": "deterministic",
+   "severity": "medium",
+   "check_fn": "established_name_size",
+   "n_opdp_cases": 0,
+   "quote_check": "verified"
+  },
+  {
+   "id": "B-PN-03",
+   "family": "b",
+   "check_type": "deterministic",
+   "severity": "high",
+   "check_fn": "established_name",
+   "n_opdp_cases": 1,
+   "quote_check": "verified"
+  },
+  {
+   "id": "B-QE-01",
+   "family": "b",
+   "check_type": "deterministic",
+   "severity": "medium",
+   "check_fn": "control_group_data",
+   "n_opdp_cases": 10,
+   "quote_check": "verified"
+  },
+  {
+   "id": "B-QE-02",
+   "family": "b",
+   "check_type": "deterministic",
+   "severity": "medium",
+   "check_fn": "relative_without_absolute",
+   "n_opdp_cases": 11,
+   "quote_check": "verified"
+  },
+  {
+   "id": "B-QE-03",
+   "family": "b",
+   "check_type": "judgment",
+   "severity": "medium",
+   "check_fn": null,
+   "n_opdp_cases": 22,
+   "quote_check": "no_quote"
+  },
+  {
+   "id": "B-CFL-01",
+   "family": "b",
+   "check_type": "judgment",
+   "severity": "high",
+   "check_fn": null,
+   "n_opdp_cases": 7,
+   "quote_check": "verified"
+  },
+  {
+   "id": "B-CFL-02",
+   "family": "b",
+   "check_type": "judgment",
+   "severity": "high",
+   "check_fn": null,
+   "n_opdp_cases": 0,
+   "quote_check": "verified"
+  },
+  {
+   "id": "B-CFL-03",
+   "family": "b",
+   "check_type": "judgment",
+   "severity": "high",
+   "check_fn": null,
+   "n_opdp_cases": 26,
+   "quote_check": "verified"
+  },
+  {
+   "id": "B-BS-01",
+   "family": "b",
+   "check_type": "deterministic",
+   "severity": "high",
+   "check_fn": "risk_coverage",
+   "n_opdp_cases": 4,
+   "quote_check": "not_checked (source text not archived; quote taken from FDA search excerpt)"
+  },
+  {
+   "id": "B-SM-01",
+   "family": "b",
+   "check_type": "deterministic",
+   "severity": "high",
+   "check_fn": "risk_present",
+   "n_opdp_cases": 11,
+   "quote_check": "verified"
+  },
+  {
+   "id": "B-SM-02",
+   "family": "b",
+   "check_type": "deterministic",
+   "severity": "high",
+   "check_fn": "risk_coverage",
+   "n_opdp_cases": 0,
+   "quote_check": "verified"
+  },
+  {
+   "id": "B-SM-03",
+   "family": "b",
+   "check_type": "deterministic",
+   "severity": "medium",
+   "check_fn": "risk_link",
+   "n_opdp_cases": 2,
+   "quote_check": "verified"
+  },
+  {
+   "id": "B-SM-04",
+   "family": "b",
+   "check_type": "deterministic",
+   "severity": "low",
+   "check_fn": "promotional_url",
+   "n_opdp_cases": 0,
+   "quote_check": "verified"
+  },
+  {
+   "id": "B-MI-01",
+   "family": "b",
+   "check_type": "deterministic",
+   "severity": "medium",
+   "check_fn": "misinformation_correction",
+   "n_opdp_cases": 0,
+   "quote_check": "verified"
+  },
+  {
+   "id": "B-PAY-01",
+   "family": "b",
+   "check_type": "deterministic",
+   "severity": "medium",
+   "check_fn": "hcei_disclosures",
+   "n_opdp_cases": 0,
+   "quote_check": "verified"
+  },
+  {
+   "id": "B-PAY-02",
+   "family": "b",
+   "check_type": "deterministic",
+   "severity": "medium",
+   "check_fn": "unapproved_disclosures",
+   "n_opdp_cases": 0,
+   "quote_check": "verified"
+  },
+  {
+   "id": "B-CCN-01",
+   "family": "b",
+   "check_type": "judgment",
+   "severity": "medium",
+   "check_fn": null,
+   "n_opdp_cases": 0,
+   "quote_check": "verified"
+  },
+  {
+   "id": "B-CCN-02",
+   "family": "b",
+   "check_type": "deterministic",
+   "severity": "medium",
+   "check_fn": "audio_pacing",
+   "n_opdp_cases": 0,
+   "quote_check": "verified"
+  },
+  {
+   "id": "B-CCN-03",
+   "family": "b",
+   "check_type": "deterministic",
+   "severity": "high",
+   "check_fn": "dual_modality",
+   "n_opdp_cases": 8,
+   "quote_check": "verified"
+  },
+  {
+   "id": "B-CCN-04",
+   "family": "b",
+   "check_type": "deterministic",
+   "severity": "medium",
+   "check_fn": "super_legibility",
+   "n_opdp_cases": 5,
+   "quote_check": "verified"
+  },
+  {
+   "id": "B-CCN-05",
+   "family": "b",
+   "check_type": "judgment",
+   "severity": "high",
+   "check_fn": null,
+   "n_opdp_cases": 37,
+   "quote_check": "verified"
+  },
+  {
+   "id": "B-CCN-05D",
+   "family": "b",
+   "check_type": "deterministic",
+   "severity": "medium",
+   "check_fn": "super_reading_speed",
+   "n_opdp_cases": 3,
+   "quote_check": "no_quote"
+  },
+  {
+   "id": "B-SIUU-01",
+   "family": "b",
+   "check_type": "deterministic",
+   "severity": "medium",
+   "check_fn": "siuu_disclosures",
+   "n_opdp_cases": 0,
+   "quote_check": "verified"
+  },
+  {
+   "id": "B-SIUU-02",
+   "family": "b",
+   "check_type": "judgment",
+   "severity": "medium",
+   "check_fn": null,
+   "n_opdp_cases": 0,
+   "quote_check": "verified"
+  },
+  {
+   "id": "C-END-01",
+   "family": "c",
+   "check_type": "deterministic",
+   "severity": "medium",
+   "check_fn": "endorser_user",
+   "n_opdp_cases": 6,
+   "quote_check": "verified"
+  },
+  {
+   "id": "C-END-02",
+   "family": "c",
+   "check_type": "deterministic",
+   "severity": "medium",
+   "check_fn": "testimonial_typicality",
+   "n_opdp_cases": 9,
+   "quote_check": "verified"
+  },
+  {
+   "id": "C-END-03",
+   "family": "c",
+   "check_type": "deterministic",
+   "severity": "medium",
+   "check_fn": "material_connection_disclosure",
+   "n_opdp_cases": 0,
+   "quote_check": "verified"
+  },
+  {
+   "id": "C-HP-01",
+   "family": "c",
+   "check_type": "judgment",
+   "severity": "high",
+   "check_fn": null,
+   "n_opdp_cases": 16,
+   "quote_check": "verified"
+  },
+  {
+   "id": "C-HP-02",
+   "family": "c",
+   "check_type": "judgment",
+   "severity": "medium",
+   "check_fn": null,
+   "n_opdp_cases": 7,
+   "quote_check": "verified"
+  },
+  {
+   "id": "C-HP-03",
+   "family": "c",
+   "check_type": "deterministic",
+   "severity": "medium",
+   "check_fn": "fda_approval_misuse",
+   "n_opdp_cases": 4,
+   "quote_check": "no_quote"
+  },
+  {
+   "id": "D-SP-01",
+   "family": "d",
+   "check_type": "deterministic",
+   "severity": "high",
+   "check_fn": "speaker_program_logistics",
+   "n_opdp_cases": 0,
+   "quote_check": "verified"
+  },
+  {
+   "id": "D-SP-02",
+   "family": "d",
+   "check_type": "deterministic",
+   "severity": "high",
+   "check_fn": "speaker_program_logistics",
+   "n_opdp_cases": 0,
+   "quote_check": "verified"
+  },
+  {
+   "id": "D-SP-03",
+   "family": "d",
+   "check_type": "deterministic",
+   "severity": "high",
+   "check_fn": "speaker_program_logistics",
+   "n_opdp_cases": 0,
+   "quote_check": "verified"
+  },
+  {
+   "id": "D-SP-04",
+   "family": "d",
+   "check_type": "deterministic",
+   "severity": "high",
+   "check_fn": "speaker_program_logistics",
+   "n_opdp_cases": 0,
+   "quote_check": "verified"
+  },
+  {
+   "id": "D-SP-05",
+   "family": "d",
+   "check_type": "judgment",
+   "severity": "medium",
+   "check_fn": null,
+   "n_opdp_cases": 0,
+   "quote_check": "verified"
+  },
+  {
+   "id": "D-CIA-01",
+   "family": "d",
+   "check_type": "deterministic",
+   "severity": "high",
+   "check_fn": "mlr_signoff",
+   "n_opdp_cases": 0,
+   "quote_check": "verified"
+  },
+  {
+   "id": "D-CIA-02",
+   "family": "d",
+   "check_type": "deterministic",
+   "severity": "low",
+   "check_fn": "speaker_program_logistics",
+   "n_opdp_cases": 0,
+   "quote_check": "no_quote"
+  },
+  {
+   "id": "E-DTC-02",
+   "family": "e",
+   "check_type": "judgment",
+   "severity": "high",
+   "check_fn": null,
+   "n_opdp_cases": 3,
+   "quote_check": "verified"
+  },
+  {
+   "id": "E-DTC-04",
+   "family": "e",
+   "check_type": "deterministic",
+   "severity": "low",
+   "check_fn": "rx_indicator",
+   "n_opdp_cases": 0,
+   "quote_check": "verified"
+  },
+  {
+   "id": "E-DTC-09",
+   "family": "e",
+   "check_type": "deterministic",
+   "severity": "medium",
+   "check_fn": "medwatch_statement",
+   "n_opdp_cases": 0,
+   "quote_check": "verified"
+  },
+  {
+   "id": "E-DTC-10",
+   "family": "e",
+   "check_type": "deterministic",
+   "severity": "low",
+   "check_fn": "actor_portrayal",
+   "n_opdp_cases": 0,
+   "quote_check": "verified"
+  },
+  {
+   "id": "E-DTC-11",
+   "family": "e",
+   "check_type": "deterministic",
+   "severity": "low",
+   "check_fn": "endorser_user",
+   "n_opdp_cases": 0,
+   "quote_check": "verified"
+  },
+  {
+   "id": "E-DTC-13",
+   "family": "e",
+   "check_type": "deterministic",
+   "severity": "medium",
+   "check_fn": "tv_indication_risk",
+   "n_opdp_cases": 1,
+   "quote_check": "verified"
+  },
+  {
+   "id": "E-DTC-14",
+   "family": "e",
+   "check_type": "judgment",
+   "severity": "high",
+   "check_fn": null,
+   "n_opdp_cases": 51,
+   "quote_check": "verified"
+  },
+  {
+   "id": "E-DTC-15",
+   "family": "e",
+   "check_type": "judgment",
+   "severity": "low",
+   "check_fn": null,
+   "n_opdp_cases": 17,
+   "quote_check": "verified"
+  },
+  {
+   "id": "E-DTC-16",
+   "family": "e",
+   "check_type": "deterministic",
+   "severity": "low",
+   "check_fn": "adult_audience",
+   "n_opdp_cases": 0,
+   "quote_check": "verified"
+  },
+  {
+   "id": "E-DTC-19",
+   "family": "e",
+   "check_type": "deterministic",
+   "severity": "low",
+   "check_fn": "cost_info",
+   "n_opdp_cases": 0,
+   "quote_check": "verified"
+  },
+  {
+   "id": "E-CODE-07",
+   "family": "e",
+   "check_type": "deterministic",
+   "severity": "medium",
+   "check_fn": "speaker_program_logistics",
+   "n_opdp_cases": 0,
+   "quote_check": "verified"
+  },
+  {
+   "id": "E-CODE-02",
+   "family": "e",
+   "check_type": "deterministic",
+   "severity": "low",
+   "check_fn": "speaker_program_logistics",
+   "n_opdp_cases": 0,
+   "quote_check": "no_quote"
+  }
+ ]
+}

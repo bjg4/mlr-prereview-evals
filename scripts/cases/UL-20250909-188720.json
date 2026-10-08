@@ -1,0 +1,19 @@
+{
+"id": "UL-20250909-188720",
+"piece_type": "DTC TV ad “As You Go Spot #2” (AUS-47112) (identified via FDA monitoring/surveillance)",
+"audience": "DTC",
+"company": "Teva Neuroscience Inc.",
+"regs_in_letter": "FD&C Act (no CFR section cited in letter text)",
+"status": "processed",
+"cases": [
+{
+"cat": "Overstatement of efficacy",
+"claim": "[Visual] Post-treatment, Dan smiles, fills a bright orange travel mug with steaming hot water and performs actions without any uncontrollable movements; mug carried in a perfectly steady manner (pre-treatment: hands shake filling a water bottle)",
+"context": "PI: AIMS change vs placebo approx. -1.9 (Study 1) and -1.4 (Study 2) from baseline ~9.4–10.1. SUPERs: “Individual results may vary.” and “In one study, patients taking AUSTEDO 36 mg saw a 33% movement improvement vs 14% for placebo at 12 weeks.”",
+"rationale": "Suggests near-complete resolution and constant hand steadiness; greater benefit than demonstrated.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "judgment",
+"check": "Judge: post-treatment imagery showing near-complete symptom resolution vs. modest PI effect size (e.g., AIMS -1.4 to -1.9 vs placebo); 'Individual results may vary' and % SUPERs don't cure."
+}
+]
+}

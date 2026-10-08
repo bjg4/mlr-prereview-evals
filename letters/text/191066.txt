@@ -1,0 +1,81 @@
+DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+
+Food and Drug Administration Silver Spring, MD 20993
+
+Jennifer Gerhart, PharmD 
+Regulatory Compliance Lead 
+Johnson & Johnson International, Inc. 
+800 Ridgeview Drive 
+Horsham, PA 19044 
+RE: BLA 761061 
+TREMFYA® (guselkumab) injection, for subcutaneous or intravenous use 
+MA 1242 
+Dear Dr. Gerhart: 
+The Office of Prescription Drug Promotion (OPDP) of the U.S. Food and Drug Administration 
+(FDA) has reviewed the promotional communication, a direct-to-consumer (DTC) television 
+advertisement (TV ad), titled “TREMFYA DTC UC TVC SubQ Endcard” (CP-486293) for 
+TREMFYA® (guselkumab) injection, for subcutaneous or intravenous use (Tremfya) 
+submitted by Janssen Biotech, Inc. (Janssen) under cover of Form FDA 2253. FDA has 
+determined that the TV ad is false or misleading. Thus, the TV ad misbrands Tremfya and 
+makes the distribution of the drug in violation of the Federal Food, Drug, and Cosmetic Act 
+(FD&C Act). 
+The TV ad includes the following claims at 0:13 (emphasis original): 
+• “Many people experienced remission at 1 and even 2 years” (AVO) 
+• “~1 out of 2 patients were in clinical remission at 1 year and at 2 years” (SUPER) 
+• “MANY PEOPLE EXPERIENCED REMISSION at 1 and even 2 years” (SUPER) These claims are misleading because they suggest that “many people” or “~1 out of 2 patients” treated with Tremfya will achieve clinical remission at one year and maintain their remission through two years, when this is not the case. According to the CLINICAL STUDIES section of the FDA-approved prescribing information (PI), of patients who received Tremfya 100 mg subcutaneous injection every eight weeks or Tremfya 200 mg subcutaneous injection every four weeks in the maintenance trial (UC2), 45% or 50%, respectively, achieved clinical remission at Week 44. However, UC2 evaluated the subset of patients who demonstrated clinical response after 12 weeks of treatment with intravenous Tremfya in the induction trial UC1 or the induction dose-finding study UC3. In UC1 and UC3, 62% and about 61% of patients who received Tremfya demonstrated clinical response at Week 12, respectively. Therefore, it is misleading to suggest that “many people” or “~1 out of 2 patients” treated with Tremfya will achieve clinical remission at one year when in fact, 38% and about 39% of patients in UC1 and UC3, respectively, did not respond to treatment at Week 12. Because it is misleading to suggest that “many people” or “~1 out of 2 patients” treated with Tremfya will achieve clinical remission at one year, it is further misleading to suggest that “many people” 
+
+Jennifer Gerhart, PharmD Page 2 
+Johnson & Johnson International, Inc. 
+BLA 761061/MA 1242 
+or “~1 out of 2 patients” will not only achieve remission at one year but also go on to maintain 
+their remission through two years. 
+Additionally, the claims of remission at “2 years” are made based on results from the 
+QUASAR long-term extension (LTE) study,1 which enrolled a subset of patients who were 
+randomized to receive Tremfya during the UC2 maintenance period. Therefore, these claims 
+are also misleading because they suggest that the findings at one year and the findings at 
+two years were in the same population when in fact, the findings at one year were in a subset 
+of the original population treated with Tremfya and the findings at two years were in a subset 
+of that subset, selected based on initial and continuing favorable response to treatment with 
+Tremfya. 
+The TV ad also includes the following claims (bolded emphasis original, underlined emphasis 
+added): 
+• “Some saw one hundred percent visible healing of their intestinal lining” (AVO, 0:18) 
+• “Some saw 100% VISIBLE HEALING of their intestinal lining” (SUPER, 0:18) 
+• “Healing is possible with Tremfya” (AVO, 0:34) 
+• “HEALING IS POSSIBLE with Tremfya® (guselkumab)” (SUPER, 0:34) These claims misleadingly overstate the efficacy of Tremfya by suggesting that Tremfya has been shown to have a curative effect in patients with moderately to severely active ulcerative colitis (e.g., by “healing”), when this is not the case. There is uncertainty about whether the drug effects on endoscopic endpoints will reliably predict the drug effects on long-term clinical outcomes; neither endoscopic response nor endoscopic remission guarantee a long-term curative effect or “healing” for these patients. We acknowledge the disclaimer, “Visually assessed areas may not represent remission of the entire colon lining. Individual results may vary.” However, the inclusion of this statement does not correct or mitigate the misleading suggestion regarding Tremfya treatment described above. The TV ad includes the claim, “1 out of 3 patients achieved endoscopic remission at one year” (SUPER, 0:18 and 0:34). This claim misleadingly overstates the efficacy of Tremfya by suggesting that a third of patients treated with Tremfya will achieve endoscopic remission at one year, when this is not the case. According to the CLINICAL STUDIES section of the PI, of patients who received Tremfya 100 mg subcutaneous injection every eight weeks or Tremfya 200 mg subcutaneous injection every four weeks in UC2, 35% or 34%, respectively, achieved endoscopic remission at Week 44. However, as noted above, UC2 evaluated patients who demonstrated clinical response after 12 weeks of treatment with intravenous Tremfya in the induction trial UC1 or the induction dose-finding study UC3. Therefore, it is misleading to suggest that a third of patients treated with Tremfya will achieve endoscopic remission at one year when in fact, 38% and about 39% of patients in UC 1 and UC3, respectively, did not respond to treatment at Week 12. The TV ad is also misleading because it includes claims and presentations about the uses and benefits of Tremfya but omits material risk information pertaining to the warning and 
+
+1 Lichtenstein GR, Allegretti JR, Rubin DT, et al. Efficacy and safety of guselkumab for ulcerative colitis through week 92 of the QUASAR long-term extension study. Poster presented at: Digestive Disease Week (DDW); San Diego, CA, United States; May 3-6, 2025,
+
+Jennifer Gerhart, PharmD Page 3 
+Johnson & Johnson International, Inc. 
+BLA 761061/MA 1242 
+
+precaution for infections. Specifically, the major statement does not communicate the following from the “What is the most important information I should know about TREMFYA?” section of the Medication Guide (in pertinent part; emphasis added):
+
+• “TREMFYA is a medicine that may lower the ability of your immune system to fight infections and may increase your risk of infections.” Conclusion and Requested Action For the reasons described above, the TV ad misbrands Tremfya and makes the distribution of the drug in violation of the FD&C Act. This letter notifies you of our concerns and provides you with an opportunity to address them. FDA requests that Janssen take immediate action to address any violations (including, for example, ceasing and desisting promotional communications that are misleading as described above). Please submit a written response to this letter within 15 working days from the date of receipt, addressing the concerns described in this letter, listing all promotional communications (with the 2253 submission date) for Tremfya that contain representations like those described above, and explaining your plan for the discontinuation of such communications, or for ceasing distribution of Tremfya. If you believe that your products are not in violation of the FD&C Act, please include in your submission to us your reasoning and any supporting information for our consideration within 15 working days from the date of receipt of this letter. The concerns discussed in this letter do not necessarily constitute an exhaustive list of potential violations. It is your responsibility to ensure compliance with each applicable requirement of the FD&C Act and FDA implementing regulations. Please direct your response to the Food and Drug Administration, Center for Drug Evaluation and Research, Office of Prescription Drug Promotion, 5901-B Ammendale Road, Beltsville, Maryland 20705-1266. A courtesy copy can be sent by facsimile to (301) 847-8444. Please refer to MA 1242 in addition to the BLA number in all future correspondence relating to this particular matter. All correspondence should include a subject line that clearly identifies the submission as a Response to Untitled Letter. You are encouraged, but not required, to submit your response in eCTD format. 
+
+Jennifer Gerhart, PharmD Page 4 
+Johnson & Johnson International, Inc. 
+BLA 761061/MA 1242 
+
+All correspondence submitted in response to this letter should be placed under eCTD Heading 1.15.1.6. Additionally, the response submission should be coded as an Amendment to eCTD Sequence 1150 under BLA 761061. Questions related to the submission of your response letter should be emailed to the OPDP RPM at CDER-OPDP-RPM@fda.hhs.gov.
+
+Sincerely, {See appended electronic signature page} Quynh-Nhu Capasso, PharmD Division of Advertising & Promotion Review 2 Office of Prescription Drug Promotion
+
+{See appended electronic signature page} Adewale Adeleye, PharmD, MBA Team Leader Division of Advertising & Promotion Review 2 Office of Prescription Drug Promotion
+
+--------------------------------------------------------------------------------------------
+
+This is a representation of an electronic record that was signed electronically. Following this are manifestations of any and all electronic signatures for this electronic record.
+
+-------------------------------------------------------------------------------------------- 
+/s/ 
+------------------------------------------------------------ 
+
+QUYNH-NHU D CAPASSO 02/06/2026 11:40:42 AM
+
+ADEWALE A ADELEYE 02/06/2026 12:19:09 PM
+
+Signature Page 1 of 1
+
+

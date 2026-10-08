@@ -1,0 +1,91 @@
+{
+ "phase": "phase3",
+ "total_usd": 2.15178,
+ "events": [
+  {
+   "at": "2026-10-08T07:12:10-07:00",
+   "usd": 0.00095,
+   "what": "judge round1-evaldata-E1-photofrin-rewrite: 3 new calls, 729 cached"
+  },
+  {
+   "at": "2026-10-08T07:15:06-07:00",
+   "usd": 0.10726,
+   "what": "deplaceholder rewrites"
+  },
+  {
+   "at": "2026-10-08T07:16:49-07:00",
+   "usd": 0.02692,
+   "what": "deplaceholder rewrites"
+  },
+  {
+   "at": "2026-10-08T07:21:25-07:00",
+   "usd": 0.17383,
+   "what": "judge round1-evaldata-E2-deplaceholder: 405 new calls, 327 cached"
+  },
+  {
+   "at": "2026-10-08T07:22:37-07:00",
+   "usd": 0.02512,
+   "what": "judge round1-evaldata-E3-near-miss-2: 96 new calls, 732 cached"
+  },
+  {
+   "at": "2026-10-08T07:26:58-07:00",
+   "usd": 0.17202,
+   "what": "judge round1-evaldata-E4-normalize-quotes: 413 new calls, 415 cached"
+  },
+  {
+   "at": "2026-10-08T07:29:45-07:00",
+   "usd": 0.01055,
+   "what": "triage round 1"
+  },
+  {
+   "at": "2026-10-08T07:29:52-07:00",
+   "usd": 0.00303,
+   "what": "judge round1-C1-reminder-boxed-warning: 8 new calls, 820 cached"
+  },
+  {
+   "at": "2026-10-08T07:33:36-07:00",
+   "usd": 0.0861,
+   "what": "judge round1-C2-pair-category-match: 204 new calls, 624 cached"
+  },
+  {
+   "at": "2026-10-08T07:41:04-07:00",
+   "usd": 0.31961,
+   "what": "judge round1-C3-tighten-soft-claims: 828 new calls, 0 cached"
+  },
+  {
+   "at": "2026-10-08T07:48:26-07:00",
+   "usd": 0.3112,
+   "what": "judge round1-C4-loosen-trigger-only: 828 new calls, 0 cached"
+  },
+  {
+   "at": "2026-10-08T07:51:25-07:00",
+   "usd": 0.01402,
+   "what": "triage round 2"
+  },
+  {
+   "at": "2026-10-08T07:51:34-07:00",
+   "usd": 0.00088,
+   "what": "proposal drafting round 2"
+  },
+  {
+   "at": "2026-10-08T07:53:46-07:00",
+   "usd": 0.08676,
+   "what": "judge round2-C4r-loosen-trigger-only-recheck: 204 new calls, 624 cached"
+  },
+  {
+   "at": "2026-10-08T08:01:31-07:00",
+   "usd": 0.32562,
+   "what": "judge round2-P2-judge-too_strict: 828 new calls, 0 cached"
+  },
+  {
+   "at": "2026-10-08T08:10:33-07:00",
+   "usd": 0.3577,
+   "what": "judge round2-P2-judge-too_lenient: 828 new calls, 0 cached"
+  },
+  {
+   "at": "2026-10-08T08:12:04-07:00",
+   "usd": 0.13021,
+   "what": "field pre-review 89 calls"
+  }
+ ]
+}

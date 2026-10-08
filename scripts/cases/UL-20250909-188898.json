@@ -1,0 +1,19 @@
+{
+"id": "UL-20250909-188898",
+"piece_type": "HCP branded website “Efficacy and Safety” webpage (ANK-00079-US-v4.0)",
+"audience": "HCP",
+"company": "Altor BioScience LLC (ImmunityBio, Inc. subsidiary)",
+"regs_in_letter": "FD&C Act (no CFR section cited in letter text)",
+"status": "processed",
+"cases": [
+{
+"cat": "Misleading presentation of study data (single-arm/uncontrolled)",
+"claim": "“% of Responders Who Were Cystectomy Free At 36 Months o 84%” | “Disease-Specific Overall Survival at 36 Months o 99%”",
+"context": "Approval based on CR and DoR in single-arm QUILT-3.032; Bad Ad complaint also received.",
+"rationale": "Cystectomy avoidance and DSS are time-to-event endpoints; uninterpretable without a comparator.",
+"reg": "FD&C Act (false or misleading)",
+"ct": "deterministic",
+"check": "Rule: flag PFS/OS/survival/time-to-event claims (incl. cystectomy-free, DSS) when the source trial is single-arm; disclaimers do not count as a fix."
+}
+]
+}

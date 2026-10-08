@@ -1,0 +1,6 @@
+baseline dev BA 0.7634 holdout BA 0.7843
+final dev BA 0.7634 holdout BA 0.7843 phase spend 0.0
+
+real	0m5.505s
+user	0m2.279s
+sys	0m0.998s
